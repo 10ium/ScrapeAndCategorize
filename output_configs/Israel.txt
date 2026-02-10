@@ -1,6 +1,4 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowOGU0MDkwYmM0NmZkOGE2@163.171.213.47:46281#IL%F0%9F%87%AE%F0%9F%87%B1+%7C+163.171.213.47-46281+%7C+145.98ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowOGU0MDkwYmM0NmZkOGE2@163.171.213.47:46282#IL%F0%9F%87%AE%F0%9F%87%B1+%7C+163.171.213.47-46282+%7C+135.75ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyZTVjNzVjMzVkN2VlOTI5@163.171.213.47:19702#IL%F0%9F%87%AE%F0%9F%87%B1+%7C+163.171.213.47-19702+%7C+136.28ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozMTdmMTNjNWMyZWJkZWEz@5.188.227.18:11202#IL%F0%9F%87%AE%F0%9F%87%B1+%7C+5.188.227.18-11202+%7C+140.42ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphYmU1OTVhZWI3YTZhMDM1@163.171.213.47:12025#IL%F0%9F%87%AE%F0%9F%87%B1+%7C+163.171.213.47-12025+%7C+138.5ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMTIxMzg1ZjcwMGE2OTE1@163.171.213.46:11201#IL%F0%9F%87%AE%F0%9F%87%B1+%7C+163.171.213.46-11201+%7C+146.05ms
+ss://0e8a6896-ad90-4a3b-89a3-77d64aa409e2@ilta-wzxrxkdhbjpnprhkkpplsjwawhssvollvxzdhqshiqckwdgrdm.orbnet.xyz:443?security=reality&encryption=none&pbk=YVDo7U4O-AT2fa5H9E7hyYHKgfZd1vB6UdbAf2ggWQE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=i2pd.website&sid=55e6af1a35e64a98#REALITY|IL🇮🇱
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozMTdmMTNjNWMyZWJkZWEz@5.188.227.18:11202#IL%F0%9F%87%AE%F0%9F%87%B1+%7C+5.188.227.18-11202+%7C+178.49ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMTIxMzg1ZjcwMGE2OTE1@163.171.213.46:11201#IL%F0%9F%87%AE%F0%9F%87%B1+%7C+163.171.213.46-11201+%7C+185.56ms
+vless://0e8a6896-ad90-4a3b-89a3-77d64aa409e2@ilta-wzxrxkdhbjpnprhkkpplsjwawhssvollvxzdhqshiqckwdgrdm.orbnet.xyz:443?security=reality&encryption=none&pbk=YVDo7U4O-AT2fa5H9E7hyYHKgfZd1vB6UdbAf2ggWQE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=i2pd.website&sid=55e6af1a35e64a98#REALITY|IL🇮🇱

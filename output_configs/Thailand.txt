@@ -1,5 +1,1 @@
-ss://242a12b1-5954-4aab-bb24-8faa4e5fbffb@ikonthailand.com:80?security=&type=ws&host=italyjji.global.ssl.fastly.net&encryption=none#@IVXChannel%20-%20Thailand%20%20%F0%9F%87%B9%F0%9F%87%AD
-ss://6fe32852-5f46-4090-8306-f5b419d6a469@ikonthailand.com:80?security=&type=ws&path=/containers/fi&host=kiram-to-harki-filter-kone.global.ssl.fastly.net&encryption=none#@IVXChannel%20-%20Thailand
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyTmE3NTNCY1V1UEJMOFl4WHg5Qng1YjRkZlZGdTQ1UWt6b3J3cVppelRsNkFmM04=@103.253.74.94:31348#TH%F0%9F%87%B9%F0%9F%87%AD+%7C+103.253.74.94-31348+%7C+230.21ms
-vless://242a12b1-5954-4aab-bb24-8faa4e5fbffb@ikonthailand.com:80?security=&type=ws&host=italyjji.global.ssl.fastly.net&encryption=none#@IVXChannel%20-%20Thailand%20%20%F0%9F%87%B9%F0%9F%87%AD
-vless://6fe32852-5f46-4090-8306-f5b419d6a469@ikonthailand.com:80?security=&type=ws&path=/containers/fi&host=kiram-to-harki-filter-kone.global.ssl.fastly.net&encryption=none#@IVXChannel%20-%20Thailand
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyTmE3NTNCY1V1UEJMOFl4WHg5Qng1YjRkZlZGdTQ1UWt6b3J3cVppelRsNkFmM04=@103.253.74.94:31348#TH%F0%9F%87%B9%F0%9F%87%AD+%7C+103.253.74.94-31348+%7C+199.02ms

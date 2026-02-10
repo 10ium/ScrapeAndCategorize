@@ -1,4 +1,3 @@
-ss://6b658401-1e6a-9904-2cca-997bc5198e2a@os2.ri9.ir:2657?security=&encryption=none&headerType=http&type=tcp#Tg%20ID%20%3A%20%40W0oqp
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3NDkxOGJjODAxZDUzYTRi@57.130.28.148:11201#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%AB%F0%9F%87
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3NDkxOGJjODAxZDUzYTRi@57.130.28.148:11201#Channel%20id%3A%20%40proxy_kafee%20%F0%9F%87%AB%F0%9F%87%B7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZjljYjlhZWYzMTdmMDk2@147.135.77.6:11201#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%BA%F0%9F%87
@@ -30,4 +29,5 @@ ss://YWVzLTEyOC1nY206OVlhNVE2eFhha281MUVGWnRPV0RYbWJFczRHanc5SVU@45.82.67.38:164
 ss://YWVzLTEyOC1nY206RjlmQmlDTlJnZUE4eUtCZHNQVklrc3NMSnpUUWZibjA@173.225.106.117:12484#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%BA%F0%9F%87
 ss://YWVzLTEyOC1nY206WkIxVkcwS0V6WDhBWmYyRG1MbzhGQUFpUkQ1UU1xbmY@45.82.67.252:16484#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%B3%F0%9F%87
 ss://YWVzLTEyOC1nY206dHdvRGlzd3FEc2p5V3ZuQWVuZjZEam1xRnZQTzUzelk@45.82.67.45:16487#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%B3%F0%9F%87
-vless://6b658401-1e6a-9904-2cca-997bc5198e2a@os2.ri9.ir:2657?security=&encryption=none&headerType=http&type=tcp#Tg%20ID%20%3A%20%40W0oqp
+ss://b5f89bf2-4144-4838-ad90-c085514dddc4@ton.fast-pro.ir:15504?security=none&encryption=none&headerType=none&type=tcp#TEL%20ID%20%40RAMIN_ASADY
+vless://b5f89bf2-4144-4838-ad90-c085514dddc4@ton.fast-pro.ir:15504?security=none&encryption=none&headerType=none&type=tcp#TEL%20ID%20%40RAMIN_ASADY
