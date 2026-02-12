@@ -1,9 +1,8 @@
 ss://146e8a2b-283d-4f06-86ec-0608e2478265@84.17.62.67:8443?security=reality&encryption=none&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=04bf0403f96e5b4b#REALITY|ES🇪🇸
-ss://3efaf347-1273-4a45-a8f5-aec8e90bf4bf@tunnyl.ru:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=JIEpMViq_q_8PBG4NYKXrSlaGeQMuahbAaa7Qrh3LX0&security=reality&sid=38cd424d5ba6441d&sni=google.com&type=tcp#REALITY|ES🇪🇸
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4RnBnTFhGcXpHRGt2STFjM0ZhaW1a@45.86.229.239:24894#ES%F0%9F%87%AA%F0%9F%87%B8+%7C+45.86.229.239-24894+%7C+95.64ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@37.143.130.203:990#%F0%9F%87%AA%F0%9F%87%B8ES-37.143.130.203-0319
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplVDNjeDRMdVlqNXBBb3JwOGM0eGVX@45.86.229.170:56019#ES%F0%9F%87%AA%F0%9F%87%B8+%7C+45.86.229.170-56019+%7C+97.39ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@45.154.206.192:990#ES%F0%9F%87%AA%F0%9F%87%B8+%7C+45.154.206.192-990+%7C+120.07ms
-ss://YWVzLTI1Ni1jZmI6RVhOM1MzZVFwakU3RUp1OA==@5.188.181.201:9027#%F0%9F%87%AA%F0%9F%87%B8ES-5.188.181.201-4691
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4RnBnTFhGcXpHRGt2STFjM0ZhaW1a@45.86.229.239:24894#ES%F0%9F%87%AA%F0%9F%87%B8+%7C+45.86.229.239-24894+%7C+131.87ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@37.143.130.203:990#%F0%9F%87%AA%F0%9F%87%B8ES-37.143.130.203-4643
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZSGFsRHZQMXo1UnJpVTZsNExuZ0tp@145.249.109.108:18740#🇪🇸ES%20%20ROSE—129🤯
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplVDNjeDRMdVlqNXBBb3JwOGM0eGVX@45.86.229.170:56019#ES%F0%9F%87%AA%F0%9F%87%B8+%7C+45.86.229.170-56019+%7C+134.14ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@45.154.206.192:990#ES%F0%9F%87%AA%F0%9F%87%B8+%7C+45.154.206.192-990+%7C+159.81ms
+ss://YWVzLTI1Ni1jZmI6R2VyZWdldFI4Y3ZRSHpZcg==@5.188.181.201:9030#%F0%9F%87%AA%F0%9F%87%B8ES-5.188.181.201-8177
 vless://146e8a2b-283d-4f06-86ec-0608e2478265@84.17.62.67:8443?security=reality&encryption=none&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=04bf0403f96e5b4b#REALITY|ES🇪🇸
-vless://3efaf347-1273-4a45-a8f5-aec8e90bf4bf@tunnyl.ru:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=JIEpMViq_q_8PBG4NYKXrSlaGeQMuahbAaa7Qrh3LX0&security=reality&sid=38cd424d5ba6441d&sni=google.com&type=tcp#REALITY|ES🇪🇸

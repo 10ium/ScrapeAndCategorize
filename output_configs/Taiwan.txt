@@ -1,1 +1,10 @@
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@154.223.20.79:989#%F0%9F%87%B9%F0%9F%87%BCTW-154.223.20.79-0283
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@154.223.20.79:989#%F0%9F%87%B9%F0%9F%87%BCTW-154.223.20.79-0302
+trojan://155bc127-485a-44b2-8e38-3fbf711a6e25@green2.cdntencentmusic.com:31101?sni=green2.cdntencentmusic.com&path=%2F#TW🇹🇼
+trojan://155bc127-485a-44b2-8e38-3fbf711a6e25@green2.cdntencentmusic.com:31103?sni=green2.cdntencentmusic.com&path=%2F#TW🇹🇼
+trojan://155bc127-485a-44b2-8e38-3fbf711a6e25@green2.cdntencentmusic.com:35501?sni=green2.cdntencentmusic.com&path=%2F#TW🇹🇼
+trojan://2c455b22-fde6-4fed-93da-56894a13a10c@green2.cdntencentmusic.com:35501?sni=green2.cdntencentmusic.com&path=%2F#TW🇹🇼
+trojan://33f64b81-358b-467f-bc9f-8780090c88de@green2.cdntencentmusic.com:31103?sni=green2.cdntencentmusic.com&path=%2F#TW🇹🇼
+trojan://33f64b81-358b-467f-bc9f-8780090c88de@green2.cdntencentmusic.com:35501?sni=green2.cdntencentmusic.com&path=%2F#TW🇹🇼
+trojan://4755e7eb-1d68-4808-ab81-18de1e602290@green2.cdntencentmusic.com:31103?sni=green2.cdntencentmusic.com&path=%2F#TW🇹🇼
+trojan://4bed2818-3e4e-4d44-b8fb-c4b71544673a@green2.cdntencentmusic.com:31103?sni=green2.cdntencentmusic.com&path=%2F#TW🇹🇼
+trojan://4df6304c-39f9-4cc2-9d64-e7cba3fc12e4@green2.cdntencentmusic.com:31101?sni=green2.cdntencentmusic.com&path=%2F#TW🇹🇼

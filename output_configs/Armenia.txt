@@ -1,0 +1,4 @@
+ss://8686a5af-9a50-47d8-a42a-4337fb932718@aria.gandopaneel.ir:750?mode=auto&path=%2F&security=none&encryption=none&type=xhttp#AM🇦🇲
+ss://f667a096-5231-4cfb-8759-92bb32473139@77.91.68.70:55983?type=tcp&encryption=none&flow=&sni=yahoo.com&security=reality&pbk=nWQ7b9l9X6N3PrXLgIzOvMM8iSYrqjVHEb9ikWxqYSg&sid=0e#REALITY|AM🇦🇲
+vless://8686a5af-9a50-47d8-a42a-4337fb932718@aria.gandopaneel.ir:750?mode=auto&path=%2F&security=none&encryption=none&type=xhttp#AM🇦🇲
+vless://f667a096-5231-4cfb-8759-92bb32473139@77.91.68.70:55983?type=tcp&encryption=none&flow=&sni=yahoo.com&security=reality&pbk=nWQ7b9l9X6N3PrXLgIzOvMM8iSYrqjVHEb9ikWxqYSg&sid=0e#REALITY|AM🇦🇲

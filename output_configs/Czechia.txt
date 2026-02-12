@@ -1,3 +1,1 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@195.181.160.6:990#CZ%F0%9F%87%A8%F0%9F%87%BF+%7C+195.181.160.6-990+%7C+118.9ms
-ss://ca211363-a013-40ad-99b4-7f0515dce05f@chz.izumii.ir:2014?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇨🇿%20CZ%20down
-vless://ca211363-a013-40ad-99b4-7f0515dce05f@chz.izumii.ir:2014?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇨🇿%20CZ%20down
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@195.181.160.6:990#CZ%F0%9F%87%A8%F0%9F%87%BF+%7C+195.181.160.6-990+%7C+154.24ms
