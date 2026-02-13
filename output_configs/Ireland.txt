@@ -1,2 +1,2 @@
-ss://57df620f-96b1-4f2b-a6ff-043ce11b6995@dublin.pryanik.net.ru:4443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=sun6-21.userapi.com&fp=chrome&security=reality&pbk=DLqBw8458S7vERpm_w4NMGz1kNp7b7uIjwCgStZERyo&sid=#REALITY|IE🇮🇪
-vless://57df620f-96b1-4f2b-a6ff-043ce11b6995@dublin.pryanik.net.ru:4443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=sun6-21.userapi.com&fp=chrome&security=reality&pbk=DLqBw8458S7vERpm_w4NMGz1kNp7b7uIjwCgStZERyo&sid=#REALITY|IE🇮🇪
+ss://d4d170e8-a931-4d6b-b98c-1674ed9ee145@31.57.56.202:443?type=grpc&encryption=none&flow=&serviceName=xyz&sni=moktana.digital&fp=chrome&security=reality&pbk=jRVi_paIhEgMtE9wDcu8cB5P0XK06LtCQbsXqu5mpSg&sid=0bfbafc5d00aee37#REALITY|IE🇮🇪
+vless://d4d170e8-a931-4d6b-b98c-1674ed9ee145@31.57.56.202:443?type=grpc&encryption=none&flow=&serviceName=xyz&sni=moktana.digital&fp=chrome&security=reality&pbk=jRVi_paIhEgMtE9wDcu8cB5P0XK06LtCQbsXqu5mpSg&sid=0bfbafc5d00aee37#REALITY|IE🇮🇪
