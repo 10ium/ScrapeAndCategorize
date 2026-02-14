@@ -1,9 +1,9 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphUk5GWUt0TE9uYVBFNUZDSEk5eWxy@130.0.233.100:33610#UA%F0%9F%87%BA%F0%9F%87%A6+%7C+130.0.233.100-33610+%7C+136.38ms
+ss://72e97eb0d0544970a7ed42d796c6773c@130.0.233.100:8443?encryption=none&type=xhttp&path=%2Fx&security=reality&sni=ya.ru&pbk=oJXngdG-SwLxHt2tJonmC-T_6PS4UEACLWj4sbfetno&sid=aabbccdd&fp=random#REALITY|UA🇺🇦
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2T1ZlZzE4eWxzT1FNT3ZXVlZmZGRP@194.150.220.103:443#UA%F0%9F%87%BA%F0%9F%87%A6+%7C+194.150.220.103-443+%7C+127.58ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2ZDAwODRjNmU0NTAyYWI3@163.171.137.76:48436#UA%F0%9F%87%BA%F0%9F%87%A6+%7C+163.171.137.76-48436+%7C+142.22ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphUk5GWUt0TE9uYVBFNUZDSEk5eWxy@130.0.233.100:33610#UA%F0%9F%87%BA%F0%9F%87%A6+%7C+130.0.233.100-33610+%7C+133.85ms
 ss://ccb8e0cd3b764e97bf6dd015830a5510@130.0.233.100:8443?encryption=none&type=xhttp&path=%2Fx&security=reality&sni=ya.ru&pbk=oJXngdG-SwLxHt2tJonmC-T_6PS4UEACLWj4sbfetno&sid=aabbccdd&fp=random#REALITY|UA🇺🇦
 ss://fdeecee7-dbed-47f6-bea2-cb0073b5e435@cl6-ndl.privetnet.ru:7443?path=%2Fvless&security=&encryption=none&type=ws#UA🇺🇦
-ss://fdeecee7-dbed-47f6-bea2-cb0073b5e435@cl6-ndl.privetnet.ru:7443?path=%2Fvless&security=none&encryption=none&type=ws#UA🇺🇦
+vless://72e97eb0d0544970a7ed42d796c6773c@130.0.233.100:8443?encryption=none&type=xhttp&path=%2Fx&security=reality&sni=ya.ru&pbk=oJXngdG-SwLxHt2tJonmC-T_6PS4UEACLWj4sbfetno&sid=aabbccdd&fp=random#REALITY|UA🇺🇦
 vless://ccb8e0cd3b764e97bf6dd015830a5510@130.0.233.100:8443?encryption=none&type=xhttp&path=%2Fx&security=reality&sni=ya.ru&pbk=oJXngdG-SwLxHt2tJonmC-T_6PS4UEACLWj4sbfetno&sid=aabbccdd&fp=random#REALITY|UA🇺🇦
 vless://fdeecee7-dbed-47f6-bea2-cb0073b5e435@cl6-ndl.privetnet.ru:7443?path=%2Fvless&security=&encryption=none&type=ws#UA🇺🇦
-vless://fdeecee7-dbed-47f6-bea2-cb0073b5e435@cl6-ndl.privetnet.ru:7443?path=%2Fvless&security=none&encryption=none&type=ws#UA🇺🇦
-vmess://eyJhZGQiOiJ0dHR5dS4yMDMwLnBwLnVhIiwiYWlkIjoiMCIsImFscG4iOm51bGwsImZwIjpudWxsLCJob3N0IjoidHR0eXUuMjAzMC5wcC51YSIsImlkIjoiZmMzNzA0ZDYtOGU1ZS00NDNhLWJkNWItMjBlYzdjZmJlOTkwIiwibmV0Ijoid3MiLCJwYXRoIjoiXC9lc3pqcDRuVFQ4VHhESEZlcE1wZk5rQ2s4IiwicG9ydCI6NDQzLCJwcyI6IlJFTEFZXHVkODNkXHVkZWE5IHwgdHR0eXUuMjAzMC5wcC51YS00NDMgfCAxMzEuMTFtcyIsInNjeSI6bnVsbCwic25pIjpudWxsLCJ0bHMiOiJ0bHMiLCJ0eXBlIjpudWxsLCJ2IjpudWxsfQ==
-vmess://eyJhZGQiOiJiYmJubWtsLjIwMzAucHAudWEiLCJhaWQiOiIwIiwiYWxwbiI6bnVsbCwiZnAiOm51bGwsImhvc3QiOiJiYmJubWtsLjIwMzAucHAudWEiLCJpZCI6IjVjY2NiNGRhLThhZWUtNGIwMS1iZTg0LTIwNTYyNjVlNTJkYyIsIm5ldCI6IndzIiwicGF0aCI6IlwvQXdVSnlHaDlZbTZ2VnpnMzVBNnVleXlabldkIiwicG9ydCI6NDQzLCJwcyI6IlJFTEFZXHVkODNkXHVkZWE5IHwgYmJibm1rbC4yMDMwLnBwLnVhLTQ0MyB8IDExNC40OW1zIiwic2N5IjpudWxsLCJzbmkiOiIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjpudWxsLCJ2IjpudWxsfQ==
