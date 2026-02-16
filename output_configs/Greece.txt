@@ -1,2 +1,3 @@
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.54.29.82:9090#GR%F0%9F%87%AC%F0%9F%87%B7+%7C+38.54.29.82-9090+%7C+142.42ms
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.54.29.82:9090#GR%F0%9F%87%AC%F0%9F%87%B7+%7C+38.54.29.82-9090+%7C+144.57ms
+ss://319cf3c5-0b6a-4118-88cd-c2f814d6d26f@91.186.196.64:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=spb.denditop.site&fp=chrome&security=reality&pbk=wgoLhL4pRP0y6fu6He4qW_ElohCM_ANWJF3HEoUhNz4&sid=9c2378562188c3cb#REALITY|GR🇬🇷
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.54.29.82:9090#GR%F0%9F%87%AC%F0%9F%87%B7+%7C+38.54.29.82-9090+%7C+138.4ms
+vless://319cf3c5-0b6a-4118-88cd-c2f814d6d26f@91.186.196.64:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=spb.denditop.site&fp=chrome&security=reality&pbk=wgoLhL4pRP0y6fu6He4qW_ElohCM_ANWJF3HEoUhNz4&sid=9c2378562188c3cb#REALITY|GR🇬🇷
