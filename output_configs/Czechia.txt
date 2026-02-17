@@ -1,5 +1,1 @@
-ss://6fa4c714-14d4-408b-badd-50f7a23801cf@lv0.nerpvpn.net:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=store.steampowered.com&fp=chrome&security=reality&pbk=DrWq_ysFaGPGgRFcHevMPoruwYMRXryW6i_cwE7CuCM&sid=d7e1abac#REALITY|CZ🇨🇿
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@195.181.160.6:990#CZ%F0%9F%87%A8%F0%9F%87%BF+%7C+195.181.160.6-990+%7C+112.17ms
-ss://f5b63288-12cb-4a16-937a-f8ec4d60fb9a@lv.fluxorvpn.net:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=store.steampowered.com&fp=chrome&security=reality&pbk=pQYGdr-ee0TotzdikPWnqJgKbX8OYcPNkJpH9scxjB0&sid=d7e1a111#REALITY|CZ🇨🇿
-vless://6fa4c714-14d4-408b-badd-50f7a23801cf@lv0.nerpvpn.net:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=store.steampowered.com&fp=chrome&security=reality&pbk=DrWq_ysFaGPGgRFcHevMPoruwYMRXryW6i_cwE7CuCM&sid=d7e1abac#REALITY|CZ🇨🇿
-vless://f5b63288-12cb-4a16-937a-f8ec4d60fb9a@lv.fluxorvpn.net:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=store.steampowered.com&fp=chrome&security=reality&pbk=pQYGdr-ee0TotzdikPWnqJgKbX8OYcPNkJpH9scxjB0&sid=d7e1a111#REALITY|CZ🇨🇿
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@195.181.160.6:990#CZ%F0%9F%87%A8%F0%9F%87%BF+%7C+195.181.160.6-990+%7C+94.56ms
