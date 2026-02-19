@@ -1,14 +1,9 @@
 ss://146e8a2b-283d-4f06-86ec-0608e2478265@84.17.62.67:8443?security=reality&encryption=none&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=04bf0403f96e5b4b#REALITY|ES🇪🇸
-ss://5757c746-9878-4cfd-874a-edd95485f26d@rus.fasti.win:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=rus.fasti.win&fp=chrome&security=reality&pbk=-YTGWg5DjsLDyaDfr1D83kiUK22LVcrK3yC53lqqigs&sid=feedbacc#REALITY|ES🇪🇸
-ss://6202b230417c4d8eb6240f71afa9c75dOg==@185.238.228.238:2096#ES%F0%9F%87%AA%F0%9F%87%B8+%7C+185.238.228.238-2096+%7C+9.07ms
 ss://72fb3bd4-75dd-488a-9af7-c391321ecfcc@velsanto.online:8443?security=reality&encryption=none&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=04bf0403f96e5b4b#REALITY|ES🇪🇸
 ss://72fb3bd4-75dd-488a-9af7-c391321ecfcc@velsanto.online:8443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=tradingview.com&fp=chrome&security=reality&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&sid=04bf0403f96e5b4b#REALITY|ES🇪🇸
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4RnBnTFhGcXpHRGt2STFjM0ZhaW1a@45.86.229.239:24894#ES%F0%9F%87%AA%F0%9F%87%B8+%7C+45.86.229.239-24894+%7C+122.75ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@37.143.130.203:990#%F0%9F%87%AA%F0%9F%87%B8ES-37.143.130.203-0316
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplVDNjeDRMdVlqNXBBb3JwOGM0eGVX@45.86.229.170:56019#ES%F0%9F%87%AA%F0%9F%87%B8+%7C+45.86.229.170-56019+%7C+120.9ms
-ss://c73b5c37-0c2b-4d78-8a48-d32bba7432b4@185.170.212.208:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=es.kickvpn.ru&fp=chrome&security=reality&pbk=AquVU8LAYQ3ic9yjqg89WLoaqKydqCO2tiDo78CTNlg&sid=9c2378562188c3cb#REALITY|ES🇪🇸
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@37.143.130.203:990#%F0%9F%87%AA%F0%9F%87%B8ES-37.143.130.203-4604
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@37.143.130.203:990#ES%F0%9F%87%AA%F0%9F%87%B8+%7C+37.143.130.203-990+%7C+168.12ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplVDNjeDRMdVlqNXBBb3JwOGM0eGVX@45.86.229.170:56019#ES%F0%9F%87%AA%F0%9F%87%B8+%7C+45.86.229.170-56019+%7C+125.56ms
 vless://146e8a2b-283d-4f06-86ec-0608e2478265@84.17.62.67:8443?security=reality&encryption=none&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=04bf0403f96e5b4b#REALITY|ES🇪🇸
-vless://5757c746-9878-4cfd-874a-edd95485f26d@rus.fasti.win:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=rus.fasti.win&fp=chrome&security=reality&pbk=-YTGWg5DjsLDyaDfr1D83kiUK22LVcrK3yC53lqqigs&sid=feedbacc#REALITY|ES🇪🇸
 vless://72fb3bd4-75dd-488a-9af7-c391321ecfcc@velsanto.online:8443?security=reality&encryption=none&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=04bf0403f96e5b4b#REALITY|ES🇪🇸
 vless://72fb3bd4-75dd-488a-9af7-c391321ecfcc@velsanto.online:8443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=tradingview.com&fp=chrome&security=reality&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&sid=04bf0403f96e5b4b#REALITY|ES🇪🇸
-vless://c73b5c37-0c2b-4d78-8a48-d32bba7432b4@185.170.212.208:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=es.kickvpn.ru&fp=chrome&security=reality&pbk=AquVU8LAYQ3ic9yjqg89WLoaqKydqCO2tiDo78CTNlg&sid=9c2378562188c3cb#REALITY|ES🇪🇸

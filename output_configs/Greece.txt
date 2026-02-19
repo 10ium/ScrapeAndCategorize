@@ -1,4 +1,2 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MzJhNTE5YzgxNDdhOTk4@38.54.29.18:11201#GR%F0%9F%87%AC%F0%9F%87%B7+%7C+38.54.29.18-11201+%7C+169.98ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjYjk1NWM4NTMwMzIwMTIw@38.54.29.57:11201#GR%F0%9F%87%AC%F0%9F%87%B7+%7C+38.54.29.57-11201+%7C+173.95ms
 ss://c73b5c37-0c2b-4d78-8a48-d32bba7432b4@185.234.52.39:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=gr.kickvpn.ru&fp=chrome&security=reality&pbk=NxVLSGf2bSeNY3pg5AT6N7dXRaRrn6NN4KdxCbz4JF0&sid=9c2378562188c3cb#REALITY|GR🇬🇷
 vless://c73b5c37-0c2b-4d78-8a48-d32bba7432b4@185.234.52.39:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=gr.kickvpn.ru&fp=chrome&security=reality&pbk=NxVLSGf2bSeNY3pg5AT6N7dXRaRrn6NN4KdxCbz4JF0&sid=9c2378562188c3cb#REALITY|GR🇬🇷
