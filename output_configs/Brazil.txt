@@ -1,8 +1,8 @@
-ss://03ea79e8-3e62-4fb0-9947-b64286e6b26d@br-m247-01.com:8443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=tradingview.com&fp=chrome&security=reality&pbk=_0HnraldEtXmJMu7t3nEm8VmQXkMWF7dX1Dmz5KceSw&sid=57f5917841a2178f#REALITY|BR🇧🇷
+ss://8a77b19a-36be-43ff-ace0-bc322aa4f1e3@br.pineappled.org:443?security=reality&encryption=none&pbk=CKxzpUtdHkJYJDpogsZSGCz9J6nlOTWdsOMz3sARDVI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=99#REALITY|BR🇧🇷
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5N2ZlNmIwN2NiZmFmN2U3@157.185.173.60:18424#BR%F0%9F%87%A7%F0%9F%87%B7+%7C+157.185.173.60-18424+%7C+145.16ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5N2ZlNmIwN2NiZmFmN2U3@157.185.173.60:18424#🇧🇷BR%20%20ROSE—210🤯
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@38.54.57.90:990#🇧🇷BR%20%20ROSE—24🤯
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphN2MyMDU2NDJiMzAyYzIw@5.188.4.103:11203#BR%F0%9F%87%A7%F0%9F%87%B7+%7C+5.188.4.103-11203+%7C+137.4ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphN2MyMDU2NDJiMzAyYzIw@5.188.4.103:11203#🇧🇷BR%20%20ROSE—207🤯
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@38.54.57.90:989#%F0%9F%87%A7%F0%9F%87%B7BR-38.54.57.90-0282
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@38.54.57.90:989#BR%F0%9F%87%A7%F0%9F%87%B7+%7C+38.54.57.90-989+%7C+155.34ms
-vless://03ea79e8-3e62-4fb0-9947-b64286e6b26d@br-m247-01.com:8443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=tradingview.com&fp=chrome&security=reality&pbk=_0HnraldEtXmJMu7t3nEm8VmQXkMWF7dX1Dmz5KceSw&sid=57f5917841a2178f#REALITY|BR🇧🇷
-vmess://eyJhZGQiOiJwcS1icmF6aWwxLjA5dnBuLmNvbSIsImFpZCI6IjAiLCJhbHBuIjpudWxsLCJmcCI6bnVsbCwiaG9zdCI6bnVsbCwiaWQiOiJjMDRjM2IzNC03MGZkLTRmZWMtOTYzZS1jMTJkMDlmMzZiZWYiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL3ZtZXNzXC8iLCJwb3J0Ijo4MCwicHMiOiJCUlx1ZDgzY1x1ZGRlN1x1ZDgzY1x1ZGRmNyB8IHBxLWJyYXppbDEuMDl2cG4uY29tLTgwIHwgMjE3LjAzbXMiLCJzY3kiOiJhdXRvIiwic25pIjpudWxsLCJ0bHMiOm51bGwsInR5cGUiOm51bGwsInYiOm51bGx9
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@38.54.57.90:989#%F0%9F%87%A7%F0%9F%87%B7BR-38.54.57.90-0327
+vless://8a77b19a-36be-43ff-ace0-bc322aa4f1e3@br.pineappled.org:443?security=reality&encryption=none&pbk=CKxzpUtdHkJYJDpogsZSGCz9J6nlOTWdsOMz3sARDVI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=99#REALITY|BR🇧🇷

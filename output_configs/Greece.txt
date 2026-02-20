@@ -1,2 +1,2 @@
-ss://c73b5c37-0c2b-4d78-8a48-d32bba7432b4@185.234.52.39:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=gr.kickvpn.ru&fp=chrome&security=reality&pbk=NxVLSGf2bSeNY3pg5AT6N7dXRaRrn6NN4KdxCbz4JF0&sid=9c2378562188c3cb#REALITY|GR🇬🇷
-vless://c73b5c37-0c2b-4d78-8a48-d32bba7432b4@185.234.52.39:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=gr.kickvpn.ru&fp=chrome&security=reality&pbk=NxVLSGf2bSeNY3pg5AT6N7dXRaRrn6NN4KdxCbz4JF0&sid=9c2378562188c3cb#REALITY|GR🇬🇷
+ss://b39aca97-e9f2-4a94-b87f-8748299846cd@91.186.196.64:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=wgoLhL4pRP0y6fu6He4qW_ElohCM_ANWJF3HEoUhNz4&sid=9c2378562188c3cb&sni=spb.denditop.site#REALITY|GR🇬🇷
+vless://b39aca97-e9f2-4a94-b87f-8748299846cd@91.186.196.64:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=wgoLhL4pRP0y6fu6He4qW_ElohCM_ANWJF3HEoUhNz4&sid=9c2378562188c3cb&sni=spb.denditop.site#REALITY|GR🇬🇷

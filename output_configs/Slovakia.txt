@@ -1,5 +1,2 @@
-ss://9fdd70da-b710-48b7-945a-642fe8937861@svk01-vlr01.tcp-reset-club.net:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&fp=chrome&security=reality&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=48720c#REALITY|SK🇸🇰
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@193.37.255.38:990#🇸🇰SK%20%20ROSE—518🤯
 ss://f19f22be-134b-4904-8347-245f31fe3800@213.176.19.224:443?flow=xtls-rprx-vision&fp=chrome&pbk=UCXPPx6xuh21NtqvboGsl-hf1y-LSpwB37K-vzlxyyM&security=reality&sid=68039fa078&sni=tr7.strelkavpn.ru&type=tcp#%F0%9F%8C%90%20Anycast-IP%20%7C%20SK,%20TR%20%7C%20%5BBL%5D
-vless://9fdd70da-b710-48b7-945a-642fe8937861@svk01-vlr01.tcp-reset-club.net:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&fp=chrome&security=reality&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=48720c#REALITY|SK🇸🇰
 vless://f19f22be-134b-4904-8347-245f31fe3800@213.176.19.224:443?flow=xtls-rprx-vision&fp=chrome&pbk=UCXPPx6xuh21NtqvboGsl-hf1y-LSpwB37K-vzlxyyM&security=reality&sid=68039fa078&sni=tr7.strelkavpn.ru&type=tcp#%F0%9F%8C%90%20Anycast-IP%20%7C%20SK,%20TR%20%7C%20%5BBL%5D

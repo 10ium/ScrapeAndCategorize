@@ -1,4 +1,7 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpja1NHYTBQVWdpMzZ2WlZQRUtzdjdZ@192.71.218.46:443#IS%F0%9F%87%AE%F0%9F%87%B8+%7C+192.71.218.46-443+%7C+172.6ms
-trojan://qmBSKnAl6LYi9%3Dz23Rs.Z@37.235.49.209:28099?security=tls&sni=celestialcorset.crystalhamster.click&path=%2F#IS🇮🇸
-trojan://qmBSKnAl6LYi9%3Dz23Rs.Z@37.235.49.209:28099?sni=celestialcorset.crystalhamster.click&path=%2F#IS🇮🇸
-trojan://qmBSKnAl6LYi9=z23Rs.Z@37.235.49.209:28099?security=tls&sni=celestialcorset.crystalhamster.click#%F0%9F%87%AE%F0%9F%87%B8IS-37.235.49.209-0258
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpja1NHYTBQVWdpMzZ2WlZQRUtzdjdZ@192.71.218.46:443#IS%F0%9F%87%AE%F0%9F%87%B8+%7C+192.71.218.46-443+%7C+108.73ms
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@89.221.224.239:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#🆔configfa%20🔓%20VL-GRPC-N/A%20🇮🇸%20IS%20down
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@89.221.224.239:8880?mode=gun&security=none&encryption=none&authority=JoB_T&type=grpc&serviceName=#🆔configfa%20🔓%20VL-GRPC-N/A%20🇮🇸%20IS%20down
+trojan://qmBSKnAl6LYi9%3Dz23Rs.Z@37.235.49.209:28099?allowInsecure=1&sni=celestialcorset.crystalhamster.click#IS🇮🇸
+trojan://qmBSKnAl6LYi9=z23Rs.Z@37.235.49.209:28099?security=tls&sni=celestialcorset.crystalhamster.click#%F0%9F%87%AE%F0%9F%87%B8IS-37.235.49.209-0339
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@89.221.224.239:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#🆔configfa%20🔓%20VL-GRPC-N/A%20🇮🇸%20IS%20down
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@89.221.224.239:8880?mode=gun&security=none&encryption=none&authority=JoB_T&type=grpc&serviceName=#🆔configfa%20🔓%20VL-GRPC-N/A%20🇮🇸%20IS%20down
