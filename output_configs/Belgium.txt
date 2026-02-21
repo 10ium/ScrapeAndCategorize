@@ -1,2 +1,0 @@
-ss://ed37156d-9257-4b3d-962c-a0add64ed2ff@a06ed50aeffc02b4.fast2.viperping.ir:80?encryption=none&security=none&type=tcp&headerType=none#BE🇧🇪
-vless://ed37156d-9257-4b3d-962c-a0add64ed2ff@a06ed50aeffc02b4.fast2.viperping.ir:80?encryption=none&security=none&type=tcp&headerType=none#BE🇧🇪
