@@ -1,0 +1,2 @@
+ss://f19f22be-134b-4904-8347-245f31fe3800@213.176.19.224:443?flow=xtls-rprx-vision&fp=chrome&pbk=UCXPPx6xuh21NtqvboGsl-hf1y-LSpwB37K-vzlxyyM&security=reality&sid=68039fa078&sni=tr7.strelkavpn.ru&type=tcp#%F0%9F%8C%90%20Anycast-IP%20%7C%20SK,%20TR%20%7C%20%5BBL%5D
+vless://f19f22be-134b-4904-8347-245f31fe3800@213.176.19.224:443?flow=xtls-rprx-vision&fp=chrome&pbk=UCXPPx6xuh21NtqvboGsl-hf1y-LSpwB37K-vzlxyyM&security=reality&sid=68039fa078&sni=tr7.strelkavpn.ru&type=tcp#%F0%9F%8C%90%20Anycast-IP%20%7C%20SK,%20TR%20%7C%20%5BBL%5D

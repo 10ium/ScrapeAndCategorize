@@ -1,4 +1,0 @@
-ss://6202b230-417c-4d8e-b624-0f71afa9c75d@14.102.228.238:2096?path=%2F&security=tls&encryption=none&insecure=0&host=sni.jpmj.dev&type=ws&allowInsecure=0&sni=sni.jpmj.dev#🆔soskeynet%20🔒%20VL-WS-N/A%20🇨🇿%20CZ%2015ms
-ss://63c78357-12ab-491e-86d5-dca86d2b307f@78.159.247.216:3443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=max.ru&fp=qq&security=reality&pbk=dfT5z5agib56VILhtjzfgksA4M5Ez0yNA_19Ck2z5ho&sid=d16801fe66c1c538#🆔soskeynet%20🔒%20VL-TCP-%20🇨🇿%20CZ%20124ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@14.102.228.238:2096?path=%2F&security=tls&encryption=none&insecure=0&host=sni.jpmj.dev&type=ws&allowInsecure=0&sni=sni.jpmj.dev#🆔soskeynet%20🔒%20VL-WS-N/A%20🇨🇿%20CZ%2015ms
-vless://63c78357-12ab-491e-86d5-dca86d2b307f@78.159.247.216:3443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=max.ru&fp=qq&security=reality&pbk=dfT5z5agib56VILhtjzfgksA4M5Ez0yNA_19Ck2z5ho&sid=d16801fe66c1c538#🆔soskeynet%20🔒%20VL-TCP-%20🇨🇿%20CZ%20124ms
