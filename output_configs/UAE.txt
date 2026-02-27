@@ -1,11 +1,11 @@
 ss://123d4832-db2b-4376-be63-f60858cc328e@fr-1.bot-iphone.ru:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=samsung.com&sid=6ba85179e30d4fc2#REALITY|AE🇦🇪
-ss://1d6705da-0790-49bf-bf47-b166d2e945cf@38.180.27.102:8443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=eh.vk.com&fp=chrome&security=reality&pbk=CWeNg8bNNdCHYhjNl01BTevvPnHsXd736dymoBEsbBI&sid=#REALITY|AE🇦🇪
-ss://4685d838-99e1-4dc7-bc26-d8589d41f2a1@ae2.tunnely.ru:443?security=reality&type=tcp&sni=ae2.tunnely.ru&fp=chrome&flow=xtls-rprx-vision&sid=2e40144ddc07e8e1&pbk=pPGE5Uacj1AGAB_WLOXB_UUnVBOmuJGH0vTSfmRBKzM&encryption=none#REALITY|AE🇦🇪
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@147.78.0.182:990#%F0%9F%87%A6%F0%9F%87%AAAE-147.78.0.182-0289
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@147.78.0.182:990#%F0%9F%87%A6%F0%9F%87%AAAE-147.78.0.182-0214
+ss://b9dbc1ff-6364-4826-a973-71c0584116c4@ll0ll.vip:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=dropbox.com#REALITY|AE🇦🇪
+ss://e4bd3863-ef9f-4e39-9478-2003575d3380@fredii.ichimokutrader.org:2020?security=none&encryption=none&headerType=none&type=tcp#AE🇦🇪
 ss://e6056cc5-1ec5-4dad-a5c1-ffe4ccde51b8@94.183.150.57:2323?security=none&encryption=none&headerType=none&type=tcp#AE🇦🇪
 ss://fd058cd3-55fa-43ce-a634-1920b7d12c45@104.128.134.181:34816?security=none&encryption=none&headerType=none&type=tcp#AE🇦🇪
 vless://123d4832-db2b-4376-be63-f60858cc328e@fr-1.bot-iphone.ru:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=samsung.com&sid=6ba85179e30d4fc2#REALITY|AE🇦🇪
-vless://1d6705da-0790-49bf-bf47-b166d2e945cf@38.180.27.102:8443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=eh.vk.com&fp=chrome&security=reality&pbk=CWeNg8bNNdCHYhjNl01BTevvPnHsXd736dymoBEsbBI&sid=#REALITY|AE🇦🇪
-vless://4685d838-99e1-4dc7-bc26-d8589d41f2a1@ae2.tunnely.ru:443?security=reality&type=tcp&sni=ae2.tunnely.ru&fp=chrome&flow=xtls-rprx-vision&sid=2e40144ddc07e8e1&pbk=pPGE5Uacj1AGAB_WLOXB_UUnVBOmuJGH0vTSfmRBKzM&encryption=none#REALITY|AE🇦🇪
+vless://b9dbc1ff-6364-4826-a973-71c0584116c4@ll0ll.vip:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=dropbox.com#REALITY|AE🇦🇪
+vless://e4bd3863-ef9f-4e39-9478-2003575d3380@fredii.ichimokutrader.org:2020?security=none&encryption=none&headerType=none&type=tcp#AE🇦🇪
 vless://e6056cc5-1ec5-4dad-a5c1-ffe4ccde51b8@94.183.150.57:2323?security=none&encryption=none&headerType=none&type=tcp#AE🇦🇪
 vless://fd058cd3-55fa-43ce-a634-1920b7d12c45@104.128.134.181:34816?security=none&encryption=none&headerType=none&type=tcp#AE🇦🇪

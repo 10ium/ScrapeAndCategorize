@@ -1,4 +1,5 @@
 ss://3f0f36f5-f091-45c5-88c9-4bcc545b922c@clyde.ns.cloudflare.com:2096?path=%2F45.76.183.217%3D49292&security=tls&encryption=none&host=hetz.x-smm.com&fp=chrome&type=ws&sni=hetz.x-smm.com#%40Si%201335
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@192.71.244.150:990#🇸🇮SI%20%20ROSE—428🤯
 ss://e292fde3-e11d-43ba-9805-a43836bcbabc@en.nattyzwerg.org:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.techradar.com&fp=chrome&security=reality&pbk=pkIWxbuPAasjatPaHnAaTnCxVj1RkDFsJEWpLUTOcWY&sid=684e5e7a0f23#REALITY|SI🇸🇮
 ss://jina@135.220.73.1:443?alpn=h2%2Chttp%2F1.1&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=jina-135220731-direct.yektanet.co&type=tcp#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea,%20Cheonan-si%20%5BBL%5D
 vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@clyde.ns.cloudflare.com:2096?path=%2F45.76.183.217%3D49292&security=tls&encryption=none&host=hetz.x-smm.com&fp=chrome&type=ws&sni=hetz.x-smm.com#%40Si%201335

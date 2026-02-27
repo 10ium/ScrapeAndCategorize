@@ -2,9 +2,9 @@ ss://1c4aceb6-bff7-4737-8c5d-43afb3dc350b@ita01-vlr02.tcp-reset-club.net:443?typ
 ss://1ca56379-e44b-4694-bee8-9874ca8fd248@80.211.236.125:443?alpn=h2&flow=xtls-rprx-vision&fp=chrome&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&security=reality&sid=&sni=gmail.com&type=tcp#%F0%9F%87%AE%F0%9F%87%B9%20Italy,%20Arezzo%20%5BBL%5D%20(2)
 ss://29632408-8a2f-4bfc-a7b3-c8c8cdb220ac@80.211.236.42:443?alpn=h2&flow=xtls-rprx-vision&fp=chrome&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&security=reality&sid=&sni=gmail.com&type=tcp#%F0%9F%87%AE%F0%9F%87%B9%20Italy,%20Arezzo%20%5BBL%5D%20(1)
 ss://57acb7dc-4029-4ec6-ac38-67202505a1d3@95.164.46.235:443?security=tls&sni=it-full.privateip.net&type=ws&path=%2FVLESS&allowInsecure=1#IT🇮🇹
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206ZXQxc2doMWlRYVd6c3cyMDFKWDJlZXhOMUFpNlFtSUdjWklsdmxDNUw1ND0=@57.131.42.19:8389#IT%F0%9F%87%AE%F0%9F%87%B9+%7C+57.131.42.19-8389+%7C+96.83ms
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206ZXQxc2doMWlRYVd6c3cyMDFKWDJlZXhOMUFpNlFtSUdjWklsdmxDNUw1ND0=@57.131.42.19:8390#IT%F0%9F%87%AE%F0%9F%87%B9+%7C+57.131.42.19-8390+%7C+94.73ms
-ss://YWVzLTI1Ni1nY206K3pGTDBZN3NZUTZCUnJZSUo3ZFhHOHNVcWJ2Mkh6YlJ0MVpEY3N2VVpGcz0=@57.131.38.151:8443#IT%F0%9F%87%AE%F0%9F%87%B9+%7C+57.131.38.151-8443+%7C+96.98ms
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206ZXQxc2doMWlRYVd6c3cyMDFKWDJlZXhOMUFpNlFtSUdjWklsdmxDNUw1ND0=@57.131.42.19:8389#IT%F0%9F%87%AE%F0%9F%87%B9+%7C+57.131.42.19-8389+%7C+159.25ms
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206ZXQxc2doMWlRYVd6c3cyMDFKWDJlZXhOMUFpNlFtSUdjWklsdmxDNUw1ND0=@57.131.42.19:8390#IT%F0%9F%87%AE%F0%9F%87%B9+%7C+57.131.42.19-8390+%7C+164.29ms
+ss://YWVzLTI1Ni1nY206K3pGTDBZN3NZUTZCUnJZSUo3ZFhHOHNVcWJ2Mkh6YlJ0MVpEY3N2VVpGcz0=@57.131.38.151:8443#IT%F0%9F%87%AE%F0%9F%87%B9+%7C+57.131.38.151-8443+%7C+164.8ms
 ss://YWVzLTI1Ni1nY206ODgwMTMzOWUtOGVkMy00Mzg5LTlkMWQtMmYyMTFjY2YwN2Jl@194.165.59.93:442#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-51
 ss://a3dd7bef-f742-4ee4-897e-0d91629571bb@80.211.236.167:443?alpn=h2&flow=xtls-rprx-vision&fp=chrome&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&security=reality&sid=&sni=gmail.com&type=tcp#%F0%9F%87%AE%F0%9F%87%B9%20Italy,%20Arezzo%20%5BBL%5D
 ss://a3fe5511-06e8-4f9c-8d86-a2b7d94ba402@80.211.236.167:443?alpn=h2&flow=xtls-rprx-vision&fp=chrome&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&security=reality&sid=&sni=gmail.com&type=tcp#%F0%9F%87%AE%F0%9F%87%B9%20Italy,%20Arezzo%20%5BBL%5D%20(4)

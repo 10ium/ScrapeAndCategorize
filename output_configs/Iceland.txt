@@ -1,2 +1,12 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpja1NHYTBQVWdpMzZ2WlZQRUtzdjdZ@192.71.218.46:443#IS%F0%9F%87%AE%F0%9F%87%B8+%7C+192.71.218.46-443+%7C+95.31ms
-trojan://qmBSKnAl6LYi9=z23Rs.Z@37.235.49.209:28099?security=tls&sni=celestialcorset.crystalhamster.click#%F0%9F%87%AE%F0%9F%87%B8IS-37.235.49.209-0246
+ss://8664a37d-40c9-47f0-8619-d9199651be2c@144.31.128.11:443?type=tcp&encryption=none&flow=&security=tls&sni=nlcdn12.suio.me&allowInsecure=1#IS🇮🇸
+ss://8664a37d-40c9-47f0-8619-d9199651be2c@144.31.128.67:443?encryption=none&fp=chrome&security=tls&sni=nlcdn12.suio.me&type=tcp#IS🇮🇸
+ss://8664a37d-40c9-47f0-8619-d9199651be2c@144.31.128.67:443?security=tls&encryption=none&insecure=1&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp&allowInsecure=1&sni=nlcdn12.suio.me#IS🇮🇸
+ss://8664a37d-40c9-47f0-8619-d9199651be2c@144.31.128.67:443?type=tcp&encryption=none&flow=&security=tls&sni=nlcdn12.suio.me&allowInsecure=1#IS🇮🇸
+ss://8664a37d40c947f08619d9199651be2cOg==@144.31.128.67:443#IS%F0%9F%87%AE%F0%9F%87%B8+%7C+144.31.128.67-443+%7C+156.68ms
+ss://8664a37d40c947f08619d9199651be2cOg==@144.31.128.67:443#IS%F0%9F%87%AE%F0%9F%87%B8+%7C+144.31.128.67-443+%7C+172.49ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpja1NHYTBQVWdpMzZ2WlZQRUtzdjdZ@192.71.218.46:443#IS%F0%9F%87%AE%F0%9F%87%B8+%7C+192.71.218.46-443+%7C+161.45ms
+trojan://qmBSKnAl6LYi9=z23Rs.Z@37.235.49.209:28099?security=tls&sni=celestialcorset.crystalhamster.click#%F0%9F%87%AE%F0%9F%87%B8IS-37.235.49.209-0255
+vless://8664a37d-40c9-47f0-8619-d9199651be2c@144.31.128.11:443?type=tcp&encryption=none&flow=&security=tls&sni=nlcdn12.suio.me&allowInsecure=1#IS🇮🇸
+vless://8664a37d-40c9-47f0-8619-d9199651be2c@144.31.128.67:443?encryption=none&fp=chrome&security=tls&sni=nlcdn12.suio.me&type=tcp#IS🇮🇸
+vless://8664a37d-40c9-47f0-8619-d9199651be2c@144.31.128.67:443?security=tls&encryption=none&insecure=1&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp&allowInsecure=1&sni=nlcdn12.suio.me#IS🇮🇸
+vless://8664a37d-40c9-47f0-8619-d9199651be2c@144.31.128.67:443?type=tcp&encryption=none&flow=&security=tls&sni=nlcdn12.suio.me&allowInsecure=1#IS🇮🇸

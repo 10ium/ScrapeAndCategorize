@@ -1,1 +1,3 @@
-ss://148186547689453a9a1f4c72f89782d5Og==@spb-node.genadata.online:2040#REALITY%7CGR%F0%9F%87%AC%F0%9F%87%B7+%7C+spb-node.genadata.online-2040+%7C+178.32ms
+ss://14818654-7689-453a-9a1f-4c72f89782d5@spb-node.genadata.online:2040?security=reality&encryption=none&pbk=1RJ2ulM9UyAC8PFy194dV0RTZI6xF6U4CGClhNz9fTg&headerType=none&fp=qq&spx=%2F&type=tcp&sni=tradingview.com&sid=50ed6f6007515d63#REALITY|GR🇬🇷
+ss://148186547689453a9a1f4c72f89782d5Og==@spb-node.genadata.online:2040#REALITY%7CGR%F0%9F%87%AC%F0%9F%87%B7+%7C+spb-node.genadata.online-2040+%7C+212.63ms
+vless://14818654-7689-453a-9a1f-4c72f89782d5@spb-node.genadata.online:2040?security=reality&encryption=none&pbk=1RJ2ulM9UyAC8PFy194dV0RTZI6xF6U4CGClhNz9fTg&headerType=none&fp=qq&spx=%2F&type=tcp&sni=tradingview.com&sid=50ed6f6007515d63#REALITY|GR🇬🇷

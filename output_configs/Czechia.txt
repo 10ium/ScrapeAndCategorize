@@ -1,0 +1,2 @@
+ss://010c8bf7-0a43-404f-a6c5-2427acb4d476@194.87.24.48:8443?encryption=none&fp=chrome&pbk=upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo&security=reality&sid=3ca620a7ed5f3196&sni=sun6-21.userapi.com&type=tcp#REALITY|CZ🇨🇿
+vless://010c8bf7-0a43-404f-a6c5-2427acb4d476@194.87.24.48:8443?encryption=none&fp=chrome&pbk=upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo&security=reality&sid=3ca620a7ed5f3196&sni=sun6-21.userapi.com&type=tcp#REALITY|CZ🇨🇿
