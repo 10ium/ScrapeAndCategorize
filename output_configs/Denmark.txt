@@ -1,4 +1,0 @@
-ss://dea6986ef44548ccbe0ba39b5296485fOg==@199.232.40.47:80#DK%F0%9F%87%A9%F0%9F%87%B0+%7C+199.232.40.47-80+%7C+156.3ms
-ss://dea6986ef44548ccbe0ba39b5296485fOg==@199.232.40.47:80#DK%F0%9F%87%A9%F0%9F%87%B0+%7C+199.232.40.47-80+%7C+168.02ms
-ss://e4fc4761-154f-490e-bbaa-b4fa193f1073@45.148.31.0:15855?type=ws&encryption=none&flow=&path=%2F#DK🇩🇰
-vless://e4fc4761-154f-490e-bbaa-b4fa193f1073@45.148.31.0:15855?type=ws&encryption=none&flow=&path=%2F#DK🇩🇰
