@@ -1,13 +1,7 @@
-ss://3e7f67de-648e-4871-b51a-a225214d41ee@47.80.13.85:443?encryption=none&security=reality&sni=api.company-target.com&fp=chrome&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&type=tcp&headerType=none&host=api.company-target.com#REALITY|KR🇰🇷
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2NTJlNDIzYzU1OWVlZmQ0@156.244.19.94:11201#🇰🇷KR%20%20ROSE—180🤯
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMjI0Mg==@115.161.136.145:10099#KR%F0%9F%87%B0%F0%9F%87%B7+%7C+115.161.136.145-10099+%7C+174.62ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpma3hYaFM5VlVtV21vQzlOOXh1MldCalZvRUdWN1VaVA@srv12.outlinekeys.com:1080#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea,%20Seoul%20%5BBL
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@218.237.185.230:4652#%F0%9F%87%B0%F0%9F%87%B7KR-218.237.185.230-0292
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@221.139.79.57:13979#%F0%9F%87%B0%F0%9F%87%B7KR-221.139.79.57-0299
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@p141.panda001.net:4652#%F0%9F%87%B0%F0%9F%87%B7KR-218.237.185.230-4612
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@141.164.45.187:7001#%F0%9F%87%B0%F0%9F%87%B7KR-141.164.45.187-0284
-ss://be385a85-92af-41cc-cb40-db0deac2e5f8@165.154.230.13:30001?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=addons.mozilla.org&alpn=channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-&fp=chrome&security=reality&pbk=rYH4wPTVzSwtpXgI3U7YxppIP6oudD-425vT7pyhj1w&sid=#REALITY|KR🇰🇷
-ss://e108f3eb-4d3a-4e20-a09b-7008e333bc23@kr01-vlr01.tcp-reset-club.net:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=86e999a2cdc2#REALITY|KR🇰🇷
-vless://3e7f67de-648e-4871-b51a-a225214d41ee@47.80.13.85:443?encryption=none&security=reality&sni=api.company-target.com&fp=chrome&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&type=tcp&headerType=none&host=api.company-target.com#REALITY|KR🇰🇷
-vless://be385a85-92af-41cc-cb40-db0deac2e5f8@165.154.230.13:30001?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=addons.mozilla.org&alpn=channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-&fp=chrome&security=reality&pbk=rYH4wPTVzSwtpXgI3U7YxppIP6oudD-425vT7pyhj1w&sid=#REALITY|KR🇰🇷
-vless://e108f3eb-4d3a-4e20-a09b-7008e333bc23@kr01-vlr01.tcp-reset-club.net:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=86e999a2cdc2#REALITY|KR🇰🇷
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@218.237.185.230:4652#%F0%9F%87%B0%F0%9F%87%B7KR-218.237.185.230-0305
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@221.139.79.57:13979#%F0%9F%87%B0%F0%9F%87%B7KR-221.139.79.57-0306
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@p141.panda001.net:4652#%F0%9F%87%B0%F0%9F%87%B7KR-218.237.185.230-0317
 vmess://eyJhZGQiOiIxNDYuNTYuMTEyLjExMCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJlN2MzMDJmMy05MGQ2LTQyZGQtOWQ3ZC05NGEzNjgzYTM3MDciLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6Ijg4ODgiLCJwcyI6IltPcGVuUmF5XSDwn4ew8J+HtyBLUi03OSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
