@@ -1,3 +1,0 @@
-ss://966288c3-6775-4f2d-9513-3fc1f4e8cd5f@45.13.151.22:8443?security=reality&encryption=none&pbk=RSnbrHpLJYL8AtxWie8gbcnfs68h9rHAZX-gS3EQtSM&headerType=none&fp=firefox&type=tcp&sni=play.google.com&sid=c3b6ed4da7a983c7#REALITY|RO🇷🇴
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRRld6Q3cydVg5QjlpNnFBWWVGQklF@154.46.31.106:443#RO%F0%9F%87%B7%F0%9F%87%B4+%7C+154.46.31.106-443+%7C+144.59ms
-vless://966288c3-6775-4f2d-9513-3fc1f4e8cd5f@45.13.151.22:8443?security=reality&encryption=none&pbk=RSnbrHpLJYL8AtxWie8gbcnfs68h9rHAZX-gS3EQtSM&headerType=none&fp=firefox&type=tcp&sni=play.google.com&sid=c3b6ed4da7a983c7#REALITY|RO🇷🇴
