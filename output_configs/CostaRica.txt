@@ -1,0 +1,2 @@
+ss://6b10e086-7d43-46fa-954a-ad303d7cc37f@190.93.244.38:443?mode=gun&security=tls&encryption=none&authority=&type=grpc&serviceName=grizzlyvpn%2F%3Fed%3D2056&sni=grpc2.sharesite.ir#🆔soskeynet%20🔒%20VL-GRPC-N/A%20🇨🇷%20CR%206ms
+vless://6b10e086-7d43-46fa-954a-ad303d7cc37f@190.93.244.38:443?mode=gun&security=tls&encryption=none&authority=&type=grpc&serviceName=grizzlyvpn%2F%3Fed%3D2056&sni=grpc2.sharesite.ir#🆔soskeynet%20🔒%20VL-GRPC-N/A%20🇨🇷%20CR%206ms
