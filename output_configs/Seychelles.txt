@@ -1,5 +1,6 @@
-ss://2271c50fac7a4d7f8b0464085b0daa56Og==@45.130.125.160:2052#SC%F0%9F%87%B8%F0%9F%87%A8+%7C+45.130.125.160-2052+%7C+11.63ms
-ss://2271c50fac7a4d7f8b0464085b0daa56Og==@45.130.125.160:2052#SC%F0%9F%87%B8%F0%9F%87%A8+%7C+45.130.125.160-2052+%7C+12.02ms
-ss://96196fc5-67a7-400f-9b1a-e8f2e530e411@ip.xqnetwork.ir:2095?security=none&type=httpupgrade&headerType=&path=%2F%3Fed%3D2056&host=apaj0.dl101movis.ir#🆔ar14n24b%20🔓%20VL-HTTPUPGRADE-N/A%20🇸🇨%20SC%20146ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2NTJlNDIzYzU1OWVlZmQ0@156.244.19.94:11201#SC%F0%9F%87%B8%F0%9F%87%A8+%7C+156.244.19.94-11201+%7C+133.48ms
-vless://96196fc5-67a7-400f-9b1a-e8f2e530e411@ip.xqnetwork.ir:2095?security=none&type=httpupgrade&headerType=&path=%2F%3Fed%3D2056&host=apaj0.dl101movis.ir#🆔ar14n24b%20🔓%20VL-HTTPUPGRADE-N/A%20🇸🇨%20SC%20146ms
+ss://112a043b-22be-4967-9390-6fc07011e01b@ip.xqnetwork.ir:2086?path=%2F%3Fed%3D2056&security=&encryption=none&host=span.dl101movis.ir&type=httpupgrade#🆔soskeynet%20🔓%20VL-HTTPUPGRADE-N/A%20🇸🇨%20SC%20198ms
+ss://112a043b-22be-4967-9390-6fc07011e01b@ip.xqnetwork.ir:2086?path=%2F%3Fed%3D2056&security=none&encryption=none&host=span.dl101movis.ir&type=httpupgrade#🆔soskeynet%20🔓%20VL-HTTPUPGRADE-N/A%20🇸🇨%20SC%20275ms
+ss://2271c50fac7a4d7f8b0464085b0daa56Og==@45.130.125.160:2052#SC%F0%9F%87%B8%F0%9F%87%A8+%7C+45.130.125.160-2052+%7C+1.41ms
+ss://2271c50fac7a4d7f8b0464085b0daa56Og==@45.130.125.160:2052#SC%F0%9F%87%B8%F0%9F%87%A8+%7C+45.130.125.160-2052+%7C+1.57ms
+vless://112a043b-22be-4967-9390-6fc07011e01b@ip.xqnetwork.ir:2086?path=%2F%3Fed%3D2056&security=&encryption=none&host=span.dl101movis.ir&type=httpupgrade#🆔soskeynet%20🔓%20VL-HTTPUPGRADE-N/A%20🇸🇨%20SC%20198ms
+vless://112a043b-22be-4967-9390-6fc07011e01b@ip.xqnetwork.ir:2086?path=%2F%3Fed%3D2056&security=none&encryption=none&host=span.dl101movis.ir&type=httpupgrade#🆔soskeynet%20🔓%20VL-HTTPUPGRADE-N/A%20🇸🇨%20SC%20275ms
