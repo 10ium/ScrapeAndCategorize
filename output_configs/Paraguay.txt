@@ -1,2 +1,0 @@
-ss://4408dcae-2bdf-4185-84d0-38556d79f27e@srv2-germany.hajimamadcloud.com.tr:1992?security=none&encryption=none&host=skyroom.online%2C+igap.net%2C+gharar.ir&headerType=http&type=tcp#%40configraygan+py
-vless://4408dcae-2bdf-4185-84d0-38556d79f27e@srv2-germany.hajimamadcloud.com.tr:1992?security=none&encryption=none&host=skyroom.online%2C+igap.net%2C+gharar.ir&headerType=http&type=tcp#%40configraygan+py
