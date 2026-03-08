@@ -1,2 +1,2 @@
-ss://1218c022-dca8-49e5-b7d4-a04f3023db81@nr-01.opsvpnvless.ru:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=2ryk_zFs_pzxv-bL9FkOk0Jb5oQw1jAbyXjp6oh96R0&sid=4e249e62&sni=stats.vk-portal.net#REALITY|NO🇳🇴
-vless://1218c022-dca8-49e5-b7d4-a04f3023db81@nr-01.opsvpnvless.ru:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=2ryk_zFs_pzxv-bL9FkOk0Jb5oQw1jAbyXjp6oh96R0&sid=4e249e62&sni=stats.vk-portal.net#REALITY|NO🇳🇴
+ss://1218c022-dca8-49e5-b7d4-a04f3023db81@nr-01.opsvpnvless.ru:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=2ryk_zFs_pzxv-bL9FkOk0Jb5oQw1jAbyXjp6oh96R0&security=reality&sid=4e249e62&sni=stats.vk-portal.net&type=tcp#REALITY|NO🇳🇴
+vless://1218c022-dca8-49e5-b7d4-a04f3023db81@nr-01.opsvpnvless.ru:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=2ryk_zFs_pzxv-bL9FkOk0Jb5oQw1jAbyXjp6oh96R0&security=reality&sid=4e249e62&sni=stats.vk-portal.net&type=tcp#REALITY|NO🇳🇴

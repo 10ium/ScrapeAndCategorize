@@ -1,5 +1,3 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5cHJnWmJCN3hETDRQU3ZFNHdKVTRt@81.90.29.126:53672#IQ%F0%9F%87%AE%F0%9F%87%B6+%7C+81.90.29.126-53672+%7C+90.21ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5cHJnWmJCN3hETDRQU3ZFNHdKVTRt@81.90.29.126:53672#IQ%F0%9F%87%AE%F0%9F%87%B6+%7C+81.90.29.126-53672+%7C+96.28ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxUzNza3dtb2xyUTcwcTg0MmlyUUQw@178.17.61.67:5790#%F0%9F%87%AE%F0%9F%87%B6IQ-178.17.61.67-0132
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxUzNza3dtb2xyUTcwcTg0MmlyUUQw@178.17.61.67:5790#IQ%F0%9F%87%AE%F0%9F%87%B6+%7C+178.17.61.67-5790+%7C+99.26ms
-ss://y2hhy2hhmjatawv0zi1wb2x5mtmwntpxuznza3dtb2xyutcwctg0mmlyuuqwOg==@178.17.61.67:5790#IQ%F0%9F%87%AE%F0%9F%87%B6+%7C+178.17.61.67-5790+%7C+99.28ms
+ss://062e6bee-c3f2-42e7-a1c1-e09305b2cffe@178.17.48.57:443?security=reality&encryption=none&pbk=gmcaceHetuS4yBVtFAlZbhupbpkmpqPrm38lM2Vfjks&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=de.moktana.digital&sid=e751cbd976552088#REALITY|IQ🇮🇶
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5cHJnWmJCN3hETDRQU3ZFNHdKVTRt@81.90.29.126:53672#IQ%F0%9F%87%AE%F0%9F%87%B6+%7C+81.90.29.126-53672+%7C+143.09ms
+vless://062e6bee-c3f2-42e7-a1c1-e09305b2cffe@178.17.48.57:443?security=reality&encryption=none&pbk=gmcaceHetuS4yBVtFAlZbhupbpkmpqPrm38lM2Vfjks&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=de.moktana.digital&sid=e751cbd976552088#REALITY|IQ🇮🇶
