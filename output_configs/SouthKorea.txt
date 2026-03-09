@@ -1,6 +1,7 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowTXNmelYwU3JaZUtDLXBiRW5uOGU3Qm92VjItTHVtOA==@srv12.outlinekeys.com:1080#KR%F0%9F%87%B0%F0%9F%87%B7+%7C+srv12.outlinekeys.com-1080+%7C+152.88ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowTXNmelYwU3JaZUtDLXBiRW5uOGU3Qm92VjItTHVtOA==@srv12.outlinekeys.com:1080#KR%F0%9F%87%B0%F0%9F%87%B7+%7C+srv12.outlinekeys.com-1080+%7C+163.41ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowTXNmelYwU3JaZUtDLXBiRW5uOGU3Qm92VjItTHVtOA@srv12.outlinekeys.com:1080#🇰🇷KR%20%20ROSE—179🤯
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpma3hYaFM5VlVtV21vQzlOOXh1MldCalZvRUdWN1VaVA@srv12.outlinekeys.com:1080#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea,%20Seoul%20%5BBL
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@141.164.45.187:7001#%F0%9F%87%B0%F0%9F%87%B7KR-141.164.45.187-0338
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@221.139.79.57:13979#%F0%9F%87%B0%F0%9F%87%B7KR-221.139.79.57-4856
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@141.164.45.187:7001#%F0%9F%87%B0%F0%9F%87%B7KR-141.164.45.187-0256
 ss://e108f3eb-4d3a-4e20-a09b-7008e333bc23@kr01-vlr01.tcp-reset-club.net:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=86e999a2cdc2#REALITY|KR🇰🇷
 vless://e108f3eb-4d3a-4e20-a09b-7008e333bc23@kr01-vlr01.tcp-reset-club.net:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=86e999a2cdc2#REALITY|KR🇰🇷
