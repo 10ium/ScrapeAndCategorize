@@ -1,2 +1,0 @@
-ss://54e5a989-5938-43ce-ba58-026ddbfd4d7b@45.141.234.159:30724?encryption=none&fp=chrome&pbk=KcWxOI6Y2kqFd_cg4bu-hWBZDlsJhT6TyRHhwFAHa0A&security=reality&sid=eab8ab08e4d6faa0&sni=yandex.ru&type=tcp#REALITY|IE🇮🇪
-vless://54e5a989-5938-43ce-ba58-026ddbfd4d7b@45.141.234.159:30724?encryption=none&fp=chrome&pbk=KcWxOI6Y2kqFd_cg4bu-hWBZDlsJhT6TyRHhwFAHa0A&security=reality&sid=eab8ab08e4d6faa0&sni=yandex.ru&type=tcp#REALITY|IE🇮🇪
