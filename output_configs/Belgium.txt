@@ -1,5 +1,3 @@
-ss://6ff581e0-4622-4af2-9b57-37dbcd6dee1e@fs.cedriklorenz.ir:443?path=%2F&security=tls&encryption=none&host=geroijji.global.ssl.fastly.net&type=ws&sni=speedtest.net#🆔ar14n24b%20🔒%20VL-WS-N/A%20🇧🇪%20BE%20147ms
-ss://6ff581e0-4622-4af2-9b57-37dbcd6dee1e@fs.cedriklorenz.ir:443?path=%2F&security=tls&encryption=none&host=geroijji.global.ssl.fastly.net&type=ws&sni=speedtest.net#🆔ar14n24b%20🔒%20VL-WS-N/A%20🇧🇪%20BE%20159ms
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.71.249.78:989#%F0%9F%87%A7%F0%9F%87%AABE-192.71.249.78-0335
-vless://6ff581e0-4622-4af2-9b57-37dbcd6dee1e@fs.cedriklorenz.ir:443?path=%2F&security=tls&encryption=none&host=geroijji.global.ssl.fastly.net&type=ws&sni=speedtest.net#🆔ar14n24b%20🔒%20VL-WS-N/A%20🇧🇪%20BE%20147ms
-vless://6ff581e0-4622-4af2-9b57-37dbcd6dee1e@fs.cedriklorenz.ir:443?path=%2F&security=tls&encryption=none&host=geroijji.global.ssl.fastly.net&type=ws&sni=speedtest.net#🆔ar14n24b%20🔒%20VL-WS-N/A%20🇧🇪%20BE%20159ms
+ss://63f92f3c-447c-4283-80b9-0af8e164cdad@152.53.51.29:22955?encryption=none&security=reality&sni=one-piece.com&fp=chrome&pbk=9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms&sid=6ba85179e30d4fc2&type=grpc&serviceName=grpc&mode=gun#🆔soskeynet%20🔒%20VL-GRPC-%20🇧🇪%20BE%20103ms
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.71.249.78:989#%F0%9F%87%A7%F0%9F%87%AABE-192.71.249.78-0319
+vless://63f92f3c-447c-4283-80b9-0af8e164cdad@152.53.51.29:22955?encryption=none&security=reality&sni=one-piece.com&fp=chrome&pbk=9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms&sid=6ba85179e30d4fc2&type=grpc&serviceName=grpc&mode=gun#🆔soskeynet%20🔒%20VL-GRPC-%20🇧🇪%20BE%20103ms
