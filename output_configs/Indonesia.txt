@@ -1,4 +1,3 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ3D3A==@154.205.159.100:990#ID%F0%9F%87%AE%F0%9F%87%A9+%7C+154.205.159.100-990+%7C+183.23ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443#Channel%20id%3A%20%40ShadowProxy66برای
 ss://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@ChatGPT.com:443?flow=&host=afrcloud22.mmv.kr&path=%2F156.244.1.250%3D8443&security=tls&sni=ProxyVPN11.afrcloud22.mmv.kr&type=ws#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BCloudflare%5D%20%7C%20ID,%20RU%20%7C%20%5BBL%5D
 vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@ChatGPT.com:443?flow=&host=afrcloud22.mmv.kr&path=%2F156.244.1.250%3D8443&security=tls&sni=ProxyVPN11.afrcloud22.mmv.kr&type=ws#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BCloudflare%5D%20%7C%20ID,%20RU%20%7C%20%5BBL%5D
