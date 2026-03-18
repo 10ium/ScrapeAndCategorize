@@ -1,3 +1,5 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPTUg5N0k3bVJOQmNVdWdLczJhOE9n@134.17.17.36:26349#BY%F0%9F%87%A7%F0%9F%87%BE+%7C+134.17.17.36-26349+%7C+124.27ms
+ss://1401682c-0e47-4eb9-b5ab-98243655be9b@91.149.167.240:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=8WQHCqfqEp4X6Jh0E-Uuvw1Z1b8p_VC3_kN1fwxfB0o&security=reality&sid=e31b66be0cd67c8b&sni=www.apple.com&type=tcp#REALITY|BY🇧🇾
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPTUg5N0k3bVJOQmNVdWdLczJhOE9n@134.17.17.36:26349#BY%F0%9F%87%A7%F0%9F%87%BE+%7C+134.17.17.36-26349+%7C+112.08ms
 ss://acbabca-acab-bcaa-abdc-bbccaabaccab@127.0.0.1:8080?security=tls&type=tcp#👨🏻‍💻%20DEVELOPED-BY%20@YEBEKHE
+vless://1401682c-0e47-4eb9-b5ab-98243655be9b@91.149.167.240:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=8WQHCqfqEp4X6Jh0E-Uuvw1Z1b8p_VC3_kN1fwxfB0o&security=reality&sid=e31b66be0cd67c8b&sni=www.apple.com&type=tcp#REALITY|BY🇧🇾
 vless://acbabca-acab-bcaa-abdc-bbccaabaccab@127.0.0.1:8080?security=tls&type=tcp#👨🏻‍💻%20DEVELOPED-BY%20@YEBEKHE
