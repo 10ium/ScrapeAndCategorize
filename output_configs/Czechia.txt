@@ -1,4 +1,4 @@
-ss://b36fa3f7-daff-453a-85a1-429b1b981815@95.85.235.2:8083?encryption=none&fp=chrome&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&security=reality&sid=7dbf7d3233971d5c&sni=max.ru&type=tcp#REALITY|CZ🇨🇿
-ss://b36fa3f7-daff-453a-85a1-429b1b981815@95.85.235.2:8181?encryption=none&fp=chrome&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&security=reality&sid=7dbf7d3233971d5c&sni=max.ru&type=tcp#REALITY|CZ🇨🇿
-vless://b36fa3f7-daff-453a-85a1-429b1b981815@95.85.235.2:8083?encryption=none&fp=chrome&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&security=reality&sid=7dbf7d3233971d5c&sni=max.ru&type=tcp#REALITY|CZ🇨🇿
-vless://b36fa3f7-daff-453a-85a1-429b1b981815@95.85.235.2:8181?encryption=none&fp=chrome&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&security=reality&sid=7dbf7d3233971d5c&sni=max.ru&type=tcp#REALITY|CZ🇨🇿
+ss://d1209ffb-c159-48d5-b40d-542ce11fc768@desta.axinode.sbs:10965?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=lHxeD2nYtDb1V7JseV-sUTEuqH6_jie7U_iOARX7cT0&security=reality&sid=9f3a7c6d2e8b41af&sni=deepl.com&type=tcp#REALITY|CZ🇨🇿
+ss://e44c9ff3-5a05-4ee9-b050-b8fbc7c1af04@188.114.98.0:80?encryption=none&host=turbooserver-roeg-fastly.flinkywoo.com&path=%2Fed%3D2560&security=none&type=ws#CZ🇨🇿
+vless://d1209ffb-c159-48d5-b40d-542ce11fc768@desta.axinode.sbs:10965?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=lHxeD2nYtDb1V7JseV-sUTEuqH6_jie7U_iOARX7cT0&security=reality&sid=9f3a7c6d2e8b41af&sni=deepl.com&type=tcp#REALITY|CZ🇨🇿
+vless://e44c9ff3-5a05-4ee9-b050-b8fbc7c1af04@188.114.98.0:80?encryption=none&host=turbooserver-roeg-fastly.flinkywoo.com&path=%2Fed%3D2560&security=none&type=ws#CZ🇨🇿

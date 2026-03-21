@@ -1,3 +1,1 @@
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.36.27.94:989#%F0%9F%87%A9%F0%9F%87%B0DK-192.36.27.94-0278
-ss://b73855fb-2ec9-4039-935a-a206dda339f8@144.31.242.14:443?security=reality&encryption=none&pbk=zqpRqT4mXPEh8LEBDqSMmRRTrDT-pF6Idv2Z0NXGUCk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dk.darknet.run&sid=a1b223d4#🆔soskeynet%20🔒%20VL-TCP-%20🇩🇰%20DK%20down
-vless://b73855fb-2ec9-4039-935a-a206dda339f8@144.31.242.14:443?security=reality&encryption=none&pbk=zqpRqT4mXPEh8LEBDqSMmRRTrDT-pF6Idv2Z0NXGUCk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dk.darknet.run&sid=a1b223d4#🆔soskeynet%20🔒%20VL-TCP-%20🇩🇰%20DK%20down
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.36.27.94:989#%F0%9F%87%A9%F0%9F%87%B0DK-192.36.27.94-0264
