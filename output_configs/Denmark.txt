@@ -1,3 +1,1 @@
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.36.27.94:989#%F0%9F%87%A9%F0%9F%87%B0DK-192.36.27.94-0280
-ss://e67ceb89-26d2-4718-ac40-9e072eee39f9@freefamily.shop:8443?type=ws&encryption=none&path=%2Fws&host=cdn.freefamily.shop&security=none#🆔soskeynet%20🔓%20VL-WS-N/A%20🇩🇰%20DK%20down
-vless://e67ceb89-26d2-4718-ac40-9e072eee39f9@freefamily.shop:8443?type=ws&encryption=none&path=%2Fws&host=cdn.freefamily.shop&security=none#🆔soskeynet%20🔓%20VL-WS-N/A%20🇩🇰%20DK%20down
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.36.27.94:989#%F0%9F%87%A9%F0%9F%87%B0DK-192.36.27.94-0253

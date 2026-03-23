@@ -1,5 +1,4 @@
 ss://1c7fcc38-e6be-43c5-875f-b8de2516b9f2@5.182.38.91:17267?security=reality&encryption=none&pbk=SnWZg6ORcQepuWLI1EVCTTVc4KyfDiGWR4o_CXCMhgk&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=4ae260#REALITY|HU🇭🇺
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2OE5LaVN4aWxHVnNsb2RGUFdXTFI4@194.71.130.26:2949#HU%F0%9F%87%AD%F0%9F%87%BA+%7C+194.71.130.26-2949+%7C+142.3ms
-ss://d65cc14c-f53f-4fe2-b262-97856601319c@87.229.97.154:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&security=reality&sid=c39cc7310a&sni=yahoo.com&type=tcp#REALITY|HU🇭🇺
+ss://d65cc14c-f53f-4fe2-b262-97856601319c@87.229.97.231:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&security=reality&sid=c39cc7310a&sni=yahoo.com&type=tcp#REALITY|HU🇭🇺
 vless://1c7fcc38-e6be-43c5-875f-b8de2516b9f2@5.182.38.91:17267?security=reality&encryption=none&pbk=SnWZg6ORcQepuWLI1EVCTTVc4KyfDiGWR4o_CXCMhgk&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=4ae260#REALITY|HU🇭🇺
-vless://d65cc14c-f53f-4fe2-b262-97856601319c@87.229.97.154:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&security=reality&sid=c39cc7310a&sni=yahoo.com&type=tcp#REALITY|HU🇭🇺
+vless://d65cc14c-f53f-4fe2-b262-97856601319c@87.229.97.231:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&security=reality&sid=c39cc7310a&sni=yahoo.com&type=tcp#REALITY|HU🇭🇺
