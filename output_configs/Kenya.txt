@@ -1,2 +1,0 @@
-ss://77605116-fc3d-4d30-827b-da4338cca255@ke-1.vpnd.io:19938?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=_nqSXF5ujl6eQd687N9Q3ClknW8BEQmI4vO2dFpS2l8&security=reality&sid=2adf17&sni=amazon.com&type=tcp#REALITY|KE🇰🇪
-vless://77605116-fc3d-4d30-827b-da4338cca255@ke-1.vpnd.io:19938?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=_nqSXF5ujl6eQd687N9Q3ClknW8BEQmI4vO2dFpS2l8&security=reality&sid=2adf17&sni=amazon.com&type=tcp#REALITY|KE🇰🇪

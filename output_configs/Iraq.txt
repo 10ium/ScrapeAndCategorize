@@ -1,4 +1,4 @@
-ss://7dc5d455-5ce5-4d6a-a9fa-ba69132133c7@178.17.52.29:8083?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SziXMkSTuvedEFS4DE-WY0a4Hb87Y22VW0TgE9IPDjA&security=reality&sid=425ba80cd1a821a8&sni=www.apple.com&type=tcp#REALITY|IQ🇮🇶
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5cHJnWmJCN3hETDRQU3ZFNHdKVTRt@81.90.29.126:53672#IQ%F0%9F%87%AE%F0%9F%87%B6+%7C+81.90.29.126-53672+%7C+148.08ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5cHJnWmJCN3hETDRQU3ZFNHdKVTRt@81.90.29.126:53672#IQ%F0%9F%87%AE%F0%9F%87%B6+%7C+81.90.29.126-53672+%7C+149.35ms
-vless://7dc5d455-5ce5-4d6a-a9fa-ba69132133c7@178.17.52.29:8083?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SziXMkSTuvedEFS4DE-WY0a4Hb87Y22VW0TgE9IPDjA&security=reality&sid=425ba80cd1a821a8&sni=www.apple.com&type=tcp#REALITY|IQ🇮🇶
+ss://062e6bee-c3f2-42e7-a1c1-e09305b2cffe@178.17.48.57:443?security=reality&encryption=none&pbk=gmcaceHetuS4yBVtFAlZbhupbpkmpqPrm38lM2Vfjks&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=de.moktana.digital&sid=e751cbd976552088#REALITY|IQ🇮🇶
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5cHJnWmJCN3hETDRQU3ZFNHdKVTRt@81.90.29.126:53672#IQ%F0%9F%87%AE%F0%9F%87%B6+%7C+81.90.29.126-53672+%7C+142.51ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5cHJnWmJCN3hETDRQU3ZFNHdKVTRt@81.90.29.126:53672#IQ%F0%9F%87%AE%F0%9F%87%B6+%7C+81.90.29.126-53672+%7C+149.51ms
+vless://062e6bee-c3f2-42e7-a1c1-e09305b2cffe@178.17.48.57:443?security=reality&encryption=none&pbk=gmcaceHetuS4yBVtFAlZbhupbpkmpqPrm38lM2Vfjks&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=de.moktana.digital&sid=e751cbd976552088#REALITY|IQ🇮🇶
