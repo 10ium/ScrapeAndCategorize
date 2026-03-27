@@ -1,0 +1,2 @@
+ss://fd37be2f-f8d1-47de-97e8-13c28107d31e@194.87.44.157:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=iCY6H8CpnIfqmIkEABduJEAeJrnYS089R1-jKEyVp3w&security=reality&sid=bff3&sni=nld10.frostbot.ru&type=tcp#REALITY|CZ🇨🇿
+vless://fd37be2f-f8d1-47de-97e8-13c28107d31e@194.87.44.157:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=iCY6H8CpnIfqmIkEABduJEAeJrnYS089R1-jKEyVp3w&security=reality&sid=bff3&sni=nld10.frostbot.ru&type=tcp#REALITY|CZ🇨🇿
