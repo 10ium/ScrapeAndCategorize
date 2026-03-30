@@ -1,10 +1,8 @@
 ss://28a6ce90-7fd8-4aff-99b1-726083fcd5dc@138.124.32.50:2443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=jyAmrIladACAoSP0EEcUhxvYUNj0ftL132BFqhtcK2Q&security=reality&sid=0ec0e06a8bb19bc1&sni=use.typekit.net&type=tcp#REALITY|CH🇨🇭
-ss://6e44b298-a091-4433-af5e-c89afd438c98@ch-4.hwowst.ru:443?security=reality&encryption=none&pbk=alCKf4MZILvvBYncFnXEpX1V1rcdFJb78JtDBL-VjFE&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.samsung.com#REALITY|CH🇨🇭
 ss://7c3f08c8-7b3b-4028-91d8-378a18c2b62a@185.227.149.123:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mycatcollection.com&sid=6ba85179e30d4fc2#REALITY|CH🇨🇭
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.180.161.123:8119#CH%F0%9F%87%A8%F0%9F%87%AD+%7C+38.180.161.123-8119+%7C+120.1ms
-ss://a16bd0e2-ff2e-4e4c-a955-0c684255a065@ch.fasti.win:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=-YTGWg5DjsLDyaDfr1D83kiUK22LVcrK3yC53lqqigs&security=reality&sid=feedbacc&sni=ch.fasti.win&type=tcp#REALITY|CH🇨🇭
-ss://d342d11ed4244583b36e524ab1f0afa4Og==@185.18.250.121:2095#CH%F0%9F%87%A8%F0%9F%87%AD+%7C+185.18.250.121-2095+%7C+2.35ms
+ss://9eac77f6-7813-45ab-9a5f-39d7e7d153c1@ch-gt-01.com:8443?security=reality&encryption=none&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=d515d6cfdfe60b02#REALITY|CH🇨🇭
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.180.161.123:8119#CH%F0%9F%87%A8%F0%9F%87%AD+%7C+38.180.161.123-8119+%7C+113.61ms
+ss://d342d11ed4244583b36e524ab1f0afa4Og==@185.18.250.121:2095#CH%F0%9F%87%A8%F0%9F%87%AD+%7C+185.18.250.121-2095+%7C+2.26ms
 vless://28a6ce90-7fd8-4aff-99b1-726083fcd5dc@138.124.32.50:2443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=jyAmrIladACAoSP0EEcUhxvYUNj0ftL132BFqhtcK2Q&security=reality&sid=0ec0e06a8bb19bc1&sni=use.typekit.net&type=tcp#REALITY|CH🇨🇭
-vless://6e44b298-a091-4433-af5e-c89afd438c98@ch-4.hwowst.ru:443?security=reality&encryption=none&pbk=alCKf4MZILvvBYncFnXEpX1V1rcdFJb78JtDBL-VjFE&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.samsung.com#REALITY|CH🇨🇭
 vless://7c3f08c8-7b3b-4028-91d8-378a18c2b62a@185.227.149.123:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mycatcollection.com&sid=6ba85179e30d4fc2#REALITY|CH🇨🇭
-vless://a16bd0e2-ff2e-4e4c-a955-0c684255a065@ch.fasti.win:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=-YTGWg5DjsLDyaDfr1D83kiUK22LVcrK3yC53lqqigs&security=reality&sid=feedbacc&sni=ch.fasti.win&type=tcp#REALITY|CH🇨🇭
+vless://9eac77f6-7813-45ab-9a5f-39d7e7d153c1@ch-gt-01.com:8443?security=reality&encryption=none&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=d515d6cfdfe60b02#REALITY|CH🇨🇭

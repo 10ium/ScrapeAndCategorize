@@ -1,7 +1,12 @@
+ss://1027b850-de79-4a94-b337-eccdac28e141@104.18.32.47:443?allowInsecure=1&encryption=none&host=g.sandesh.qzz.io&path=%2Fvless&security=tls&sni=g.sandesh.qzz.io&type=ws#IN🇮🇳
+ss://1027b850-de79-4a94-b337-eccdac28e141@172.64.155.209:443?allowInsecure=1&encryption=none&host=g.sandesh.qzz.io&path=%2Fvless&security=tls&sni=g.sandesh.qzz.io&type=ws#IN🇮🇳
 ss://5f39f871-2fae-446e-99ad-719fa8be687c@194.61.31.126:443?type=grpc&encryption=none&flow=&serviceName=78e691d782c9b9b2cd3c5621&sni=www.microsoft.com&fp=safari&security=reality&pbk=L3UuY_lketYWBrW_naLct9-VFIAGwdtMplkubdHdEHQ&sid=ce874361e8dfcd4e#REALITY|IN🇮🇳
-ss://YWVzLTEyOC1nY206MTYyNjI5ZDctY2IxNy00M2IxLTgyYzktZjljN2FlNmNiYTcw@82.180.146.173:30607#IN%F0%9F%87%AE%F0%9F%87%B3+%7C+82.180.146.173-30607+%7C+203.41ms
-ss://YWVzLTEyOC1nY206MTYyNjI5ZDctY2IxNy00M2IxLTgyYzktZjljN2FlNmNiYTcw@82.180.146.173:30607#IN%F0%9F%87%AE%F0%9F%87%B3+%7C+82.180.146.173-30607+%7C+220.45ms
-ss://YWVzLTEyOC1nY206OTM0OTg1MzktNzgzOC00ODM2LWI5YjMtODMxMWZmYzc5YmNm@82.180.146.173:35652#%F0%9F%87%AE%F0%9F%87%B3IN-82.180.146.173-0294
-ss://YWVzLTEyOC1nY206OTM0OTg1MzktNzgzOC00ODM2LWI5YjMtODMxMWZmYzc5YmNm@82.180.146.173:35652#IN%F0%9F%87%AE%F0%9F%87%B3+%7C+82.180.146.173-35652+%7C+208.05ms
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@134.209.147.198:989#%F0%9F%87%AE%F0%9F%87%B3IN-134.209.147.198-0332
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@103.97.203.227:990#%F0%9F%87%AE%F0%9F%87%B3IN-103.97.203.227-4791
+ss://YWVzLTEyOC1nY206MTYyNjI5ZDctY2IxNy00M2IxLTgyYzktZjljN2FlNmNiYTcw@82.180.146.173:30607#IN%F0%9F%87%AE%F0%9F%87%B3+%7C+82.180.146.173-30607+%7C+208.4ms
+ss://YWVzLTEyOC1nY206MTYyNjI5ZDctY2IxNy00M2IxLTgyYzktZjljN2FlNmNiYTcw@82.180.146.173:30607#IN%F0%9F%87%AE%F0%9F%87%B3+%7C+82.180.146.173-30607+%7C+217.84ms
+ss://YWVzLTEyOC1nY206OTM0OTg1MzktNzgzOC00ODM2LWI5YjMtODMxMWZmYzc5YmNm@82.180.146.173:35652#%F0%9F%87%AE%F0%9F%87%B3IN-82.180.146.173-0280
+ss://YWVzLTEyOC1nY206OTM0OTg1MzktNzgzOC00ODM2LWI5YjMtODMxMWZmYzc5YmNm@82.180.146.173:35652#IN%F0%9F%87%AE%F0%9F%87%B3+%7C+82.180.146.173-35652+%7C+208.34ms
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@134.209.147.198:989#%F0%9F%87%AE%F0%9F%87%B3IN-134.209.147.198-0320
+vless://1027b850-de79-4a94-b337-eccdac28e141@104.18.32.47:443?allowInsecure=1&encryption=none&host=g.sandesh.qzz.io&path=%2Fvless&security=tls&sni=g.sandesh.qzz.io&type=ws#IN🇮🇳
+vless://1027b850-de79-4a94-b337-eccdac28e141@172.64.155.209:443?allowInsecure=1&encryption=none&host=g.sandesh.qzz.io&path=%2Fvless&security=tls&sni=g.sandesh.qzz.io&type=ws#IN🇮🇳
 vless://5f39f871-2fae-446e-99ad-719fa8be687c@194.61.31.126:443?type=grpc&encryption=none&flow=&serviceName=78e691d782c9b9b2cd3c5621&sni=www.microsoft.com&fp=safari&security=reality&pbk=L3UuY_lketYWBrW_naLct9-VFIAGwdtMplkubdHdEHQ&sid=ce874361e8dfcd4e#REALITY|IN🇮🇳
