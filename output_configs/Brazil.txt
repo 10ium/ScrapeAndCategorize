@@ -1,7 +1,1 @@
-ss://1effb118-1f2d-4577-a689-20e21fb50b13@104.64.32.87:443?mode=multi&security=reality&encryption=none&pbk=LXCcjZmNLdp52SG4KRQ6n_yTjkMO9ZkxQGBf3RJ8tiM&fp=firefox&spx=%2F&type=grpc&serviceName=mci.ir&sni=www.telewebion.ir&sid=cf5415b64e15#🆔soskeynet%20🔒%20VL-GRPC-%20🇧🇷%20BR%20down
-ss://9c0b4941-5f45-4445-9f58-3f52cf41c137@104.64.32.87:5984?type=tcp&encryption=none&security=none#🆔conectvpn10%20🔓%20VL-TCP-N/A%20🇧🇷%20BR%20down
-ss://9c0b4941-5f45-4445-9f58-3f52cf41c137@104.64.32.87:5984?type=tcp&encryption=none&security=none#🆔soskeynet%20🔓%20VL-TCP-N/A%20🇧🇷%20BR%20down
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@38.54.57.90:989#%F0%9F%87%A7%F0%9F%87%B7BR-38.54.57.90-0288
-vless://1effb118-1f2d-4577-a689-20e21fb50b13@104.64.32.87:443?mode=multi&security=reality&encryption=none&pbk=LXCcjZmNLdp52SG4KRQ6n_yTjkMO9ZkxQGBf3RJ8tiM&fp=firefox&spx=%2F&type=grpc&serviceName=mci.ir&sni=www.telewebion.ir&sid=cf5415b64e15#🆔soskeynet%20🔒%20VL-GRPC-%20🇧🇷%20BR%20down
-vless://9c0b4941-5f45-4445-9f58-3f52cf41c137@104.64.32.87:5984?type=tcp&encryption=none&security=none#🆔conectvpn10%20🔓%20VL-TCP-N/A%20🇧🇷%20BR%20down
-vless://9c0b4941-5f45-4445-9f58-3f52cf41c137@104.64.32.87:5984?type=tcp&encryption=none&security=none#🆔soskeynet%20🔓%20VL-TCP-N/A%20🇧🇷%20BR%20down
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@38.54.57.90:989#%F0%9F%87%A7%F0%9F%87%B7BR-38.54.57.90-0289
