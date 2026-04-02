@@ -1,4 +1,3 @@
-ss://04621baeab3611ecb9090242ac120002Og==@45.92.70.236:22324#IT%F0%9F%87%AE%F0%9F%87%B9+%7C+45.92.70.236-22324+%7C+89.3ms
 ss://1ca56379-e44b-4694-bee8-9874ca8fd248@80.211.236.125:443?alpn=h2&flow=xtls-rprx-vision&fp=chrome&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&security=reality&sid=&sni=gmail.com&type=tcp#%F0%9F%87%AE%F0%9F%87%B9%20Italy,%20Arezzo%20%5BBL%5D%20(2)
 ss://29632408-8a2f-4bfc-a7b3-c8c8cdb220ac@80.211.236.42:443?alpn=h2&flow=xtls-rprx-vision&fp=chrome&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&security=reality&sid=&sni=gmail.com&type=tcp#%F0%9F%87%AE%F0%9F%87%B9%20Italy,%20Arezzo%20%5BBL%5D%20(1)
 ss://a3dd7bef-f742-4ee4-897e-0d91629571bb@80.211.236.167:443?alpn=h2&flow=xtls-rprx-vision&fp=chrome&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&security=reality&sid=&sni=gmail.com&type=tcp#%F0%9F%87%AE%F0%9F%87%B9%20Italy,%20Arezzo%20%5BBL%5D
