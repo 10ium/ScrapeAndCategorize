@@ -1,3 +1,3 @@
-ss://1218c022-dca8-49e5-b7d4-a04f3023db81@nr-01.opsvpnvless.ru:443?security=reality&encryption=none&pbk=2ryk_zFs_pzxv-bL9FkOk0Jb5oQw1jAbyXjp6oh96R0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=stats.vk-portal.net&sid=4e249e62#🆔soskeynet%20🔒%20VL-TCP-%20🇳🇴%20NO%20down
-trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?security=tls&sni=www.semanticstaplegun.click#%F0%9F%87%B3%F0%9F%87%B4NO-80.173.231.254-0257
-vless://1218c022-dca8-49e5-b7d4-a04f3023db81@nr-01.opsvpnvless.ru:443?security=reality&encryption=none&pbk=2ryk_zFs_pzxv-bL9FkOk0Jb5oQw1jAbyXjp6oh96R0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=stats.vk-portal.net&sid=4e249e62#🆔soskeynet%20🔒%20VL-TCP-%20🇳🇴%20NO%20down
+ss://WTJoaFkyaGhNakF0YVdWMFppMXdiMng1TVRNd05UcFlObUowWWxKMlNrTnZNM1ZVVVMwdGVXRmhWRGhOZG1nd1EyZHhhRmxVVEE6@148.135.195.95:8388#🆔soskeynet%20🔒%20SS-TCP-TLS%20🇳🇴%20NO%20107ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYNmJ0YlJ2SkNvM3VUUS0teWFhVDhNdmgwQ2dxaFlUTA==@148.135.195.95:8388#🆔soskeynet%20🔒%20SS-TCP-TLS%20🇳🇴%20NO%20113ms
+trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?security=tls&sni=www.semanticstaplegun.click#%F0%9F%87%B3%F0%9F%87%B4NO-80.173.231.254-0242
