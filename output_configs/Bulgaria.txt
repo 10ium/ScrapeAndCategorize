@@ -1,8 +1,6 @@
-ss://6202b230-417c-4d8e-b624-0f71afa9c75d@147.78.140.238:2096?path=%2F&security=tls&encryption=none&host=sni.jpmj.dev&type=ws&sni=sni.jpmj.dev#🆔soskeynet%20🔒%20VL-WS-N/A%20🇧🇬%20BG%202ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6RExtZVdSc2ZjRmRLVDFUcHkwMnhvZEVUb3FDbGRUeHZaY1JvUElaWnRCZG5JRUw=@89.44.197.181:31348#%F0%9F%87%A7%F0%9F%87%ACBG-89.44.197.181-0228
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLYm0zeG9LMDRwNE9ob3FWcEV6ZGxq@95.164.113.198:53829#BG%F0%9F%87%A7%F0%9F%87%AC+%7C+95.164.113.198-53829+%7C+125.46ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjSnZHa1hMUWcxVENvdXY4Qm1FMFh1@95.164.113.153:5669#BG%F0%9F%87%A7%F0%9F%87%AC+%7C+95.164.113.153-5669+%7C+126.34ms
-ss://fab7bf9cddb945638a04fb01ce6c0fbfOg==@147.78.140.20:8880#BG%F0%9F%87%A7%F0%9F%87%AC+%7C+147.78.140.20-8880+%7C+1.94ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6RExtZVdSc2ZjRmRLVDFUcHkwMnhvZEVUb3FDbGRUeHZaY1JvUElaWnRCZG5JRUw=@89.44.197.181:31348#%F0%9F%87%A7%F0%9F%87%ACBG-89.44.197.181-0223
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLYm0zeG9LMDRwNE9ob3FWcEV6ZGxq@95.164.113.198:53829#BG%F0%9F%87%A7%F0%9F%87%AC+%7C+95.164.113.198-53829+%7C+163.95ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjSnZHa1hMUWcxVENvdXY4Qm1FMFh1@95.164.113.153:5669#BG%F0%9F%87%A7%F0%9F%87%AC+%7C+95.164.113.153-5669+%7C+163.62ms
+ss://fab7bf9cddb945638a04fb01ce6c0fbfOg==@147.78.140.20:8880#BG%F0%9F%87%A7%F0%9F%87%AC+%7C+147.78.140.20-8880+%7C+10.03ms
 ss://fe10ab92c5bc4d48a563749f58e930a5@95.164.113.153:8443?encryption=none&type=xhttp&path=%2Fx&security=reality&sni=finland.fi&pbk=w5QtssSmdSWwtq06dNsFeU8o_XYZkWAxi8RjsWHNd30&sid=aabbccdd&fp=random#REALITY|BG🇧🇬
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@147.78.140.238:2096?path=%2F&security=tls&encryption=none&host=sni.jpmj.dev&type=ws&sni=sni.jpmj.dev#🆔soskeynet%20🔒%20VL-WS-N/A%20🇧🇬%20BG%202ms
 vless://fe10ab92c5bc4d48a563749f58e930a5@95.164.113.153:8443?encryption=none&type=xhttp&path=%2Fx&security=reality&sni=finland.fi&pbk=w5QtssSmdSWwtq06dNsFeU8o_XYZkWAxi8RjsWHNd30&sid=aabbccdd&fp=random#REALITY|BG🇧🇬

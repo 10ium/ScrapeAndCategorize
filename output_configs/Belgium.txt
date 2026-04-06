@@ -1,3 +1,1 @@
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.71.249.78:989#%F0%9F%87%A7%F0%9F%87%AABE-192.71.249.78-0268
-ss://fecdbda8-69b2-449a-b8d5-e798ff1c1e6d@fs.cedriklorenz.ir:443?security=tls&encryption=none&insecure=1&host=ukamanaji.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=speedtest.net#🆔ar14n24b%20🔒%20VL-WS-N/A%20🇧🇪%20BE%20104ms
-vless://fecdbda8-69b2-449a-b8d5-e798ff1c1e6d@fs.cedriklorenz.ir:443?security=tls&encryption=none&insecure=1&host=ukamanaji.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=speedtest.net#🆔ar14n24b%20🔒%20VL-WS-N/A%20🇧🇪%20BE%20104ms
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.71.249.78:989#%F0%9F%87%A7%F0%9F%87%AABE-192.71.249.78-0247
