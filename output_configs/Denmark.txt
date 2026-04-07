@@ -1,3 +1,1 @@
-ss://89f8f53c-2ec5-11f1-bffe-46c4782ac1a7@193.233.253.77:8443?security=reality&encryption=none&pbk=FVL0r87K3-vUP2KXQX1juLMFEHJtvxwKM-nm6_PYllc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=cafe01234567#🆔soskeynet%20🔒%20VL-TCP-%20🇩🇰%20DK%20154ms
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.36.27.94:989#%F0%9F%87%A9%F0%9F%87%B0DK-192.36.27.94-0245
-vless://89f8f53c-2ec5-11f1-bffe-46c4782ac1a7@193.233.253.77:8443?security=reality&encryption=none&pbk=FVL0r87K3-vUP2KXQX1juLMFEHJtvxwKM-nm6_PYllc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=cafe01234567#🆔soskeynet%20🔒%20VL-TCP-%20🇩🇰%20DK%20154ms
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.36.27.94:989#%F0%9F%87%A9%F0%9F%87%B0DK-192.36.27.94-0291
