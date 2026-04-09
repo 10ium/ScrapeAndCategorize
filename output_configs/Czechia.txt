@@ -1,4 +1,3 @@
-ss://43488128-319e-f480-64ea-0acdc712e2a8@86.54.82.239:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=xzCEjrybgdtiyOYNKgEAEWzHjvsE2Pkj198_Ch1gZ2U&security=reality&sid=41427aa565e28984&sni=store.steampowered.com&type=tcp#REALITY|CZ🇨🇿
-ss://e44c9ff3-5a05-4ee9-b050-b8fbc7c1af04@188.114.98.0:80?path=%2Fed%3D2560&security=none&encryption=none&host=turbooserver-roeg-fastly.flinkywoo.com&type=ws#CZ🇨🇿
-vless://43488128-319e-f480-64ea-0acdc712e2a8@86.54.82.239:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=xzCEjrybgdtiyOYNKgEAEWzHjvsE2Pkj198_Ch1gZ2U&security=reality&sid=41427aa565e28984&sni=store.steampowered.com&type=tcp#REALITY|CZ🇨🇿
-vless://e44c9ff3-5a05-4ee9-b050-b8fbc7c1af04@188.114.98.0:80?path=%2Fed%3D2560&security=none&encryption=none&host=turbooserver-roeg-fastly.flinkywoo.com&type=ws#CZ🇨🇿
+ss://d1209ffb-c159-48d5-b40d-542ce11fc768@desta.axinode.sbs:10965?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=lHxeD2nYtDb1V7JseV-sUTEuqH6_jie7U_iOARX7cT0&security=reality&sid=9f3a7c6d2e8b41af&sni=deepl.com&type=tcp#REALITY|CZ🇨🇿
+trojan://3gLlCYBipVwr6Y5F@92.118.149.85:443?security=tls#%F0%9F%87%A8%F0%9F%87%BFCZ-92.118.149.85-2269
+vless://d1209ffb-c159-48d5-b40d-542ce11fc768@desta.axinode.sbs:10965?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=lHxeD2nYtDb1V7JseV-sUTEuqH6_jie7U_iOARX7cT0&security=reality&sid=9f3a7c6d2e8b41af&sni=deepl.com&type=tcp#REALITY|CZ🇨🇿
