@@ -1,11 +1,11 @@
-ss://27f142d8-4ed4-5608-ac23-d0b47f4ee4cb@2.59.219.201:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=7wwQRVkoMP2NGEF_4T1q4sPfwy8_MVcRlDQ21cf3dgs&sid=3eb0d908b9fcdbdb&sni=dell.com#REALITY|CH🇨🇭
 ss://7c3f08c8-7b3b-4028-91d8-378a18c2b62a@185.227.149.123:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mycatcollection.com&sid=6ba85179e30d4fc2#REALITY|CH🇨🇭
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYNmJ0YlJ2SkNvM3VUUS0teWFhVDhNdmgwQ2dxaFlUTA==@95.85.239.225:8388#CH%F0%9F%87%A8%F0%9F%87%AD+%7C+95.85.239.225-8388+%7C+104.81ms
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.180.161.123:8119#CH%F0%9F%87%A8%F0%9F%87%AD+%7C+38.180.161.123-8119+%7C+108.52ms
+ss://8836eecd-0455-4e2e-8e78-d5938b565029@ch-gt-01.com:8443?security=reality&encryption=none&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=d037f6f67cc90016#REALITY|CH🇨🇭
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYNmJ0YlJ2SkNvM3VUUS0teWFhVDhNdmgwQ2dxaFlUTA==@95.85.239.225:8388#CH%F0%9F%87%A8%F0%9F%87%AD+%7C+95.85.239.225-8388+%7C+134.89ms
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.180.161.123:8119#CH%F0%9F%87%A8%F0%9F%87%AD+%7C+38.180.161.123-8119+%7C+152.05ms
 ss://c8d1c6d3-388f-48fc-a8f0-ed90d955d096@95.85.239.4:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=nPcUKydxoRI66O3tT9O4QCZpLjOBvkGsiXG7pDX1BBw&security=reality&sid=6ba85179e30d4fc2&sni=www.google.com&type=tcp#REALITY|CH🇨🇭
 ss://c8d65a3a-5002-4dff-bfd6-d4b9ef90b9cc@138.124.64.28:443?encryption=none&security=none&serviceName=pol-x1.plugvpn.ru&type=grpc#CH🇨🇭
-ss://d342d11ed4244583b36e524ab1f0afa4Og==@185.18.250.121:2095#CH%F0%9F%87%A8%F0%9F%87%AD+%7C+185.18.250.121-2095+%7C+3.15ms
-vless://27f142d8-4ed4-5608-ac23-d0b47f4ee4cb@2.59.219.201:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=7wwQRVkoMP2NGEF_4T1q4sPfwy8_MVcRlDQ21cf3dgs&sid=3eb0d908b9fcdbdb&sni=dell.com#REALITY|CH🇨🇭
+ss://d342d11ed4244583b36e524ab1f0afa4Og==@185.18.250.121:2095#CH%F0%9F%87%A8%F0%9F%87%AD+%7C+185.18.250.121-2095+%7C+18.14ms
 vless://7c3f08c8-7b3b-4028-91d8-378a18c2b62a@185.227.149.123:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mycatcollection.com&sid=6ba85179e30d4fc2#REALITY|CH🇨🇭
+vless://8836eecd-0455-4e2e-8e78-d5938b565029@ch-gt-01.com:8443?security=reality&encryption=none&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=d037f6f67cc90016#REALITY|CH🇨🇭
 vless://c8d1c6d3-388f-48fc-a8f0-ed90d955d096@95.85.239.4:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=nPcUKydxoRI66O3tT9O4QCZpLjOBvkGsiXG7pDX1BBw&security=reality&sid=6ba85179e30d4fc2&sni=www.google.com&type=tcp#REALITY|CH🇨🇭
 vless://c8d65a3a-5002-4dff-bfd6-d4b9ef90b9cc@138.124.64.28:443?encryption=none&security=none&serviceName=pol-x1.plugvpn.ru&type=grpc#CH🇨🇭
