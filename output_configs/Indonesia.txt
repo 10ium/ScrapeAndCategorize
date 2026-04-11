@@ -1,6 +1,4 @@
-ss://0d6b5af6-17df-4bb1-af76-e524f00602a5@172.232.248.242:2321?encryption=none&security=none&type=tcp#ID🇮🇩
-ss://4b056394-2f40-11f1-bffe-46c4782ac1a7@202.155.11.73:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FVL0r87K3-vUP2KXQX1juLMFEHJtvxwKM-nm6_PYllc&security=reality&sid=deadbeef42&sni=www.apple.com&type=tcp#REALITY|ID🇮🇩
+ss://4b056394-2f40-11f1-bffe-46c4782ac1a7@202.155.11.73:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.apple.com&fp=chrome&pbk=FVL0r87K3-vUP2KXQX1juLMFEHJtvxwKM-nm6_PYllc&sid=deadbeef42&type=tcp&headerType=none#REALITY|ID🇮🇩
 ss://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@ChatGPT.com:443?flow=&host=afrcloud22.mmv.kr&path=%2F156.244.1.250%3D8443&security=tls&sni=ProxyVPN11.afrcloud22.mmv.kr&type=ws#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BCloudflare%5D%20%7C%20ID,%20RU%20%7C%20%5BBL%5D
-vless://0d6b5af6-17df-4bb1-af76-e524f00602a5@172.232.248.242:2321?encryption=none&security=none&type=tcp#ID🇮🇩
-vless://4b056394-2f40-11f1-bffe-46c4782ac1a7@202.155.11.73:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FVL0r87K3-vUP2KXQX1juLMFEHJtvxwKM-nm6_PYllc&security=reality&sid=deadbeef42&sni=www.apple.com&type=tcp#REALITY|ID🇮🇩
+vless://4b056394-2f40-11f1-bffe-46c4782ac1a7@202.155.11.73:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.apple.com&fp=chrome&pbk=FVL0r87K3-vUP2KXQX1juLMFEHJtvxwKM-nm6_PYllc&sid=deadbeef42&type=tcp&headerType=none#REALITY|ID🇮🇩
 vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@ChatGPT.com:443?flow=&host=afrcloud22.mmv.kr&path=%2F156.244.1.250%3D8443&security=tls&sni=ProxyVPN11.afrcloud22.mmv.kr&type=ws#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BCloudflare%5D%20%7C%20ID,%20RU%20%7C%20%5BBL%5D

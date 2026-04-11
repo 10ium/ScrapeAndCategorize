@@ -1,4 +1,6 @@
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@38.54.57.90:989#%F0%9F%87%A7%F0%9F%87%B7BR-38.54.57.90-0269
+ss://8d5e7f2a-3c1b-4d9e-a6f8-2b5c0e7d4a19@shenbaoluo1.zqjsqapi.com:443?type=ws&encryption=none&host=shenbaoluo1.zqjsqapi.com&path=%2Fproxy&headerType=none&quicSecurity=none&serviceName=&security=tls&flow=&fp=chrome&insecure=1&sni=shenbaoluo1.zqjsqapi.com#BR🇧🇷
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@38.54.57.90:989#%F0%9F%87%A7%F0%9F%87%B7BR-38.54.57.90-0337
 ss://c8d1c6d3-388f-48fc-a8f0-ed90d955d096@194.58.38.87:443?security=reality&encryption=none&pbk=nPcUKydxoRI66O3tT9O4QCZpLjOBvkGsiXG7pDX1BBw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.vk.com&sid=6ba85179e30d4fc2#REALITY|BR🇧🇷
-trojan://BvzUvt45hON9We5X9wM6I9ZrxHRcYd46QK@216.238.102.254:26593?security=tls&sni=sao2.cdn-graph.click#%F0%9F%87%A7%F0%9F%87%B7BR-216.238.102.254-0225
+trojan://BvzUvt45hON9We5X9wM6I9ZrxHRcYd46QK@216.238.102.254:26593?security=tls&sni=sao2.cdn-graph.click#%F0%9F%87%A7%F0%9F%87%B7BR-216.238.102.254-0294
+vless://8d5e7f2a-3c1b-4d9e-a6f8-2b5c0e7d4a19@shenbaoluo1.zqjsqapi.com:443?type=ws&encryption=none&host=shenbaoluo1.zqjsqapi.com&path=%2Fproxy&headerType=none&quicSecurity=none&serviceName=&security=tls&flow=&fp=chrome&insecure=1&sni=shenbaoluo1.zqjsqapi.com#BR🇧🇷
 vless://c8d1c6d3-388f-48fc-a8f0-ed90d955d096@194.58.38.87:443?security=reality&encryption=none&pbk=nPcUKydxoRI66O3tT9O4QCZpLjOBvkGsiXG7pDX1BBw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.vk.com&sid=6ba85179e30d4fc2#REALITY|BR🇧🇷
