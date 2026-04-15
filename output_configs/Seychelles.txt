@@ -1,10 +1,6 @@
-ss://401374e6df7741fbf638dad8184f175bOg==@154.197.64.43:443#SC%F0%9F%87%B8%F0%9F%87%A8+%7C+154.197.64.43-443+%7C+2.45ms
-ss://401374e6df7741fbf638dad8184f175bOg==@45.205.0.58:443#SC%F0%9F%87%B8%F0%9F%87%A8+%7C+45.205.0.58-443+%7C+2.88ms
-ss://4b481152-ba7f-4445-8cc0-d33d58546e23@7qqrbome80g.country-27.de-nfast.com:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&security=reality&sid=50&sni=tradingview.com&type=tcp#REALITY|SC🇸🇨
-ss://8836eecd-0455-4e2e-8e78-d5938b565029@ch-gt-01.com:8443?security=reality&encryption=none&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=d037f6f67cc90016#REALITY|SC🇸🇨
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@154.223.20.79:989#%F0%9F%87%B8%F0%9F%87%A8SC-154.223.20.79-0233
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@154.90.62.168:989#%F0%9F%87%B8%F0%9F%87%A8SC-154.90.62.168-0202
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@154.90.63.177:989#%F0%9F%87%B8%F0%9F%87%A8SC-154.90.63.177-0201
-ss://fab7bf9cddb945638a04fb01ce6c0fbfOg==@154.206.12.29:8880#SC%F0%9F%87%B8%F0%9F%87%A8+%7C+154.206.12.29-8880+%7C+2.58ms
-vless://4b481152-ba7f-4445-8cc0-d33d58546e23@7qqrbome80g.country-27.de-nfast.com:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&security=reality&sid=50&sni=tradingview.com&type=tcp#REALITY|SC🇸🇨
-vless://8836eecd-0455-4e2e-8e78-d5938b565029@ch-gt-01.com:8443?security=reality&encryption=none&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=d037f6f67cc90016#REALITY|SC🇸🇨
+ss://401374e6df7741fbf638dad8184f175bOg==@154.197.64.43:443#SC%F0%9F%87%B8%F0%9F%87%A8+%7C+154.197.64.43-443+%7C+7.14ms
+ss://401374e6df7741fbf638dad8184f175bOg==@45.205.0.58:443#SC%F0%9F%87%B8%F0%9F%87%A8+%7C+45.205.0.58-443+%7C+238.71ms
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@154.223.20.79:989#%F0%9F%87%B8%F0%9F%87%A8SC-154.223.20.79-4500
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@154.90.62.168:989#%F0%9F%87%B8%F0%9F%87%A8SC-154.90.62.168-0249
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@154.90.63.177:989#%F0%9F%87%B8%F0%9F%87%A8SC-154.90.63.177-0251
+ss://fab7bf9cddb945638a04fb01ce6c0fbfOg==@154.206.12.29:8880#SC%F0%9F%87%B8%F0%9F%87%A8+%7C+154.206.12.29-8880+%7C+5.52ms
