@@ -1,5 +1,3 @@
-ss://0bc2218a-4449-45a4-844a-29826d3296a9@87.252.237.249:443?encryption=none&fp=chrome&pbk=Ob1FsC_1vt2Pm7W4QyHpU4izClidZbHDh8VCWoR0gwg&security=reality&sid=10&sni=www.google.com&type=tcp#REALITY|BY🇧🇾
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPTUg5N0k3bVJOQmNVdWdLczJhOE9n@134.17.17.36:26349#BY%F0%9F%87%A7%F0%9F%87%BE+%7C+134.17.17.36-26349+%7C+122.02ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPTUg5N0k3bVJOQmNVdWdLczJhOE9n@134.17.17.36:26349#BY%F0%9F%87%A7%F0%9F%87%BE+%7C+134.17.17.36-26349+%7C+168.11ms
 ss://acbabca-acab-bcaa-abdc-bbccaabaccab@127.0.0.1:8080?security=tls&type=tcp#👨🏻‍💻%20DEVELOPED-BY%20@YEBEKHE
-vless://0bc2218a-4449-45a4-844a-29826d3296a9@87.252.237.249:443?encryption=none&fp=chrome&pbk=Ob1FsC_1vt2Pm7W4QyHpU4izClidZbHDh8VCWoR0gwg&security=reality&sid=10&sni=www.google.com&type=tcp#REALITY|BY🇧🇾
 vless://acbabca-acab-bcaa-abdc-bbccaabaccab@127.0.0.1:8080?security=tls&type=tcp#👨🏻‍💻%20DEVELOPED-BY%20@YEBEKHE
