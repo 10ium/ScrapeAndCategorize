@@ -1,3 +1,2 @@
-ss://6202b230-417c-4d8e-b624-0f71afa9c75d@156.243.83.138:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&security=tls&sni=sni.111000.indevs.in&type=ws#🆔soskeynet%20🔒%20VL-WS-N/A%20🇵🇹%20PT%2014ms
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.231.233.112:989#%F0%9F%87%B5%F0%9F%87%B9PT-185.231.233.112-4655
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@156.243.83.138:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&security=tls&sni=sni.111000.indevs.in&type=ws#🆔soskeynet%20🔒%20VL-WS-N/A%20🇵🇹%20PT%2014ms
+ss://95199b88-9cd7-4ad8-bdf2-9a746d074e6a@8.6.112.0:443?path=%2Fsaleh&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=cloudpsaleh.wantedapple.com&fp=chrome&type=ws&allowInsecure=0&sni=cloudpsaleh.wantedapple.com#PT🇵🇹
+vless://95199b88-9cd7-4ad8-bdf2-9a746d074e6a@8.6.112.0:443?path=%2Fsaleh&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=cloudpsaleh.wantedapple.com&fp=chrome&type=ws&allowInsecure=0&sni=cloudpsaleh.wantedapple.com#PT🇵🇹

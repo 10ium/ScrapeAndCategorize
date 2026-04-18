@@ -1,0 +1,2 @@
+ss://913c6074-a747-492b-a7e9-5abfcad6369d@fi.milas.click:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=DoZSKLwNQjogQMlE7oEEuB8TqpNa-umXzG-2Q6dTTEY&security=reality&sid=4fa44664f6a566d3&sni=fi.milas.click&type=tcp#REALITY|GR🇬🇷
+vless://913c6074-a747-492b-a7e9-5abfcad6369d@fi.milas.click:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=DoZSKLwNQjogQMlE7oEEuB8TqpNa-umXzG-2Q6dTTEY&security=reality&sid=4fa44664f6a566d3&sni=fi.milas.click&type=tcp#REALITY|GR🇬🇷

@@ -1,8 +1,9 @@
-ss://401374e6df7741fbf638dad8184f175bOg==@154.197.64.43:443#SC%F0%9F%87%B8%F0%9F%87%A8+%7C+154.197.64.43-443+%7C+8.99ms
+ss://401374e6df7741fbf638dad8184f175bOg==@154.197.64.43:443#SC%F0%9F%87%B8%F0%9F%87%A8+%7C+154.197.64.43-443+%7C+18.59ms
 ss://4f51ca84-43ea-4087-b8a2-938e0ccbe27a@zaeb.beestvpn.ru:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=r3Zi1TT2xyUFYi0o9Q60wQ0z9SEogEPpjhoKQfWISB4&security=reality&sid=40a54b0172dbd0f1&sni=zaeb.beestvpn.ru&type=tcp#REALITY|SC🇸🇨
-ss://5870e7d7-24e6-411a-914e-c965d7f7ae8a@154.197.75.80:80?path=%2FTelegram%3A%40%40vpnclashfa+-+597#SC🇸🇨
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@154.90.62.168:989#%F0%9F%87%B8%F0%9F%87%A8SC-154.90.62.168-0259
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@154.90.63.177:989#%F0%9F%87%B8%F0%9F%87%A8SC-154.90.63.177-0257
-ss://fab7bf9cddb945638a04fb01ce6c0fbfOg==@154.206.12.29:8880#SC%F0%9F%87%B8%F0%9F%87%A8+%7C+154.206.12.29-8880+%7C+9.62ms
+ss://9eac77f6-7813-45ab-9a5f-39d7e7d153c1@ch-gt-01.com:8443?security=reality&encryption=none&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=d515d6cfdfe60b02#REALITY|SC🇸🇨
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozMDNhYzY1ZTMwZjI4YjBi@154.205.139.9:11204#SC%F0%9F%87%B8%F0%9F%87%A8+%7C+154.205.139.9-11204+%7C+165.07ms
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@154.90.62.168:989#%F0%9F%87%B8%F0%9F%87%A8SC-154.90.62.168-0265
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@154.90.63.177:989#%F0%9F%87%B8%F0%9F%87%A8SC-154.90.63.177-0247
+ss://fab7bf9cddb945638a04fb01ce6c0fbfOg==@154.206.12.29:8880#SC%F0%9F%87%B8%F0%9F%87%A8+%7C+154.206.12.29-8880+%7C+18.52ms
 vless://4f51ca84-43ea-4087-b8a2-938e0ccbe27a@zaeb.beestvpn.ru:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=r3Zi1TT2xyUFYi0o9Q60wQ0z9SEogEPpjhoKQfWISB4&security=reality&sid=40a54b0172dbd0f1&sni=zaeb.beestvpn.ru&type=tcp#REALITY|SC🇸🇨
-vless://5870e7d7-24e6-411a-914e-c965d7f7ae8a@154.197.75.80:80?path=%2FTelegram%3A%40%40vpnclashfa+-+597#SC🇸🇨
+vless://9eac77f6-7813-45ab-9a5f-39d7e7d153c1@ch-gt-01.com:8443?security=reality&encryption=none&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=d515d6cfdfe60b02#REALITY|SC🇸🇨
