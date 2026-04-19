@@ -1,4 +1,3 @@
 ss://913c6074-a747-492b-a7e9-5abfcad6369d@gr.milas.click:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=DoZSKLwNQjogQMlE7oEEuB8TqpNa-umXzG-2Q6dTTEY&security=reality&sid=4fa44664f6a566d3&sni=gr.milas.click&type=tcp#REALITY|IQ🇮🇶
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5cHJnWmJCN3hETDRQU3ZFNHdKVTRt@81.90.29.126:53672#IQ%F0%9F%87%AE%F0%9F%87%B6+%7C+81.90.29.126-53672+%7C+137.98ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5cHJnWmJCN3hETDRQU3ZFNHdKVTRt@81.90.29.126:53672#IQ%F0%9F%87%AE%F0%9F%87%B6+%7C+81.90.29.126-53672+%7C+138.21ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5cHJnWmJCN3hETDRQU3ZFNHdKVTRt@81.90.29.126:53672#IQ%F0%9F%87%AE%F0%9F%87%B6+%7C+81.90.29.126-53672+%7C+105.4ms
 vless://913c6074-a747-492b-a7e9-5abfcad6369d@gr.milas.click:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=DoZSKLwNQjogQMlE7oEEuB8TqpNa-umXzG-2Q6dTTEY&security=reality&sid=4fa44664f6a566d3&sni=gr.milas.click&type=tcp#REALITY|IQ🇮🇶
