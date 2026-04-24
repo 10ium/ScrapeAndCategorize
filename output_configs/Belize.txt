@@ -1,2 +1,0 @@
-ss://6202b230-417c-4d8e-b624-0f71afa9c75d@45.131.208.191:2096?security=tls&fp=chrome&sni=sni.my111000.tech&type=ws&headerType=none&host=sni.my111000.tech&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F#🆔ar14n24b%20🔒%20VL-WS-N/A%20🇧🇿%20BZ%202ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.131.208.191:2096?security=tls&fp=chrome&sni=sni.my111000.tech&type=ws&headerType=none&host=sni.my111000.tech&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F#🆔ar14n24b%20🔒%20VL-WS-N/A%20🇧🇿%20BZ%202ms
