@@ -1,3 +1,1 @@
-ss://142e8693-e884-475d-80c8-8cd637b13493@94.241.140.25:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=i5a8i2AWUSMZ-rYA6hGBRCBBoe7W5ah33SCdF5JkMk4&security=reality&sid=8bcfe256cf216fd8&sni=apple.com&type=tcp#REALITY|GR🇬🇷
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjYjk1NWM4NTMwMzIwMTIw@38.54.29.57:11201#GR%F0%9F%87%AC%F0%9F%87%B7+%7C+38.54.29.57-11201+%7C+127.84ms
-vless://142e8693-e884-475d-80c8-8cd637b13493@94.241.140.25:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=i5a8i2AWUSMZ-rYA6hGBRCBBoe7W5ah33SCdF5JkMk4&security=reality&sid=8bcfe256cf216fd8&sni=apple.com&type=tcp#REALITY|GR🇬🇷
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjYjk1NWM4NTMwMzIwMTIw@38.54.29.57:11201#GR%F0%9F%87%AC%F0%9F%87%B7+%7C+38.54.29.57-11201+%7C+189.84ms
