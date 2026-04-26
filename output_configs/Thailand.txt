@@ -1,3 +1,2 @@
-ss://3e7f67de-648e-4871-b51a-a225214d41ee@47.81.39.100:443?security=reality&encryption=none&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&headerType=none&fp=chrome&type=tcp&sni=api.digital-help-prd.autodesk.com#REALITY|TH🇹🇭
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@119.59.127.129:990#TH%F0%9F%87%B9%F0%9F%87%AD+%7C+119.59.127.129-990+%7C+196.56ms
-vless://3e7f67de-648e-4871-b51a-a225214d41ee@47.81.39.100:443?security=reality&encryption=none&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&headerType=none&fp=chrome&type=tcp&sni=api.digital-help-prd.autodesk.com#REALITY|TH🇹🇭
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozMTJlZTliY2M5NTcwMDk1@163.171.148.71:11201#TH%F0%9F%87%B9%F0%9F%87%AD+%7C+163.171.148.71-11201+%7C+226.54ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJY0hodWNJV2lKaGZsZUthQjduX2F3@141.98.17.63:65443#TH%F0%9F%87%B9%F0%9F%87%AD+%7C+141.98.17.63-65443+%7C+236.41ms
