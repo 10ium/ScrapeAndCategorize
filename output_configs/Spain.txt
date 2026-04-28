@@ -1,4 +1,4 @@
-ss://1a79d43fb41c496ba241dcbeefa81f0eOg==@185.114.72.31:2053#ES%F0%9F%87%AA%F0%9F%87%B8+%7C+185.114.72.31-2053+%7C+74.06ms
+ss://1a79d43fb41c496ba241dcbeefa81f0eOg==@185.114.72.31:2053#ES%F0%9F%87%AA%F0%9F%87%B8+%7C+185.114.72.31-2053+%7C+99.57ms
 ss://8ae49b54-7eba-435b-b410-514bffe7bd17@158.160.223.36:443?flow=xtls-rprx-vision&fp=chrome&packetEncoding=xudp&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&security=reality&sid=48fccabc158a4c22&sni=yandex.ru&type=tcp#%F0%9F%87%AA%F0%9F%87%B8%20Spain%20%E2%80%94%20%23249
 ss://8ae49b54-7eba-435b-b410-514bffe7bd17@79.137.175.44:443?flow=xtls-rprx-vision&fp=chrome&packetEncoding=xudp&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&security=reality&sid=48fccabc158a4c22&sni=m.vk.ru&type=tcp#%F0%9F%87%AA%F0%9F%87%B8%20Spain%20%E2%80%94%20%23244
 ss://8ae49b54-7eba-435b-b410-514bffe7bd17@79.137.175.44:8443?flow=xtls-rprx-vision&fp=random&packetEncoding=xudp&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&security=reality&sid=48fccabc158a4c22&sni=m.vk.ru&type=tcp#%F0%9F%87%AA%F0%9F%87%B8%20Spain%20%E2%80%94%20%23243
