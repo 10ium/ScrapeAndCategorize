@@ -1,4 +1,2 @@
-ss://401374e6df7741fbf638dad8184f175bOg==@45.85.118.141:443#RO%F0%9F%87%B7%F0%9F%87%B4+%7C+45.85.118.141-443+%7C+12.84ms
-ss://d342d11ed4244583b36e524ab1f0afa4Og==@45.85.118.93:2095#RO%F0%9F%87%B7%F0%9F%87%B4+%7C+45.85.118.93-2095+%7C+18.82ms
-ss://e033ef6e-ab4b-47d4-a523-ff568d2c8dbb@82.117.255.37:8443?security=reality&encryption=none&pbk=TH8C9sgNuMRVR3o5QehXPgYw8PWjoHrH2rVQF4JWwGI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com#REALITY|RO🇷🇴
-vless://e033ef6e-ab4b-47d4-a523-ff568d2c8dbb@82.117.255.37:8443?security=reality&encryption=none&pbk=TH8C9sgNuMRVR3o5QehXPgYw8PWjoHrH2rVQF4JWwGI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com#REALITY|RO🇷🇴
+ss://401374e6df7741fbf638dad8184f175bOg==@45.85.118.141:443#RO%F0%9F%87%B7%F0%9F%87%B4+%7C+45.85.118.141-443+%7C+2.68ms
+ss://d342d11ed4244583b36e524ab1f0afa4Og==@45.85.118.93:2095#RO%F0%9F%87%B7%F0%9F%87%B4+%7C+45.85.118.93-2095+%7C+2.44ms

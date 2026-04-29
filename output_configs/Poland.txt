@@ -1,9 +1,7 @@
 ss://195573b7-ea63-485e-b2a5-58dd7bbfc9f7@plb.tunnelguard.ru:443?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&type=xhttp&sni=plb.tunnelguard.ru#PL🇵🇱
+ss://201cb355-27c3-4bcc-a27f-50394519d242@pol1.linkey37.ru:443?security=reality&encryption=none&pbk=z6ja1quSA8bpLdIzWDb9Yj8mnl8Mw_Q0PZB6-3Jgg2U&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=www.yandex.ru#REALITY|PL🇵🇱
 ss://46c9bd28-82ab-4a50-9e20-dbf6a1eb1e47@176.123.164.110:8443?flow=xtls-rprx-vision&fp=random&packetEncoding=xudp&pbk=Qddpg8luihgzgx4g4uMJklXzlrMCd8L1igJSWrRUvSc&security=reality&sid=887c0d72e771a934&sni=rbc.ru&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%E2%80%94%20%23479
 ss://46c9bd28-82ab-4a50-9e20-dbf6a1eb1e47@79.137.175.56:8443?flow=xtls-rprx-vision&fp=random&packetEncoding=xudp&pbk=Qddpg8luihgzgx4g4uMJklXzlrMCd8L1igJSWrRUvSc&security=reality&sid=887c0d72e771a934&sni=m.vk.ru&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%E2%80%94%20%23480
-ss://595ae3f9-5a91-4eaa-82a3-28a221cf8f7f@45.138.16.58:30086?encryption=none&security=none&serviceName=gprc&type=grpc#PL🇵🇱
-ss://595ae3f9-5a91-4eaa-82a3-28a221cf8f7f@45.138.16.58:30086?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=gprc#PL🇵🇱
-ss://7c1d17f5-4f43-4f78-9505-d50c38efc40b@193.34.212.80.vhub.pro:443?sni=193.34.212.80.vhub.pro&alpn=h2&type=grpc&serviceName=%2Fsequre%2Fgrpc%2F&fp=chrome&security=tls#PL🇵🇱
 ss://YWVzLTI1Ni1jZmI6OVh3WXlac0s4U056UUR0WQ==@217.30.10.70:9059#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.70-4626
 ss://YWVzLTI1Ni1jZmI6YUxwUXRmRVplNDQ1UXlIaw==@217.30.10.70:9098#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.70-4625
 ss://YWVzLTI1Ni1jZmI6cnBnYk5uVTlyRERVNGFXWg==@217.30.10.70:9094#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.70-5064
@@ -12,11 +10,9 @@ ss://af643a20-b21e-43f6-ac7f-7a358577c46f@212.111.84.187:8443?flow=xtls-rprx-vis
 ss://c3e06f32-3009-4a11-94af-10028b3dc05e@89.232.177.58:443?flow=xtls-rprx-vision&fp=chrome&pbk=_PtIcz5TCqpHBG6Xxi85mBaDT5cogsEPIYXlyKc9g2A&security=reality&sid=bc8074b9a0f0e964&sni=finder.strelkavpn.ru&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20Poland,%20Warsaw%20%5BBL%5D%20(1)
 ss://dfe57f08-2751-48a5-95b7-b4ea44c70093@213.165.60.22:8443?flow=xtls-rprx-vision&fp=chrome&pbk=i1XUXx_YHZJ8LiZG7yGYG-jXr1JHASvat25lf9SmnzM&security=reality&sid=1da79ac7ee340f60&sni=plr.strelkavpn.ru&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20Poland,%20Warsaw%20%5BBL%5D
 vless://195573b7-ea63-485e-b2a5-58dd7bbfc9f7@plb.tunnelguard.ru:443?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&type=xhttp&sni=plb.tunnelguard.ru#PL🇵🇱
+vless://201cb355-27c3-4bcc-a27f-50394519d242@pol1.linkey37.ru:443?security=reality&encryption=none&pbk=z6ja1quSA8bpLdIzWDb9Yj8mnl8Mw_Q0PZB6-3Jgg2U&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=www.yandex.ru#REALITY|PL🇵🇱
 vless://46c9bd28-82ab-4a50-9e20-dbf6a1eb1e47@176.123.164.110:8443?flow=xtls-rprx-vision&fp=random&packetEncoding=xudp&pbk=Qddpg8luihgzgx4g4uMJklXzlrMCd8L1igJSWrRUvSc&security=reality&sid=887c0d72e771a934&sni=rbc.ru&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%E2%80%94%20%23479
 vless://46c9bd28-82ab-4a50-9e20-dbf6a1eb1e47@79.137.175.56:8443?flow=xtls-rprx-vision&fp=random&packetEncoding=xudp&pbk=Qddpg8luihgzgx4g4uMJklXzlrMCd8L1igJSWrRUvSc&security=reality&sid=887c0d72e771a934&sni=m.vk.ru&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%E2%80%94%20%23480
-vless://595ae3f9-5a91-4eaa-82a3-28a221cf8f7f@45.138.16.58:30086?encryption=none&security=none&serviceName=gprc&type=grpc#PL🇵🇱
-vless://595ae3f9-5a91-4eaa-82a3-28a221cf8f7f@45.138.16.58:30086?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=gprc#PL🇵🇱
-vless://7c1d17f5-4f43-4f78-9505-d50c38efc40b@193.34.212.80.vhub.pro:443?sni=193.34.212.80.vhub.pro&alpn=h2&type=grpc&serviceName=%2Fsequre%2Fgrpc%2F&fp=chrome&security=tls#PL🇵🇱
 vless://af643a20-b21e-43f6-ac7f-7a358577c46f@158.160.105.121:8443?flow=xtls-rprx-vision&fp=random&packetEncoding=xudp&pbk=Qddpg8luihgzgx4g4uMJklXzlrMCd8L1igJSWrRUvSc&security=reality&sid=887c0d72e771a934&sni=yandex.ru&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%E2%80%94%20%23494
 vless://af643a20-b21e-43f6-ac7f-7a358577c46f@212.111.84.187:8443?flow=xtls-rprx-vision&fp=random&packetEncoding=xudp&pbk=Qddpg8luihgzgx4g4uMJklXzlrMCd8L1igJSWrRUvSc&security=reality&sid=8f222b3475800821&sni=m.vk.ru&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%E2%80%94%20%23500
 vless://c3e06f32-3009-4a11-94af-10028b3dc05e@89.232.177.58:443?flow=xtls-rprx-vision&fp=chrome&pbk=_PtIcz5TCqpHBG6Xxi85mBaDT5cogsEPIYXlyKc9g2A&security=reality&sid=bc8074b9a0f0e964&sni=finder.strelkavpn.ru&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20Poland,%20Warsaw%20%5BBL%5D%20(1)
