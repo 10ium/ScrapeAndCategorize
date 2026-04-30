@@ -1,0 +1,2 @@
+ss://6202b230-417c-4d8e-b624-0f71afa9c75d@45.131.4.253:8880?encryption=none&host=joss.jak.biz.id&path=%2FFree-VPN-CF-Geo-Project%2FHK&security=none&type=ws#🆔ar14n24b%20🔓%20VL-WS-N/A%20🇧🇿%20BZ%202ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.131.4.253:8880?encryption=none&host=joss.jak.biz.id&path=%2FFree-VPN-CF-Geo-Project%2FHK&security=none&type=ws#🆔ar14n24b%20🔓%20VL-WS-N/A%20🇧🇿%20BZ%202ms
