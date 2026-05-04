@@ -1,2 +1,6 @@
+ss://2437a36fc8b445a79b19d1d341f5979aOg==@194.87.77.250:30082#CZ%F0%9F%87%A8%F0%9F%87%BF+%7C+194.87.77.250-30082+%7C+109.84ms
+ss://6a3af79f-524d-4894-9c92-95ab51969ea6@m11r.speedtestmark.com:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=Bp49BC_XtsdC4Jvp5p-vfR1voCti6QrYyIPKQSIt_Hw&security=reality&sid=4326&sni=m11r.speedtestmark.com&type=tcp#REALITY|CZ🇨🇿
+ss://a5554072-0d6d-4b9a-93b1-9c8726fc2c0b@194.87.77.250:30086?encryption=none&security=none&serviceName=gprc&type=grpc#CZ🇨🇿
 trojan://BmVb9TGoytYhaLnZhkrVCtx8khbQFTA_@ch-2.bexum.fun:443?sni=ch-2.bexum.fun#CZ🇨🇿
-vmess://ewogICAgImFkZCI6ICJzdXBlcnN0YXIuanAxLnNyYXl4Lnh5eiIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogInN1cGVyc3Rhci5qcDEuc3JheXgueHl6IiwKICAgICJpZCI6ICIyN2M0ZDhkYy05Njc2LTRhYzQtOTViZi00NmEwZTMzOGY4MmUiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvc3VwZXJzdGFyIiwKICAgICJwb3J0IjogODAsCiAgICAicHMiOiAi8J+HqPCfh79DWi00Ni44LjguMjI4LTEwNzYiLAogICAgInRscyI6ICIiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
+vless://6a3af79f-524d-4894-9c92-95ab51969ea6@m11r.speedtestmark.com:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=Bp49BC_XtsdC4Jvp5p-vfR1voCti6QrYyIPKQSIt_Hw&security=reality&sid=4326&sni=m11r.speedtestmark.com&type=tcp#REALITY|CZ🇨🇿
+vless://a5554072-0d6d-4b9a-93b1-9c8726fc2c0b@194.87.77.250:30086?encryption=none&security=none&serviceName=gprc&type=grpc#CZ🇨🇿
