@@ -1,5 +1,5 @@
-ss://2437a36fc8b445a79b19d1d341f5979aOg==@194.87.77.250:30082#CZ%F0%9F%87%A8%F0%9F%87%BF+%7C+194.87.77.250-30082+%7C+94.04ms
-ss://6a3af79f-524d-4894-9c92-95ab51969ea6@m11r.speedtestmark.com:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=Bp49BC_XtsdC4Jvp5p-vfR1voCti6QrYyIPKQSIt_Hw&security=reality&sid=4326&sni=m11r.speedtestmark.com&type=tcp#REALITY|CZ🇨🇿
+ss://2437a36fc8b445a79b19d1d341f5979aOg==@194.87.77.250:30082#CZ%F0%9F%87%A8%F0%9F%87%BF+%7C+194.87.77.250-30082+%7C+99.04ms
 ss://a5554072-0d6d-4b9a-93b1-9c8726fc2c0b@194.87.77.250:30086?encryption=none&security=none&serviceName=gprc&type=grpc#CZ🇨🇿
-vless://6a3af79f-524d-4894-9c92-95ab51969ea6@m11r.speedtestmark.com:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=Bp49BC_XtsdC4Jvp5p-vfR1voCti6QrYyIPKQSIt_Hw&security=reality&sid=4326&sni=m11r.speedtestmark.com&type=tcp#REALITY|CZ🇨🇿
+ss://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@czu.ksnodes.net:443?alpn=http%2F1.1%2Ch2&encryption=none&flow=xtls-rprx-vision&security=tls&sni=czu.ksnodes.net&type=tcp#CZ🇨🇿
 vless://a5554072-0d6d-4b9a-93b1-9c8726fc2c0b@194.87.77.250:30086?encryption=none&security=none&serviceName=gprc&type=grpc#CZ🇨🇿
+vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@czu.ksnodes.net:443?alpn=http%2F1.1%2Ch2&encryption=none&flow=xtls-rprx-vision&security=tls&sni=czu.ksnodes.net&type=tcp#CZ🇨🇿
