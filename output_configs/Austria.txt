@@ -1,4 +1,2 @@
-ss://7b13eaac-882d-43a0-b19e-6d2e867d624e@50.7.113.162:443?type=grpc&security=reality&fp=chrome&pbk=6_rpeumu-IKDzYPxNBgBJ0NT9ReeApZMLguTppqTs1Q&sni=steamcommunity.com#REALITY|AT🇦🇹
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@37.235.56.69:990#%F0%9F%87%A6%F0%9F%87%B9AT-37.235.56.69-0285
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@37.235.56.69:989#%F0%9F%87%A6%F0%9F%87%B9AT-37.235.56.69-0292
-vless://7b13eaac-882d-43a0-b19e-6d2e867d624e@50.7.113.162:443?type=grpc&security=reality&fp=chrome&pbk=6_rpeumu-IKDzYPxNBgBJ0NT9ReeApZMLguTppqTs1Q&sni=steamcommunity.com#REALITY|AT🇦🇹
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@37.235.56.69:990#%F0%9F%87%A6%F0%9F%87%B9AT-37.235.56.69-0299
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@37.235.56.69:989#%F0%9F%87%A6%F0%9F%87%B9AT-37.235.56.69-0286
