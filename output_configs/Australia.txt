@@ -1,3 +1,1 @@
-ss://f02a08c2-f157-42c9-bdd6-74f6e2e5e8ef@fast2.mrsf.ir:443?mode=auto&path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=1&host=PAS1.gLobAl.sSl.Fastly.nEt&fp=firefox&type=xhttp&allowInsecure=1&sni=mikishop.xyz#AU🇦🇺
-ss://fab7bf9cddb945638a04fb01ce6c0fbfOg==@192.65.217.29:8880#AU%F0%9F%87%A6%F0%9F%87%BA+%7C+192.65.217.29-8880+%7C+2.13ms
-vless://f02a08c2-f157-42c9-bdd6-74f6e2e5e8ef@fast2.mrsf.ir:443?mode=auto&path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=1&host=PAS1.gLobAl.sSl.Fastly.nEt&fp=firefox&type=xhttp&allowInsecure=1&sni=mikishop.xyz#AU🇦🇺
+ss://fab7bf9cddb945638a04fb01ce6c0fbfOg==@192.65.217.29:8880#AU%F0%9F%87%A6%F0%9F%87%BA+%7C+192.65.217.29-8880+%7C+1.77ms
