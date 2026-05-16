@@ -1,3 +1,3 @@
 ss://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@ChatGPT.com:443?flow=&host=afrcloud22.mmv.kr&path=%2F156.244.1.250%3D8443&security=tls&sni=ProxyVPN11.afrcloud22.mmv.kr&type=ws#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BCloudflare%5D%20%7C%20ID,%20RU%20%7C%20%5BBL%5D
-trojan://8d4ab0f0-79be-11eb-be0b-1239d0255272@id2-trojan.bonds.id:443?security=tls&sni=id2-trojan.bonds.id#%F0%9F%87%AE%F0%9F%87%A9ID-103.93.59.208-0055
+trojan://8d4ab0f0-79be-11eb-be0b-1239d0255272@id2-trojan.bonds.id:443?security=tls&sni=id2-trojan.bonds.id#%F0%9F%87%AE%F0%9F%87%A9ID-103.93.59.208-0213
 vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@ChatGPT.com:443?flow=&host=afrcloud22.mmv.kr&path=%2F156.244.1.250%3D8443&security=tls&sni=ProxyVPN11.afrcloud22.mmv.kr&type=ws#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BCloudflare%5D%20%7C%20ID,%20RU%20%7C%20%5BBL%5D
