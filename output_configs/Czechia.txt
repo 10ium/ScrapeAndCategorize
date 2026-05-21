@@ -1,0 +1,2 @@
+ss://99a5b9bb-ef8e-45c4-bcd4-a10dc6fc2816@95.85.236.124:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=tVyj7_ief3PBOwG3uC9i_XXKGRXiTJJ6XkrkEOZepDc&security=reality&sid=3c88b649989ffa95&sni=dzen.ru&type=tcp#REALITY|CZ🇨🇿
+vless://99a5b9bb-ef8e-45c4-bcd4-a10dc6fc2816@95.85.236.124:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=tVyj7_ief3PBOwG3uC9i_XXKGRXiTJJ6XkrkEOZepDc&security=reality&sid=3c88b649989ffa95&sni=dzen.ru&type=tcp#REALITY|CZ🇨🇿

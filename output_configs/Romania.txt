@@ -1,4 +1,4 @@
-ss://401374e6df7741fbf638dad8184f175bOg==@45.85.118.141:443#RO%F0%9F%87%B7%F0%9F%87%B4+%7C+45.85.118.141-443+%7C+1.57ms
-ss://43488128-319e-f480-64ea-0acdc712e2a8@77.81.98.70:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=kkRsTNjRh_XrrTM6eZllllldzoL5Z9IqlBkDtmYLMhw&security=reality&sid=9b4fc5a116efd6c8&sni=www.aliexpress.com&type=tcp#REALITY|RO🇷🇴
-ss://d342d11ed4244583b36e524ab1f0afa4Og==@45.85.118.93:2095#RO%F0%9F%87%B7%F0%9F%87%B4+%7C+45.85.118.93-2095+%7C+1.75ms
-vless://43488128-319e-f480-64ea-0acdc712e2a8@77.81.98.70:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=kkRsTNjRh_XrrTM6eZllllldzoL5Z9IqlBkDtmYLMhw&security=reality&sid=9b4fc5a116efd6c8&sni=www.aliexpress.com&type=tcp#REALITY|RO🇷🇴
+ss://401374e6df7741fbf638dad8184f175bOg==@45.85.118.141:443#RO%F0%9F%87%B7%F0%9F%87%B4+%7C+45.85.118.141-443+%7C+3.44ms
+ss://43488128-319e-f480-64ea-0acdc712e2a8@91.199.50.37:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=kkRsTNjRh_XrrTM6eZllllldzoL5Z9IqlBkDtmYLMhw&security=reality&sid=c906f73d3ba8211f&sni=www.alibaba.com&type=tcp#REALITY|RO🇷🇴
+ss://d342d11ed4244583b36e524ab1f0afa4Og==@45.85.118.93:2095#RO%F0%9F%87%B7%F0%9F%87%B4+%7C+45.85.118.93-2095+%7C+2.25ms
+vless://43488128-319e-f480-64ea-0acdc712e2a8@91.199.50.37:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=kkRsTNjRh_XrrTM6eZllllldzoL5Z9IqlBkDtmYLMhw&security=reality&sid=c906f73d3ba8211f&sni=www.alibaba.com&type=tcp#REALITY|RO🇷🇴
