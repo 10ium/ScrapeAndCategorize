@@ -1,7 +1,7 @@
 ss://30143e07-b734-4bd6-867c-7daf4782cccb@45.140.204.119:443?encryption=none&fp=&pbk=vl5WQd9UDA3DvLxPPS1yF9ivUipxkxoxhaBRHpnyLho&security=reality&sid=67fb&sni=yahoo.com&type=tcp#REALITY|IL🇮🇱
-ss://416560bf-9ebb-4a43-96b6-e353e3d3572a@45.140.204.121:443?encryption=none&fp=&pbk=MYU0vSA5rfofPjIwynqoPsr60F_swjCHCDX0yJPKwT0&security=reality&sid=08bf&sni=yahoo.com&type=tcp#REALITY|IL🇮🇱
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxa1FPMG5GcTZSelNaVlUydmxKcW1l@193.202.10.87:32410#IL%F0%9F%87%AE%F0%9F%87%B1+%7C+193.202.10.87-32410+%7C+90.9ms
+ss://416560bf-9ebb-4a43-96b6-e353e3d3572a@45.140.204.121:443?encryption=none&fp=chrome&headerType=none&pbk=MYU0vSA5rfofPjIwynqoPsr60F_swjCHCDX0yJPKwT0&security=reality&sid=08bf&sni=yahoo.com&type=raw#REALITY|IL🇮🇱
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxa1FPMG5GcTZSelNaVlUydmxKcW1l@193.202.10.87:32410#IL%F0%9F%87%AE%F0%9F%87%B1+%7C+193.202.10.87-32410+%7C+90.42ms
 ss://e1ed1d6f-11ed-4a9e-910c-c13b56573949@176.108.241.183:443?flow=xtls-rprx-vision&fp=chrome&pbk=hz4RUTTL7KkdeGm884ZhRRYIXRulXCGwW1Jh1aQJmWg&security=reality&sid=a35f12908735&sni=where.strelkavpn.ru&type=tcp#%F0%9F%87%AE%F0%9F%87%B1%20Israel,%20Petah%20Tikva%20%5BBL%5D
 vless://30143e07-b734-4bd6-867c-7daf4782cccb@45.140.204.119:443?encryption=none&fp=&pbk=vl5WQd9UDA3DvLxPPS1yF9ivUipxkxoxhaBRHpnyLho&security=reality&sid=67fb&sni=yahoo.com&type=tcp#REALITY|IL🇮🇱
-vless://416560bf-9ebb-4a43-96b6-e353e3d3572a@45.140.204.121:443?encryption=none&fp=&pbk=MYU0vSA5rfofPjIwynqoPsr60F_swjCHCDX0yJPKwT0&security=reality&sid=08bf&sni=yahoo.com&type=tcp#REALITY|IL🇮🇱
+vless://416560bf-9ebb-4a43-96b6-e353e3d3572a@45.140.204.121:443?encryption=none&fp=chrome&headerType=none&pbk=MYU0vSA5rfofPjIwynqoPsr60F_swjCHCDX0yJPKwT0&security=reality&sid=08bf&sni=yahoo.com&type=raw#REALITY|IL🇮🇱
 vless://e1ed1d6f-11ed-4a9e-910c-c13b56573949@176.108.241.183:443?flow=xtls-rprx-vision&fp=chrome&pbk=hz4RUTTL7KkdeGm884ZhRRYIXRulXCGwW1Jh1aQJmWg&security=reality&sid=a35f12908735&sni=where.strelkavpn.ru&type=tcp#%F0%9F%87%AE%F0%9F%87%B1%20Israel,%20Petah%20Tikva%20%5BBL%5D
