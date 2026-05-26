@@ -1,8 +1,6 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6RExtZVdSc2ZjRmRLVDFUcHkwMnhvZEVUb3FDbGRUeHZaY1JvUElaWnRCZG5JRUw=@89.44.197.181:31348#%F0%9F%87%A7%F0%9F%87%ACBG-89.44.197.181-0184
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLYm0zeG9LMDRwNE9ob3FWcEV6ZGxq@95.164.113.198:53829#BG%F0%9F%87%A7%F0%9F%87%AC+%7C+95.164.113.198-53829+%7C+109.29ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjSnZHa1hMUWcxVENvdXY4Qm1FMFh1@95.164.113.153:5669#BG%F0%9F%87%A7%F0%9F%87%AC+%7C+95.164.113.153-5669+%7C+116.8ms
-ss://e502ee54-8e2a-41c6-a3ca-3d192e8710fb@94.156.155.75:64003?encryption=none&fp=&pbk=dG1suoqzIlJMu_sHTvWy1RK12ZORBro6NrkqdQ6h7iQ&security=reality&serviceName=xraygrpc&sid=fbf3edeea8eabbdc&sni=download.docker.com&type=grpc#REALITY|BG🇧🇬
-ss://fab7bf9cddb945638a04fb01ce6c0fbfOg==@147.78.140.20:8880#BG%F0%9F%87%A7%F0%9F%87%AC+%7C+147.78.140.20-8880+%7C+2.27ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6RExtZVdSc2ZjRmRLVDFUcHkwMnhvZEVUb3FDbGRUeHZaY1JvUElaWnRCZG5JRUw=@89.44.197.181:31348#%F0%9F%87%A7%F0%9F%87%ACBG-89.44.197.181-0168
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLYm0zeG9LMDRwNE9ob3FWcEV6ZGxq@95.164.113.198:53829#BG%F0%9F%87%A7%F0%9F%87%AC+%7C+95.164.113.198-53829+%7C+158.51ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjSnZHa1hMUWcxVENvdXY4Qm1FMFh1@95.164.113.153:5669#BG%F0%9F%87%A7%F0%9F%87%AC+%7C+95.164.113.153-5669+%7C+157.92ms
+ss://fab7bf9cddb945638a04fb01ce6c0fbfOg==@147.78.140.20:8880#BG%F0%9F%87%A7%F0%9F%87%AC+%7C+147.78.140.20-8880+%7C+1.5ms
 ss://fe10ab92c5bc4d48a563749f58e930a5@95.164.113.153:8443?encryption=none&type=xhttp&path=%2Fx&security=reality&sni=finland.fi&pbk=w5QtssSmdSWwtq06dNsFeU8o_XYZkWAxi8RjsWHNd30&sid=aabbccdd&fp=random#REALITY|BG🇧🇬
-vless://e502ee54-8e2a-41c6-a3ca-3d192e8710fb@94.156.155.75:64003?encryption=none&fp=&pbk=dG1suoqzIlJMu_sHTvWy1RK12ZORBro6NrkqdQ6h7iQ&security=reality&serviceName=xraygrpc&sid=fbf3edeea8eabbdc&sni=download.docker.com&type=grpc#REALITY|BG🇧🇬
 vless://fe10ab92c5bc4d48a563749f58e930a5@95.164.113.153:8443?encryption=none&type=xhttp&path=%2Fx&security=reality&sni=finland.fi&pbk=w5QtssSmdSWwtq06dNsFeU8o_XYZkWAxi8RjsWHNd30&sid=aabbccdd&fp=random#REALITY|BG🇧🇬
