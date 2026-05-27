@@ -28,6 +28,8 @@ ss://b821c290-c12a-4b33-8a89-7b03b87c7f5d@79.137.175.59:8443?flow=xtls-rprx-visi
 ss://c10999b4-7f93-5a50-3908-1467b1e52ae2@155.212.110.2:993?security=reality&encryption=none&pbk=GfTzhy59k9CXlAdF819OUVeBdrqIILaDIWa1bddjGnA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#REALITY|TR🇹🇷
 ss://d5583414-78d7-4beb-a2eb-d757125134e5@89.23.113.198:443?flow=xtls-rprx-vision&fp=chrome&pbk=NWc6qd6XVh3Gn_Sc8-hLcXw0X-txuJmYglQkf0bHTRw&security=reality&sid=f7f8b6f7771af9&sni=tr8.strelkavpn.ru&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20Turkey,%20Izmir%20%5BBL%5D
 ss://e58fab770ea343218b0fe8a84c176c64@83.217.9.140:8443?encryption=none&type=xhttp&path=%2Fx&security=reality&sni=apple.com&pbk=H5Gvl2XvCOOCRokfx_P9AwLGioo15QWaqvJptvlkhDg&sid=aabbccdd&fp=random#REALITY|TR🇹🇷
+trojan://NISHIKUITAN222@188.114.97.25:443/?type=tcp&security=tls#tr🇹🇷❤️
+trojan://ecd5e68e-92a5-4f85-afe1-1775ec84bf54@5.239.245.250:443?security=tls&sni=empty.node&type=tcp#🆔ar14n24b%20🔒%20TR-TCP-N/A%20❔%20XX%20down
 vless://1965899d6e8d455a833a212f9145555e@62.133.63.221:8443?encryption=none&type=xhttp&path=%2Fx&security=reality&sni=apple.com&pbk=79ZqTj0XqzblUu5jWvXdDywlQDZFeFmNlGS7Ivg2RHI&sid=aabbccdd&fp=random#REALITY|TR🇹🇷
 vless://51278ccf-c9ad-438c-b9e7-12de5a9ac021@89.169.162.214:443?flow=xtls-rprx-vision&fp=chrome&packetEncoding=xudp&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&security=reality&sid=205748bc0f24a747&sni=yandex.ru&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20T%C3%BCrkiye%20%E2%80%94%20%23514
 vless://52a1f20b-e3e2-4280-a953-1c7e940408b6@103.231.75.17:443?path=%2Flfcinsws&security=tls&encryption=none&type=ws#TR🇹🇷
