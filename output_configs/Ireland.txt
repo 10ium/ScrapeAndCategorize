@@ -1,1 +1,9 @@
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.180.152.210:8881#IE%F0%9F%87%AE%F0%9F%87%AA+%7C+38.180.152.210-8881+%7C+153.59ms
+ss://8e6d6d70-5f7e-4f2c-89b6-8f5f8db4c3a1@3.254.135.156:80?encryption=none&type=xhttp&path=%2F&mode=auto#🆔yebekhe%20🔓%20VL-XHTTP-N/A%20🇮🇪%20IE%20down
+ss://8e6d6d70-5f7e-4f2c-89b6-8f5f8db4c3a1@34.245.147.125:80?encryption=none&type=xhttp&path=%2F&mode=auto#🆔yebekhe%20🔓%20VL-XHTTP-N/A%20🇮🇪%20IE%20down
+ss://8e6d6d70-5f7e-4f2c-89b6-8f5f8db4c3a1@52.51.51.127:80?encryption=none&type=xhttp&path=%2F&mode=auto#🆔yebekhe%20🔓%20VL-XHTTP-N/A%20🇮🇪%20IE%20down
+ss://8e6d6d70-5f7e-4f2c-89b6-8f5f8db4c3a1@54.247.223.187:80?encryption=none&type=xhttp&path=%2F&mode=auto#🆔yebekhe%20🔓%20VL-XHTTP-N/A%20🇮🇪%20IE%20down
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.180.152.210:8881#IE%F0%9F%87%AE%F0%9F%87%AA+%7C+38.180.152.210-8881+%7C+133.94ms
+vless://8e6d6d70-5f7e-4f2c-89b6-8f5f8db4c3a1@3.254.135.156:80?encryption=none&type=xhttp&path=%2F&mode=auto#🆔yebekhe%20🔓%20VL-XHTTP-N/A%20🇮🇪%20IE%20down
+vless://8e6d6d70-5f7e-4f2c-89b6-8f5f8db4c3a1@34.245.147.125:80?encryption=none&type=xhttp&path=%2F&mode=auto#🆔yebekhe%20🔓%20VL-XHTTP-N/A%20🇮🇪%20IE%20down
+vless://8e6d6d70-5f7e-4f2c-89b6-8f5f8db4c3a1@52.51.51.127:80?encryption=none&type=xhttp&path=%2F&mode=auto#🆔yebekhe%20🔓%20VL-XHTTP-N/A%20🇮🇪%20IE%20down
+vless://8e6d6d70-5f7e-4f2c-89b6-8f5f8db4c3a1@54.247.223.187:80?encryption=none&type=xhttp&path=%2F&mode=auto#🆔yebekhe%20🔓%20VL-XHTTP-N/A%20🇮🇪%20IE%20down
