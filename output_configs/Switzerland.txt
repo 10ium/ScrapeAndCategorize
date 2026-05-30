@@ -1,7 +1,6 @@
-ss://301d514e-4aa0-47b0-ba44-a0cb891cd52f@45.85.93.51:443?security=reality&type=tcp&headerType=&path=&host=&sni=www.samsung.com&fp=chrome&pbk=OZVjfQBboTDTBw0baMFqzVPsVUI4FNQmspTEb0b0zW4&sid=a1b2c3d4#REALITY|CH🇨🇭
-ss://5da05cf7-9913-45a9-a7c6-71a41b1cd713@a.l-itx.info:7443?mode=gun&security=reality&encryption=none&authority=colorlib.com&pbk=F2MKDw5CCtP1oXIej2EgNxB01k3eyNu7tKCFfucgnRA&fp=chrome&type=grpc&serviceName=xyz&sni=colorlib.com#REALITY|CH🇨🇭
+ss://279828c6-13f2-439c-9a4e-ea7d4f470fa4@g1.steptofreedom.one:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=ivgTfLR13A6xBsicIA28OPoav2tXlsstTTmGuETfnSk&security=reality&sid=6d6f13013d3e1d0c&sni=g1.steptofreedom.one&type=tcp#REALITY|CH🇨🇭
 ss://6c36723b-75a3-4816-9c19-1ccd3fde83fe@ch.darknet.cv:8443?security=reality&encryption=none&pbk=YbUaUDQvG57zqhHndpn1OEsPz-TuZlqkddu9UxGDbWM&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=cloudflare.com&sid=a2b223d4#REALITY|CH🇨🇭
-ss://d342d11ed4244583b36e524ab1f0afa4Og==@185.18.250.121:2095#CH%F0%9F%87%A8%F0%9F%87%AD+%7C+185.18.250.121-2095+%7C+18.16ms
-vless://301d514e-4aa0-47b0-ba44-a0cb891cd52f@45.85.93.51:443?security=reality&type=tcp&headerType=&path=&host=&sni=www.samsung.com&fp=chrome&pbk=OZVjfQBboTDTBw0baMFqzVPsVUI4FNQmspTEb0b0zW4&sid=a1b2c3d4#REALITY|CH🇨🇭
-vless://5da05cf7-9913-45a9-a7c6-71a41b1cd713@a.l-itx.info:7443?mode=gun&security=reality&encryption=none&authority=colorlib.com&pbk=F2MKDw5CCtP1oXIej2EgNxB01k3eyNu7tKCFfucgnRA&fp=chrome&type=grpc&serviceName=xyz&sni=colorlib.com#REALITY|CH🇨🇭
+ss://d342d11ed4244583b36e524ab1f0afa4Og==@185.18.250.121:2095#CH%F0%9F%87%A8%F0%9F%87%AD+%7C+185.18.250.121-2095+%7C+1.41ms
+trojan://duaR-NjjdGGLeZ%2BW6j%3D3NY46vZW%2BzyMD1z@89.125.95.152:11300?security=tls&sni=www.toughapp.click&fp=chrome&type=tcp#Switzerland%20-%20Zurich%2012(@hamedvpns)
+vless://279828c6-13f2-439c-9a4e-ea7d4f470fa4@g1.steptofreedom.one:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=ivgTfLR13A6xBsicIA28OPoav2tXlsstTTmGuETfnSk&security=reality&sid=6d6f13013d3e1d0c&sni=g1.steptofreedom.one&type=tcp#REALITY|CH🇨🇭
 vless://6c36723b-75a3-4816-9c19-1ccd3fde83fe@ch.darknet.cv:8443?security=reality&encryption=none&pbk=YbUaUDQvG57zqhHndpn1OEsPz-TuZlqkddu9UxGDbWM&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=cloudflare.com&sid=a2b223d4#REALITY|CH🇨🇭
