@@ -1,6 +1,7 @@
 ss://279828c6-13f2-439c-9a4e-ea7d4f470fa4@g1.steptofreedom.one:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=ivgTfLR13A6xBsicIA28OPoav2tXlsstTTmGuETfnSk&security=reality&sid=6d6f13013d3e1d0c&sni=g1.steptofreedom.one&type=tcp#REALITY|CH🇨🇭
-ss://6c36723b-75a3-4816-9c19-1ccd3fde83fe@ch.darknet.cv:8443?security=reality&encryption=none&pbk=YbUaUDQvG57zqhHndpn1OEsPz-TuZlqkddu9UxGDbWM&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=cloudflare.com&sid=a2b223d4#REALITY|CH🇨🇭
-ss://d342d11ed4244583b36e524ab1f0afa4Og==@185.18.250.121:2095#CH%F0%9F%87%A8%F0%9F%87%AD+%7C+185.18.250.121-2095+%7C+1.41ms
-trojan://duaR-NjjdGGLeZ%2BW6j%3D3NY46vZW%2BzyMD1z@89.125.95.152:11300?security=tls&sni=www.toughapp.click&fp=chrome&type=tcp#Switzerland%20-%20Zurich%2012(@hamedvpns)
+ss://476caa1d-7c04-48ab-8de5-2c1af0d13a66@138.124.244.248:443?type=tcp&security=reality&fp=chrome&pbk=PYX0lu3m0L_h28eW4186s63gRFHXoTc3K9wKeFewDUQ&sid=e9a8&sni=yahoo.com&spx=%2F#REALITY|CH🇨🇭
+ss://8a38623a-3e7f-5598-bdc9-894cbad4c5b6@83.228.228.44:22?encryption=none&headerType=http&path=%2F%40monacoVPN%40monacoVPN%40monacoVPN%40monacoVPN&security=none&type=tcp#CH🇨🇭
+ss://d342d11ed4244583b36e524ab1f0afa4Og==@185.18.250.121:2095#CH%F0%9F%87%A8%F0%9F%87%AD+%7C+185.18.250.121-2095+%7C+14.5ms
 vless://279828c6-13f2-439c-9a4e-ea7d4f470fa4@g1.steptofreedom.one:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=ivgTfLR13A6xBsicIA28OPoav2tXlsstTTmGuETfnSk&security=reality&sid=6d6f13013d3e1d0c&sni=g1.steptofreedom.one&type=tcp#REALITY|CH🇨🇭
-vless://6c36723b-75a3-4816-9c19-1ccd3fde83fe@ch.darknet.cv:8443?security=reality&encryption=none&pbk=YbUaUDQvG57zqhHndpn1OEsPz-TuZlqkddu9UxGDbWM&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=cloudflare.com&sid=a2b223d4#REALITY|CH🇨🇭
+vless://476caa1d-7c04-48ab-8de5-2c1af0d13a66@138.124.244.248:443?type=tcp&security=reality&fp=chrome&pbk=PYX0lu3m0L_h28eW4186s63gRFHXoTc3K9wKeFewDUQ&sid=e9a8&sni=yahoo.com&spx=%2F#REALITY|CH🇨🇭
+vless://8a38623a-3e7f-5598-bdc9-894cbad4c5b6@83.228.228.44:22?encryption=none&headerType=http&path=%2F%40monacoVPN%40monacoVPN%40monacoVPN%40monacoVPN&security=none&type=tcp#CH🇨🇭
