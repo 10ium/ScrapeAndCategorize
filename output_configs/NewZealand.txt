@@ -1,1 +1,3 @@
-ss://fab7bf9cddb945638a04fb01ce6c0fbfOg==@114.129.43.29:8880#NZ%F0%9F%87%B3%F0%9F%87%BF+%7C+114.129.43.29-8880+%7C+15.28ms
+ss://cc752a3e-1537-4e86-bb50-1b897bf7b33c@202.37.33.80:443?path=%2Fsg-melbi&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=cyylr.eu.cc&fp=chrome&ech=ip.gs+udp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=cyylr.eu.cc#🆔soskeynet%20🔒%20VL-WS-N/A%20🇳🇿%20NZ%202ms
+ss://fab7bf9cddb945638a04fb01ce6c0fbfOg==@114.129.43.29:8880#NZ%F0%9F%87%B3%F0%9F%87%BF+%7C+114.129.43.29-8880+%7C+18.65ms
+vless://cc752a3e-1537-4e86-bb50-1b897bf7b33c@202.37.33.80:443?path=%2Fsg-melbi&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=cyylr.eu.cc&fp=chrome&ech=ip.gs+udp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=cyylr.eu.cc#🆔soskeynet%20🔒%20VL-WS-N/A%20🇳🇿%20NZ%202ms
