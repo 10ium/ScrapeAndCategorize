@@ -1,11 +1,6 @@
-ss://0d6d9977-7a8f-48c1-8093-8e4a63ce5cc1@81.161.229.124:443?alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&host=&path=%2F&security=tls&sni=81.161.229.124&type=httpupgrade#BG🇧🇬
-ss://8bb2d0ca-259b-46d0-8055-d6ecbb36f306@87.229.34.23:443?security=reality&encryption=none&pbk=OZVjfQBboTDTBw0baMFqzVPsVUI4FNQmspTEb0b0zW4&headerType=none&fp=chrome&type=tcp&sni=www.samsung.com#REALITY|BG🇧🇬
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6RExtZVdSc2ZjRmRLVDFUcHkwMnhvZEVUb3FDbGRUeHZaY1JvUElaWnRCZG5JRUw=@89.44.197.181:31348#%F0%9F%87%A7%F0%9F%87%ACBG-89.44.197.181-0146
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6RExtZVdSc2ZjRmRLVDFUcHkwMnhvZEVUb3FDbGRUeHZaY1JvUElaWnRCZG5JRUw=@89.44.197.181:31348#BG%F0%9F%87%A7%F0%9F%87%AC+%7C+89.44.197.181-31348+%7C+164.11ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLYm0zeG9LMDRwNE9ob3FWcEV6ZGxq@95.164.113.198:53829#BG%F0%9F%87%A7%F0%9F%87%AC+%7C+95.164.113.198-53829+%7C+145.96ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjSnZHa1hMUWcxVENvdXY4Qm1FMFh1@95.164.113.153:5669#BG%F0%9F%87%A7%F0%9F%87%AC+%7C+95.164.113.153-5669+%7C+143.7ms
-ss://fab7bf9cddb945638a04fb01ce6c0fbfOg==@147.78.140.20:8880#BG%F0%9F%87%A7%F0%9F%87%AC+%7C+147.78.140.20-8880+%7C+18.16ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6RExtZVdSc2ZjRmRLVDFUcHkwMnhvZEVUb3FDbGRUeHZaY1JvUElaWnRCZG5JRUw=@89.44.197.181:31348#%F0%9F%87%A7%F0%9F%87%ACBG-89.44.197.181-0138
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLYm0zeG9LMDRwNE9ob3FWcEV6ZGxq@95.164.113.198:53829#BG%F0%9F%87%A7%F0%9F%87%AC+%7C+95.164.113.198-53829+%7C+108.39ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjSnZHa1hMUWcxVENvdXY4Qm1FMFh1@95.164.113.153:5669#BG%F0%9F%87%A7%F0%9F%87%AC+%7C+95.164.113.153-5669+%7C+108.24ms
+ss://fab7bf9cddb945638a04fb01ce6c0fbfOg==@147.78.140.20:8880#BG%F0%9F%87%A7%F0%9F%87%AC+%7C+147.78.140.20-8880+%7C+2.66ms
 ss://fe10ab92c5bc4d48a563749f58e930a5@95.164.113.153:8443?encryption=none&type=xhttp&path=%2Fx&security=reality&sni=finland.fi&pbk=w5QtssSmdSWwtq06dNsFeU8o_XYZkWAxi8RjsWHNd30&sid=aabbccdd&fp=random#REALITY|BG🇧🇬
-vless://0d6d9977-7a8f-48c1-8093-8e4a63ce5cc1@81.161.229.124:443?alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&host=&path=%2F&security=tls&sni=81.161.229.124&type=httpupgrade#BG🇧🇬
-vless://8bb2d0ca-259b-46d0-8055-d6ecbb36f306@87.229.34.23:443?security=reality&encryption=none&pbk=OZVjfQBboTDTBw0baMFqzVPsVUI4FNQmspTEb0b0zW4&headerType=none&fp=chrome&type=tcp&sni=www.samsung.com#REALITY|BG🇧🇬
 vless://fe10ab92c5bc4d48a563749f58e930a5@95.164.113.153:8443?encryption=none&type=xhttp&path=%2Fx&security=reality&sni=finland.fi&pbk=w5QtssSmdSWwtq06dNsFeU8o_XYZkWAxi8RjsWHNd30&sid=aabbccdd&fp=random#REALITY|BG🇧🇬
