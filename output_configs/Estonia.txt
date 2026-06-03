@@ -1,2 +1,5 @@
-ss://60244f92-609e-444e-b1e8-d0bcba0d9b79@69.12.83.190:443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=www.amd.com&pbk=6Ra2AsVwORJlxqvQ9YHAfHFk8Z0HZIrWuXxlBEYpwQY&fp=chrome&sid=e7b5024fd83a16c9#REALITY|EE🇪🇪
-vless://60244f92-609e-444e-b1e8-d0bcba0d9b79@69.12.83.190:443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=www.amd.com&pbk=6Ra2AsVwORJlxqvQ9YHAfHFk8Z0HZIrWuXxlBEYpwQY&fp=chrome&sid=e7b5024fd83a16c9#REALITY|EE🇪🇪
+ss://749a5df1-2d12-45cf-80f3-f85ea6b2e405@150.241.101.222:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=google.com&fp=random&security=reality&pbk=Fp0-VrMBeaQe9xOrehDYHt0mqTZL-5CdfuMEzoXkOE8&sid=#🆔freeconfigsplus%20🔒%20VL-TCP-%20🇪🇪%20EE%20131ms
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.180.216.114:7307#EE%F0%9F%87%AA%F0%9F%87%AA+%7C+38.180.216.114-7307+%7C+107.01ms
+ss://f85f6c65-1b35-4c56-b766-80c5a4457b3e@95.85.228.212:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=0aGTmSxEW21dFVomobDSRjUWnPptI4yT_eL-0PCf-h0&security=reality&sid=5a7216aec1371894&sni=est.hatvpn.org&type=tcp#REALITY|EE🇪🇪
+vless://749a5df1-2d12-45cf-80f3-f85ea6b2e405@150.241.101.222:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=google.com&fp=random&security=reality&pbk=Fp0-VrMBeaQe9xOrehDYHt0mqTZL-5CdfuMEzoXkOE8&sid=#🆔freeconfigsplus%20🔒%20VL-TCP-%20🇪🇪%20EE%20131ms
+vless://f85f6c65-1b35-4c56-b766-80c5a4457b3e@95.85.228.212:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=0aGTmSxEW21dFVomobDSRjUWnPptI4yT_eL-0PCf-h0&security=reality&sid=5a7216aec1371894&sni=est.hatvpn.org&type=tcp#REALITY|EE🇪🇪
