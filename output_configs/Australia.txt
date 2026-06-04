@@ -1,6 +1,6 @@
 ss://30ac5a8b-5022-43c0-b0c2-11b9a98a986e@3.106.54.135:57001?security=reality&type=tcp&sni=yahoo.com&fp=firefox&flow=xtls-rprx-vision&sid=b2dd66706eb2&pbk=aSK0B0bgRalAWw_5d7buTjy4dYLF2WGTZhUojypI618&encryption=none#REALITY|AU🇦🇺
 ss://aca32055-db88-4634-b623-6429ddbb6c93@54.252.231.115:55292?security=reality&type=tcp&sni=yahoo.com&fp=firefox&flow=xtls-rprx-vision&sid=bd711c02c8dc9955&pbk=kPx16abMZD2x6dv7NW_hn1HSc2P8RsPptytcCT-neQs&encryption=none#REALITY|AU🇦🇺
-ss://fab7bf9cddb945638a04fb01ce6c0fbfOg==@192.65.217.29:8880#AU%F0%9F%87%A6%F0%9F%87%BA+%7C+192.65.217.29-8880+%7C+2.22ms
+ss://fab7bf9cddb945638a04fb01ce6c0fbfOg==@192.65.217.29:8880#AU%F0%9F%87%A6%F0%9F%87%BA+%7C+192.65.217.29-8880+%7C+19.44ms
 trojan://b65cbe72-59e2-4011-a22b-760621b5921f@65.109.129.120:80?security=tls&headerType=none&type=tcp&sni=fl.configasli.xyz#AU🇦🇺
 vless://30ac5a8b-5022-43c0-b0c2-11b9a98a986e@3.106.54.135:57001?security=reality&type=tcp&sni=yahoo.com&fp=firefox&flow=xtls-rprx-vision&sid=b2dd66706eb2&pbk=aSK0B0bgRalAWw_5d7buTjy4dYLF2WGTZhUojypI618&encryption=none#REALITY|AU🇦🇺
 vless://aca32055-db88-4634-b623-6429ddbb6c93@54.252.231.115:55292?security=reality&type=tcp&sni=yahoo.com&fp=firefox&flow=xtls-rprx-vision&sid=bd711c02c8dc9955&pbk=kPx16abMZD2x6dv7NW_hn1HSc2P8RsPptytcCT-neQs&encryption=none#REALITY|AU🇦🇺
