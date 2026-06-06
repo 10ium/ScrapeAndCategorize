@@ -1,12 +1,5 @@
-ss://1580cc89-b2b4-4e36-b239-9c47f81af39f@95.182.90.38:443?encryption=none&type=tcp&headerType=none#🆔ar14n24b%20🔓%20VL-TCP-N/A%20🇨🇿%20CZ%20192ms
-ss://6a17d3c4-d673-4bf1-8306-1e997f9a49f7@cz.money-cloud.ru:444?type=grpc&security=reality&sni=web.max.ru&fp=chrome&pbk=VOhUlgnDhzYam9kl7G_VNtnBjkuasi6_u63xvFcV23E&sid=8622956789abcdef#REALITY|CZ🇨🇿
+ss://2d0b825d-cbe0-46b7-98e9-e955b99e71c9@cz.helper-internet.com:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE&security=reality&sid=ff776ff77be48b88&sni=cz.helper-internet.com&type=tcp#REALITY|CZ🇨🇿
 ss://ae5ba4be-7262-4199-bd62-210ed8999b9f@188.130.208.220:5443?security=reality&encryption=none&pbk=LGcG8Sqv5vPDypbaEgHV0ZGqQOBkgDepPWXyDohbVXQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=max.ru#REALITY|CZ🇨🇿
-ss://ae5ba4be-7262-4199-bd62-210ed8999b9f@188.130.208.220:5443?security=reality&flow=xtls-rprx-vision&pbk=LGcG8Sqv5vPDypbaEgHV0ZGqQOBkgDepPWXyDohbVXQ&fp=chrome&sni=max.ru&type=tcp&headerType=none&host=max.ru&path=%2F#REALITY|CZ🇨🇿
-ss://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@czu.ksnodes.net:443?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&sni=czu.ksnodes.net&alpn=http%2F1.1%2Ch2#CZ🇨🇿
-ss://c5765da4-772f-4ff7-b96c-551ca7185529@95.85.233.234:8443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=eHgRhHYifD2njbtjzgMsNPGnvbpAK8SSXC5-wFuQnQ4&security=reality&sid=65b5280b52e0532c&sni=fastsync.xyz&type=tcp#REALITY|CZ🇨🇿
-vless://1580cc89-b2b4-4e36-b239-9c47f81af39f@95.182.90.38:443?encryption=none&type=tcp&headerType=none#🆔ar14n24b%20🔓%20VL-TCP-N/A%20🇨🇿%20CZ%20192ms
-vless://6a17d3c4-d673-4bf1-8306-1e997f9a49f7@cz.money-cloud.ru:444?type=grpc&security=reality&sni=web.max.ru&fp=chrome&pbk=VOhUlgnDhzYam9kl7G_VNtnBjkuasi6_u63xvFcV23E&sid=8622956789abcdef#REALITY|CZ🇨🇿
+trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@ch-2.bexum.fun:443?security=tls&sni=ch-2.bexum.fun#%F0%9F%87%A8%F0%9F%87%BFCZ-46.8.113.142-1613
+vless://2d0b825d-cbe0-46b7-98e9-e955b99e71c9@cz.helper-internet.com:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE&security=reality&sid=ff776ff77be48b88&sni=cz.helper-internet.com&type=tcp#REALITY|CZ🇨🇿
 vless://ae5ba4be-7262-4199-bd62-210ed8999b9f@188.130.208.220:5443?security=reality&encryption=none&pbk=LGcG8Sqv5vPDypbaEgHV0ZGqQOBkgDepPWXyDohbVXQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=max.ru#REALITY|CZ🇨🇿
-vless://ae5ba4be-7262-4199-bd62-210ed8999b9f@188.130.208.220:5443?security=reality&flow=xtls-rprx-vision&pbk=LGcG8Sqv5vPDypbaEgHV0ZGqQOBkgDepPWXyDohbVXQ&fp=chrome&sni=max.ru&type=tcp&headerType=none&host=max.ru&path=%2F#REALITY|CZ🇨🇿
-vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@czu.ksnodes.net:443?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&sni=czu.ksnodes.net&alpn=http%2F1.1%2Ch2#CZ🇨🇿
-vless://c5765da4-772f-4ff7-b96c-551ca7185529@95.85.233.234:8443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=eHgRhHYifD2njbtjzgMsNPGnvbpAK8SSXC5-wFuQnQ4&security=reality&sid=65b5280b52e0532c&sni=fastsync.xyz&type=tcp#REALITY|CZ🇨🇿
