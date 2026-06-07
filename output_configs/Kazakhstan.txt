@@ -1,10 +1,6 @@
 ss://3c5c4ccc-b502-42cb-8c42-cfa714db4767@212.111.84.82:443?security=reality&encryption=none&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=m.vk.ru&sid=2715592069f36fe7#REALITY|KZ🇰🇿
-ss://401374e6df7741fbf638dad8184f175bOg==@31.43.179.38:443#KZ%F0%9F%87%B0%F0%9F%87%BF+%7C+31.43.179.38-443+%7C+2.04ms
-ss://593f4d6c-aff1-4832-87a7-b5d8e71584ea@kz-1.nodes.ac:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=kz-1.nodes.ac&fp=chrome&security=reality&pbk=uz1Lb_2451iPvrwWCZ-4I9_WHdYm7ML0yjeJAZwBk3E&sid=73b4306eb38fe3d6#REALITY|KZ🇰🇿
-ss://89b3cbbae6ac485a9481976a0415eab9Og==@31.43.179.51:80#KZ%F0%9F%87%B0%F0%9F%87%BF+%7C+31.43.179.51-80+%7C+2.05ms
-ss://9114d7c2-37b7-407b-28a4-54f8f0d8c5e7@cdn2.zynetrax.ir:443?path=%2FBetForward%3Fed%3D2048&security=tls&encryption=none&insecure=0&host=sv2.zynelo.ir&fp=chrome&type=ws&allowInsecure=0&sni=sv2.zynelo.ir#🆔soskeynet%20🔒%20VL-WS-N/A%20🇰🇿%20KZ%20259ms
-ss://f2a72ad0d23f4eed96cb7d970b1e784dOg==@194.76.18.60:80#KZ%F0%9F%87%B0%F0%9F%87%BF+%7C+194.76.18.60-80+%7C+2.73ms
-ss://fab7bf9cddb945638a04fb01ce6c0fbfOg==@185.176.26.29:8880#KZ%F0%9F%87%B0%F0%9F%87%BF+%7C+185.176.26.29-8880+%7C+2.32ms
+ss://401374e6df7741fbf638dad8184f175bOg==@31.43.179.38:443#KZ%F0%9F%87%B0%F0%9F%87%BF+%7C+31.43.179.38-443+%7C+2.36ms
+ss://89b3cbbae6ac485a9481976a0415eab9Og==@31.43.179.51:80#KZ%F0%9F%87%B0%F0%9F%87%BF+%7C+31.43.179.51-80+%7C+3.07ms
+ss://f2a72ad0d23f4eed96cb7d970b1e784dOg==@194.76.18.60:80#KZ%F0%9F%87%B0%F0%9F%87%BF+%7C+194.76.18.60-80+%7C+2.83ms
+ss://fab7bf9cddb945638a04fb01ce6c0fbfOg==@185.176.26.29:8880#KZ%F0%9F%87%B0%F0%9F%87%BF+%7C+185.176.26.29-8880+%7C+2.34ms
 vless://3c5c4ccc-b502-42cb-8c42-cfa714db4767@212.111.84.82:443?security=reality&encryption=none&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=m.vk.ru&sid=2715592069f36fe7#REALITY|KZ🇰🇿
-vless://593f4d6c-aff1-4832-87a7-b5d8e71584ea@kz-1.nodes.ac:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=kz-1.nodes.ac&fp=chrome&security=reality&pbk=uz1Lb_2451iPvrwWCZ-4I9_WHdYm7ML0yjeJAZwBk3E&sid=73b4306eb38fe3d6#REALITY|KZ🇰🇿
-vless://9114d7c2-37b7-407b-28a4-54f8f0d8c5e7@cdn2.zynetrax.ir:443?path=%2FBetForward%3Fed%3D2048&security=tls&encryption=none&insecure=0&host=sv2.zynelo.ir&fp=chrome&type=ws&allowInsecure=0&sni=sv2.zynelo.ir#🆔soskeynet%20🔒%20VL-WS-N/A%20🇰🇿%20KZ%20259ms

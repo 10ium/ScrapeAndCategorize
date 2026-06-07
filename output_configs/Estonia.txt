@@ -1,1 +1,2 @@
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.180.216.114:7307#EE%F0%9F%87%AA%F0%9F%87%AA+%7C+38.180.216.114-7307+%7C+160.7ms
+ss://63a16ebb-8687-42ac-972a-5914cafad1d5@nlwifi.kotvpn.net:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=PYDZtcMe9SsXXNB2ixS0O_n8AMznwMFEvRm2-4EWQxE&security=reality&sid=f83e19dcd7734c89&sni=yandex.ru&type=tcp#REALITY|EE🇪🇪
+vless://63a16ebb-8687-42ac-972a-5914cafad1d5@nlwifi.kotvpn.net:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=PYDZtcMe9SsXXNB2ixS0O_n8AMznwMFEvRm2-4EWQxE&security=reality&sid=f83e19dcd7734c89&sni=yandex.ru&type=tcp#REALITY|EE🇪🇪
