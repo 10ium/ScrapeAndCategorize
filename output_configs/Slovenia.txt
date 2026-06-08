@@ -1,2 +1,0 @@
-ss://jina@135.220.73.1:443?alpn=h2%2Chttp%2F1.1&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=jina-135220731-direct.yektanet.co&type=tcp#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea,%20Cheonan-si%20%5BBL%5D
-vless://jina@135.220.73.1:443?alpn=h2%2Chttp%2F1.1&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=jina-135220731-direct.yektanet.co&type=tcp#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea,%20Cheonan-si%20%5BBL%5D

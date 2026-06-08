@@ -1,9 +1,4 @@
-ss://5b6046bc-82fc-4b92-99c4-eda0f4df13f3@45.15.152.73:40268?encryption=none&security=none&type=tcp#CY🇨🇾
-ss://5b6046bc-82fc-4b92-99c4-eda0f4df13f3@45.15.152.73:40268?encryption=none&type=tcp&headerType=none#CY🇨🇾
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxU2xJakRLcElscHpaUGdUMzN4NkVi@45.15.162.92:64351#CY%F0%9F%87%A8%F0%9F%87%BE+%7C+45.15.162.92-64351+%7C+99.67ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2bnhmczFyMlFFU3pZMlprSVhRdEN5@45.15.162.208:17499#CY%F0%9F%87%A8%F0%9F%87%BE+%7C+45.15.162.208-17499+%7C+100.43ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnQ1g4bm4zbm03cWx6Y3JCdUFueHJL@2.56.176.23:4533#CY%F0%9F%87%A8%F0%9F%87%BE+%7C+2.56.176.23-4533+%7C+100.22ms
-ss://dbf403f4b87144468712675562dbbb7b@195.85.59.161:2095#CY%F0%9F%87%A8%F0%9F%87%BE+%7C+195.85.59.161-2095+%7C+2.99ms
-trojan://strong-secret-pass-777@2.56.172.83:4443?allowInsecure=1&fp=chrome#CY🇨🇾
-vless://5b6046bc-82fc-4b92-99c4-eda0f4df13f3@45.15.152.73:40268?encryption=none&security=none&type=tcp#CY🇨🇾
-vless://5b6046bc-82fc-4b92-99c4-eda0f4df13f3@45.15.152.73:40268?encryption=none&type=tcp&headerType=none#CY🇨🇾
+ss://73a27a6d-a111-4576-a6b3-e8594aeac2f2@grok.sempai.site:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=qEUU6oGBD_rjO0319EK4rAnsPhlqrb-ecCgQsT4JUmI&security=reality&sni=deepl.com&type=tcp#REALITY|CY🇨🇾
+ss://dbf403f4b87144468712675562dbbb7b@195.85.59.161:2095#CY%F0%9F%87%A8%F0%9F%87%BE+%7C+195.85.59.161-2095+%7C+1.99ms
+vless://73a27a6d-a111-4576-a6b3-e8594aeac2f2@grok.sempai.site:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=qEUU6oGBD_rjO0319EK4rAnsPhlqrb-ecCgQsT4JUmI&security=reality&sni=deepl.com&type=tcp#REALITY|CY🇨🇾
+vmess://eyJhZGQiOiIyMDMuMjMuMTA0LjIyMiIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiYjNhMjFkZWYtNWZjYy00N2E4LWE2YTAtYTM0ZTI5ZDUyODhhIiwibmV0Ijoid3MiLCJwYXRoIjoiXC93c3M1MTA2OCIsInBvcnQiOjQ0MywicHMiOiJDWVx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRmZSB8IDIwMy4yMy4xMDQuMjIyLTQ0MyB8IDIuMDZtcyIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIn0=
