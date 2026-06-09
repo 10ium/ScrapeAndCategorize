@@ -3,7 +3,6 @@ ss://af77d53f-a0e4-456e-b977-696bf081dcc8@45.130.125.69:80?path=%2F&security=non
 trojan://humanity@104.16.174.44:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#Channel%20id%3A%20%40ShadowProxy66
 trojan://humanity@104.19.229.21:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=1&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=1&sni=www.calmloud.com#Channel%20id%3A%20%40ShadowProxy66
 trojan://humanity@162.159.193.22:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=1&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=1&sni=www.calmloud.com#Channel%20id%3A%20%40ShadowProxy66
-trojan://oUAfbL8z87q-mhgjZ6g7mWQobf9=b7ut_F@130.94.92.144:443?security=tls&sni=www.node-finder.click#%F0%9F%87%AE%F0%9F%87%A9ID-130.94.92.144-4721
-trojan://oUAfbL8z87q-mhgjZ6g7mWQobf9=b7ut_F@130.94.92.144:443?security=tls&sni=www.node-finder.click&fp=chrome&type=tcp#ID🇮🇩
+trojan://oUAfbL8z87q-mhgjZ6g7mWQobf9=b7ut_F@130.94.92.144:443?security=tls&sni=www.node-finder.click#%F0%9F%87%AE%F0%9F%87%A9ID-130.94.92.144-0110
 vless://1e32172a-100f-4334-a306-f06b9b89954f@104.19.229.21:2095?path=%2F%3Fed%3D2048&security=none&encryption=none&host=haPpy-pOsT2cucHd4dvi.SPOrTLAnD.CoMPaNY.&type=ws#Channel%20id%3A%20%40ShadowProxy66
 vless://af77d53f-a0e4-456e-b977-696bf081dcc8@45.130.125.69:80?path=%2F&security=none&encryption=none&host=g1.nybaz.space&type=ws#Channel%20id%3A%20%40ShadowProxy66

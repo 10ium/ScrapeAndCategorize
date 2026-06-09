@@ -1,8 +1,8 @@
-ss://072b32f9-c34e-43b8-aaf8-f2aae379b155@87.229.34.23:443?security=reality&encryption=none&pbk=OZVjfQBboTDTBw0baMFqzVPsVUI4FNQmspTEb0b0zW4&headerType=none&fp=chrome&type=tcp&sni=www.samsung.com#REALITY|BG🇧🇬
-ss://8bb2d0ca-259b-46d0-8055-d6ecbb36f306@87.229.34.23:443?security=reality&encryption=none&pbk=OZVjfQBboTDTBw0baMFqzVPsVUI4FNQmspTEb0b0zW4&headerType=&fp=chrome&type=tcp&sni=www.samsung.com#REALITY|BG🇧🇬
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6RExtZVdSc2ZjRmRLVDFUcHkwMnhvZEVUb3FDbGRUeHZaY1JvUElaWnRCZG5JRUw=@89.44.197.181:31348#%F0%9F%87%A7%F0%9F%87%ACBG-89.44.197.181-0131
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLYm0zeG9LMDRwNE9ob3FWcEV6ZGxq@95.164.113.198:53829#BG%F0%9F%87%A7%F0%9F%87%AC+%7C+95.164.113.198-53829+%7C+166.83ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjSnZHa1hMUWcxVENvdXY4Qm1FMFh1@95.164.113.153:5669#BG%F0%9F%87%A7%F0%9F%87%AC+%7C+95.164.113.153-5669+%7C+168.76ms
-ss://fab7bf9cddb945638a04fb01ce6c0fbfOg==@147.78.140.20:8880#BG%F0%9F%87%A7%F0%9F%87%AC+%7C+147.78.140.20-8880+%7C+2.51ms
-vless://072b32f9-c34e-43b8-aaf8-f2aae379b155@87.229.34.23:443?security=reality&encryption=none&pbk=OZVjfQBboTDTBw0baMFqzVPsVUI4FNQmspTEb0b0zW4&headerType=none&fp=chrome&type=tcp&sni=www.samsung.com#REALITY|BG🇧🇬
-vless://8bb2d0ca-259b-46d0-8055-d6ecbb36f306@87.229.34.23:443?security=reality&encryption=none&pbk=OZVjfQBboTDTBw0baMFqzVPsVUI4FNQmspTEb0b0zW4&headerType=&fp=chrome&type=tcp&sni=www.samsung.com#REALITY|BG🇧🇬
+ss://6202b230-417c-4d8e-b624-0f71afa9c75d@45.142.120.30:8880?encryption=none&security=none&type=ws&host=vms.lifetime08.workers.dev&path=%2F#🆔ar14n24b%20🔓%20VL-WS-N/A%20🇧🇬%20BG%207ms
+ss://73a27a6d-a111-4576-a6b3-e8594aeac2f2@bul.sempai.site:443?type=tcp&headerType=none&security=reality&encryption=none&sni=bul.sempai.site&fp=chrome&pbk=vu-snSb4OmbomMUVyJeGmLNKaeo4REdJ2U5ISZOQvVo&flow=xtls-rprx-vision#🆔ar14n24b%20🔒%20VL-TCP-%20🇧🇬%20BG%20125ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6RExtZVdSc2ZjRmRLVDFUcHkwMnhvZEVUb3FDbGRUeHZaY1JvUElaWnRCZG5JRUw=@89.44.197.181:31348#%F0%9F%87%A7%F0%9F%87%ACBG-89.44.197.181-0151
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLYm0zeG9LMDRwNE9ob3FWcEV6ZGxq@95.164.113.198:53829#BG%F0%9F%87%A7%F0%9F%87%AC+%7C+95.164.113.198-53829+%7C+116.03ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjSnZHa1hMUWcxVENvdXY4Qm1FMFh1@95.164.113.153:5669#BG%F0%9F%87%A7%F0%9F%87%AC+%7C+95.164.113.153-5669+%7C+112.82ms
+ss://fab7bf9cddb945638a04fb01ce6c0fbfOg==@147.78.140.20:8880#BG%F0%9F%87%A7%F0%9F%87%AC+%7C+147.78.140.20-8880+%7C+2.15ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.142.120.30:8880?encryption=none&security=none&type=ws&host=vms.lifetime08.workers.dev&path=%2F#🆔ar14n24b%20🔓%20VL-WS-N/A%20🇧🇬%20BG%207ms
+vless://73a27a6d-a111-4576-a6b3-e8594aeac2f2@bul.sempai.site:443?type=tcp&headerType=none&security=reality&encryption=none&sni=bul.sempai.site&fp=chrome&pbk=vu-snSb4OmbomMUVyJeGmLNKaeo4REdJ2U5ISZOQvVo&flow=xtls-rprx-vision#🆔ar14n24b%20🔒%20VL-TCP-%20🇧🇬%20BG%20125ms
