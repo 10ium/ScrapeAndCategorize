@@ -1,0 +1,2 @@
+ss://30143e07-b734-4bd6-867c-7daf4782cccb@45.140.204.119:443?security=reality&encryption=none&pbk=vl5WQd9UDA3DvLxPPS1yF9ivUipxkxoxhaBRHpnyLho&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=67fb#REALITY|IL🇮🇱
+vless://30143e07-b734-4bd6-867c-7daf4782cccb@45.140.204.119:443?security=reality&encryption=none&pbk=vl5WQd9UDA3DvLxPPS1yF9ivUipxkxoxhaBRHpnyLho&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=67fb#REALITY|IL🇮🇱

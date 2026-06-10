@@ -1,5 +1,5 @@
+ss://54fa4981-fc4c-4a2e-bc59-824939ac874c@18.200.101.228:443?encryption=none&security=none&type=tcp#IE🇮🇪
 ss://54fa4981-fc4c-4a2e-bc59-824939ac874c@18.200.101.228:443?security=none&encryption=none&headerType=none&type=tcp#IE🇮🇪
-trojan://t1k169n5zmvvwn96r9ft@146.70.90.197:57452?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=146.70.90.197#IE🇮🇪
-trojan://t1k169n5zmvvwn96r9ft@146.70.90.198:57452?security=tls&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=146.70.90.198#IE🇮🇪
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHRXBiMjV4ank5c3lOcEVx@98.71.82.228:443#IE%F0%9F%87%AE%F0%9F%87%AA+%7C+98.71.82.228-443+%7C+86.81ms
+vless://54fa4981-fc4c-4a2e-bc59-824939ac874c@18.200.101.228:443?encryption=none&security=none&type=tcp#IE🇮🇪
 vless://54fa4981-fc4c-4a2e-bc59-824939ac874c@18.200.101.228:443?security=none&encryption=none&headerType=none&type=tcp#IE🇮🇪
-vmess://ewogICAgImFkZCI6ICJ4ci01Lmhlcm9rdWFwcC5jb20iLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICJ4ci01Lmhlcm9rdWFwcC5jb20iLAogICAgImlkIjogIjE3YWY3NmUxLWE1ZDctNDFhYi1hZTg3LWI0OGYxODUwNzVkMSIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi8iLAogICAgInBvcnQiOiA0NDMsCiAgICAicHMiOiAi8J+HrvCfh6pJRS01NC43My41My4xMzQtMDIwNSIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
