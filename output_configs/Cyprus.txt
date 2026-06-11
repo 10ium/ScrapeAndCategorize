@@ -1,5 +1,4 @@
 ss://73a27a6d-a111-4576-a6b3-e8594aeac2f2@grok.sempai.site:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=qEUU6oGBD_rjO0319EK4rAnsPhlqrb-ecCgQsT4JUmI&security=reality&sni=deepl.com&type=tcp#REALITY|CY🇨🇾
-ss://dbf403f4b87144468712675562dbbb7b@195.85.59.161:2095#CY%F0%9F%87%A8%F0%9F%87%BE+%7C+195.85.59.161-2095+%7C+3.08ms
-ss://ed45d6ff-0388-4cf3-a333-e0e01b0b9feb@104.18.155.17:443?encryption=none&type=ws&security=tls&path=%2F7pEwzBGkpMEMnHeH0PAxGMPjJtnq&host=hi.AnzalI.ShOP&sni=hi.anzAli.ShOp&alpn=http%2F1.1&fp=chrome&allowInsecure=0#CY🇨🇾
+ss://dbf403f4b87144468712675562dbbb7b@195.85.59.161:2095#CY%F0%9F%87%A8%F0%9F%87%BE+%7C+195.85.59.161-2095+%7C+3.21ms
 vless://73a27a6d-a111-4576-a6b3-e8594aeac2f2@grok.sempai.site:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=qEUU6oGBD_rjO0319EK4rAnsPhlqrb-ecCgQsT4JUmI&security=reality&sni=deepl.com&type=tcp#REALITY|CY🇨🇾
-vless://ed45d6ff-0388-4cf3-a333-e0e01b0b9feb@104.18.155.17:443?encryption=none&type=ws&security=tls&path=%2F7pEwzBGkpMEMnHeH0PAxGMPjJtnq&host=hi.AnzalI.ShOP&sni=hi.anzAli.ShOp&alpn=http%2F1.1&fp=chrome&allowInsecure=0#CY🇨🇾
+vmess://eyJhZGQiOiIyMDMuMjQuMTA4LjgiLCJhaWQiOjAsImhvc3QiOiIyMDMuMjQuMTA4LjgiLCJpZCI6IjQwZDQ5NmE2LWNlZWItNDA5Ni1iYWViLTRjYzUyYjIwNTYyMSIsIm5ldCI6IndzIiwicGF0aCI6IlwvRUNUQ0owREYiLCJwb3J0Ijo0NDMsInBzIjoiQ1lcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZmUgfCAyMDMuMjQuMTA4LjgtNDQzIHwgMi45NW1zIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8ifQ==

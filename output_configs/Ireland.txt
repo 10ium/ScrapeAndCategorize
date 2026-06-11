@@ -1,5 +1,5 @@
-ss://54fa4981-fc4c-4a2e-bc59-824939ac874c@18.200.101.228:443?encryption=none&security=none&type=tcp#IE🇮🇪
 ss://54fa4981-fc4c-4a2e-bc59-824939ac874c@18.200.101.228:443?security=none&encryption=none&headerType=none&type=tcp#IE🇮🇪
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHRXBiMjV4ank5c3lOcEVx@98.71.82.228:443#IE%F0%9F%87%AE%F0%9F%87%AA+%7C+98.71.82.228-443+%7C+86.81ms
-vless://54fa4981-fc4c-4a2e-bc59-824939ac874c@18.200.101.228:443?encryption=none&security=none&type=tcp#IE🇮🇪
+ss://9f9f18f8-2557-4f18-928d-e7c334a0b068@85.159.229.189:443?security=reality&encryption=none&pbk=jRh71f3CZSR8xkOMBX9wpaMe_3EYhjrxFELmls-AW0A&headerType=none&fp=chrome&type=tcp&sni=www.google.com&sid=e6#REALITY|IE🇮🇪
 vless://54fa4981-fc4c-4a2e-bc59-824939ac874c@18.200.101.228:443?security=none&encryption=none&headerType=none&type=tcp#IE🇮🇪
+vless://9f9f18f8-2557-4f18-928d-e7c334a0b068@85.159.229.189:443?security=reality&encryption=none&pbk=jRh71f3CZSR8xkOMBX9wpaMe_3EYhjrxFELmls-AW0A&headerType=none&fp=chrome&type=tcp&sni=www.google.com&sid=e6#REALITY|IE🇮🇪
+vmess://eyJhZGQiOiJ4ci0xLmhlcm9rdWFwcC5jb20iLCJhaWQiOjAsImhvc3QiOiJ4ci0xLmhlcm9rdWFwcC5jb20iLCJpZCI6IjE3YWY3NmUxLWE1ZDctNDFhYi1hZTg3LWI0OGYxODUwNzVkMSIsIm5ldCI6IndzIiwicGF0aCI6IlwvMTdhZjc2ZTEtYTVkNy00MWFiLWFlODctYjQ4ZjE4NTA3NWQxLXZtZXNzIiwicG9ydCI6NDQzLCJwcyI6IklFXHVkODNjXHVkZGVlXHVkODNjXHVkZGVhIHwgeHItMS5oZXJva3VhcHAuY29tLTQ0MyB8IDQxLjk4bXMiLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5IjpmYWxzZSwic25pIjoieHItMS5oZXJva3VhcHAuY29tIiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8ifQ==

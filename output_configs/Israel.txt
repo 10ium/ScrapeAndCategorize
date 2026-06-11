@@ -1,2 +1,4 @@
-ss://30143e07-b734-4bd6-867c-7daf4782cccb@45.140.204.119:443?security=reality&encryption=none&pbk=vl5WQd9UDA3DvLxPPS1yF9ivUipxkxoxhaBRHpnyLho&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=67fb#REALITY|IL🇮🇱
-vless://30143e07-b734-4bd6-867c-7daf4782cccb@45.140.204.119:443?security=reality&encryption=none&pbk=vl5WQd9UDA3DvLxPPS1yF9ivUipxkxoxhaBRHpnyLho&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=67fb#REALITY|IL🇮🇱
+ss://30143e07-b734-4bd6-867c-7daf4782cccb@45.140.204.119:443?encryption=none&fp=&pbk=vl5WQd9UDA3DvLxPPS1yF9ivUipxkxoxhaBRHpnyLho&security=reality&sid=67fb&sni=yahoo.com&type=tcp#REALITY|IL🇮🇱
+ss://394f6981-a782-4779-9a85-e6cf22935d93@169.150.235.74:8443?encryption=none&security=tls&sni=tlv-il.fromblancwithlove.com&type=tcp#IL🇮🇱
+vless://30143e07-b734-4bd6-867c-7daf4782cccb@45.140.204.119:443?encryption=none&fp=&pbk=vl5WQd9UDA3DvLxPPS1yF9ivUipxkxoxhaBRHpnyLho&security=reality&sid=67fb&sni=yahoo.com&type=tcp#REALITY|IL🇮🇱
+vless://394f6981-a782-4779-9a85-e6cf22935d93@169.150.235.74:8443?encryption=none&security=tls&sni=tlv-il.fromblancwithlove.com&type=tcp#IL🇮🇱

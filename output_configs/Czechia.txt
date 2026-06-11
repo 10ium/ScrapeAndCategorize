@@ -1,5 +1,6 @@
-ss://ae5ba4be-7262-4199-bd62-210ed8999b9f@188.130.208.220:5443?security=reality&encryption=none&pbk=LGcG8Sqv5vPDypbaEgHV0ZGqQOBkgDepPWXyDohbVXQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=max.ru#REALITY|CZ🇨🇿
-trojan://3gLlCYBipVwr6Y5F@92.118.149.85:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#CZ🇨🇿
+ss://26e4d8b5-ee98-4a8d-88c9-7f81b7be3379@95.85.235.240:8443?type=tcp&security=reality&sni=eh.vk.com&fp=ios&flow=xtls-rprx-vision&pbk=GzQr6fDhigtRAr0n2Y7Nk3snhdytYyOvaYo9zYe1Xn4&sid=b3a1cc510a2001c6#REALITY|CZ🇨🇿
+ss://347a56c2-a453-4b32-86cd-7522943df88c@103.119.19.201:2087?security=reality&encryption=none&pbk=vZuBWF0YzlKI0fJWxU6hmOLHHQ5Qb1kf35HbZDcFCH4&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=493c3d4e37c23c28#REALITY|CZ🇨🇿
 trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@ch-2.bexum.fun:443#CZ🇨🇿
-trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@ch-2.bexum.fun:443?security=tls&sni=ch-2.bexum.fun#%F0%9F%87%A8%F0%9F%87%BFCZ-46.8.113.142-0125
-vless://ae5ba4be-7262-4199-bd62-210ed8999b9f@188.130.208.220:5443?security=reality&encryption=none&pbk=LGcG8Sqv5vPDypbaEgHV0ZGqQOBkgDepPWXyDohbVXQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=max.ru#REALITY|CZ🇨🇿
+trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@ch-2.bexum.fun:443?security=tls&sni=ch-2.bexum.fun#%F0%9F%87%A8%F0%9F%87%BFCZ-46.8.113.142-0114
+vless://26e4d8b5-ee98-4a8d-88c9-7f81b7be3379@95.85.235.240:8443?type=tcp&security=reality&sni=eh.vk.com&fp=ios&flow=xtls-rprx-vision&pbk=GzQr6fDhigtRAr0n2Y7Nk3snhdytYyOvaYo9zYe1Xn4&sid=b3a1cc510a2001c6#REALITY|CZ🇨🇿
+vless://347a56c2-a453-4b32-86cd-7522943df88c@103.119.19.201:2087?security=reality&encryption=none&pbk=vZuBWF0YzlKI0fJWxU6hmOLHHQ5Qb1kf35HbZDcFCH4&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=493c3d4e37c23c28#REALITY|CZ🇨🇿
