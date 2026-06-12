@@ -1,4 +1,2 @@
-ss://394f6981-a782-4779-9a85-e6cf22935d93@79.127.224.12:8443?encryption=none&security=tls&sni=bru-be-01.fromblancwithlove.com&type=tcp#BE🇧🇪
-ss://48d7e2e5-6ddc-434f-a5e5-c53b9e2f6301@109.69.218.212:443?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=ns.passwd.space&fp=randomized&flow=xtls-rprx-vision&pbk=KfKYcURcfQ207VZCXG4g2cxltWvG2Zk7j3WCjvpa8Sg#🆔soskeynet%20🔒%20VL-TCP-%20🇧🇪%20BE%20139ms
-vless://394f6981-a782-4779-9a85-e6cf22935d93@79.127.224.12:8443?encryption=none&security=tls&sni=bru-be-01.fromblancwithlove.com&type=tcp#BE🇧🇪
-vless://48d7e2e5-6ddc-434f-a5e5-c53b9e2f6301@109.69.218.212:443?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=ns.passwd.space&fp=randomized&flow=xtls-rprx-vision&pbk=KfKYcURcfQ207VZCXG4g2cxltWvG2Zk7j3WCjvpa8Sg#🆔soskeynet%20🔒%20VL-TCP-%20🇧🇪%20BE%20139ms
+ss://394f6981-a782-4779-9a85-e6cf22935d93@207.211.214.42:8443?encryption=none&security=tls&sni=bru-be-01.fromblancwithlove.com&type=tcp#BE🇧🇪
+vless://394f6981-a782-4779-9a85-e6cf22935d93@207.211.214.42:8443?encryption=none&security=tls&sni=bru-be-01.fromblancwithlove.com&type=tcp#BE🇧🇪

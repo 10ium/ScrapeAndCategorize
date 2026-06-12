@@ -1,2 +1,0 @@
-trojan://mitivpn@188.114.97.6:443?type=ws&security=tls&path=https%3A%2F%2Fchatgpt.com&sni=mifgddn.dsasech.ss.ssandfdsgsczdx.gloteefghedcal.ssl.fastly.net.b5r.ir&alpn=http%2F1.1&fp=chrome&allowInsecure=0#%F0%9F%87%AA%F0%9F%87%A6%20Channel-Telegram%20%3A%20%40St
-trojan://mitivpn@188.114.97.6:443?type=ws&security=tls&path=https%3A%2F%2Fchatgpt.com&sni=mitivpn.dsech.ss.ssandfdsgx.gloteefghedcal.ssl.fastly.net.b5r.ir&alpn=http%2F1.1&fp=chrome&allowInsecure=0#%F0%9F%87%A9%F0%9F%87%AA%20Channel-Telegram%20%3A%20%40St

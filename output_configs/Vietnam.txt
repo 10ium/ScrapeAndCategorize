@@ -1,1 +1,2 @@
-trojan://DX4wKmVl.CNIjwO5CYf7_qg%2Bf1eMN4yt_F@130.94.3.146:443?security=tls&sni=www.event-snapshot.click#%F0%9F%87%BB%F0%9F%87%B3VN-130.94.3.146-0174
+trojan://DX4wKmVl.CNIjwO5CYf7_qg%2Bf1eMN4yt_F@130.94.3.146:443?security=tls&sni=www.event-snapshot.click#%F0%9F%87%BB%F0%9F%87%B3VN-130.94.3.146-0196
+vmess://eyJhZGQiOiIxMDMuNzUuMTg2LjE1MyIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiZWY5MTljNjctNjYzOC00NDE2LTkxYWYtOWExM2ZmZTViOWNhIiwibmV0Ijoid3MiLCJwYXRoIjoiXC90YW5kdW5nMjg4LmNsaWNrIiwicG9ydCI6ODAsInBzIjoiVk5cdWQ4M2NcdWRkZmJcdWQ4M2NcdWRkZjMgfCAxMDMuNzUuMTg2LjE1My04MCB8IDI0NC4yM21zIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6ImF1dG8ifQ==
