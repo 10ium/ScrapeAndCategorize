@@ -1,1 +1,3 @@
-ss://TWpBeU1pMWliR0ZyWlRNdFlXVnpMVEV5T0MxblkyMDZObkJ1SzBwRlEybzBSQzlVWjNkWVEwZ3pjbU5XWnowOU9uVnVWME5oYW1jd1pIWjRjRmswTlZReFRqSmFNMUU5UFE6@104.252.19.143:8388#🆔ar14n24b%20🔒%20SS-TCP-TLS%20🇱🇻%20LV%20down
+ss://247a22e1-0795-4852-9bdd-a65ac1078034@188.253.21.106:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yahoo.com&fp=firefox&security=reality&pbk=4JvLKnuuAs4h0cQ1j_S4SAuXQQ579D7Wr1sGBjmH-Ws&sid=73d3fec4#REALITY|LV🇱🇻
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@46.183.217.204:990#LV%F0%9F%87%B1%F0%9F%87%BB+%7C+46.183.217.204-990+%7C+124.88ms
+vless://247a22e1-0795-4852-9bdd-a65ac1078034@188.253.21.106:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yahoo.com&fp=firefox&security=reality&pbk=4JvLKnuuAs4h0cQ1j_S4SAuXQQ579D7Wr1sGBjmH-Ws&sid=73d3fec4#REALITY|LV🇱🇻
