@@ -1,0 +1,2 @@
+ss://d5b52d85-714e-4b3c-95cd-ca0cbfba35c3@185.187.72.117:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=mPzNFHO4pZMzFviRkIhRd7xDUz4dMHyI-flZLOrgDVg&security=reality&sid=2f6c940cadef9918&sni=hu.locklance.lol&type=tcp#REALITY|HU🇭🇺
+vless://d5b52d85-714e-4b3c-95cd-ca0cbfba35c3@185.187.72.117:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=mPzNFHO4pZMzFviRkIhRd7xDUz4dMHyI-flZLOrgDVg&security=reality&sid=2f6c940cadef9918&sni=hu.locklance.lol&type=tcp#REALITY|HU🇭🇺

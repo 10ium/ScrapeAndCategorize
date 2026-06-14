@@ -22,4 +22,4 @@ ss://YWVzLTEyOC1nY206bHZ4dWoxMXg4c2ZndDlndDZtamY@86.106.84.196:13263#Channel%20i
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.38.170:443#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%BA%F0%9F%87
 ss://YWVzLTI1Ni1nY206N051QjBZNW0zYU56a0tNS2xGb013a2lhanN1NkYzNmM5b2s0VktFWm5CND0@162.19.254.232:2083#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A9%F0%9F%87
 ss://YWVzLTI1Ni1nY206N051QjBZNW0zYU56a0tNS2xGb013a2lhanN1NkYzNmM5b2s0VktFWm5CND0@de5.taskflowhub.org:2083#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A9%F0%9F%87
-trojan://oUAfbL8z87q-mhgjZ6g7mWQobf9=b7ut_F@130.94.92.144:443?security=tls&sni=www.node-finder.click#%F0%9F%87%AE%F0%9F%87%A9ID-130.94.92.144-0206
+trojan://oUAfbL8z87q-mhgjZ6g7mWQobf9%3Db7ut_F@130.94.92.144:443?Telegram=%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad&security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=www.node-finder.click#🆔ar14n24b%20🔒%20TR-TCP-N/A%20🇮🇩%20ID%20down

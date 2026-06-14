@@ -1,7 +1,10 @@
 ss://54fa4981-fc4c-4a2e-bc59-824939ac874c@18.200.101.228:443?security=none&encryption=none&headerType=none&type=tcp#IE🇮🇪
 ss://9f9f18f8-2557-4f18-928d-e7c334a0b068@85.159.229.189:443?security=reality&encryption=none&pbk=jRh71f3CZSR8xkOMBX9wpaMe_3EYhjrxFELmls-AW0A&headerType=none&fp=chrome&type=tcp&sni=www.google.com&sid=e6#REALITY|IE🇮🇪
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSWDlaT3ZocWNobU4xMHRy@20.166.48.64:443#IE%F0%9F%87%AE%F0%9F%87%AA+%7C+20.166.48.64-443+%7C+91.56ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuWkJzRjFUQ1pVMk9NTHVq@20.166.48.64:443#IE%F0%9F%87%AE%F0%9F%87%AA+%7C+20.166.48.64-443+%7C+91.94ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaejV3Y1hpYzU4RmlxWW1Q@74.234.78.179:443#IE%F0%9F%87%AE%F0%9F%87%AA+%7C+74.234.78.179-443+%7C+134.97ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnYlh4VklHcGpDczVoUHFQ@74.234.78.179:443#IE%F0%9F%87%AE%F0%9F%87%AA+%7C+74.234.78.179-443+%7C+134.69ms
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@3.252.208.74:443#IE%F0%9F%87%AE%F0%9F%87%AA+%7C+3.252.208.74-443+%7C+132.79ms
+ss://e52ce61d-57d1-40a4-ae72-9c4285f806b0@85.159.229.77:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=lHCkAu_DOVFtE-iL2JGrPt44QeTCFijXuRfuGaSni3Q&security=reality&sid=8eef6c460f78f193&sni=ie.orpheous.ru&type=tcp#REALITY|IE🇮🇪
+trojan://telegram-id-privatevpns@176.34.118.216:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#🆔ar14n24b%20🔒%20TR-TCP-N/A%20🇮🇪%20IE%20down
 vless://54fa4981-fc4c-4a2e-bc59-824939ac874c@18.200.101.228:443?security=none&encryption=none&headerType=none&type=tcp#IE🇮🇪
 vless://9f9f18f8-2557-4f18-928d-e7c334a0b068@85.159.229.189:443?security=reality&encryption=none&pbk=jRh71f3CZSR8xkOMBX9wpaMe_3EYhjrxFELmls-AW0A&headerType=none&fp=chrome&type=tcp&sni=www.google.com&sid=e6#REALITY|IE🇮🇪
-vmess://eyJhZGQiOiIxODUuMTA4LjEyOC4xMzciLCJhaWQiOjY0LCJob3N0Ijoid3d3LjE0NjAxMTc2Lnh5eiIsImlkIjoiNWFhYjM5MzYtMTZkNy00Mzc3LThjMzMtMGQ3N2YyZDI5NWVlIiwibmV0Ijoid3MiLCJwYXRoIjoiXC9wYXRoXC8zMDAwMjIxMTMzMjkiLCJwb3J0IjozMDAwMCwicHMiOiJcdWQ4M2NcdWRkOTRzb3NrZXluZXQgXHVkODNkXHVkZDEyIFZNLVdTLVRMUyBcdWQ4M2NcdWRkZWVcdWQ4M2NcdWRkZWEgSUUgNjltcyIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6ZmFsc2UsInNuaSI6Ind3dy4xNDYwMTE3Ni54eXoifQ==
+vless://e52ce61d-57d1-40a4-ae72-9c4285f806b0@85.159.229.77:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=lHCkAu_DOVFtE-iL2JGrPt44QeTCFijXuRfuGaSni3Q&security=reality&sid=8eef6c460f78f193&sni=ie.orpheous.ru&type=tcp#REALITY|IE🇮🇪
