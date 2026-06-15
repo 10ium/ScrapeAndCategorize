@@ -1,2 +1,4 @@
-ss://394f6981-a782-4779-9a85-e6cf22935d93@79.127.224.12:8443?encryption=none&security=tls&sni=bru-be-01.fromblancwithlove.com&type=tcp#BE🇧🇪
-vless://394f6981-a782-4779-9a85-e6cf22935d93@79.127.224.12:8443?encryption=none&security=tls&sni=bru-be-01.fromblancwithlove.com&type=tcp#BE🇧🇪
+ss://0c7fdb10-b893-4537-a37f-f6c30ded2f6d@bel1.pandaonline.org:443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=8zwu_JeBAKXJUGgMPKECkOl8IRSRlTKUO5Mnc0fOLkM&fp=firefox&sni=bel1.pandaonline.org#REALITY|BE🇧🇪
+ss://0c7fdb10-b893-4537-a37f-f6c30ded2f6d@belgium-1.pandaonline.org:443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=VfBonYfncgM6EJ66EW67ZfnZf213RMrWbYtJ3XwrUCc&fp=firefox&sni=belgium-1.pandaonline.org#REALITY|BE🇧🇪
+vless://0c7fdb10-b893-4537-a37f-f6c30ded2f6d@bel1.pandaonline.org:443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=8zwu_JeBAKXJUGgMPKECkOl8IRSRlTKUO5Mnc0fOLkM&fp=firefox&sni=bel1.pandaonline.org#REALITY|BE🇧🇪
+vless://0c7fdb10-b893-4537-a37f-f6c30ded2f6d@belgium-1.pandaonline.org:443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=VfBonYfncgM6EJ66EW67ZfnZf213RMrWbYtJ3XwrUCc&fp=firefox&sni=belgium-1.pandaonline.org#REALITY|BE🇧🇪
