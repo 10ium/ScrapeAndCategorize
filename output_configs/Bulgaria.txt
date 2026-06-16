@@ -1,1 +1,3 @@
-ss://fab7bf9cddb945638a04fb01ce6c0fbfOg==@147.78.140.20:8880#BG%F0%9F%87%A7%F0%9F%87%AC+%7C+147.78.140.20-8880+%7C+2.98ms
+ss://301d514e-4aa0-47b0-ba44-a0cb891cd52f@87.229.34.23:443?encryption=none&security=reality&sni=www.samsung.com&fp=chrome&pbk=OZVjfQBboTDTBw0baMFqzVPsVUI4FNQmspTEb0b0zW4&sid=e5f60718&packetEncoding=xudp#🆔ar14n24b%20🔒%20VL--%20🇧🇬%20BG%20152ms
+ss://fab7bf9cddb945638a04fb01ce6c0fbfOg==@147.78.140.20:8880#BG%F0%9F%87%A7%F0%9F%87%AC+%7C+147.78.140.20-8880+%7C+2.28ms
+vless://301d514e-4aa0-47b0-ba44-a0cb891cd52f@87.229.34.23:443?encryption=none&security=reality&sni=www.samsung.com&fp=chrome&pbk=OZVjfQBboTDTBw0baMFqzVPsVUI4FNQmspTEb0b0zW4&sid=e5f60718&packetEncoding=xudp#🆔ar14n24b%20🔒%20VL--%20🇧🇬%20BG%20152ms

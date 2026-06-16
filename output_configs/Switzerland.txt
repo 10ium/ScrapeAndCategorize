@@ -1,10 +1,8 @@
+ss://06bcd513-ef0b-4c0c-a03b-e25fcda66fe2@45.195.137.188:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&fp=firefox&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&sid=40ce08cf20c67003&packetEncoding=xudp#🆔ar14n24b%20🔒%20VL--%20🇨🇭%20CH%20239ms
 ss://2231ffa1-3d98-4849-998a-0aed095f6718@195.15.253.247:443?security=reality&encryption=none&pbk=xfFtXn8eIYgILiGMvwYorrrHMiH-KBDPIa8uwEDWkik&headerType=none&fp=chrome&spx=%2F6F1VS1poMaNhMSa&type=tcp&sni=store.steampowered.com&sid=723f912a60ed8b#REALITY|CH🇨🇭
-ss://YWVzLTEyOC1nY206bHZ4dWoxMXg4c2ZndDlndDZtamY3@86.106.84.196:13263#CH%F0%9F%87%A8%F0%9F%87%AD+%7C+86.106.84.196-13263+%7C+95.78ms
-ss://YWVzLTEyOC1nY206bHZ4dWoxMXg4c2ZndDlndDZtamY=@86.106.84.196:13263#CH%F0%9F%87%A8%F0%9F%87%AD+%7C+86.106.84.196-13263+%7C+93.91ms
-ss://YWVzLTEyOC1nY206bHZ4dWoxMXg4c2ZndDlndDZtamY=@86.106.84.196:13263#CH%F0%9F%87%A8%F0%9F%87%AD+%7C+86.106.84.196-13263+%7C+96ms
-ss://d342d11ed4244583b36e524ab1f0afa4Og==@185.18.250.121:2095#CH%F0%9F%87%A8%F0%9F%87%AD+%7C+185.18.250.121-2095+%7C+5.53ms
-ss://d39664df-5bc0-4f49-9894-8f03b4150082@84.234.29.132:8443?encryption=none&fp=chrome&mode=auto&pbk=QLamtir13xwzyWVlPRN3C7lw_fhSBU7X4H3A8zAl5Fg&security=reality&sid=6f319200&sni=www.yahoo.com&type=xhttp#REALITY|CH🇨🇭
-ss://d39664df-5bc0-4f49-9894-8f03b4150082@germany-vip.soft26.ir:8443?mode=auto&path=%2F&security=reality&encryption=none&pbk=QLamtir13xwzyWVlPRN3C7lw_fhSBU7X4H3A8zAl5Fg&fp=chrome&type=xhttp&sni=www.yahoo.com&sid=6f3192#REALITY|CH🇨🇭
+ss://YWVzLTEyOC1nY206bHZ4dWoxMXg4c2ZndDlndDZtamY3@86.106.84.196:13263#CH%F0%9F%87%A8%F0%9F%87%AD+%7C+86.106.84.196-13263+%7C+119.22ms
+ss://YWVzLTEyOC1nY206bHZ4dWoxMXg4c2ZndDlndDZtamY=@86.106.84.196:13263#CH%F0%9F%87%A8%F0%9F%87%AD+%7C+86.106.84.196-13263+%7C+114.17ms
+ss://d342d11ed4244583b36e524ab1f0afa4Og==@185.18.250.121:2095#CH%F0%9F%87%A8%F0%9F%87%AD+%7C+185.18.250.121-2095+%7C+3.8ms
+vless://06bcd513-ef0b-4c0c-a03b-e25fcda66fe2@45.195.137.188:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&fp=firefox&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&sid=40ce08cf20c67003&packetEncoding=xudp#🆔ar14n24b%20🔒%20VL--%20🇨🇭%20CH%20239ms
 vless://2231ffa1-3d98-4849-998a-0aed095f6718@195.15.253.247:443?security=reality&encryption=none&pbk=xfFtXn8eIYgILiGMvwYorrrHMiH-KBDPIa8uwEDWkik&headerType=none&fp=chrome&spx=%2F6F1VS1poMaNhMSa&type=tcp&sni=store.steampowered.com&sid=723f912a60ed8b#REALITY|CH🇨🇭
-vless://d39664df-5bc0-4f49-9894-8f03b4150082@84.234.29.132:8443?encryption=none&fp=chrome&mode=auto&pbk=QLamtir13xwzyWVlPRN3C7lw_fhSBU7X4H3A8zAl5Fg&security=reality&sid=6f319200&sni=www.yahoo.com&type=xhttp#REALITY|CH🇨🇭
-vless://d39664df-5bc0-4f49-9894-8f03b4150082@germany-vip.soft26.ir:8443?mode=auto&path=%2F&security=reality&encryption=none&pbk=QLamtir13xwzyWVlPRN3C7lw_fhSBU7X4H3A8zAl5Fg&fp=chrome&type=xhttp&sni=www.yahoo.com&sid=6f3192#REALITY|CH🇨🇭
+vmess://eyJhZGQiOiIxODUuMTguMjUwLjcwIiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiJiM2EyMWRlZi01ZmNjLTQ3YTgtYTZhMC1hMzRlMjlkNTI4OGEiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL3dzczUxMDY4IiwicG9ydCI6NDQzLCJwcyI6IkNIXHVkODNjXHVkZGU4XHVkODNjXHVkZGVkIHwgMTg1LjE4LjI1MC43MC00NDMgfCAyLjU4bXMiLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byJ9
