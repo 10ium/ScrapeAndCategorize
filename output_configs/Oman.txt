@@ -1,2 +1,0 @@
-ss://5bea9df4-767a-406c-aea2-7c2dd3e1875a@oman.yellowsky.ir:8084?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🆔ar14n24b%20🔓%20VL-TCP-N/A%20🇴🇲%20OM%20398ms
-vless://5bea9df4-767a-406c-aea2-7c2dd3e1875a@oman.yellowsky.ir:8084?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🆔ar14n24b%20🔓%20VL-TCP-N/A%20🇴🇲%20OM%20398ms
