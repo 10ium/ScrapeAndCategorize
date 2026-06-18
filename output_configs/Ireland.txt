@@ -1,3 +1,1 @@
-ss://54fa4981-fc4c-4a2e-bc59-824939ac874c@18.200.101.228:443?security=none&encryption=none&headerType=none&type=tcp#IE🇮🇪
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmMmR6Wm9FSjB0OHR1RUJT@20.123.1.42:443#IE%F0%9F%87%AE%F0%9F%87%AA+%7C+20.123.1.42-443+%7C+71.18ms
-vless://54fa4981-fc4c-4a2e-bc59-824939ac874c@18.200.101.228:443?security=none&encryption=none&headerType=none&type=tcp#IE🇮🇪
+trojan://t1k169n5zmvvwn96r9ft@146.70.90.197:57452?security=tls#IE🇮🇪

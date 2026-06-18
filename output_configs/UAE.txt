@@ -1,7 +1,11 @@
-ss://9d0a75d2-f747-4afa-b43f-d208af9e8f9a@db01.ssr.ee:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=itunes.apple.com&pbk=3tyvN86mGzMnYhAMX06SJMYSWhG02rqzTr7GjS-OaWI&sid=6ba85179e30d4fc2#REALITY|AE🇦🇪
+ss://712de3d6-c6e7-4d4a-8ff1-b97e35348a9f@gym.axade.ir:11000?security=reality&encryption=none&pbk=3WnHdv9A0tNParChTLxPnDteRD841h8thOGR7MBgAhY&headerType=none&fp=firefox&type=tcp&sni=play.google.com#REALITY|AE🇦🇪
 ss://9d0a75d2-f747-4afa-b43f-d208af9e8f9a@db02.ssr.ee:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=itunes.apple.com&pbk=0Vvc6EFXPQHWWqyhG4wek-MEh_q6a9CDMY7U-TSHGV4&sid=6ba85179e30d4fc2#REALITY|AE🇦🇪
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@217.138.193.6:803#%F0%9F%87%A6%F0%9F%87%AAAE-217.138.193.6-0224
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@217.138.193.6:809#%F0%9F%87%A6%F0%9F%87%AAAE-217.138.193.6-0234
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@217.138.193.6:812#%F0%9F%87%A6%F0%9F%87%AAAE-217.138.193.6-0231
-vless://9d0a75d2-f747-4afa-b43f-d208af9e8f9a@db01.ssr.ee:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=itunes.apple.com&pbk=3tyvN86mGzMnYhAMX06SJMYSWhG02rqzTr7GjS-OaWI&sid=6ba85179e30d4fc2#REALITY|AE🇦🇪
+ss://9f40f5f5-67da-4d1d-bd30-d364f41661dd@de.mizanserver.ir:8008?encryption=none&type=tcp&headerType=none&security=reality&fp=chrome&sni=yahoo.com&pbk=Ts0lHSf_gr6pnktPluGRltbC3fbr4VlNTbmWdDHPln0&sid=ece76a51ba6e277c&spx=%2F#REALITY|AE🇦🇪
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206LzBoeVVsa2xTRkQ5RzZoQzRuRWFmLzhKNWFXNVpNUytsZ3M4Yjhtd2R0MD0=@main.devilfullspeed.com:8443#AE%F0%9F%87%A6%F0%9F%87%AA+%7C+main.devilfullspeed.com-8443+%7C+188.26ms
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206LzBoeVVsa2xTRkQ5RzZoQzRuRWFmLzhKNWFXNVpNUytsZ3M4Yjhtd2R0MD0=@main.devilfullspeed.com:8443#AE%F0%9F%87%A6%F0%9F%87%AA+%7C+main.devilfullspeed.com-8443+%7C+225.2ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@217.138.193.6:812#%F0%9F%87%A6%F0%9F%87%AAAE-217.138.193.6-0047
+ss://d4f2827b-a566-48d1-b207-0b06fbc2dc4b@sa.torentomovie.ir:27437?encryption=none&security=reality&sni=www.oracle.com&fp=chrome&pbk=oWU8cmjNaItt1EIDf-nhJFAxKHq3X2ig_XBFAfXK9GM&sid=118c54423f5ea5&spx=%2FoHQIwFwwai1OQP5&type=tcp&headerType=none#🆔configfa%20🔒%20VL-TCP-%20🇦🇪%20AE%20down
+vless://712de3d6-c6e7-4d4a-8ff1-b97e35348a9f@gym.axade.ir:11000?security=reality&encryption=none&pbk=3WnHdv9A0tNParChTLxPnDteRD841h8thOGR7MBgAhY&headerType=none&fp=firefox&type=tcp&sni=play.google.com#REALITY|AE🇦🇪
 vless://9d0a75d2-f747-4afa-b43f-d208af9e8f9a@db02.ssr.ee:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=itunes.apple.com&pbk=0Vvc6EFXPQHWWqyhG4wek-MEh_q6a9CDMY7U-TSHGV4&sid=6ba85179e30d4fc2#REALITY|AE🇦🇪
+vless://9f40f5f5-67da-4d1d-bd30-d364f41661dd@de.mizanserver.ir:8008?encryption=none&type=tcp&headerType=none&security=reality&fp=chrome&sni=yahoo.com&pbk=Ts0lHSf_gr6pnktPluGRltbC3fbr4VlNTbmWdDHPln0&sid=ece76a51ba6e277c&spx=%2F#REALITY|AE🇦🇪
+vless://d4f2827b-a566-48d1-b207-0b06fbc2dc4b@sa.torentomovie.ir:27437?encryption=none&security=reality&sni=www.oracle.com&fp=chrome&pbk=oWU8cmjNaItt1EIDf-nhJFAxKHq3X2ig_XBFAfXK9GM&sid=118c54423f5ea5&spx=%2FoHQIwFwwai1OQP5&type=tcp&headerType=none#🆔configfa%20🔒%20VL-TCP-%20🇦🇪%20AE%20down

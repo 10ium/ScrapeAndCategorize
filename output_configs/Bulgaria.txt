@@ -1,3 +1,1 @@
-ss://7096e7da-0f87-4553-a2ee-0ca7e6d51f0b@94.156.155.234:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=5RrWbrejRg6gGFbWuWxps6wbz0YLBgLJ3ZSfwfbnkg0&security=reality&sid=1eb16f60&sni=germany70.clearorbitllc.com&type=tcp#REALITY|BG🇧🇬
-ss://fab7bf9cddb945638a04fb01ce6c0fbfOg==@147.78.140.20:8880#BG%F0%9F%87%A7%F0%9F%87%AC+%7C+147.78.140.20-8880+%7C+2.15ms
-vless://7096e7da-0f87-4553-a2ee-0ca7e6d51f0b@94.156.155.234:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=5RrWbrejRg6gGFbWuWxps6wbz0YLBgLJ3ZSfwfbnkg0&security=reality&sid=1eb16f60&sni=germany70.clearorbitllc.com&type=tcp#REALITY|BG🇧🇬
+ss://fab7bf9cddb945638a04fb01ce6c0fbfOg==@147.78.140.20:8880#BG%F0%9F%87%A7%F0%9F%87%AC+%7C+147.78.140.20-8880+%7C+14.11ms
