@@ -1,9 +1,7 @@
-ss://2a9ed01e-5455-44b4-a66a-76ee8165f0ac@77.73.232.61:19747?security=reality&encryption=none&pbk=ZO9dTeg1slvTXgVsBsaJ1BDvz_YUImTLJjbHs-GdVyM&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=2001#REALITY|KZ🇰🇿
 ss://3c5c4ccc-b502-42cb-8c42-cfa714db4767@212.111.84.82:443?security=reality&encryption=none&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=m.vk.ru&sid=2715592069f36fe7#REALITY|KZ🇰🇿
-ss://401374e6df7741fbf638dad8184f175bOg==@31.43.179.38:443#KZ%F0%9F%87%B0%F0%9F%87%BF+%7C+31.43.179.38-443+%7C+15.24ms
-ss://89b3cbbae6ac485a9481976a0415eab9Og==@31.43.179.51:80#KZ%F0%9F%87%B0%F0%9F%87%BF+%7C+31.43.179.51-80+%7C+10.34ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzOExiSkNnVWlHWGVDS1ZjNjN0SEpQ@94.198.220.183:64674#%F0%9F%87%B0%F0%9F%87%BFKZ-94.198.220.183-0244
-ss://f2a72ad0d23f4eed96cb7d970b1e784dOg==@194.76.18.60:80#KZ%F0%9F%87%B0%F0%9F%87%BF+%7C+194.76.18.60-80+%7C+13.11ms
-ss://fab7bf9cddb945638a04fb01ce6c0fbfOg==@185.176.26.29:8880#KZ%F0%9F%87%B0%F0%9F%87%BF+%7C+185.176.26.29-8880+%7C+14.21ms
-vless://2a9ed01e-5455-44b4-a66a-76ee8165f0ac@77.73.232.61:19747?security=reality&encryption=none&pbk=ZO9dTeg1slvTXgVsBsaJ1BDvz_YUImTLJjbHs-GdVyM&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=2001#REALITY|KZ🇰🇿
+ss://401374e6df7741fbf638dad8184f175bOg==@31.43.179.38:443#KZ%F0%9F%87%B0%F0%9F%87%BF+%7C+31.43.179.38-443+%7C+2.09ms
+ss://89b3cbbae6ac485a9481976a0415eab9Og==@31.43.179.51:80#KZ%F0%9F%87%B0%F0%9F%87%BF+%7C+31.43.179.51-80+%7C+3.2ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzOExiSkNnVWlHWGVDS1ZjNjN0SEpQ@94.198.220.183:64674#%F0%9F%87%B0%F0%9F%87%BFKZ-94.198.220.183-0239
+ss://f2a72ad0d23f4eed96cb7d970b1e784dOg==@194.76.18.60:80#KZ%F0%9F%87%B0%F0%9F%87%BF+%7C+194.76.18.60-80+%7C+1.73ms
+ss://fab7bf9cddb945638a04fb01ce6c0fbfOg==@185.176.26.29:8880#KZ%F0%9F%87%B0%F0%9F%87%BF+%7C+185.176.26.29-8880+%7C+2.27ms
 vless://3c5c4ccc-b502-42cb-8c42-cfa714db4767@212.111.84.82:443?security=reality&encryption=none&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=m.vk.ru&sid=2715592069f36fe7#REALITY|KZ🇰🇿
