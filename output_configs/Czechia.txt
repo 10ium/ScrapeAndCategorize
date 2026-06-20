@@ -1,11 +1,4 @@
-ss://01c40f1e-73c9-4c08-9a84-d5d1baccff3d@de1.safesurf.cloud:443?encryption=none&type=grpc&security=reality&mode=gun&sni=de1.safesurf.cloud&fp=chrome&allowInsecure=1&pbk=DtrZmUl6FG-yOGVepZ8HTLhyOC8FtuJQ1iIvjXMQhzs#REALITY|CZ🇨🇿
 ss://8bbf020e-653f-4a82-9900-1214e4e37dab@103.119.18.159:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=gXc2c9NIWxhUTb7HoBCjvo-uB1L4iQj4TH38g4YhxHE&security=reality&sid=fcd9787f&sni=www.microsoft.com&type=tcp#REALITY|CZ🇨🇿
-ss://ae5ba4be-7262-4199-bd62-210ed8999b9f@188.130.208.220:5443?security=reality&encryption=none&pbk=LGcG8Sqv5vPDypbaEgHV0ZGqQOBkgDepPWXyDohbVXQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=max.ru#REALITY|CZ🇨🇿
-ss://fabfdf89-d0dd-4dee-a39c-84ebac5b570f@195.133.93.39:443?mode=gun&security=reality&encryption=none&authority=&pbk=tehEdgeGxaEl2Rwke0ok5ojcJjamAXvnRhy_CBjilVM&fp=chrome&spx=%2F&type=grpc&serviceName=Tel%3A%40%40vpnclashfa+-+2056#REALITY|CZ🇨🇿
 trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@46.8.113.142:443?allowInsecure=1&fp=chrome&sni=ch-2.bexum.fun#CZ🇨🇿
-trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@46.8.113.142:443?type=tcp&security=tls&headerType=none&sni=ch-2.bexum.fun&fp=chrome&allowInsecure=0#CZ🇨🇿
-trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@ch-2.bexum.fun:443?security=tls&sni=ch-2.bexum.fun#%F0%9F%87%A8%F0%9F%87%BFCZ-46.8.113.142-0143
-vless://01c40f1e-73c9-4c08-9a84-d5d1baccff3d@de1.safesurf.cloud:443?encryption=none&type=grpc&security=reality&mode=gun&sni=de1.safesurf.cloud&fp=chrome&allowInsecure=1&pbk=DtrZmUl6FG-yOGVepZ8HTLhyOC8FtuJQ1iIvjXMQhzs#REALITY|CZ🇨🇿
+trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@ch-2.bexum.fun:443?security=tls&sni=ch-2.bexum.fun#%F0%9F%87%A8%F0%9F%87%BFCZ-46.8.113.142-0140
 vless://8bbf020e-653f-4a82-9900-1214e4e37dab@103.119.18.159:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=gXc2c9NIWxhUTb7HoBCjvo-uB1L4iQj4TH38g4YhxHE&security=reality&sid=fcd9787f&sni=www.microsoft.com&type=tcp#REALITY|CZ🇨🇿
-vless://ae5ba4be-7262-4199-bd62-210ed8999b9f@188.130.208.220:5443?security=reality&encryption=none&pbk=LGcG8Sqv5vPDypbaEgHV0ZGqQOBkgDepPWXyDohbVXQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=max.ru#REALITY|CZ🇨🇿
-vless://fabfdf89-d0dd-4dee-a39c-84ebac5b570f@195.133.93.39:443?mode=gun&security=reality&encryption=none&authority=&pbk=tehEdgeGxaEl2Rwke0ok5ojcJjamAXvnRhy_CBjilVM&fp=chrome&spx=%2F&type=grpc&serviceName=Tel%3A%40%40vpnclashfa+-+2056#REALITY|CZ🇨🇿

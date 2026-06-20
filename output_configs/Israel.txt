@@ -1,2 +1,0 @@
-ss://ca428a2e-7f82-4030-851b-cab731a5645a@l6.l-itx.info:7443?mode=gun&security=reality&encryption=none&pbk=F2MKDw5CCtP1oXIej2EgNxB01k3eyNu7tKCFfucgnRA&fp=firefox&type=grpc&serviceName=xyz&sni=colorlib.com&sid=6ba85179e30d4fc3#REALITY|IL🇮🇱
-vless://ca428a2e-7f82-4030-851b-cab731a5645a@l6.l-itx.info:7443?mode=gun&security=reality&encryption=none&pbk=F2MKDw5CCtP1oXIej2EgNxB01k3eyNu7tKCFfucgnRA&fp=firefox&type=grpc&serviceName=xyz&sni=colorlib.com&sid=6ba85179e30d4fc3#REALITY|IL🇮🇱

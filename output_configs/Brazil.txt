@@ -1,2 +1,0 @@
-ss://5cc4700c-1383-439d-8be2-590deaa5aec6@201.51.20.76:2053?encryption=none&flow=xtls-rprx-vision&fp=&pbk=HQKHvE_jMTB_Lt5fAAWP_bWS0iwKVnTg0qak_67N_DA&security=reality&sid=0e7e4a08&sni=dl.google.com&type=tcp#🆔ar14n24b%20🔒%20VL-TCP-%20🇧🇷%20BR%20down
-vless://5cc4700c-1383-439d-8be2-590deaa5aec6@201.51.20.76:2053?encryption=none&flow=xtls-rprx-vision&fp=&pbk=HQKHvE_jMTB_Lt5fAAWP_bWS0iwKVnTg0qak_67N_DA&security=reality&sid=0e7e4a08&sni=dl.google.com&type=tcp#🆔ar14n24b%20🔒%20VL-TCP-%20🇧🇷%20BR%20down
