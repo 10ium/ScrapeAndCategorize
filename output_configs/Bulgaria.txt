@@ -1,3 +1,5 @@
-ss://fa937ff5-89cc-49a4-9bf9-da2b7285070d@104.18.152.231:2053?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=bulghari.appleseraj.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=bulghari.appleseraj.ir#BG🇧🇬
-ss://fab7bf9cddb945638a04fb01ce6c0fbfOg==@147.78.140.20:8880#BG%F0%9F%87%A7%F0%9F%87%AC+%7C+147.78.140.20-8880+%7C+1.98ms
-vless://fa937ff5-89cc-49a4-9bf9-da2b7285070d@104.18.152.231:2053?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=bulghari.appleseraj.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=bulghari.appleseraj.ir#BG🇧🇬
+ss://6202b230-417c-4d8e-b624-0f71afa9c75d@45.142.120.40:8880?encryption=none&security=none&type=ws&host=vms.lifetime08.workers.dev&path=%2F#🆔ar14n24b%20🔓%20VL-WS-N/A%20🇧🇬%20BG%202ms
+ss://7096e7da-0f87-4553-a2ee-0ca7e6d51f0b@germany70.clearorbitllc.com:443?security=reality&encryption=none&pbk=5RrWbrejRg6gGFbWuWxps6wbz0YLBgLJ3ZSfwfbnkg0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=germany70.clearorbitllc.com&sid=1eb16f60#REALITY|BG🇧🇬
+ss://fab7bf9cddb945638a04fb01ce6c0fbfOg==@147.78.140.20:8880#BG%F0%9F%87%A7%F0%9F%87%AC+%7C+147.78.140.20-8880+%7C+1.93ms
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.142.120.40:8880?encryption=none&security=none&type=ws&host=vms.lifetime08.workers.dev&path=%2F#🆔ar14n24b%20🔓%20VL-WS-N/A%20🇧🇬%20BG%202ms
+vless://7096e7da-0f87-4553-a2ee-0ca7e6d51f0b@germany70.clearorbitllc.com:443?security=reality&encryption=none&pbk=5RrWbrejRg6gGFbWuWxps6wbz0YLBgLJ3ZSfwfbnkg0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=germany70.clearorbitllc.com&sid=1eb16f60#REALITY|BG🇧🇬
