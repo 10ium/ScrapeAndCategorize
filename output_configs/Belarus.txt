@@ -1,6 +1,2 @@
 ss://acbabca-acab-bcaa-abdc-bbccaabaccab@127.0.0.1:8080?security=tls&type=tcp#👨🏻‍💻%20DEVELOPED-BY%20@YEBEKHE
-ss://f64cab0a-75a4-44f1-b2f6-8ecc6c73c249@144.31.131.3:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=OwcO1frlUKi0De7XLo3OmD1qK8Y2HYgJ19WZV8Xzk2E&security=reality&sid=711f03b16c322124&sni=by.buycloud.app&type=tcp#REALITY|BY🇧🇾
-ss://f64cab0a-75a4-44f1-b2f6-8ecc6c73c249@144.31.131.3:443?security=reality&type=tcp&packetEncoding=xudp&sni=by.buycloud.app&fp=chrome&flow=xtls-rprx-vision&sid=711f03b16c322124&pbk=OwcO1frlUKi0De7XLo3OmD1qK8Y2HYgJ19WZV8Xzk2E&encryption=none#REALITY|BY🇧🇾
 vless://acbabca-acab-bcaa-abdc-bbccaabaccab@127.0.0.1:8080?security=tls&type=tcp#👨🏻‍💻%20DEVELOPED-BY%20@YEBEKHE
-vless://f64cab0a-75a4-44f1-b2f6-8ecc6c73c249@144.31.131.3:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=OwcO1frlUKi0De7XLo3OmD1qK8Y2HYgJ19WZV8Xzk2E&security=reality&sid=711f03b16c322124&sni=by.buycloud.app&type=tcp#REALITY|BY🇧🇾
-vless://f64cab0a-75a4-44f1-b2f6-8ecc6c73c249@144.31.131.3:443?security=reality&type=tcp&packetEncoding=xudp&sni=by.buycloud.app&fp=chrome&flow=xtls-rprx-vision&sid=711f03b16c322124&pbk=OwcO1frlUKi0De7XLo3OmD1qK8Y2HYgJ19WZV8Xzk2E&encryption=none#REALITY|BY🇧🇾

@@ -1,0 +1,2 @@
+ss://afcac633-0e1a-46c3-bef2-cc01cc0097c8@72.56.59.177:22231?alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=r1.mizulina.top&type=tcp#🆔soskeynet%20🔒%20VL-TCP-N/A%20🇬🇪%20GE%2091ms
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@72.56.59.177:22231?alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=r1.mizulina.top&type=tcp#🆔soskeynet%20🔒%20VL-TCP-N/A%20🇬🇪%20GE%2091ms
