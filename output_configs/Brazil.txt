@@ -1,0 +1,2 @@
+ss://2cfb47db-5b73-43cf-be67-6e28d73df7d4@ser.moktana.app:443?mode=gun&security=reality&encryption=none&pbk=C6nh6hqFTbtizgSH8vGmw2XUxsQAbAW3jPylpgGvfl4&fp=chrome&type=grpc&serviceName=moktana.net.v1.StreamService&sni=se.moktana.app&sid=4a7d3e9f2b8c6a1d#REALITY|BR🇧🇷
+vless://2cfb47db-5b73-43cf-be67-6e28d73df7d4@ser.moktana.app:443?mode=gun&security=reality&encryption=none&pbk=C6nh6hqFTbtizgSH8vGmw2XUxsQAbAW3jPylpgGvfl4&fp=chrome&type=grpc&serviceName=moktana.net.v1.StreamService&sni=se.moktana.app&sid=4a7d3e9f2b8c6a1d#REALITY|BR🇧🇷
