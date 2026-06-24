@@ -1,6 +1,10 @@
-ss://401374e6df7741fbf638dad8184f175bOg==@31.43.179.38:443#KZ%F0%9F%87%B0%F0%9F%87%BF+%7C+31.43.179.38-443+%7C+3.5ms
-ss://6fdfdb73-51b0-4a14-89a5-c9355a0e0397@178.236.17.86:443?encryption=none&type=tcp&security=reality&headerType=none&sni=google.com&fp=chrome&insecure=1&allowInsecure=1&pbk=vCxfuNNmogA1DlPkjvmKb7_hSgXqe4MboPfi2s1JZG0&sid=b318242471ba4f5b&flow=xtls-rprx-vision#🆔configfa%20🔒%20VL-TCP-%20🇰🇿%20KZ%20167ms
-ss://89b3cbbae6ac485a9481976a0415eab9Og==@31.43.179.51:80#KZ%F0%9F%87%B0%F0%9F%87%BF+%7C+31.43.179.51-80+%7C+3.94ms
-ss://f2a72ad0d23f4eed96cb7d970b1e784dOg==@194.76.18.60:80#KZ%F0%9F%87%B0%F0%9F%87%BF+%7C+194.76.18.60-80+%7C+2.87ms
-ss://fab7bf9cddb945638a04fb01ce6c0fbfOg==@185.176.26.29:8880#KZ%F0%9F%87%B0%F0%9F%87%BF+%7C+185.176.26.29-8880+%7C+3ms
-vless://6fdfdb73-51b0-4a14-89a5-c9355a0e0397@178.236.17.86:443?encryption=none&type=tcp&security=reality&headerType=none&sni=google.com&fp=chrome&insecure=1&allowInsecure=1&pbk=vCxfuNNmogA1DlPkjvmKb7_hSgXqe4MboPfi2s1JZG0&sid=b318242471ba4f5b&flow=xtls-rprx-vision#🆔configfa%20🔒%20VL-TCP-%20🇰🇿%20KZ%20167ms
+ss://2a9ed01e-5455-44b4-a66a-76ee8165f0ac@77.73.232.61:19747?security=reality&encryption=none&pbk=ZO9dTeg1slvTXgVsBsaJ1BDvz_YUImTLJjbHs-GdVyM&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=2001#REALITY|KZ🇰🇿
+ss://401374e6df7741fbf638dad8184f175bOg==@31.43.179.38:443#KZ%F0%9F%87%B0%F0%9F%87%BF+%7C+31.43.179.38-443+%7C+17.93ms
+ss://5005e971-b6a7-4d68-9100-616358f3cdab@185.91.126.49:448?security=reality&encryption=none&pbk=RlXCeIykJsVU_xhJMu9zohMUQiTfi52kibVvY5Zz9k4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=943e6ba0e346b3a8#🆔soskeynet%20🔒%20VL-TCP-%20🇰🇿%20KZ%20239ms
+ss://89b3cbbae6ac485a9481976a0415eab9Og==@31.43.179.51:80#KZ%F0%9F%87%B0%F0%9F%87%BF+%7C+31.43.179.51-80+%7C+18.02ms
+ss://bf8fb0b8-affc-42f3-9e82-f9a821066de1@188.94.156.216:443?security=reality&encryption=none&pbk=cEKfInbAE2ZWB3RH-MYQiIfA2aAPO6wZT_TNCPgh7TE&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=kz-ala-1.blook.network&sid=85b45f16#REALITY|KZ🇰🇿
+ss://f2a72ad0d23f4eed96cb7d970b1e784dOg==@194.76.18.60:80#KZ%F0%9F%87%B0%F0%9F%87%BF+%7C+194.76.18.60-80+%7C+18.11ms
+ss://fab7bf9cddb945638a04fb01ce6c0fbfOg==@185.176.26.29:8880#KZ%F0%9F%87%B0%F0%9F%87%BF+%7C+185.176.26.29-8880+%7C+19.02ms
+vless://2a9ed01e-5455-44b4-a66a-76ee8165f0ac@77.73.232.61:19747?security=reality&encryption=none&pbk=ZO9dTeg1slvTXgVsBsaJ1BDvz_YUImTLJjbHs-GdVyM&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=2001#REALITY|KZ🇰🇿
+vless://5005e971-b6a7-4d68-9100-616358f3cdab@185.91.126.49:448?security=reality&encryption=none&pbk=RlXCeIykJsVU_xhJMu9zohMUQiTfi52kibVvY5Zz9k4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=943e6ba0e346b3a8#🆔soskeynet%20🔒%20VL-TCP-%20🇰🇿%20KZ%20239ms
+vless://bf8fb0b8-affc-42f3-9e82-f9a821066de1@188.94.156.216:443?security=reality&encryption=none&pbk=cEKfInbAE2ZWB3RH-MYQiIfA2aAPO6wZT_TNCPgh7TE&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=kz-ala-1.blook.network&sid=85b45f16#REALITY|KZ🇰🇿

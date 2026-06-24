@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج (آخرین به‌روزرسانی: 2026-06-23 08:23:32 +0330)
+# 📊 نتایج استخراج (آخرین به‌روزرسانی: 2026-06-24 08:26:49 +0330)
 
 این فایل به صورت خودکار ایجاد شده است.
 
@@ -10,73 +10,72 @@
 
 | پروتکل | تعداد کل | لینک |
 |---|---|---|
-| ShadowSocks | 6091 | [`ShadowSocks.txt`](https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/refs/heads/main/output_configs/ShadowSocks.txt) |
+| Hysteria2 | 1 | [`Hysteria2.txt`](https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/refs/heads/main/output_configs/Hysteria2.txt) |
+| ShadowSocks | 6344 | [`ShadowSocks.txt`](https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/refs/heads/main/output_configs/ShadowSocks.txt) |
 | ShadowSocksR | 2 | [`ShadowSocksR.txt`](https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/refs/heads/main/output_configs/ShadowSocksR.txt) |
-| Trojan | 917 | [`Trojan.txt`](https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/refs/heads/main/output_configs/Trojan.txt) |
-| Vless | 4577 | [`Vless.txt`](https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/refs/heads/main/output_configs/Vless.txt) |
-| Vmess | 462 | [`Vmess.txt`](https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/refs/heads/main/output_configs/Vmess.txt) |
-| WireGuard | 1 | [`WireGuard.txt`](https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/refs/heads/main/output_configs/WireGuard.txt) |
+| Trojan | 1003 | [`Trojan.txt`](https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/refs/heads/main/output_configs/Trojan.txt) |
+| Vless | 4748 | [`Vless.txt`](https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/refs/heads/main/output_configs/Vless.txt) |
+| Vmess | 458 | [`Vmess.txt`](https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/refs/heads/main/output_configs/Vmess.txt) |
+| WireGuard | 2 | [`WireGuard.txt`](https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/refs/heads/main/output_configs/WireGuard.txt) |
 
 ## 🌍 فایل‌های کشورها (حاوی کانفیگ)
 
 | کشور | تعداد کانفیگ مرتبط | لینک |
 |---|---|---|
 | <img src="https://flagcdn.com/w20/al.png" width="20" alt="Albania flag"> Albania (آلبانی) | 4 | [`Albania.txt`](https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/refs/heads/main/output_configs/Albania.txt) |
-| <img src="https://flagcdn.com/w20/am.png" width="20" alt="Armenia flag"> Armenia (ارمنستان) | 4 | [`Armenia.txt`](https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/refs/heads/main/output_configs/Armenia.txt) |
+| <img src="https://flagcdn.com/w20/am.png" width="20" alt="Armenia flag"> Armenia (ارمنستان) | 6 | [`Armenia.txt`](https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/refs/heads/main/output_configs/Armenia.txt) |
 | <img src="https://flagcdn.com/w20/au.png" width="20" alt="Australia flag"> Australia (استرالیا) | 6 | [`Australia.txt`](https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/refs/heads/main/output_configs/Australia.txt) |
-| <img src="https://flagcdn.com/w20/at.png" width="20" alt="Austria flag"> Austria (اتریش) | 10 | [`Austria.txt`](https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/refs/heads/main/output_configs/Austria.txt) |
-| <img src="https://flagcdn.com/w20/by.png" width="20" alt="Belarus flag"> Belarus (بلاروس) | 5 | [`Belarus.txt`](https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/refs/heads/main/output_configs/Belarus.txt) |
-| <img src="https://flagcdn.com/w20/bz.png" width="20" alt="Belize flag"> Belize (بلیز) | 4 | [`Belize.txt`](https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/refs/heads/main/output_configs/Belize.txt) |
-| <img src="https://flagcdn.com/w20/br.png" width="20" alt="Brazil flag"> Brazil (برزیل) | 2 | [`Brazil.txt`](https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/refs/heads/main/output_configs/Brazil.txt) |
-| <img src="https://flagcdn.com/w20/bg.png" width="20" alt="Bulgaria flag"> Bulgaria (بلغارستان) | 11 | [`Bulgaria.txt`](https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/refs/heads/main/output_configs/Bulgaria.txt) |
-| <img src="https://flagcdn.com/w20/ca.png" width="20" alt="Canada flag"> Canada (کانادا) | 25 | [`Canada.txt`](https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/refs/heads/main/output_configs/Canada.txt) |
-| <img src="https://flagcdn.com/w20/cn.png" width="20" alt="China flag"> China (چین) | 3 | [`China.txt`](https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/refs/heads/main/output_configs/China.txt) |
+| <img src="https://flagcdn.com/w20/at.png" width="20" alt="Austria flag"> Austria (اتریش) | 11 | [`Austria.txt`](https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/refs/heads/main/output_configs/Austria.txt) |
+| <img src="https://flagcdn.com/w20/by.png" width="20" alt="Belarus flag"> Belarus (بلاروس) | 2 | [`Belarus.txt`](https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/refs/heads/main/output_configs/Belarus.txt) |
+| <img src="https://flagcdn.com/w20/bz.png" width="20" alt="Belize flag"> Belize (بلیز) | 3 | [`Belize.txt`](https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/refs/heads/main/output_configs/Belize.txt) |
+| <img src="https://flagcdn.com/w20/bg.png" width="20" alt="Bulgaria flag"> Bulgaria (بلغارستان) | 7 | [`Bulgaria.txt`](https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/refs/heads/main/output_configs/Bulgaria.txt) |
+| <img src="https://flagcdn.com/w20/ca.png" width="20" alt="Canada flag"> Canada (کانادا) | 35 | [`Canada.txt`](https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/refs/heads/main/output_configs/Canada.txt) |
+| <img src="https://flagcdn.com/w20/cn.png" width="20" alt="China flag"> China (چین) | 2 | [`China.txt`](https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/refs/heads/main/output_configs/China.txt) |
 | <img src="https://flagcdn.com/w20/co.png" width="20" alt="Colombia flag"> Colombia (کلمبیا) | 15 | [`Colombia.txt`](https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/refs/heads/main/output_configs/Colombia.txt) |
-| <img src="https://flagcdn.com/w20/hr.png" width="20" alt="Croatia flag"> Croatia (کرواسی) | 4 | [`Croatia.txt`](https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/refs/heads/main/output_configs/Croatia.txt) |
+| <img src="https://flagcdn.com/w20/hr.png" width="20" alt="Croatia flag"> Croatia (کرواسی) | 1 | [`Croatia.txt`](https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/refs/heads/main/output_configs/Croatia.txt) |
 | <img src="https://flagcdn.com/w20/cy.png" width="20" alt="Cyprus flag"> Cyprus (قبرس) | 3 | [`Cyprus.txt`](https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/refs/heads/main/output_configs/Cyprus.txt) |
-| <img src="https://flagcdn.com/w20/cz.png" width="20" alt="Czechia flag"> Czechia (جمهوری چک) | 4 | [`Czechia.txt`](https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/refs/heads/main/output_configs/Czechia.txt) |
-| <img src="https://flagcdn.com/w20/dk.png" width="20" alt="Denmark flag"> Denmark (دانمارک) | 4 | [`Denmark.txt`](https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/refs/heads/main/output_configs/Denmark.txt) |
-| <img src="https://flagcdn.com/w20/ee.png" width="20" alt="Estonia flag"> Estonia (استونی) | 5 | [`Estonia.txt`](https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/refs/heads/main/output_configs/Estonia.txt) |
-| <img src="https://flagcdn.com/w20/fi.png" width="20" alt="Finland flag"> Finland (فنلاند) | 50 | [`Finland.txt`](https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/refs/heads/main/output_configs/Finland.txt) |
-| <img src="https://flagcdn.com/w20/fr.png" width="20" alt="France flag"> France (فرانسه) | 111 | [`France.txt`](https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/refs/heads/main/output_configs/France.txt) |
-| <img src="https://flagcdn.com/w20/de.png" width="20" alt="Germany flag"> Germany (آلمان) | 319 | [`Germany.txt`](https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/refs/heads/main/output_configs/Germany.txt) |
+| <img src="https://flagcdn.com/w20/cz.png" width="20" alt="Czechia flag"> Czechia (جمهوری چک) | 9 | [`Czechia.txt`](https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/refs/heads/main/output_configs/Czechia.txt) |
+| <img src="https://flagcdn.com/w20/dk.png" width="20" alt="Denmark flag"> Denmark (دانمارک) | 2 | [`Denmark.txt`](https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/refs/heads/main/output_configs/Denmark.txt) |
+| <img src="https://flagcdn.com/w20/ee.png" width="20" alt="Estonia flag"> Estonia (استونی) | 3 | [`Estonia.txt`](https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/refs/heads/main/output_configs/Estonia.txt) |
+| <img src="https://flagcdn.com/w20/fi.png" width="20" alt="Finland flag"> Finland (فنلاند) | 37 | [`Finland.txt`](https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/refs/heads/main/output_configs/Finland.txt) |
+| <img src="https://flagcdn.com/w20/fr.png" width="20" alt="France flag"> France (فرانسه) | 101 | [`France.txt`](https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/refs/heads/main/output_configs/France.txt) |
+| <img src="https://flagcdn.com/w20/de.png" width="20" alt="Germany flag"> Germany (آلمان) | 286 | [`Germany.txt`](https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/refs/heads/main/output_configs/Germany.txt) |
+| <img src="https://flagcdn.com/w20/is.png" width="20" alt="Iceland flag"> Iceland (ایسلند) | 4 | [`Iceland.txt`](https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/refs/heads/main/output_configs/Iceland.txt) |
 | <img src="https://flagcdn.com/w20/in.png" width="20" alt="India flag"> India (هند) | 2 | [`India.txt`](https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/refs/heads/main/output_configs/India.txt) |
-| <img src="https://flagcdn.com/w20/id.png" width="20" alt="Indonesia flag"> Indonesia (اندونزی) | 145 | [`Indonesia.txt`](https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/refs/heads/main/output_configs/Indonesia.txt) |
-| <img src="https://flagcdn.com/w20/ir.png" width="20" alt="Iran flag"> Iran (ایران) | 240 | [`Iran.txt`](https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/refs/heads/main/output_configs/Iran.txt) |
-| <img src="https://flagcdn.com/w20/iq.png" width="20" alt="Iraq flag"> Iraq (عراق) | 2 | [`Iraq.txt`](https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/refs/heads/main/output_configs/Iraq.txt) |
+| <img src="https://flagcdn.com/w20/id.png" width="20" alt="Indonesia flag"> Indonesia (اندونزی) | 186 | [`Indonesia.txt`](https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/refs/heads/main/output_configs/Indonesia.txt) |
+| <img src="https://flagcdn.com/w20/ir.png" width="20" alt="Iran flag"> Iran (ایران) | 246 | [`Iran.txt`](https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/refs/heads/main/output_configs/Iran.txt) |
 | <img src="https://flagcdn.com/w20/ie.png" width="20" alt="Ireland flag"> Ireland (ایرلند) | 4 | [`Ireland.txt`](https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/refs/heads/main/output_configs/Ireland.txt) |
-| <img src="https://flagcdn.com/w20/it.png" width="20" alt="Italy flag"> Italy (ایتالیا) | 145 | [`Italy.txt`](https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/refs/heads/main/output_configs/Italy.txt) |
-| <img src="https://flagcdn.com/w20/jp.png" width="20" alt="Japan flag"> Japan (ژاپن) | 36 | [`Japan.txt`](https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/refs/heads/main/output_configs/Japan.txt) |
-| <img src="https://flagcdn.com/w20/kz.png" width="20" alt="Kazakhstan flag"> Kazakhstan (قزاقستان) | 6 | [`Kazakhstan.txt`](https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/refs/heads/main/output_configs/Kazakhstan.txt) |
-| <img src="https://flagcdn.com/w20/lv.png" width="20" alt="Latvia flag"> Latvia (لتونی) | 14 | [`Latvia.txt`](https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/refs/heads/main/output_configs/Latvia.txt) |
-| <img src="https://flagcdn.com/w20/lt.png" width="20" alt="Lithuania flag"> Lithuania (لیتوانی) | 7 | [`Lithuania.txt`](https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/refs/heads/main/output_configs/Lithuania.txt) |
-| <img src="https://flagcdn.com/w20/lu.png" width="20" alt="Luxembourg flag"> Luxembourg (لوکزامبورگ) | 2 | [`Luxembourg.txt`](https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/refs/heads/main/output_configs/Luxembourg.txt) |
+| <img src="https://flagcdn.com/w20/it.png" width="20" alt="Italy flag"> Italy (ایتالیا) | 117 | [`Italy.txt`](https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/refs/heads/main/output_configs/Italy.txt) |
+| <img src="https://flagcdn.com/w20/jp.png" width="20" alt="Japan flag"> Japan (ژاپن) | 34 | [`Japan.txt`](https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/refs/heads/main/output_configs/Japan.txt) |
+| <img src="https://flagcdn.com/w20/kz.png" width="20" alt="Kazakhstan flag"> Kazakhstan (قزاقستان) | 10 | [`Kazakhstan.txt`](https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/refs/heads/main/output_configs/Kazakhstan.txt) |
+| <img src="https://flagcdn.com/w20/lv.png" width="20" alt="Latvia flag"> Latvia (لتونی) | 37 | [`Latvia.txt`](https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/refs/heads/main/output_configs/Latvia.txt) |
+| <img src="https://flagcdn.com/w20/lt.png" width="20" alt="Lithuania flag"> Lithuania (لیتوانی) | 11 | [`Lithuania.txt`](https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/refs/heads/main/output_configs/Lithuania.txt) |
 | <img src="https://flagcdn.com/w20/my.png" width="20" alt="Malaysia flag"> Malaysia (مالزی) | 4 | [`Malaysia.txt`](https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/refs/heads/main/output_configs/Malaysia.txt) |
 | <img src="https://flagcdn.com/w20/mh.png" width="20" alt="MarshallIslands flag"> MarshallIslands (جزایر مارشال) | 1 | [`MarshallIslands.txt`](https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/refs/heads/main/output_configs/MarshallIslands.txt) |
 | <img src="https://flagcdn.com/w20/md.png" width="20" alt="Moldova flag"> Moldova (مولداوی) | 4 | [`Moldova.txt`](https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/refs/heads/main/output_configs/Moldova.txt) |
-| <img src="https://flagcdn.com/w20/me.png" width="20" alt="Montenegro flag"> Montenegro (مونته‌نگرو) | 1907 | [`Montenegro.txt`](https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/refs/heads/main/output_configs/Montenegro.txt) |
-| <img src="https://flagcdn.com/w20/nl.png" width="20" alt="Netherlands flag"> Netherlands (هلند) | 322 | [`Netherlands.txt`](https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/refs/heads/main/output_configs/Netherlands.txt) |
+| <img src="https://flagcdn.com/w20/me.png" width="20" alt="Montenegro flag"> Montenegro (مونته‌نگرو) | 1820 | [`Montenegro.txt`](https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/refs/heads/main/output_configs/Montenegro.txt) |
+| <img src="https://flagcdn.com/w20/nl.png" width="20" alt="Netherlands flag"> Netherlands (هلند) | 361 | [`Netherlands.txt`](https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/refs/heads/main/output_configs/Netherlands.txt) |
 | <img src="https://flagcdn.com/w20/nz.png" width="20" alt="NewZealand flag"> NewZealand (نیوزلند) | 1 | [`NewZealand.txt`](https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/refs/heads/main/output_configs/NewZealand.txt) |
 | <img src="https://flagcdn.com/w20/no.png" width="20" alt="Norway flag"> Norway (نروژ) | 2 | [`Norway.txt`](https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/refs/heads/main/output_configs/Norway.txt) |
-| <img src="https://flagcdn.com/w20/pl.png" width="20" alt="Poland flag"> Poland (لهستان) | 22 | [`Poland.txt`](https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/refs/heads/main/output_configs/Poland.txt) |
-| <img src="https://flagcdn.com/w20/pt.png" width="20" alt="Portugal flag"> Portugal (پرتغال) | 1 | [`Portugal.txt`](https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/refs/heads/main/output_configs/Portugal.txt) |
-| <img src="https://flagcdn.com/w20/ro.png" width="20" alt="Romania flag"> Romania (رومانی) | 267 | [`Romania.txt`](https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/refs/heads/main/output_configs/Romania.txt) |
-| <img src="https://flagcdn.com/w20/ru.png" width="20" alt="Russia flag"> Russia (روسیه) | 79 | [`Russia.txt`](https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/refs/heads/main/output_configs/Russia.txt) |
-| <img src="https://flagcdn.com/w20/ws.png" width="20" alt="Samoa flag"> Samoa (ساموآ) | 364 | [`Samoa.txt`](https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/refs/heads/main/output_configs/Samoa.txt) |
-| <img src="https://flagcdn.com/w20/sc.png" width="20" alt="Seychelles flag"> Seychelles (سیشل) | 59 | [`Seychelles.txt`](https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/refs/heads/main/output_configs/Seychelles.txt) |
-| <img src="https://flagcdn.com/w20/sg.png" width="20" alt="Singapore flag"> Singapore (سنگاپور) | 21 | [`Singapore.txt`](https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/refs/heads/main/output_configs/Singapore.txt) |
-| <img src="https://flagcdn.com/w20/za.png" width="20" alt="SouthAfrica flag"> SouthAfrica (آفریقای جنوبی) | 7 | [`SouthAfrica.txt`](https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/refs/heads/main/output_configs/SouthAfrica.txt) |
-| <img src="https://flagcdn.com/w20/kr.png" width="20" alt="SouthKorea flag"> SouthKorea (کره جنوبی) | 12 | [`SouthKorea.txt`](https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/refs/heads/main/output_configs/SouthKorea.txt) |
-| <img src="https://flagcdn.com/w20/ss.png" width="20" alt="SouthSudan flag"> SouthSudan (سودان جنوبی) | 15 | [`SouthSudan.txt`](https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/refs/heads/main/output_configs/SouthSudan.txt) |
-| <img src="https://flagcdn.com/w20/es.png" width="20" alt="Spain flag"> Spain (اسپانیا) | 6 | [`Spain.txt`](https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/refs/heads/main/output_configs/Spain.txt) |
-| <img src="https://flagcdn.com/w20/se.png" width="20" alt="Sweden flag"> Sweden (سوئد) | 35 | [`Sweden.txt`](https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/refs/heads/main/output_configs/Sweden.txt) |
-| <img src="https://flagcdn.com/w20/ch.png" width="20" alt="Switzerland flag"> Switzerland (سوئیس) | 12 | [`Switzerland.txt`](https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/refs/heads/main/output_configs/Switzerland.txt) |
-| <img src="https://flagcdn.com/w20/tw.png" width="20" alt="Taiwan flag"> Taiwan (تایوان) | 14 | [`Taiwan.txt`](https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/refs/heads/main/output_configs/Taiwan.txt) |
+| <img src="https://flagcdn.com/w20/ph.png" width="20" alt="Philippines flag"> Philippines (فیلیپین) | 1 | [`Philippines.txt`](https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/refs/heads/main/output_configs/Philippines.txt) |
+| <img src="https://flagcdn.com/w20/pl.png" width="20" alt="Poland flag"> Poland (لهستان) | 37 | [`Poland.txt`](https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/refs/heads/main/output_configs/Poland.txt) |
+| <img src="https://flagcdn.com/w20/ro.png" width="20" alt="Romania flag"> Romania (رومانی) | 203 | [`Romania.txt`](https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/refs/heads/main/output_configs/Romania.txt) |
+| <img src="https://flagcdn.com/w20/ru.png" width="20" alt="Russia flag"> Russia (روسیه) | 73 | [`Russia.txt`](https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/refs/heads/main/output_configs/Russia.txt) |
+| <img src="https://flagcdn.com/w20/ws.png" width="20" alt="Samoa flag"> Samoa (ساموآ) | 420 | [`Samoa.txt`](https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/refs/heads/main/output_configs/Samoa.txt) |
+| <img src="https://flagcdn.com/w20/sc.png" width="20" alt="Seychelles flag"> Seychelles (سیشل) | 73 | [`Seychelles.txt`](https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/refs/heads/main/output_configs/Seychelles.txt) |
+| <img src="https://flagcdn.com/w20/sg.png" width="20" alt="Singapore flag"> Singapore (سنگاپور) | 30 | [`Singapore.txt`](https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/refs/heads/main/output_configs/Singapore.txt) |
+| <img src="https://flagcdn.com/w20/za.png" width="20" alt="SouthAfrica flag"> SouthAfrica (آفریقای جنوبی) | 10 | [`SouthAfrica.txt`](https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/refs/heads/main/output_configs/SouthAfrica.txt) |
+| <img src="https://flagcdn.com/w20/kr.png" width="20" alt="SouthKorea flag"> SouthKorea (کره جنوبی) | 11 | [`SouthKorea.txt`](https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/refs/heads/main/output_configs/SouthKorea.txt) |
+| <img src="https://flagcdn.com/w20/ss.png" width="20" alt="SouthSudan flag"> SouthSudan (سودان جنوبی) | 44 | [`SouthSudan.txt`](https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/refs/heads/main/output_configs/SouthSudan.txt) |
+| <img src="https://flagcdn.com/w20/es.png" width="20" alt="Spain flag"> Spain (اسپانیا) | 8 | [`Spain.txt`](https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/refs/heads/main/output_configs/Spain.txt) |
+| <img src="https://flagcdn.com/w20/se.png" width="20" alt="Sweden flag"> Sweden (سوئد) | 18 | [`Sweden.txt`](https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/refs/heads/main/output_configs/Sweden.txt) |
+| <img src="https://flagcdn.com/w20/ch.png" width="20" alt="Switzerland flag"> Switzerland (سوئیس) | 15 | [`Switzerland.txt`](https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/refs/heads/main/output_configs/Switzerland.txt) |
+| <img src="https://flagcdn.com/w20/tw.png" width="20" alt="Taiwan flag"> Taiwan (تایوان) | 12 | [`Taiwan.txt`](https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/refs/heads/main/output_configs/Taiwan.txt) |
 | <img src="https://flagcdn.com/w20/to.png" width="20" alt="Tonga flag"> Tonga (تونگا) | 2 | [`Tonga.txt`](https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/refs/heads/main/output_configs/Tonga.txt) |
-| <img src="https://flagcdn.com/w20/tr.png" width="20" alt="Turkey flag"> Turkey (ترکیه) | 52 | [`Turkey.txt`](https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/refs/heads/main/output_configs/Turkey.txt) |
-| <img src="https://flagcdn.com/w20/ae.png" width="20" alt="UAE flag"> UAE (امارات) | 14 | [`UAE.txt`](https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/refs/heads/main/output_configs/UAE.txt) |
-| <img src="https://flagcdn.com/w20/gb.png" width="20" alt="UK flag"> UK (انگلیس) | 151 | [`UK.txt`](https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/refs/heads/main/output_configs/UK.txt) |
-| <img src="https://flagcdn.com/w20/us.png" width="20" alt="USA flag"> USA (آمریکا) | 816 | [`USA.txt`](https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/refs/heads/main/output_configs/USA.txt) |
-| <img src="https://flagcdn.com/w20/ua.png" width="20" alt="Ukraine flag"> Ukraine (اوکراین) | 4 | [`Ukraine.txt`](https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/refs/heads/main/output_configs/Ukraine.txt) |
+| <img src="https://flagcdn.com/w20/tr.png" width="20" alt="Turkey flag"> Turkey (ترکیه) | 109 | [`Turkey.txt`](https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/refs/heads/main/output_configs/Turkey.txt) |
+| <img src="https://flagcdn.com/w20/ae.png" width="20" alt="UAE flag"> UAE (امارات) | 12 | [`UAE.txt`](https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/refs/heads/main/output_configs/UAE.txt) |
+| <img src="https://flagcdn.com/w20/gb.png" width="20" alt="UK flag"> UK (انگلیس) | 142 | [`UK.txt`](https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/refs/heads/main/output_configs/UK.txt) |
+| <img src="https://flagcdn.com/w20/us.png" width="20" alt="USA flag"> USA (آمریکا) | 822 | [`USA.txt`](https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/refs/heads/main/output_configs/USA.txt) |
+| <img src="https://flagcdn.com/w20/ua.png" width="20" alt="Ukraine flag"> Ukraine (اوکراین) | 7 | [`Ukraine.txt`](https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/refs/heads/main/output_configs/Ukraine.txt) |
 | <img src="https://flagcdn.com/w20/vn.png" width="20" alt="Vietnam flag"> Vietnam (ویتنام) | 2 | [`Vietnam.txt`](https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/refs/heads/main/output_configs/Vietnam.txt) |
 
