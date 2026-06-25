@@ -1,0 +1,2 @@
+ss://92e41c23-4b39-464a-bbff-63ef84f317da@156.146.40.201:443?type=tcp&security=reality&sni=api-maps.yandex.ru&fp=firefox&flow=xtls-rprx-vision&pbk=WMO-BNY1BX2nNlOOQgxLP4D3H-OnE2ypbXlbSMjLRVM&sid=e764f0ea#REALITY|SK🇸🇰
+vless://92e41c23-4b39-464a-bbff-63ef84f317da@156.146.40.201:443?type=tcp&security=reality&sni=api-maps.yandex.ru&fp=firefox&flow=xtls-rprx-vision&pbk=WMO-BNY1BX2nNlOOQgxLP4D3H-OnE2ypbXlbSMjLRVM&sid=e764f0ea#REALITY|SK🇸🇰

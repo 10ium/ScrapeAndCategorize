@@ -115,7 +115,8 @@ ss://fd6f594a-f498-47b3-ac84-e044423f40e0@209.250.233.194:14102?security=&encryp
 ss://fed665c4-fab1-4b8a-879d-a8fdc0ed5c8d@172.104.146.200:21988?security=&encryption=none&headerType=none&type=tcp#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A9%F0%9F%87%AA
 ss://ff76c582-77fa-4840-9247-729076fbab29@45.141.119.16:443?security=reality&encryption=none&pbk=1Txlqu4hCFzUPBSO6anONR0ql930aitMuh4ZcsJcxm4&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=ch-zrh-1.blook.network&sid=f7ef1b05#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%AD
 trojan://VGBzLm49%3DM_i02Az30tIeonkQw180t-edg@185.126.236.190:443?security=tls&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=185.126.236.190#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A6%F0%9F%87%B9
-trojan://tUtK5TKdjxsPnOyritLtv8OQWHAK8f8yNR@130.94.94.15:443?security=tls&sni=130.94.94.15#%F0%9F%87%AE%F0%9F%87%A9ID-130.94.94.15-0172
+trojan://tUtK5TKdjxsPnOyritLtv8OQWHAK8f8yNR@130.94.94.15:443?security=tls&sni=130.94.94.15#%F0%9F%87%AE%F0%9F%87%A9ID-130.94.94.15-0145
+trojan://tUtK5TKdjxsPnOyritLtv8OQWHAK8f8yNR@130.94.94.15:443?security=tls&sni=130.94.94.15#ID🇮🇩
 trojan://tUtK5TKdjxsPnOyritLtv8OQWHAK8f8yNR@130.94.94.15:443?type=tcp&security=tls&headerType=none&sni=130.94.94.15&fp=chrome&insecure=1&allowInsecure=1#ID🇮🇩
 vless://06bcd513-ef0b-4c0c-a03b-e25fcda66fe2@ch-gt-02.com:8443?security=reality&encryption=none&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=40ce08cf20c67003#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%B9%F0%9F%87%B7
 vless://09da719f-0160-490e-a269-e4d0e4906883@84.32.25.137:443?security=reality&encryption=none&pbk=ocQPA5ysaQo8n7TkQmPy8iy-m-WSKEMy7gXGnP0Fdic&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=lt-vno-2.blook.network&sid=5246981c#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%B1%F0%9F%87%B9
