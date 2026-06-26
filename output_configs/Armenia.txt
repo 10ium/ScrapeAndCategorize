@@ -1,2 +1,2 @@
-ss://21db6b31-6e8b-4307-9127-994c99606e15@85.90.207.152:23009?encryption=none&security=none&type=tcp#AM🇦🇲
-vless://21db6b31-6e8b-4307-9127-994c99606e15@85.90.207.152:23009?encryption=none&security=none&type=tcp#AM🇦🇲
+ss://3135e332-fea1-4f62-a2c2-f58c98dc3919@solar.appleseraj.ir:2083?path=%3Fed%3D2048&security=tls&encryption=none&insecure=0&host=armwwww.appleseraj.ir&fp=chrome&type=ws&allowInsecure=0&sni=armwwww.appleseraj.ir#AM🇦🇲
+vless://3135e332-fea1-4f62-a2c2-f58c98dc3919@solar.appleseraj.ir:2083?path=%3Fed%3D2048&security=tls&encryption=none&insecure=0&host=armwwww.appleseraj.ir&fp=chrome&type=ws&allowInsecure=0&sni=armwwww.appleseraj.ir#AM🇦🇲

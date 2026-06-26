@@ -1,0 +1,2 @@
+ss://2a79921d-9364-44cc-b56a-cfb650dfe858@74.49.214.31:2053?path=%2F&security=tls&encryption=none&type=ws&sni=bxeghTOnQ9.lucypro.ir#🆔madshopx%20🔒%20VL-WS-N/A%20🇭🇺%20HU%203ms
+vless://2a79921d-9364-44cc-b56a-cfb650dfe858@74.49.214.31:2053?path=%2F&security=tls&encryption=none&type=ws&sni=bxeghTOnQ9.lucypro.ir#🆔madshopx%20🔒%20VL-WS-N/A%20🇭🇺%20HU%203ms
