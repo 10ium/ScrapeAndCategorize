@@ -1,3 +1,1 @@
-ss://a0c8a1de-b673-473a-ab64-0ab52cc7ce2d@fl.gamelistak.com:443?alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B#GR🇬🇷
-trojan://UexGnX2%2BRhN8PB6GMyUL-8fNYvR1%3DJBzxm@185.126.238.84:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=185.126.238.84#GR🇬🇷
-vless://a0c8a1de-b673-473a-ab64-0ab52cc7ce2d@fl.gamelistak.com:443?alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B#GR🇬🇷
+trojan://UexGnX2+RhN8PB6GMyUL-8fNYvR1%3DJBzxm@185.126.238.84:443?type=tcp&security=tls#GR🇬🇷
