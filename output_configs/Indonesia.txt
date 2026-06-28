@@ -129,7 +129,7 @@ trojan://humanity@165.215.250.14:443?path=%2Fassignment&security=tls&insecure=0&
 trojan://humanity@45.130.125.112:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%B8%F0%9F%87%A8
 trojan://kflYwtj8VD7Pd4V9ixedIxEDsac4QQXvbP@45.77.227.183:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%AC%F0%9F%87%A7
 trojan://pfEiJ61zUL%2FGFl2QUg4OJR74kHmsjZ%2FWUXs8IGe%2Bv9w%3D@65.109.218.60:8888?security=none&headerType=none&type=tcp#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%AB%F0%9F%87%AE
-trojan://tUtK5TKdjxsPnOyritLtv8OQWHAK8f8yNR@130.94.94.15:443?security=tls&sni=130.94.94.15#%F0%9F%87%AE%F0%9F%87%A9ID-130.94.94.15-0153
+trojan://tUtK5TKdjxsPnOyritLtv8OQWHAK8f8yNR@130.94.94.15:443?security=tls&sni=130.94.94.15#%F0%9F%87%AE%F0%9F%87%A9ID-130.94.94.15-0110
 trojan://tUtK5TKdjxsPnOyritLtv8OQWHAK8f8yNR@130.94.94.15:443?type=tcp&security=tls&headerType=none&sni=130.94.94.15&fp=chrome&insecure=1&allowInsecure=1#ID🇮🇩
 vless://09da719f-0160-490e-a269-e4d0e4906883@84.32.25.137:443?security=reality&encryption=none&pbk=ocQPA5ysaQo8n7TkQmPy8iy-m-WSKEMy7gXGnP0Fdic&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=lt-vno-2.blook.network&sid=5246981c#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%B1%F0%9F%87%B9
 vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@104.16.72.70:443?path=%2Fca-cl&security=tls&encryption=none&insecure=0&host=unnes.ac.id.yxls.eu.cc&type=ws&allowInsecure=0&sni=unnes.ac.id.yxls.eu.cc#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
