@@ -1,2 +1,0 @@
-ss://a0c8a1de-b673-473a-ab64-0ab52cc7ce2d@fl.gamelistak.com:443?alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B#GR🇬🇷
-vless://a0c8a1de-b673-473a-ab64-0ab52cc7ce2d@fl.gamelistak.com:443?alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B#GR🇬🇷
