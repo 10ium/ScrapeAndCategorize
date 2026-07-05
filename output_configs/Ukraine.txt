@@ -1,4 +1,6 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCcXlpbWl2M1lOZ3U2ZEFwY3Rwdzd0@130.0.233.100:33610#UA%F0%9F%87%BA%F0%9F%87%A6+%7C+130.0.233.100-33610+%7C+178.17ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphUk5GWUt0TE9uYVBFNUZDSEk5eWxy@130.0.233.100:33610#UA%F0%9F%87%BA%F0%9F%87%A6+%7C+130.0.233.100-33610+%7C+178.13ms
-ss://ccb8e0cd3b764e97bf6dd015830a5510@130.0.233.100:8443?encryption=none&type=xhttp&path=%2Fx&security=reality&sni=ya.ru&pbk=oJXngdG-SwLxHt2tJonmC-T_6PS4UEACLWj4sbfetno&sid=aabbccdd&fp=random#REALITY|UA🇺🇦
-vless://ccb8e0cd3b764e97bf6dd015830a5510@130.0.233.100:8443?encryption=none&type=xhttp&path=%2Fx&security=reality&sni=ya.ru&pbk=oJXngdG-SwLxHt2tJonmC-T_6PS4UEACLWj4sbfetno&sid=aabbccdd&fp=random#REALITY|UA🇺🇦
+ss://4a836d89-0655-4c77-9702-b47219afaa5d@kim2.wiziii.xyz:2083?encryption=none&type=xhttp&security=tls&path=%2F&host=pin4.jafarparty.lat&mode=auto&sni=pin4.jafarparty.lat&fp=qq&insecure=0&allowInsecure=0#🆔spotify_porteghali%20🔒%20VL-XHTTP-N/A%20🇺🇦%20UA%2053ms
+ss://527561c6-bed1-44c5-8404-f322fbf7ced2@mio2.game2lizard.com:2087?encryption=none&type=xhttp&security=tls&host=fr0.eorqen.ir&mode=auto&sni=fr0.eorqen.ir&fp=random&insecure=0&allowInsecure=0#🆔spotify_porteghali%20🔒%20VL-XHTTP-N/A%20🇺🇦%20UA%2053ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCcXlpbWl2M1lOZ3U2ZEFwY3Rwdzd0@130.0.233.100:33610#UA%F0%9F%87%BA%F0%9F%87%A6+%7C+130.0.233.100-33610+%7C+177.43ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphUk5GWUt0TE9uYVBFNUZDSEk5eWxy@130.0.233.100:33610#UA%F0%9F%87%BA%F0%9F%87%A6+%7C+130.0.233.100-33610+%7C+177.45ms
+vless://4a836d89-0655-4c77-9702-b47219afaa5d@kim2.wiziii.xyz:2083?encryption=none&type=xhttp&security=tls&path=%2F&host=pin4.jafarparty.lat&mode=auto&sni=pin4.jafarparty.lat&fp=qq&insecure=0&allowInsecure=0#🆔spotify_porteghali%20🔒%20VL-XHTTP-N/A%20🇺🇦%20UA%2053ms
+vless://527561c6-bed1-44c5-8404-f322fbf7ced2@mio2.game2lizard.com:2087?encryption=none&type=xhttp&security=tls&host=fr0.eorqen.ir&mode=auto&sni=fr0.eorqen.ir&fp=random&insecure=0&allowInsecure=0#🆔spotify_porteghali%20🔒%20VL-XHTTP-N/A%20🇺🇦%20UA%2053ms

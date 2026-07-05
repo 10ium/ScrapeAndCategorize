@@ -1,2 +1,2 @@
-ss://7896c501-248f-4068-bc2f-363c91ba5122@212.11.29.129:8443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&security=reality&sid=2715592069f36fe7&sni=storage.yandex.net&type=tcp#REALITY|HU🇭🇺
-vless://7896c501-248f-4068-bc2f-363c91ba5122@212.11.29.129:8443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&security=reality&sid=2715592069f36fe7&sni=storage.yandex.net&type=tcp#REALITY|HU🇭🇺
+ss://ada4f294-b5c1-4de4-82ba-a654e2c3a30b@hu99.bearbeer.digital:443?type=xhttp&security=reality&fp=qq&pbk=z-TKWOWgZLfzQ-wNdwXQqVwaUgCmbchM2Xtrk1NGynU&sni=hu99.bearbeer.digital&mode=auto&spx=%2F#🆔ar14n24b%20🔒%20VL-XHTTP-%20🇭🇺%20HU%20204ms
+vless://ada4f294-b5c1-4de4-82ba-a654e2c3a30b@hu99.bearbeer.digital:443?type=xhttp&security=reality&fp=qq&pbk=z-TKWOWgZLfzQ-wNdwXQqVwaUgCmbchM2Xtrk1NGynU&sni=hu99.bearbeer.digital&mode=auto&spx=%2F#🆔ar14n24b%20🔒%20VL-XHTTP-%20🇭🇺%20HU%20204ms
