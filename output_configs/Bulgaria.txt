@@ -1,2 +1,1 @@
-ss://025805d8-0d0a-46d6-ac73-018d608d0be3@stdata.aghayradical.space:55974?security=reality&encryption=none&pbk=dD0ZPqZZR8OTjYiXDUBbeiSQ-hdN5IGymB3yj-jseUM&headerType=none&fp=ios&type=tcp&sni=stdata.aghayradical.space&sid=536c1575aa324737#🆔v2ray1_ng%20🔒%20VL-TCP-%20🇧🇬%20BG%20208ms
-vless://025805d8-0d0a-46d6-ac73-018d608d0be3@stdata.aghayradical.space:55974?security=reality&encryption=none&pbk=dD0ZPqZZR8OTjYiXDUBbeiSQ-hdN5IGymB3yj-jseUM&headerType=none&fp=ios&type=tcp&sni=stdata.aghayradical.space&sid=536c1575aa324737#🆔v2ray1_ng%20🔒%20VL-TCP-%20🇧🇬%20BG%20208ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6RExtZVdSc2ZjRmRLVDFUcHkwMnhvZEVUb3FDbGRUeHZaY1JvUElaWnRCZG5JRUw=@89.44.197.181:31348#%F0%9F%87%A7%F0%9F%87%ACBG-89.44.197.181-6256
