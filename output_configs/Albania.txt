@@ -1,0 +1,2 @@
+ss://f64cab0a-75a4-44f1-b2f6-8ecc6c73c249@185.177.238.246:443?security=reality&encryption=none&pbk=ElEALiFaDTMj9lYwMPYaCVnbMkz22pvzD10dGW61kyc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=alb00.sidecloud.ru&sid=e5948dce1ee60b31#REALITY|AL🇦🇱
+vless://f64cab0a-75a4-44f1-b2f6-8ecc6c73c249@185.177.238.246:443?security=reality&encryption=none&pbk=ElEALiFaDTMj9lYwMPYaCVnbMkz22pvzD10dGW61kyc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=alb00.sidecloud.ru&sid=e5948dce1ee60b31#REALITY|AL🇦🇱
