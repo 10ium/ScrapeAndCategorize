@@ -1,2 +1,2 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFeUd5MTFCTWZlUC02VUhqc2dhald3@193.233.161.92:8390#AT%F0%9F%87%A6%F0%9F%87%B9+%7C+193.233.161.92-8390+%7C+158.74ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFeUd5MTFCTWZlUC02VUhqc2dhald3@193.233.161.92:8390#AT%F0%9F%87%A6%F0%9F%87%B9+%7C+193.233.161.92-8390+%7C+158ms
 trojan://humanity@212.183.88.136:443?type=ws&host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com#🆔freeconfigsplus%20🔒%20TR-WS-N/A%20🇦🇹%20AT%202ms
