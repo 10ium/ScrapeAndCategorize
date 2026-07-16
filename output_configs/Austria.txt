@@ -1,5 +1,6 @@
 ss://18167dd6-2c24-4f6b-a416-64bac693127a@104.143.0.254:443?type=grpc&encryption=none&flow=&serviceName=ebl&sni=optim.tildacdn.pub&fp=chrome&security=reality&pbk=fvpPs49YdpPvrAr7xyminj-wzGaRnB7CRVfYDalewkY&sid=db78dafb7cd886fb#REALITY|AT🇦🇹
-ss://1f4c983e382cd2fab2dc7981f02b34deOg==@77.73.131.154:443#REALITY%7CAT%F0%9F%87%A6%F0%9F%87%B9+%7C+77.73.131.154-443+%7C+101.66ms
+ss://1f4c983e382cd2fab2dc7981f02b34deOg==@77.73.131.154:443#REALITY%7CAT%F0%9F%87%A6%F0%9F%87%B9+%7C+77.73.131.154-443+%7C+154.15ms
 ss://ab51054f-de76-4a0f-9f3a-b44c8df86a6c@45.155.71.170:50443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=hp9ht_jsxocTnQEbChb1G3JoDF50x-xDT8UYr66D1TQ&security=reality&sni=www.icloud.com&type=tcp#REALITY|AT🇦🇹
+trojan://humanity@212.183.88.136:443?type=ws&host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com#🆔freeconfigsplus%20🔒%20TR-WS-N/A%20🇦🇹%20AT%202ms
 vless://18167dd6-2c24-4f6b-a416-64bac693127a@104.143.0.254:443?type=grpc&encryption=none&flow=&serviceName=ebl&sni=optim.tildacdn.pub&fp=chrome&security=reality&pbk=fvpPs49YdpPvrAr7xyminj-wzGaRnB7CRVfYDalewkY&sid=db78dafb7cd886fb#REALITY|AT🇦🇹
 vless://ab51054f-de76-4a0f-9f3a-b44c8df86a6c@45.155.71.170:50443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=hp9ht_jsxocTnQEbChb1G3JoDF50x-xDT8UYr66D1TQ&security=reality&sni=www.icloud.com&type=tcp#REALITY|AT🇦🇹

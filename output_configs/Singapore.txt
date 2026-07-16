@@ -1,9 +1,11 @@
 ss://3b940e86-7b0d-40da-acf1-12d334e41023@151.101.3.8:80?path=%2F%3Fed%3D1024&security=none&encryption=none&host=Fastapi.Org&type=ws#SG🇸🇬
 ss://3b940e86-7b0d-40da-acf1-12d334e41023@151.101.3.8:80?type=ws&host=Fastapi.Org&path=%2F%3Fed%3D1024#SG🇸🇬
 ss://6994e71a-fe44-4cf5-8694-caa5ef0abb60@global.cloud-play.ir:80?encryption=none&type=xhttp&path=%2F&host=xenoengineer.com&mode=packet-up&extra=%7B%22mode%22%3A%22packet-up%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D#SG🇸🇬
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@103.106.229.69:9090#SG%F0%9F%87%B8%F0%9F%87%AC+%7C+103.106.229.69-9090+%7C+220.45ms
-ss://YWVzLTI1Ni1nY206YTMzOEE5@aw-sg.vndmall.pro:8888#%F0%9F%87%B8%F0%9F%87%ACSG-56.10.43.137-0206
-trojan://8db1b560-019d-11ed-8bdf-1239d0255272@trojan3.udpgw.com:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-172.104.179.213-0031
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@103.106.229.69:9090#SG%F0%9F%87%B8%F0%9F%87%AC+%7C+103.106.229.69-9090+%7C+167.8ms
+ss://YWVzLTI1Ni1nY206YTMzOEE5@aw-sg.vndmall.pro:8888#%F0%9F%87%B8%F0%9F%87%ACSG-56.10.43.137-0216
+trojan://CF68213490@logical-koala.rooster465.autos:443?security=tls&sni=logical-koala.rooster465.autos#%F0%9F%87%B8%F0%9F%87%ACSG-13.250.16.181-0179
+trojan://CF68213490@saved-tuna.rooster465.autos:443?security=tls&sni=saved-tuna.rooster465.autos#%F0%9F%87%B8%F0%9F%87%ACSG-56.10.12.139-0156
+trojan://CF68213490@sharp-scorpion.rooster465.autos:443?security=tls&sni=sharp-scorpion.rooster465.autos#%F0%9F%87%B8%F0%9F%87%ACSG-18.136.143.231-0158
 trojan://XG59623478@bright-cicada.rooster465.autos:443?allowInsecure=1#SG🇸🇬
 trojan://XG59623478@charmed-cheetah.rooster465.autos:443?allowInsecure=1#SG🇸🇬
 trojan://XG59623478@complete-cockatoo.rooster465.autos:443?allowInsecure=1#SG🇸🇬
@@ -24,4 +26,5 @@ vless://3b940e86-7b0d-40da-acf1-12d334e41023@151.101.3.8:80?path=%2F%3Fed%3D1024
 vless://3b940e86-7b0d-40da-acf1-12d334e41023@151.101.3.8:80?type=ws&host=Fastapi.Org&path=%2F%3Fed%3D1024#SG🇸🇬
 vless://6994e71a-fe44-4cf5-8694-caa5ef0abb60@global.cloud-play.ir:80?encryption=none&type=xhttp&path=%2F&host=xenoengineer.com&mode=packet-up&extra=%7B%22mode%22%3A%22packet-up%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D#SG🇸🇬
 vmess://ewogICAgImFkZCI6ICIxMjkuMTUwLjYxLjE3MCIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiYWMwZDAwNzYtOTNkMi00OGFkLWJhNmUtZWE1YzhkN2IwMTMyIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiLyIsCiAgICAicG9ydCI6IDI5NDkzLAogICAgInBzIjogIvCfh7jwn4esU0ctMTI5LjE1MC42MS4xNzAtMDA5NiIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
+vmess://ewogICAgImFkZCI6ICIxMy4yMTQuMTc4LjMiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICIiLAogICAgImlkIjogIjcxNGQ4MmMzLTE4NGQtNDU3Yi1iYmIzLWQ4YWQzODYxZTVlZiIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi92bWVzcyIsCiAgICAicG9ydCI6IDQ0MywKICAgICJwcyI6ICLwn4e48J+HrFNHLTEzLjIxNC4xNzguMy01OTU4IiwKICAgICJ0bHMiOiAiIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuPCfh6zmlrDliqDlnaEyIHwg4qyH77iPIDEuN01CL3MiLCJhZGQiOiJhLjg4Njk2OC54eXoiLCJwb3J0IjoyMTM2OSwiaWQiOiIxNTExODdiMS1jOGYzLTRjMzItYWM3Mi0zNjc5ZTI2NGE3YTMiLCJ0eXBlIjoiIiwiYWlkIjowLCJuZXQiOiJ3cyIsInRscyI6InRscyIsInNuaSI6ImEuODg2OTY4Lnh5eiIsInBhdGgiOiIvd2ZkZWYiLCJob3N0IjoiYS44ODY5NjgueHl6In0=

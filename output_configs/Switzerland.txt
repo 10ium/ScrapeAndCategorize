@@ -1,5 +1,7 @@
 ss://5c9ca141-62fb-4c9a-8ba2-af48afdeafaa@ch-zicid.locations-sub.com:6200?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&headerType=none&fp=qq&type=tcp&sni=play.google.com#REALITY|CH🇨🇭
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYSFlyMm4wbGtQVHRlejdSRmpXSk9L@45.95.232.138:443#CH%F0%9F%87%A8%F0%9F%87%AD+%7C+45.95.232.138-443+%7C+103.46ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYSFlyMm4wbGtQVHRlejdSRmpXSk9L@45.95.232.138:443#CH%F0%9F%87%A8%F0%9F%87%AD+%7C+45.95.232.138-443+%7C+276.32ms
 ss://cf875231-a636-4939-a584-625312fc78dd@ch-fardad.oorluma.ir:6800?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&headerType=none&fp=qq&type=tcp&sni=play.google.com#REALITY|CH🇨🇭
+ss://d3720ba4-26ba-4972-dab9-16aeda521063@179.237.75.28:443?security=reality&encryption=none&pbk=8_trEvZs7hMtt5A9dlWz6rU4HqmsTCMFxE9PwZZUPAU&host=yahoo.com&headerType=http&fp=chrome&spx=%2F&type=tcp&sni=yahoo.com#REALITY|CH🇨🇭
 vless://5c9ca141-62fb-4c9a-8ba2-af48afdeafaa@ch-zicid.locations-sub.com:6200?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&headerType=none&fp=qq&type=tcp&sni=play.google.com#REALITY|CH🇨🇭
 vless://cf875231-a636-4939-a584-625312fc78dd@ch-fardad.oorluma.ir:6800?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&headerType=none&fp=qq&type=tcp&sni=play.google.com#REALITY|CH🇨🇭
+vless://d3720ba4-26ba-4972-dab9-16aeda521063@179.237.75.28:443?security=reality&encryption=none&pbk=8_trEvZs7hMtt5A9dlWz6rU4HqmsTCMFxE9PwZZUPAU&host=yahoo.com&headerType=http&fp=chrome&spx=%2F&type=tcp&sni=yahoo.com#REALITY|CH🇨🇭
