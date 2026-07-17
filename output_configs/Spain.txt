@@ -1,3 +1,7 @@
-ss://04621baeab3611ecb9090242ac120002Og==@85.90.217.42:22324#ES%F0%9F%87%AA%F0%9F%87%B8+%7C+85.90.217.42-22324+%7C+166.12ms
+ss://04621baeab3611ecb9090242ac120002Og==@85.90.217.42:22324#ES%F0%9F%87%AA%F0%9F%87%B8+%7C+85.90.217.42-22324+%7C+119.56ms
+ss://8f0560ec-ba22-4431-a6a7-318dc59d5233@2.27.26.51:443?encryption=none&fp=&pbk=CxMPFpwhcR9Ocp-Xy_1J08mo-atdHKUf58WLOy_XlgM&security=reality&serviceName=nexusGrpc&sid=5e3ab3ab228625&sni=draftnest-rrew.ru&type=grpc#REALITY|ES🇪🇸
+ss://8f0560ec-ba22-4431-a6a7-318dc59d5233@2.27.26.51:443?type=grpc&encryption=none&flow=&serviceName=nexusGrpc&sni=draftnest-rrew.ru&security=reality&pbk=CxMPFpwhcR9Ocp-Xy_1J08mo-atdHKUf58WLOy_XlgM&sid=5e3ab3ab228625#REALITY|ES🇪🇸
 ss://eb7b6567-4115-4017-9c50-f5d074360a7f@pes.mamadhpbot.ir:3043?encryption=none&type=tcp&headerType=http&path=%2F&host=play.google.com#%F0%9F%91%A4%20-%20%F0%9D%90%83%F0%9D%90%A2%F0%9D%90%91%20%F0%9F%87%AA%F0%9F%87%B8%20Spain
+vless://8f0560ec-ba22-4431-a6a7-318dc59d5233@2.27.26.51:443?encryption=none&fp=&pbk=CxMPFpwhcR9Ocp-Xy_1J08mo-atdHKUf58WLOy_XlgM&security=reality&serviceName=nexusGrpc&sid=5e3ab3ab228625&sni=draftnest-rrew.ru&type=grpc#REALITY|ES🇪🇸
+vless://8f0560ec-ba22-4431-a6a7-318dc59d5233@2.27.26.51:443?type=grpc&encryption=none&flow=&serviceName=nexusGrpc&sni=draftnest-rrew.ru&security=reality&pbk=CxMPFpwhcR9Ocp-Xy_1J08mo-atdHKUf58WLOy_XlgM&sid=5e3ab3ab228625#REALITY|ES🇪🇸
 vless://eb7b6567-4115-4017-9c50-f5d074360a7f@pes.mamadhpbot.ir:3043?encryption=none&type=tcp&headerType=http&path=%2F&host=play.google.com#%F0%9F%91%A4%20-%20%F0%9D%90%83%F0%9D%90%A2%F0%9D%90%91%20%F0%9F%87%AA%F0%9F%87%B8%20Spain

@@ -1,4 +1,4 @@
 ss://467f4f5e-adb3-4724-ad0d-245bbc296789@149.33.0.214:14302?encryption=none&flow=xtls-rprx-vision&fp=&pbk=lw7-Msn5E2O6HbBdqMw9SvoDJgbDIvHss0UVQ9iZFRc&security=reality&sid=106f1604d65bb70c&sni=www.samsung.com&type=tcp#REALITY|KZ🇰🇿
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzOExiSkNnVWlHWGVDS1ZjNjN0SEpQ@94.198.220.183:64674#%F0%9F%87%B0%F0%9F%87%BFKZ-94.198.220.183-0206
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzOExiSkNnVWlHWGVDS1ZjNjN0SEpQ@94.198.220.183:64674#KZ%F0%9F%87%B0%F0%9F%87%BF+%7C+94.198.220.183-64674+%7C+234.69ms
+ss://6fdfdb73-51b0-4a14-89a5-c9355a0e0397@178.236.17.86:443?security=reality&encryption=none&pbk=vCxfuNNmogA1DlPkjvmKb7_hSgXqe4MboPfi2s1JZG0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=b318242471ba4f5b#REALITY|KZ🇰🇿
 vless://467f4f5e-adb3-4724-ad0d-245bbc296789@149.33.0.214:14302?encryption=none&flow=xtls-rprx-vision&fp=&pbk=lw7-Msn5E2O6HbBdqMw9SvoDJgbDIvHss0UVQ9iZFRc&security=reality&sid=106f1604d65bb70c&sni=www.samsung.com&type=tcp#REALITY|KZ🇰🇿
+vless://6fdfdb73-51b0-4a14-89a5-c9355a0e0397@178.236.17.86:443?security=reality&encryption=none&pbk=vCxfuNNmogA1DlPkjvmKb7_hSgXqe4MboPfi2s1JZG0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=b318242471ba4f5b#REALITY|KZ🇰🇿

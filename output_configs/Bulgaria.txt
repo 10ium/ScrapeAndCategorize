@@ -1,1 +1,3 @@
-ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@38.244.132.14:5499#BG%F0%9F%87%A7%F0%9F%87%AC+%7C+38.244.132.14-5499+%7C+172.58ms
+ss://71e6345a-4c1e-4b76-ae5e-f429687c1674@sof.edgeptr.org:443?security=reality&encryption=none&pbk=EtKRG8sxUJsdy-KwUOtYUNJnSn5VMx2sfKvvdpzg2X0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.lovelive-anime.jp&sid=f0eb800bd980b00b#REALITY|BG🇧🇬
+ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@38.244.132.14:5499#BG%F0%9F%87%A7%F0%9F%87%AC+%7C+38.244.132.14-5499+%7C+129.89ms
+vless://71e6345a-4c1e-4b76-ae5e-f429687c1674@sof.edgeptr.org:443?security=reality&encryption=none&pbk=EtKRG8sxUJsdy-KwUOtYUNJnSn5VMx2sfKvvdpzg2X0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.lovelive-anime.jp&sid=f0eb800bd980b00b#REALITY|BG🇧🇬

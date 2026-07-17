@@ -34,6 +34,7 @@ ss://e4514801-0d5a-42ba-869f-39bd605aef9e@13.38.233.14:22224?security=&encryptio
 ss://eb6f13cb-da91-4f6f-adf3-aad51788812f@tr.linuxbase.ir:1152?security=reality&encryption=none&pbk=YzQz4D9KFIpJ5YB4W5UqPs8wgowbeujf9KEOyuATSE4&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=e5115b6a2127146d#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%B9%F0%9F%87%B7
 ss://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.146.66:443?path=%2F&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&fp=chrome&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
 ss://f8cae104-2eaa-4b16-b258-65be28281b70@uae1.codesystem.ir:8080?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A6%F0%9F%87%AA
+trojan://3632736327@ine07011438.tmdsb.org:3367?allowInsecure=1&sni=ine07011438.tmdsb.org#ID🇮🇩
 trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.140:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A9%F0%9F%87%AA
 trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.142:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A9%F0%9F%87%AA
 vless://003f8262-28b1-4f80-acd0-af251777a7b8@www.ramito.ir:8443?security=tls&encryption=none&insecure=0&host=n4.zeneco.ir&type=ws&allowInsecure=0&sni=n4.zeneco.ir#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A9%F0%9F%87%AA
