@@ -1,8 +1,4 @@
-ss://62694ff5-6954-4b9b-80fd-0436ae18b170@mabar130.mobail1010.ir:2082?encryption=none&security=none&type=ws&host=mabar130.mobail1010.ir&path=%2F#🆔ar14n24b%20🔓%20VL-WS-N/A%20🇱🇻%20LV%20289ms
-ss://9149a9c5-d2e5-4fa0-841c-99f7e12dfced@testserv1.zer0zypher.ir:443?security=reality&encryption=none&pbk=RQLrLXb2bSZ6hd_UsZ7zHj-dJ0nLgtfq0RVPtOQRWUY&headerType=none&fp=chrome&spx=%2Ff3rGKXLd1TzSheY&type=tcp&flow=xtls-rprx-vision&sni=fr-ca.rogers.yahoo.com&sid=e457c0e0f564#🆔ar14n24b%20🔒%20VL-TCP-%20🇱🇻%20LV%20197ms
-ss://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?encryption=none&type=tcp&headerType=http#LV🇱🇻
-ss://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?security=&encryption=none&headerType=http&type=tcp#LV🇱🇻
-vless://62694ff5-6954-4b9b-80fd-0436ae18b170@mabar130.mobail1010.ir:2082?encryption=none&security=none&type=ws&host=mabar130.mobail1010.ir&path=%2F#🆔ar14n24b%20🔓%20VL-WS-N/A%20🇱🇻%20LV%20289ms
-vless://9149a9c5-d2e5-4fa0-841c-99f7e12dfced@testserv1.zer0zypher.ir:443?security=reality&encryption=none&pbk=RQLrLXb2bSZ6hd_UsZ7zHj-dJ0nLgtfq0RVPtOQRWUY&headerType=none&fp=chrome&spx=%2Ff3rGKXLd1TzSheY&type=tcp&flow=xtls-rprx-vision&sni=fr-ca.rogers.yahoo.com&sid=e457c0e0f564#🆔ar14n24b%20🔒%20VL-TCP-%20🇱🇻%20LV%20197ms
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?encryption=none&type=tcp&headerType=http#LV🇱🇻
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?security=&encryption=none&headerType=http&type=tcp#LV🇱🇻
+ss://247a22e1-0795-4852-9bdd-a65ac1078034@188.253.21.106:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yahoo.com&fp=firefox&security=reality&pbk=4JvLKnuuAs4h0cQ1j_S4SAuXQQ579D7Wr1sGBjmH-Ws&sid=73d3fec4#REALITY|LV🇱🇻
+ss://a34b5e88-cf0d-4c01-8199-2d1002d3c787@193.28.186.215:443?security=reality&encryption=none&pbk=HKpd1sbrhBds8SJSL0d22MAq_QyTR6EP6y5b5DYol3U&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.wikihow.com#REALITY|LV🇱🇻
+vless://247a22e1-0795-4852-9bdd-a65ac1078034@188.253.21.106:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yahoo.com&fp=firefox&security=reality&pbk=4JvLKnuuAs4h0cQ1j_S4SAuXQQ579D7Wr1sGBjmH-Ws&sid=73d3fec4#REALITY|LV🇱🇻
+vless://a34b5e88-cf0d-4c01-8199-2d1002d3c787@193.28.186.215:443?security=reality&encryption=none&pbk=HKpd1sbrhBds8SJSL0d22MAq_QyTR6EP6y5b5DYol3U&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.wikihow.com#REALITY|LV🇱🇻
