@@ -1,10 +1,5 @@
-ss://62c82c17-c70f-0019-95e4-e52a67a435ef@leg.goodmaximum.com:443?mode=gun&security=reality&encryption=none&authority=&pbk=fPSR5GZpxhOV6Rh7VzMtS4AeRN7ipyNX4waG9JzJzxQ&fp=chrome&type=grpc&serviceName=QToNrKDvQT5AfnFM&sni=archive.glimmerhouse.com#REALITY|AU🇦🇺
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUV0c3SjFLUjVLc1BhVjVxWkkrcmlldWVLeHhhZlpTcENI@45.77.232.213:15675#AU%F0%9F%87%A6%F0%9F%87%BA+%7C+45.77.232.213-15675+%7C+142.34ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiSU9vaTVUdUltRzJLY2N4VjctamNBN0Nleit2dW4tY19F@104.156.233.234:27116#AU%F0%9F%87%A6%F0%9F%87%BA+%7C+104.156.233.234-27116+%7C+144.6ms
-ss://e653f585-9924-000f-8d5d-c15c3ab95270@leg.goodmaximum.com:443?mode=gun&security=reality&encryption=none&pbk=fPSR5GZpxhOV6Rh7VzMtS4AeRN7ipyNX4waG9JzJzxQ&fp=chrome&type=grpc&serviceName=QToNrKDvQT5AfnFM&sni=cloud.nimhogoa.com#REALITY|AU🇦🇺
-trojan://KV63147582@selected-bison.rooster465.autos:443?allowInsecure=0&sni=selected-bison.rooster465.autos#AU🇦🇺
-trojan://OD90375861@big-bonefish.rooster465.autos:443?allowInsecure=1&sni=big-bonefish.rooster465.autos#AU🇦🇺
-trojan://XG59623478@concise-buck.rooster465.autos:443?security=tls&sni=concise-buck.rooster465.autos#%F0%9F%87%A6%F0%9F%87%BAAU-82.117.225.216-0209
-trojan://XG59623478@stirring-dane.rooster465.autos:443?security=tls&sni=stirring-dane.rooster465.autos#%F0%9F%87%A6%F0%9F%87%BAAU-82.117.225.56-0231
-vless://62c82c17-c70f-0019-95e4-e52a67a435ef@leg.goodmaximum.com:443?mode=gun&security=reality&encryption=none&authority=&pbk=fPSR5GZpxhOV6Rh7VzMtS4AeRN7ipyNX4waG9JzJzxQ&fp=chrome&type=grpc&serviceName=QToNrKDvQT5AfnFM&sni=archive.glimmerhouse.com#REALITY|AU🇦🇺
-vless://e653f585-9924-000f-8d5d-c15c3ab95270@leg.goodmaximum.com:443?mode=gun&security=reality&encryption=none&pbk=fPSR5GZpxhOV6Rh7VzMtS4AeRN7ipyNX4waG9JzJzxQ&fp=chrome&type=grpc&serviceName=QToNrKDvQT5AfnFM&sni=cloud.nimhogoa.com#REALITY|AU🇦🇺
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUV0c3SjFLUjVLc1BhVjVxWkkrcmlldWVLeHhhZlpTcENI@45.77.232.213:15675#AU%F0%9F%87%A6%F0%9F%87%BA+%7C+45.77.232.213-15675+%7C+137.6ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiSU9vaTVUdUltRzJLY2N4VjctamNBN0Nleit2dW4tY19F@104.156.233.234:27116#AU%F0%9F%87%A6%F0%9F%87%BA+%7C+104.156.233.234-27116+%7C+137.86ms
+trojan://KV63147582@selected-bison.rooster465.autos:443?security=tls&sni=selected-bison.rooster465.autos#%F0%9F%87%A6%F0%9F%87%BAAU-87.121.33.171-0485
+trojan://XG59623478@82.117.225.216:443?security=tls&sni=concise-buck.rooster465.autos#%F0%9F%87%A6%F0%9F%87%BAAU-82.117.225.216-0469
+trojan://XG59623478@concise-buck.rooster465.autos:443?security=tls&sni=concise-buck.rooster465.autos#%F0%9F%87%A6%F0%9F%87%BAAU-82.117.225.216-0258
