@@ -1,1 +1,0 @@
-trojan://humanity@202.37.33.80:443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#🆔ar14n24b%20🔒%20TR-WS-N/A%20🇳🇿%20NZ%2015ms
