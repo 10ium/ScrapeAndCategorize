@@ -1,2 +1,2 @@
-ss://8bba3194-4856-46d1-8319-075817d87eb1@pl4.cyphervpn.pro:2443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=USffNprEM08MHiuVy5bj6-kvxugxycuZcgQDFJyz2Wc&security=reality&sid=8f9d033ad6d2cebf&sni=pl4.cyphervpn.pro&type=tcp#REALITY|IL🇮🇱
-vless://8bba3194-4856-46d1-8319-075817d87eb1@pl4.cyphervpn.pro:2443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=USffNprEM08MHiuVy5bj6-kvxugxycuZcgQDFJyz2Wc&security=reality&sid=8f9d033ad6d2cebf&sni=pl4.cyphervpn.pro&type=tcp#REALITY|IL🇮🇱
+ss://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?encryption=none&type=tcp&headerType=none&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI#🆔configfa%20🔓%20VL-TCP-N/A%20🇮🇱%20IL%20213ms
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?encryption=none&type=tcp&headerType=none&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI#🆔configfa%20🔓%20VL-TCP-N/A%20🇮🇱%20IL%20213ms

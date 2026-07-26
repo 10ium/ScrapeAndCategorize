@@ -1,4 +1,4 @@
+ss://c20e053d-857a-4382-9daf-8c4a999216cd@2.56.206.183:443?type=tcp&security=reality&encryption=none&pbk=Ccrxcesv3y3gV0n7peIEyaCw2NY621JdFUOdm7zH5ko&sid=b9a969ba610cc483&sni=www.samsung.com&fp=firefox&flow=xtls-rprx-vision#REALITY|AM🇦🇲
 ss://f667a096-5231-4cfb-8759-92bb32473139@77.91.68.70:55983?security=reality&encryption=none&pbk=nWQ7b9l9X6N3PrXLgIzOvMM8iSYrqjVHEb9ikWxqYSg&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=0e#REALITY|AM🇦🇲
-ss://f667a096-5231-4cfb-8759-92bb32473139@77.91.68.70:55983?type=tcp&encryption=none&flow=&sni=yahoo.com&security=reality&pbk=nWQ7b9l9X6N3PrXLgIzOvMM8iSYrqjVHEb9ikWxqYSg&sid=0e#REALITY|AM🇦🇲
+vless://c20e053d-857a-4382-9daf-8c4a999216cd@2.56.206.183:443?type=tcp&security=reality&encryption=none&pbk=Ccrxcesv3y3gV0n7peIEyaCw2NY621JdFUOdm7zH5ko&sid=b9a969ba610cc483&sni=www.samsung.com&fp=firefox&flow=xtls-rprx-vision#REALITY|AM🇦🇲
 vless://f667a096-5231-4cfb-8759-92bb32473139@77.91.68.70:55983?security=reality&encryption=none&pbk=nWQ7b9l9X6N3PrXLgIzOvMM8iSYrqjVHEb9ikWxqYSg&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=0e#REALITY|AM🇦🇲
-vless://f667a096-5231-4cfb-8759-92bb32473139@77.91.68.70:55983?type=tcp&encryption=none&flow=&sni=yahoo.com&security=reality&pbk=nWQ7b9l9X6N3PrXLgIzOvMM8iSYrqjVHEb9ikWxqYSg&sid=0e#REALITY|AM🇦🇲

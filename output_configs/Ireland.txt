@@ -1,7 +1,4 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcjA2clVfdjF2RlBZZVhxOXpic0FB@84.247.48.78:1080#IE%F0%9F%87%AE%F0%9F%87%AA+%7C+84.247.48.78-1080+%7C+82.95ms
-trojan://IQ68037294@adapting-ghost.rooster465.autos:443?security=tls&sni=adapting-ghost.rooster465.autos#%F0%9F%87%AE%F0%9F%87%AAIE-108.130.91.15-0092
-trojan://IQ68037294@moving-wren.rooster465.autos:443?security=tls&sni=moving-wren.rooster465.autos#%F0%9F%87%AE%F0%9F%87%AAIE-34.253.182.161-0094
-trojan://NQ26071394@fun-labrador.rooster465.autos:443?security=tls&sni=fun-labrador.rooster465.autos#%F0%9F%87%AE%F0%9F%87%AAIE-34.242.69.173-0101
-trojan://XG59623478@3.249.67.252:443?security=tls&sni=singular-lark.rooster465.autos#%F0%9F%87%AE%F0%9F%87%AAIE-3.249.67.252-0234
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcjA2clVfdjF2RlBZZVhxOXpic0FB@84.247.48.78:1080#IE%F0%9F%87%AE%F0%9F%87%AA+%7C+84.247.48.78-1080+%7C+102.8ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoV09GZ25xN2w1b3FCRFFX@68.219.211.7:443#IE%F0%9F%87%AE%F0%9F%87%AA+%7C+68.219.211.7-443+%7C+183.44ms
 trojan://t1k169n5zmvvwn96r9ft@146.70.90.195:57452?allowInsecure=1#IE🇮🇪
 trojan://t1k169n5zmvvwn96r9ft@146.70.90.198:57452?allowInsecure=1#IE🇮🇪
