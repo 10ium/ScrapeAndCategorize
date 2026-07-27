@@ -1,4 +1,6 @@
 ss://8f273bcc-15f2-4c96-8942-8aae51eddd8e@144.31.129.9:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=gF0oeN2ndJ1hDZynSUu504hiXzUI6oioEerdyG7yMVQ&security=reality&sid=0bc73dd1f045&sni=qwins-mirrorconv.ru&type=tcp#REALITY|BY🇧🇾
+ss://8f273bcc-15f2-4c96-8942-8aae51eddd8e@144.31.129.9:443?security=reality&encryption=none&pbk=gF0oeN2ndJ1hDZynSUu504hiXzUI6oioEerdyG7yMVQ&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=qwins-mirrorconv.ru&sid=0bc73dd1f045#REALITY|BY🇧🇾
 ss://acbabca-acab-bcaa-abdc-bbccaabaccab@127.0.0.1:8080?security=tls&type=tcp#👨🏻‍💻%20DEVELOPED-BY%20@YEBEKHE
 vless://8f273bcc-15f2-4c96-8942-8aae51eddd8e@144.31.129.9:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=gF0oeN2ndJ1hDZynSUu504hiXzUI6oioEerdyG7yMVQ&security=reality&sid=0bc73dd1f045&sni=qwins-mirrorconv.ru&type=tcp#REALITY|BY🇧🇾
+vless://8f273bcc-15f2-4c96-8942-8aae51eddd8e@144.31.129.9:443?security=reality&encryption=none&pbk=gF0oeN2ndJ1hDZynSUu504hiXzUI6oioEerdyG7yMVQ&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=qwins-mirrorconv.ru&sid=0bc73dd1f045#REALITY|BY🇧🇾
 vless://acbabca-acab-bcaa-abdc-bbccaabaccab@127.0.0.1:8080?security=tls&type=tcp#👨🏻‍💻%20DEVELOPED-BY%20@YEBEKHE
