@@ -1,2 +1,2 @@
-ss://15e0833c-08ad-47f3-bf80-60c2a47a6774@veesp-fj-vpn-1.concept7.ru:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=KEZ93Y9VgoirI18wIpcfS3z8I9GiaiFe-GKqGdEPMmg&security=reality&sid=eb1e33e8a81b&sni=deepl.com&type=tcp#REALITY|LT🇱🇹
-vless://15e0833c-08ad-47f3-bf80-60c2a47a6774@veesp-fj-vpn-1.concept7.ru:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=KEZ93Y9VgoirI18wIpcfS3z8I9GiaiFe-GKqGdEPMmg&security=reality&sid=eb1e33e8a81b&sni=deepl.com&type=tcp#REALITY|LT🇱🇹
+ss://15e0833c-08ad-47f3-bf80-60c2a47a6774@veesp-fj-vpn-2.concept7.ru:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=KEZ93Y9VgoirI18wIpcfS3z8I9GiaiFe-GKqGdEPMmg&security=reality&sid=e29c9c180c62&sni=deepl.com&type=tcp#REALITY|LT🇱🇹
+vless://15e0833c-08ad-47f3-bf80-60c2a47a6774@veesp-fj-vpn-2.concept7.ru:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=KEZ93Y9VgoirI18wIpcfS3z8I9GiaiFe-GKqGdEPMmg&security=reality&sid=e29c9c180c62&sni=deepl.com&type=tcp#REALITY|LT🇱🇹
