@@ -1,4 +1,1 @@
-ss://7e6873f9-b65a-4538-803c-caefee6cf782@hu10.bearbeer.digital:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=z-TKWOWgZLfzQ-wNdwXQqVwaUgCmbchM2Xtrk1NGynU&security=reality&sni=hu10.bearbeer.digital&type=tcp#REALITY|HU🇭🇺
-ss://c065e1bb-cb56-41e5-b043-9dfd15b67565@152.233.41.30:16923?mode=gun&security=reality&encryption=none&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&type=grpc&serviceName=neurex&sni=api-maps.yandex.ru&sid=10ffb85da1c2d986#REALITY|HU🇭🇺
-vless://7e6873f9-b65a-4538-803c-caefee6cf782@hu10.bearbeer.digital:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=z-TKWOWgZLfzQ-wNdwXQqVwaUgCmbchM2Xtrk1NGynU&security=reality&sni=hu10.bearbeer.digital&type=tcp#REALITY|HU🇭🇺
-vless://c065e1bb-cb56-41e5-b043-9dfd15b67565@152.233.41.30:16923?mode=gun&security=reality&encryption=none&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&type=grpc&serviceName=neurex&sni=api-maps.yandex.ru&sid=10ffb85da1c2d986#REALITY|HU🇭🇺
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@146.70.203.254:1080#HU%F0%9F%87%AD%F0%9F%87%BA+%7C+146.70.203.254-1080+%7C+106.43ms
