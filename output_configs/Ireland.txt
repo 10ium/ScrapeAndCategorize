@@ -1,5 +1,2 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2V2NpbVVTaVQxcmZWTTF2@20.107.187.192:443#IE%F0%9F%87%AE%F0%9F%87%AA+%7C+20.107.187.192-443+%7C+97.03ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@84.247.48.78:1080#IE%F0%9F%87%AE%F0%9F%87%AA+%7C+84.247.48.78-1080+%7C+122.01ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuSENjc1hLMnJFY3M5bFJp@20.107.187.192:443#IE%F0%9F%87%AE%F0%9F%87%AA+%7C+20.107.187.192-443+%7C+102.84ms
-ss://ac5313ae-803b-4104-a047-94c97ecb621e@85.159.229.77:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=lHCkAu_DOVFtE-iL2JGrPt44QeTCFijXuRfuGaSni3Q&security=reality&sid=9e4eced6e98ed4d4&sni=ie.orpheous.ru&type=tcp#REALITY|IE🇮🇪
-vless://ac5313ae-803b-4104-a047-94c97ecb621e@85.159.229.77:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=lHCkAu_DOVFtE-iL2JGrPt44QeTCFijXuRfuGaSni3Q&security=reality&sid=9e4eced6e98ed4d4&sni=ie.orpheous.ru&type=tcp#REALITY|IE🇮🇪
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@84.247.48.78:1080#IE%F0%9F%87%AE%F0%9F%87%AA+%7C+84.247.48.78-1080+%7C+142.14ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@84.247.48.78:1080#IE%F0%9F%87%AE%F0%9F%87%AA+%7C+84.247.48.78-1080+%7C+142.17ms
