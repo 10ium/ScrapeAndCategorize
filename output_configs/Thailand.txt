@@ -1,2 +1,1 @@
-ss://8d5e7f2a-3c1b-4d9e-a6f8-2b5c0e7d4a19@43.164.0.59:666?encryption=none&type=ws&security=tls&path=%2Fproxy&sni=43.164.0.59&insecure=1&allowInsecure=1#TH🇹🇭
-vless://8d5e7f2a-3c1b-4d9e-a6f8-2b5c0e7d4a19@43.164.0.59:666?encryption=none&type=ws&security=tls&path=%2Fproxy&sni=43.164.0.59&insecure=1&allowInsecure=1#TH🇹🇭
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsaHVVTFJ3TzRzbE02azI2MnBBQzRjYnE1QTFINno4ZWFPSFYyN3ZpN1l3PQ==@47.81.56.202:44617#TH%F0%9F%87%B9%F0%9F%87%AD+%7C+47.81.56.202-44617+%7C+226.59ms

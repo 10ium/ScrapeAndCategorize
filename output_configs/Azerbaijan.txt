@@ -1,0 +1,2 @@
+ss://cb4fca5f-edf8-415b-aa8f-ac52f415296a@188.64.12.69:443?type=ws&encryption=none&host=de.tradex2080.com&path=%2FgPGhgE3kwHBXqpNptGAxAtI0QM&security=tls&sni=de.tradex2080.com&alpn=http%2F1.1&fp=chrome#🆔soskeynet%20🔒%20VL-WS-N/A%20🇦🇿%20AZ%20down
+vless://cb4fca5f-edf8-415b-aa8f-ac52f415296a@188.64.12.69:443?type=ws&encryption=none&host=de.tradex2080.com&path=%2FgPGhgE3kwHBXqpNptGAxAtI0QM&security=tls&sni=de.tradex2080.com&alpn=http%2F1.1&fp=chrome#🆔soskeynet%20🔒%20VL-WS-N/A%20🇦🇿%20AZ%20down
