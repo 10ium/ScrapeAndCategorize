@@ -1,4 +1,4 @@
-ss://0b9bcbc1-b289-4a64-86fa-a5b731b65384@93.152.223.98:443?security=reality&encryption=none&pbk=QocXHwad0mV7WA5jSAcqDac3uuVBEp1WF775-CilniE&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=web.max.ru&sid=45ba18f429ad1f28#REALITY|BG🇧🇬
-ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@38.244.132.14:5499#BG%F0%9F%87%A7%F0%9F%87%AC+%7C+38.244.132.14-5499+%7C+164.07ms
-ss://chacha20ietfpoly1305Og==@146.70.53.62:1080#BG%F0%9F%87%A7%F0%9F%87%AC+%7C+146.70.53.62-1080+%7C+165.1ms
-vless://0b9bcbc1-b289-4a64-86fa-a5b731b65384@93.152.223.98:443?security=reality&encryption=none&pbk=QocXHwad0mV7WA5jSAcqDac3uuVBEp1WF775-CilniE&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=web.max.ru&sid=45ba18f429ad1f28#REALITY|BG🇧🇬
+ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@38.244.132.14:5499#BG%F0%9F%87%A7%F0%9F%87%AC+%7C+38.244.132.14-5499+%7C+118.54ms
+ss://chacha20ietfpoly1305Og==@146.70.53.62:1080#BG%F0%9F%87%A7%F0%9F%87%AC+%7C+146.70.53.62-1080+%7C+112.77ms
+ss://d9fc2109-33ee-4f57-b67a-7c6ea3a1c645@sof.edgeptr.org:443?security=reality&encryption=none&pbk=EtKRG8sxUJsdy-KwUOtYUNJnSn5VMx2sfKvvdpzg2X0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.lovelive-anime.jp&sid=f0eb800bd980b00b#REALITY|BG🇧🇬
+vless://d9fc2109-33ee-4f57-b67a-7c6ea3a1c645@sof.edgeptr.org:443?security=reality&encryption=none&pbk=EtKRG8sxUJsdy-KwUOtYUNJnSn5VMx2sfKvvdpzg2X0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.lovelive-anime.jp&sid=f0eb800bd980b00b#REALITY|BG🇧🇬
