@@ -1,2 +1,2 @@
-ss://52d0b2d5-a003-4509-ab70-d1d720a14cd7@hu007.bearbeer.digital:443?encryption=none&fp=&mode=auto&pbk=z-TKWOWgZLfzQ-wNdwXQqVwaUgCmbchM2Xtrk1NGynU&security=reality&sni=hu007.bearbeer.digital&type=xhttp#REALITY|HU🇭🇺
-vless://52d0b2d5-a003-4509-ab70-d1d720a14cd7@hu007.bearbeer.digital:443?encryption=none&fp=&mode=auto&pbk=z-TKWOWgZLfzQ-wNdwXQqVwaUgCmbchM2Xtrk1NGynU&security=reality&sni=hu007.bearbeer.digital&type=xhttp#REALITY|HU🇭🇺
+ss://5dc1b4ed-c897-468d-921d-266b062db2cb@195.20.115.195:443?security=reality&alpn=http%2F1.1&encryption=none&pbk=jwyfUdsuDBGtjuTfWOepIQ80EDSCXCp8Xe3bzXFlsjI&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=hu.cache-4d8a.com&sid=9d84de9d9f7b85e9#REALITY|HU🇭🇺
+vless://5dc1b4ed-c897-468d-921d-266b062db2cb@195.20.115.195:443?security=reality&alpn=http%2F1.1&encryption=none&pbk=jwyfUdsuDBGtjuTfWOepIQ80EDSCXCp8Xe3bzXFlsjI&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=hu.cache-4d8a.com&sid=9d84de9d9f7b85e9#REALITY|HU🇭🇺
