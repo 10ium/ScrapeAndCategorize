@@ -1,3 +1,1 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@185.210.217.94:1080#BE%F0%9F%87%A7%F0%9F%87%AA+%7C+185.210.217.94-1080+%7C+92.88ms
-ss://d8b42cd5-a149-4356-9e61-000000000000@194.120.121.8:1002?security=&encryption=none&headerType=&type=tcp#🆔soskeynet%20🔓%20VL-TCP-N/A%20🇧🇪%20BE%20down
-vless://d8b42cd5-a149-4356-9e61-000000000000@194.120.121.8:1002?security=&encryption=none&headerType=&type=tcp#🆔soskeynet%20🔓%20VL-TCP-N/A%20🇧🇪%20BE%20down
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@185.210.217.94:1080#BE%F0%9F%87%A7%F0%9F%87%AA+%7C+185.210.217.94-1080+%7C+108.29ms
