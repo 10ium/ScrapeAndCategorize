@@ -1,4 +1,6 @@
-ss://2067bd3d-3ff6-42a5-91f3-ef1ce76fb14e@www.speedtest.net:2086?path=%2Foopksl%3F&security=none&encryption=none&host=Bangal.lorqino.ir&type=httpupgrade#LV🇱🇻
-ss://631ee34f-4faf-4ad7-b49d-e6f50403cf0e@188.92.78.80:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&security=reality&sid=93ae75024604f796&sni=anyfile2file.com&type=tcp#REALITY|LV🇱🇻
-vless://2067bd3d-3ff6-42a5-91f3-ef1ce76fb14e@www.speedtest.net:2086?path=%2Foopksl%3F&security=none&encryption=none&host=Bangal.lorqino.ir&type=httpupgrade#LV🇱🇻
-vless://631ee34f-4faf-4ad7-b49d-e6f50403cf0e@188.92.78.80:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&security=reality&sid=93ae75024604f796&sni=anyfile2file.com&type=tcp#REALITY|LV🇱🇻
+ss://631ee34f-4faf-4ad7-b49d-e6f50403cf0e@188.92.78.81:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&security=reality&sid=93ae75024604f796&sni=anyfile2file.com&type=tcp#REALITY|LV🇱🇻
+ss://90919a53-cc25-46b0-99d6-3d219bea0962@dl.sorvexa.ir:8880?flow=&type=tcp&headerType=none&security=none#LV🇱🇻
+ss://eab915bc-d2df-73d1-47d0-6eb240497055@gr1.fifapes.monster:8882?security=none&encryption=none&headerType=http&type=tcp#LV🇱🇻
+vless://631ee34f-4faf-4ad7-b49d-e6f50403cf0e@188.92.78.81:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&security=reality&sid=93ae75024604f796&sni=anyfile2file.com&type=tcp#REALITY|LV🇱🇻
+vless://90919a53-cc25-46b0-99d6-3d219bea0962@dl.sorvexa.ir:8880?flow=&type=tcp&headerType=none&security=none#LV🇱🇻
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@gr1.fifapes.monster:8882?security=none&encryption=none&headerType=http&type=tcp#LV🇱🇻
