@@ -1,5 +1,7 @@
 ss://76b7834c-75d4-4fce-a90b-2639739e8e3e@s1.streemmovie.shop:8443?mode=auto&path=%2Fstreem&security=reality&encryption=mlkem768x25519plus.native.0rtt.hotsWvZPbyyNmCfg5BWRkmqwOet9BfmVK2pdUA-jMk0&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=6GfyVeO2GgIndTfBl4mFIgJi6eVSpQv7PDeV5F5RLyo&host=s1.streemmovie.shop&fp=chrome&spx=%2Fb08efb2caca471e&type=xhttp&sni=yt.be&sid=408aded4#REALITY|CZ🇨🇿
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@146.70.222.126:1080#CZ%F0%9F%87%A8%F0%9F%87%BF+%7C+146.70.222.126-1080+%7C+140.74ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@185.156.174.106:1080#CZ%F0%9F%87%A8%F0%9F%87%BF+%7C+185.156.174.106-1080+%7C+135.23ms
-ss://chacha20ietfpoly1305Og==@146.70.222.126:1080#CZ%F0%9F%87%A8%F0%9F%87%BF+%7C+146.70.222.126-1080+%7C+135.39ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@146.70.222.126:1080#CZ%F0%9F%87%A8%F0%9F%87%BF+%7C+146.70.222.126-1080+%7C+135.1ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@185.156.174.106:1080#CZ%F0%9F%87%A8%F0%9F%87%BF+%7C+185.156.174.106-1080+%7C+134.94ms
+ss://chacha20ietfpoly1305Og==@146.70.222.126:1080#CZ%F0%9F%87%A8%F0%9F%87%BF+%7C+146.70.222.126-1080+%7C+135.07ms
+ss://f71e29f8-0608-4705-99b9-33e0e128ca6d@195.133.35.7:8765?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.gitlab.com&fp=chrome&security=reality&pbk=5dh8zhGI2P-OXPhrOSYXysjsBsQ_gfZAZomOI5agano&sid=6a7c2332#REALITY|CZ🇨🇿
 vless://76b7834c-75d4-4fce-a90b-2639739e8e3e@s1.streemmovie.shop:8443?mode=auto&path=%2Fstreem&security=reality&encryption=mlkem768x25519plus.native.0rtt.hotsWvZPbyyNmCfg5BWRkmqwOet9BfmVK2pdUA-jMk0&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=6GfyVeO2GgIndTfBl4mFIgJi6eVSpQv7PDeV5F5RLyo&host=s1.streemmovie.shop&fp=chrome&spx=%2Fb08efb2caca471e&type=xhttp&sni=yt.be&sid=408aded4#REALITY|CZ🇨🇿
+vless://f71e29f8-0608-4705-99b9-33e0e128ca6d@195.133.35.7:8765?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.gitlab.com&fp=chrome&security=reality&pbk=5dh8zhGI2P-OXPhrOSYXysjsBsQ_gfZAZomOI5agano&sid=6a7c2332#REALITY|CZ🇨🇿

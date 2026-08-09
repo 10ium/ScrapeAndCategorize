@@ -1,11 +1,10 @@
-ss://48987d2a-b236-4c3b-9bc3-f8560c572779@87.76.179.123:443?mode=gun&security=reality&encryption=none&pbk=f5Wc7wP7ZnHvCU1FDlK_BDrG2vKF4pvRYY9TKQvEEBM&fp=firefox&type=grpc&serviceName=APIv1&sni=tradingview.com&sid=34c0b21a15584c9a#REALITY|ES🇪🇸
+ss://5e243126-4a2a-84b6-782a-73b14797fb5f@170.168.97.3:443?encryption=none&type=xhttp&security=reality&path=%2F&mode=auto&sni=download.nvidia.com&fp=chrome&insecure=1&allowInsecure=1&pbk=D2SXHZRRYM0WcFChGWd57XB-U73aIsGfMpe2-Gq5XSs#REALITY|ES🇪🇸
 ss://5e243126-4a2a-84b6-782a-73b14797fb5f@170.168.97.3:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=D2SXHZRRYM0WcFChGWd57XB-U73aIsGfMpe2-Gq5XSs&fp=chrome&type=xhttp&sni=download.nvidia.com#REALITY|ES🇪🇸
-ss://5e243126-4a2a-84b6-782a-73b14797fb5f@170.168.97.3:8443?encryption=none&fp=&pbk=D2SXHZRRYM0WcFChGWd57XB-U73aIsGfMpe2-Gq5XSs&security=reality&serviceName=TunService&sni=download.nvidia.com&type=grpc#REALITY|ES🇪🇸
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxSXRHOFN1ZVlRY1A=@140.174.184.5:8388#ES%F0%9F%87%AA%F0%9F%87%B8+%7C+140.174.184.5-8388+%7C+241.07ms
-ss://YWVzLTI1Ni1jZmI6R0E5S3plRWd2ZnhOcmdtTQ==@5.188.181.201:9019#ES%F0%9F%87%AA%F0%9F%87%B8+%7C+5.188.181.201-9019+%7C+116.68ms
-ss://YWVzLTI1Ni1jZmI6VWtYUnNYdlI2YnVETUcyWQ==@5.188.181.201:9001#%F0%9F%87%AA%F0%9F%87%B8ES-5.188.181.201-0216
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxSXRHOFN1ZVlRY1A=@140.174.184.5:8388#ES%F0%9F%87%AA%F0%9F%87%B8+%7C+140.174.184.5-8388+%7C+158.1ms
+ss://YWVzLTI1Ni1jZmI6R0E5S3plRWd2ZnhOcmdtTQ==@5.188.181.201:9019#ES%F0%9F%87%AA%F0%9F%87%B8+%7C+5.188.181.201-9019+%7C+119.15ms
 ss://e6d41d6f-d58a-7650-bba4-d7f0dde3ba4d@170.168.97.3:993?encryption=none&flow=xtls-rprx-vision&fp=&pbk=D2SXHZRRYM0WcFChGWd57XB-U73aIsGfMpe2-Gq5XSs&security=reality&sni=download.nvidia.com&type=tcp#REALITY|ES🇪🇸
-vless://48987d2a-b236-4c3b-9bc3-f8560c572779@87.76.179.123:443?mode=gun&security=reality&encryption=none&pbk=f5Wc7wP7ZnHvCU1FDlK_BDrG2vKF4pvRYY9TKQvEEBM&fp=firefox&type=grpc&serviceName=APIv1&sni=tradingview.com&sid=34c0b21a15584c9a#REALITY|ES🇪🇸
+ss://e6d41d6f-d58a-7650-bba4-d7f0dde3ba4d@170.168.97.3:993?security=reality&encryption=none&pbk=D2SXHZRRYM0WcFChGWd57XB-U73aIsGfMpe2-Gq5XSs&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=download.nvidia.com#REALITY|ES🇪🇸
+vless://5e243126-4a2a-84b6-782a-73b14797fb5f@170.168.97.3:443?encryption=none&type=xhttp&security=reality&path=%2F&mode=auto&sni=download.nvidia.com&fp=chrome&insecure=1&allowInsecure=1&pbk=D2SXHZRRYM0WcFChGWd57XB-U73aIsGfMpe2-Gq5XSs#REALITY|ES🇪🇸
 vless://5e243126-4a2a-84b6-782a-73b14797fb5f@170.168.97.3:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=D2SXHZRRYM0WcFChGWd57XB-U73aIsGfMpe2-Gq5XSs&fp=chrome&type=xhttp&sni=download.nvidia.com#REALITY|ES🇪🇸
-vless://5e243126-4a2a-84b6-782a-73b14797fb5f@170.168.97.3:8443?encryption=none&fp=&pbk=D2SXHZRRYM0WcFChGWd57XB-U73aIsGfMpe2-Gq5XSs&security=reality&serviceName=TunService&sni=download.nvidia.com&type=grpc#REALITY|ES🇪🇸
 vless://e6d41d6f-d58a-7650-bba4-d7f0dde3ba4d@170.168.97.3:993?encryption=none&flow=xtls-rprx-vision&fp=&pbk=D2SXHZRRYM0WcFChGWd57XB-U73aIsGfMpe2-Gq5XSs&security=reality&sni=download.nvidia.com&type=tcp#REALITY|ES🇪🇸
+vless://e6d41d6f-d58a-7650-bba4-d7f0dde3ba4d@170.168.97.3:993?security=reality&encryption=none&pbk=D2SXHZRRYM0WcFChGWd57XB-U73aIsGfMpe2-Gq5XSs&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=download.nvidia.com#REALITY|ES🇪🇸
