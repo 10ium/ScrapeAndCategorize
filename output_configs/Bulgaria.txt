@@ -1,8 +1,10 @@
 ss://0b9bcbc1-b289-4a64-86fa-a5b731b65384@93.152.223.98:443?security=reality&encryption=none&pbk=QocXHwad0mV7WA5jSAcqDac3uuVBEp1WF775-CilniE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=web.max.ru&sid=45ba18f429ad1f28#REALITY|BG🇧🇬
-ss://94d2d711-76e5-4d82-a3c9-4f06fd5558c8@87.120.92.181:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=e-spectacular.ru&fp=firefox&pbk=oEZR7FpSd4ZrBKHrBLJqfGq_23-xf7DQy0bkqkiq0mw&sid=825d392c67e4&allowinsecure=1&type=tcp&headerType=none#REALITY|BG🇧🇬
-ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@38.244.132.14:5499#BG%F0%9F%87%A7%F0%9F%87%AC+%7C+38.244.132.14-5499+%7C+157.47ms
-ss://chacha20ietfpoly1305Og==@146.70.53.62:1080#BG%F0%9F%87%A7%F0%9F%87%AC+%7C+146.70.53.62-1080+%7C+147.47ms
+ss://0b9bcbc1-b289-4a64-86fa-a5b731b65384@93.152.223.98:443?security=reality&encryption=none&pbk=QocXHwad0mV7WA5jSAcqDac3uuVBEp1WF775-CilniE&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=web.max.ru&sid=45ba18f429ad1f28#REALITY|BG🇧🇬
+ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@38.244.132.14:5499#BG%F0%9F%87%A7%F0%9F%87%AC+%7C+38.244.132.14-5499+%7C+113.09ms
+ss://chacha20ietfpoly1305Og==@146.70.53.62:1080#BG%F0%9F%87%A7%F0%9F%87%AC+%7C+146.70.53.62-1080+%7C+114.41ms
 ss://fc1b3bda-b226-452a-8c5c-b0e36a1f8f88@185.82.219.152:13443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=gc9oXe37KCCm3J1dJ03wdGsnxPBdeEkRPOvl_t-vfVM&security=reality&sid=a7f3c91b2e6d84c0&sni=auto.cendora.ru&type=tcp#REALITY|BG🇧🇬
+ss://fc1b3bda-b226-452a-8c5c-b0e36a1f8f88@185.82.219.152:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=b-Cm9hX-3UHsS1L_lnUB6AMjuKhlN1IDdBbZ506itjI&security=reality&sid=00bca5982f82d083&sni=eu-central.cendora.ru&type=tcp#REALITY|BG🇧🇬
 vless://0b9bcbc1-b289-4a64-86fa-a5b731b65384@93.152.223.98:443?security=reality&encryption=none&pbk=QocXHwad0mV7WA5jSAcqDac3uuVBEp1WF775-CilniE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=web.max.ru&sid=45ba18f429ad1f28#REALITY|BG🇧🇬
-vless://94d2d711-76e5-4d82-a3c9-4f06fd5558c8@87.120.92.181:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=e-spectacular.ru&fp=firefox&pbk=oEZR7FpSd4ZrBKHrBLJqfGq_23-xf7DQy0bkqkiq0mw&sid=825d392c67e4&allowinsecure=1&type=tcp&headerType=none#REALITY|BG🇧🇬
+vless://0b9bcbc1-b289-4a64-86fa-a5b731b65384@93.152.223.98:443?security=reality&encryption=none&pbk=QocXHwad0mV7WA5jSAcqDac3uuVBEp1WF775-CilniE&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=web.max.ru&sid=45ba18f429ad1f28#REALITY|BG🇧🇬
 vless://fc1b3bda-b226-452a-8c5c-b0e36a1f8f88@185.82.219.152:13443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=gc9oXe37KCCm3J1dJ03wdGsnxPBdeEkRPOvl_t-vfVM&security=reality&sid=a7f3c91b2e6d84c0&sni=auto.cendora.ru&type=tcp#REALITY|BG🇧🇬
+vless://fc1b3bda-b226-452a-8c5c-b0e36a1f8f88@185.82.219.152:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=b-Cm9hX-3UHsS1L_lnUB6AMjuKhlN1IDdBbZ506itjI&security=reality&sid=00bca5982f82d083&sni=eu-central.cendora.ru&type=tcp#REALITY|BG🇧🇬
