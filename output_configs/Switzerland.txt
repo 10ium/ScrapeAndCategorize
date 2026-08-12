@@ -1,9 +1,7 @@
-ss://2c26ed61-be8a-45d1-978c-3774e062ac2b@206_207.iranacar.ir:6690?encryption=none&security=reality&type=tcp&headerType=none&sni=play.google.com&fp=firefox&pbk=QZWXGRyvifcdtbfxZ2YxNRDqkfvaUeOC0uhfCs_ITEI&sid=a334d0f1d82608de#REALITY|CH🇨🇭
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@146.70.26.156:1080#CH%F0%9F%87%A8%F0%9F%87%AD+%7C+146.70.26.156-1080+%7C+155.37ms
-ss://b4bc10bf-80f9-40c9-b4e5-29817c2f0992@193.108.52.52:8082?encryption=none&fp=&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&serviceName=vless-grpc-reality&sni=id.vk.com&type=grpc#REALITY|CH🇨🇭
-ss://b4bc10bf-80f9-40c9-b4e5-29817c2f0992@193.108.52.99:8082?encryption=none&fp=&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&serviceName=vless-grpc-reality&sni=id.vk.com&type=grpc#REALITY|CH🇨🇭
-ss://b4bc10bf-80f9-40c9-b4e5-29817c2f0992@83.228.196.3:8082?mode=gun&security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=grpc&serviceName=vless-grpc-reality&sni=id.vk.com#REALITY|CH🇨🇭
-vless://2c26ed61-be8a-45d1-978c-3774e062ac2b@206_207.iranacar.ir:6690?encryption=none&security=reality&type=tcp&headerType=none&sni=play.google.com&fp=firefox&pbk=QZWXGRyvifcdtbfxZ2YxNRDqkfvaUeOC0uhfCs_ITEI&sid=a334d0f1d82608de#REALITY|CH🇨🇭
-vless://b4bc10bf-80f9-40c9-b4e5-29817c2f0992@193.108.52.52:8082?encryption=none&fp=&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&serviceName=vless-grpc-reality&sni=id.vk.com&type=grpc#REALITY|CH🇨🇭
-vless://b4bc10bf-80f9-40c9-b4e5-29817c2f0992@193.108.52.99:8082?encryption=none&fp=&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&serviceName=vless-grpc-reality&sni=id.vk.com&type=grpc#REALITY|CH🇨🇭
-vless://b4bc10bf-80f9-40c9-b4e5-29817c2f0992@83.228.196.3:8082?mode=gun&security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=grpc&serviceName=vless-grpc-reality&sni=id.vk.com#REALITY|CH🇨🇭
+ss://8787dd0a-095a-414e-804f-a7d16a1ae166@193.29.224.185:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=fi1.hys.braidx.tech&type=tcp#CH🇨🇭
+ss://888193f6-6818-42f4-b223-64c9fd323b76@45.80.111.1:8880?encryption=none&type=httpupgrade&path=%2F%3Fed%3D2082&host=eEhdfhhgln.5.postshup.ir#CH🇨🇭
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@146.70.26.156:1080#CH%F0%9F%87%A8%F0%9F%87%AD+%7C+146.70.26.156-1080+%7C+159.79ms
+ss://e2e9fa3d-666a-4c10-90de-caccd62b73e1@45.80.111.1:8880?path=%2F%3Fed%3D2082&security=&encryption=none&host=eEhdfhgln.5.postshup.ir&type=httpupgrade#CH🇨🇭
+vless://8787dd0a-095a-414e-804f-a7d16a1ae166@193.29.224.185:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=fi1.hys.braidx.tech&type=tcp#CH🇨🇭
+vless://888193f6-6818-42f4-b223-64c9fd323b76@45.80.111.1:8880?encryption=none&type=httpupgrade&path=%2F%3Fed%3D2082&host=eEhdfhhgln.5.postshup.ir#CH🇨🇭
+vless://e2e9fa3d-666a-4c10-90de-caccd62b73e1@45.80.111.1:8880?path=%2F%3Fed%3D2082&security=&encryption=none&host=eEhdfhgln.5.postshup.ir&type=httpupgrade#CH🇨🇭
