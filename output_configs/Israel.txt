@@ -1,3 +1,1 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpReFUzUTNPNDRzcHpIQmI2ejNsNE9T@45.140.204.75:45635#IL%F0%9F%87%AE%F0%9F%87%B1+%7C+45.140.204.75-45635+%7C+166.96ms
-ss://adf1fac3-cf57-ff40-574c-cf514457eb3f@83.143.106.4:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=4g8R0-Acc1LjppgvUopldH0Wg3JA2tPXvYB96aJnigo&fp=chrome&type=xhttp&sni=res.cdn.office.net#REALITY|IL🇮🇱
-vless://adf1fac3-cf57-ff40-574c-cf514457eb3f@83.143.106.4:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=4g8R0-Acc1LjppgvUopldH0Wg3JA2tPXvYB96aJnigo&fp=chrome&type=xhttp&sni=res.cdn.office.net#REALITY|IL🇮🇱
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpReFUzUTNPNDRzcHpIQmI2ejNsNE9T@45.140.204.75:45635#IL%F0%9F%87%AE%F0%9F%87%B1+%7C+45.140.204.75-45635+%7C+107.16ms
