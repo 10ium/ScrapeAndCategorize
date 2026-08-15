@@ -1,2 +1,0 @@
-ss://ae1c12b0-df98-5f76-9adc-bd3380a3dbbd@191.215.37.90:443?encryption=none&security=none&type=tcp#BR🇧🇷
-vless://ae1c12b0-df98-5f76-9adc-bd3380a3dbbd@191.215.37.90:443?encryption=none&security=none&type=tcp#BR🇧🇷
