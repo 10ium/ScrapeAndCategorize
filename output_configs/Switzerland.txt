@@ -1,8 +1,10 @@
-ss://67f37ffe-c8c4-4ced-8f9c-5b45738224f1@sanswithelpusplz.hchdhsbs12gd.ir:7006?security=reality&encryption=none&pbk=0QdpIQcpbMkJCpL1XY0soedKEfJfHgIKz3tWmjLa6yE&headerType=none&fp=qq&type=tcp&sni=play.google.com#REALITY|CH🇨🇭
-ss://83afd88f200f4d89bfc766eff160c1d8Og==@josni.hoyes.cloudns.ch:2053#RELAY%F0%9F%9A%A9+%7C+josni.hoyes.cloudns.ch-2053+%7C+188.35ms
+ss://83afd88f200f4d89bfc766eff160c1d8Og==@josni.hoyes.cloudns.ch:2053#RELAY%F0%9F%9A%A9+%7C+josni.hoyes.cloudns.ch-2053+%7C+330.56ms
+ss://8787dd0a-095a-414e-804f-a7d16a1ae166@193.29.224.185:8443?encryption=none&security=tls&headerType=none&insecure=0&fp=chrome&allowInsecure=0&sni=fi1.hys.braidx.tech&type=tcp&flow=xtls-rprx-vision#CH🇨🇭
+ss://888193f6-6818-42f4-b223-64c9fd323b76@45.80.111.1:8880?encryption=none&type=httpupgrade&path=%2F%3Fed%3D2082&host=eEhdfhhgln.5.postshup.ir#CH🇨🇭
 ss://888193f6-6818-42f4-b223-64c9fd323b76@45.80.111.1:8880?path=%2F%3Fed%3D2082&security=none&encryption=none&host=eEhdfhhgln.5.postshup.ir&type=httpupgrade#CH🇨🇭
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@146.70.26.156:1080#CH%F0%9F%87%A8%F0%9F%87%AD+%7C+146.70.26.156-1080+%7C+92.53ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@146.70.26.156:1080#CH%F0%9F%87%A8%F0%9F%87%AD+%7C+146.70.26.156-1080+%7C+105.22ms
 ss://b4bc10bf-80f9-40c9-b4e5-29817c2f0992@83.228.196.3:8082?mode=gun&security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=grpc&serviceName=vless-grpc-reality&sni=id.vk.com#REALITY|CH🇨🇭
-vless://67f37ffe-c8c4-4ced-8f9c-5b45738224f1@sanswithelpusplz.hchdhsbs12gd.ir:7006?security=reality&encryption=none&pbk=0QdpIQcpbMkJCpL1XY0soedKEfJfHgIKz3tWmjLa6yE&headerType=none&fp=qq&type=tcp&sni=play.google.com#REALITY|CH🇨🇭
+vless://8787dd0a-095a-414e-804f-a7d16a1ae166@193.29.224.185:8443?encryption=none&security=tls&headerType=none&insecure=0&fp=chrome&allowInsecure=0&sni=fi1.hys.braidx.tech&type=tcp&flow=xtls-rprx-vision#CH🇨🇭
+vless://888193f6-6818-42f4-b223-64c9fd323b76@45.80.111.1:8880?encryption=none&type=httpupgrade&path=%2F%3Fed%3D2082&host=eEhdfhhgln.5.postshup.ir#CH🇨🇭
 vless://888193f6-6818-42f4-b223-64c9fd323b76@45.80.111.1:8880?path=%2F%3Fed%3D2082&security=none&encryption=none&host=eEhdfhhgln.5.postshup.ir&type=httpupgrade#CH🇨🇭
 vless://b4bc10bf-80f9-40c9-b4e5-29817c2f0992@83.228.196.3:8082?mode=gun&security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=grpc&serviceName=vless-grpc-reality&sni=id.vk.com#REALITY|CH🇨🇭
