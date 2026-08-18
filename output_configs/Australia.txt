@@ -1,11 +1,11 @@
 ss://7f3b2f37-819e-49ee-9f5c-215467bfde61@172.67.204.39:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=turkmenistan.armanibash.Shop.&fp=chrome&type=ws&sni=turkmenistan.armanibash.Shop.#AU🇦🇺
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiSU9vaTVUdUltRzJLY2N4VjctamNBN0Nleit2dW4tY19F@104.156.233.234:27116#AU%F0%9F%87%A6%F0%9F%87%BA+%7C+104.156.233.234-27116+%7C+139.26ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiSU9vaTVUdUltRzJLY2N4VjctamNBN0Nleit2dW4tY19F@au1.levikogjgfdd.ir:27116#AU%F0%9F%87%A6%F0%9F%87%BA+%7C+au1.levikogjgfdd.ir-27116+%7C+307.98ms
-ss://e653f585-9924-000f-8d5d-c15c3ab95270@leg.goodmaximum.com:443?mode=gun&security=reality&encryption=none&pbk=fPSR5GZpxhOV6Rh7VzMtS4AeRN7ipyNX4waG9JzJzxQ&fp=chrome&type=grpc&serviceName=QToNrKDvQT5AfnFM&sni=cloud.nimhogoa.com&sid=99181028b56c8702#REALITY|AU🇦🇺
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiSU9vaTVUdUltRzJLY2N4VjctamNBN0Nleit2dW4tY19F@104.156.233.234:27116#AU%F0%9F%87%A6%F0%9F%87%BA+%7C+104.156.233.234-27116+%7C+142.33ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiSU9vaTVUdUltRzJLY2N4VjctamNBN0Nleit2dW4tY19F@au1.levikogjgfdd.ir:27116#AU%F0%9F%87%A6%F0%9F%87%BA+%7C+au1.levikogjgfdd.ir-27116+%7C+286.84ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiSU9vaTVUdUltRzJLY2N4VjctamNBN0Nleit2dW4tY19F@au1.levikogjgfdd.ir:27116#AU%F0%9F%87%A6%F0%9F%87%BA+%7C+au1.levikogjgfdd.ir-27116+%7C+292.45ms
 trojan://AE62539071@darling-mutt.rooster465.autos:443?allowInsecure=1#AU🇦🇺
 trojan://AE62539071@humorous-llama.rooster465.autos:443?allowInsecure=1&sni=humorous-llama.rooster465.autos#AU🇦🇺
 trojan://AE62539071@humorous-llama.rooster465.autos:443?allowInsecure=1&sni=humorous-llama.rooster465.autos&type=tcp#AU🇦🇺
 trojan://AE62539071@together-dingo.rooster465.autos:443?allowInsecure=1#AU🇦🇺
 trojan://AE62539071@wanted-marmoset.rooster465.autos:443?allowInsecure=0&sni=wanted-marmoset.rooster465.autos#AU🇦🇺
+trojan://FH72359861@national-stingray.rooster465.autos:443?allowInsecure=1&sni=national-stingray.rooster465.autos#AU🇦🇺
 vless://7f3b2f37-819e-49ee-9f5c-215467bfde61@172.67.204.39:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=turkmenistan.armanibash.Shop.&fp=chrome&type=ws&sni=turkmenistan.armanibash.Shop.#AU🇦🇺
-vless://e653f585-9924-000f-8d5d-c15c3ab95270@leg.goodmaximum.com:443?mode=gun&security=reality&encryption=none&pbk=fPSR5GZpxhOV6Rh7VzMtS4AeRN7ipyNX4waG9JzJzxQ&fp=chrome&type=grpc&serviceName=QToNrKDvQT5AfnFM&sni=cloud.nimhogoa.com&sid=99181028b56c8702#REALITY|AU🇦🇺
