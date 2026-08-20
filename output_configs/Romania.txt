@@ -1,12 +1,5 @@
-ss://146eb6cf-a99c-4022-85ca-022cf81502dc@195.74.93.254:443?security=reality&encryption=none&pbk=7ReQIe2kMtP4rCrptgH5glkOM-JGcSAPzHNxOED-Z0s&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=web.max.ru&sid=247fd6dab1a34a48#REALITY|RO🇷🇴
-ss://146eb6cf-a99c-4022-85ca-022cf81502dc@195.74.93.254:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=web.max.ru&fp=chrome&security=reality&pbk=7ReQIe2kMtP4rCrptgH5glkOM-JGcSAPzHNxOED-Z0s&sid=247fd6dab1a34a48&packetEncoding=xudp#REALITY|RO🇷🇴
-ss://46aeacfa0b4a4e359a0f6db76e92d4c6@earth.lukelucky.com:2086#RO%F0%9F%87%B7%F0%9F%87%B4+%7C+earth.lukelucky.com-2086+%7C+37.66ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRRld6Q3cydVg5QjlpNnFBWWVGQklF@154.46.31.106:443#RO%F0%9F%87%B7%F0%9F%87%B4+%7C+154.46.31.106-443+%7C+138.19ms
-ss://d49e6f64-2a62-4fc6-8dde-9ab1bdf12c02@87.58.205.88:443?encryption=none&security=reality&sni=google.com&pbk=v_s3GW5_7jvB081tdUeyoDUUTq6fZwqKbVS7CdvLFA0&sid=72cd47c079c0a3df&type=xhttp&mode=auto&path=%2F#REALITY|RO🇷🇴
+ss://46aeacfa0b4a4e359a0f6db76e92d4c6@earth.lukelucky.com:2086#RO%F0%9F%87%B7%F0%9F%87%B4+%7C+earth.lukelucky.com-2086+%7C+68.78ms
 ss://d49e6f64-2a62-4fc6-8dde-9ab1bdf12c02@87.58.205.88:443?mode=auto&security=reality&encryption=none&pbk=v_s3GW5_7jvB081tdUeyoDUUTq6fZwqKbVS7CdvLFA0&type=xhttp&sni=google.com&sid=72cd47c079c0a3df#REALITY|RO🇷🇴
 ss://d49e6f64-2a62-4fc6-8dde-9ab1bdf12c02@rm1.levikogjgfdd.ir:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=v_s3GW5_7jvB081tdUeyoDUUTq6fZwqKbVS7CdvLFA0&host=Telegram-Leviko_v2ray&type=xhttp&sni=google.com&sid=72cd47c079c0a3df#REALITY|RO🇷🇴
-vless://146eb6cf-a99c-4022-85ca-022cf81502dc@195.74.93.254:443?security=reality&encryption=none&pbk=7ReQIe2kMtP4rCrptgH5glkOM-JGcSAPzHNxOED-Z0s&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=web.max.ru&sid=247fd6dab1a34a48#REALITY|RO🇷🇴
-vless://146eb6cf-a99c-4022-85ca-022cf81502dc@195.74.93.254:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=web.max.ru&fp=chrome&security=reality&pbk=7ReQIe2kMtP4rCrptgH5glkOM-JGcSAPzHNxOED-Z0s&sid=247fd6dab1a34a48&packetEncoding=xudp#REALITY|RO🇷🇴
-vless://d49e6f64-2a62-4fc6-8dde-9ab1bdf12c02@87.58.205.88:443?encryption=none&security=reality&sni=google.com&pbk=v_s3GW5_7jvB081tdUeyoDUUTq6fZwqKbVS7CdvLFA0&sid=72cd47c079c0a3df&type=xhttp&mode=auto&path=%2F#REALITY|RO🇷🇴
 vless://d49e6f64-2a62-4fc6-8dde-9ab1bdf12c02@87.58.205.88:443?mode=auto&security=reality&encryption=none&pbk=v_s3GW5_7jvB081tdUeyoDUUTq6fZwqKbVS7CdvLFA0&type=xhttp&sni=google.com&sid=72cd47c079c0a3df#REALITY|RO🇷🇴
 vless://d49e6f64-2a62-4fc6-8dde-9ab1bdf12c02@rm1.levikogjgfdd.ir:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=v_s3GW5_7jvB081tdUeyoDUUTq6fZwqKbVS7CdvLFA0&host=Telegram-Leviko_v2ray&type=xhttp&sni=google.com&sid=72cd47c079c0a3df#REALITY|RO🇷🇴

@@ -1,0 +1,2 @@
+ss://d97a084e-f7b2-421c-b7fc-7bce5ad2e066@f631e3fa.westorstentor.ir:443?security=reality&encryption=none&pbk=FX-ZnGCOAnTzlmqxqw6zxKZoAPpC72KPUtWcIcWy6H0&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=amp-api-edge.apps.apple.com&sid=69aba81532d19cb1#REALITY|AZ🇦🇿
+vless://d97a084e-f7b2-421c-b7fc-7bce5ad2e066@f631e3fa.westorstentor.ir:443?security=reality&encryption=none&pbk=FX-ZnGCOAnTzlmqxqw6zxKZoAPpC72KPUtWcIcWy6H0&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=amp-api-edge.apps.apple.com&sid=69aba81532d19cb1#REALITY|AZ🇦🇿
