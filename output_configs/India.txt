@@ -1,3 +1,4 @@
-ss://2d1470a0-fa48-4d3b-8378-b827b744ac00@beatr519-in1.599789.xyz:443?mode=multi&security=reality&encryption=none&type=tcp&flow=xtls-rprx-vision&pbk=o2uLRBkgcAPCavo12l6VUzaSnSmxjUvod-NBSiUPdy8&sid=85&sni=www.tesla.com&servername=www.tesla.com&spx=%2F&fp=edge#REALITY|IN🇮🇳
-vless://2d1470a0-fa48-4d3b-8378-b827b744ac00@beatr519-in1.599789.xyz:443?mode=multi&security=reality&encryption=none&type=tcp&flow=xtls-rprx-vision&pbk=o2uLRBkgcAPCavo12l6VUzaSnSmxjUvod-NBSiUPdy8&sid=85&sni=www.tesla.com&servername=www.tesla.com&spx=%2F&fp=edge#REALITY|IN🇮🇳
-vmess://eyJhZGQiOiIzNjYtMTA5NS5yYWJiaXRwcm8taW4tMy5jb20iLCJhaWQiOiIwIiwiaWQiOiJlMzUxZDZkOC1jMTY3LTNlMDctOGZkYS0zZjJmNGVjMDc2MGIiLCJuZXQiOiJ0Y3AiLCJwb3J0IjoiMjkwMTEiLCJwcyI6IkhLXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIHwgMzY2LTEwOTUucmFiYml0cHJvLWluLTMuY29tLTI5MDExIHwgNDI5LjEzbXMiLCJzY3kiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFQkRSbzlUSHg0Q3FpRlU3aDVnZm92NzZvTnd6WlVSQWgwWndiV2pCS2RkdFVodno3@103.120.178.193:31348#IN%F0%9F%87%AE%F0%9F%87%B3+%7C+103.120.178.193-31348+%7C+237ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFQkRSbzlUSHg0Q3FpRlU3aDVnZm92NzZvTnd6WlVSQWgwWndiV2pCS2RkdFVodno=@103.120.178.193:31348#IN%F0%9F%87%AE%F0%9F%87%B3+%7C+103.120.178.193-31348+%7C+251.83ms
+ss://YWVzLTI1Ni1nY206OGRlYWVlYTgtMjRhYy00YmVmLWIzMzUtMzE0ZDhiZjlkZjk5@srv3.oxypingbot.in:19208#IR%F0%9F%87%AE%F0%9F%87%B7+%7C+srv3.oxypingbot.in-19208+%7C+354.1ms
+trojan://M7v%w11Se*@34.131.228.210:443?allowInsecure=1&sni=hyfuuf6.wsone.icu#IN🇮🇳

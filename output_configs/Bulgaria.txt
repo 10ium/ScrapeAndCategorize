@@ -1,3 +1,3 @@
-ss://cb1512c9-28d0-498a-ab4f-f69387cc83f3@38.60.247.169:35805?security=reality&encryption=none&pbk=yiiAGHAa-fdUDA3723kDNJ49SxPb0OPeMg7BLVtH7HQ&headerType=&fp=chrome&spx=%2F11ce61d9a5df3f0&type=tcp&sni=soft98.ir&sid=a557ec8c282bb6ed#🆔soskeynet%20🔒%20VL-TCP-%20🇧🇬%20BG%20down
-ss://chacha20ietfpoly1305Og==@146.70.53.62:1080#BG%F0%9F%87%A7%F0%9F%87%AC+%7C+146.70.53.62-1080+%7C+113.77ms
-vless://cb1512c9-28d0-498a-ab4f-f69387cc83f3@38.60.247.169:35805?security=reality&encryption=none&pbk=yiiAGHAa-fdUDA3723kDNJ49SxPb0OPeMg7BLVtH7HQ&headerType=&fp=chrome&spx=%2F11ce61d9a5df3f0&type=tcp&sni=soft98.ir&sid=a557ec8c282bb6ed#🆔soskeynet%20🔒%20VL-TCP-%20🇧🇬%20BG%20down
+ss://33851d53-ede0-45f7-9eb8-9aa961f7d200@195.123.226.21:443?type=ws&path=%2Fvless&fp=edge#BG🇧🇬
+ss://chacha20ietfpoly1305Og==@146.70.53.62:1080#BG%F0%9F%87%A7%F0%9F%87%AC+%7C+146.70.53.62-1080+%7C+172.65ms
+vless://33851d53-ede0-45f7-9eb8-9aa961f7d200@195.123.226.21:443?type=ws&path=%2Fvless&fp=edge#BG🇧🇬

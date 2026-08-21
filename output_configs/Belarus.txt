@@ -1,2 +1,4 @@
-ss://49621f3d38004f5faff2f5c7d836564b@134.17.17.236:8443?encryption=none&type=xhttp&path=%2Fx&security=reality&sni=yandex.by&pbk=SZwtfh2ve6sssKjeddg8-4EFuNqZo7rJKqSM9niM1jU&sid=aabbccdd&fp=random#REALITY|BY🇧🇾
-vless://49621f3d38004f5faff2f5c7d836564b@134.17.17.236:8443?encryption=none&type=xhttp&path=%2Fx&security=reality&sni=yandex.by&pbk=SZwtfh2ve6sssKjeddg8-4EFuNqZo7rJKqSM9niM1jU&sid=aabbccdd&fp=random#REALITY|BY🇧🇾
+ss://423b1d79-08c4-403f-9d5e-c541f791b55f@189.74.124.42:443?security=reality&encryption=none&pbk=YQTixaXzPVImuRc4TUbrFAekjIiaYV-t5S-HTKlH0AU&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=nordic.cendora.ru&sid=2186a755ed67b034#REALITY|BY🇧🇾
+ss://acbabca-acab-bcaa-abdc-bbccaabaccab@127.0.0.1:8080?security=tls&type=tcp#👨🏻‍💻%20DEVELOPED-BY%20@YEBEKHE
+vless://423b1d79-08c4-403f-9d5e-c541f791b55f@189.74.124.42:443?security=reality&encryption=none&pbk=YQTixaXzPVImuRc4TUbrFAekjIiaYV-t5S-HTKlH0AU&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=nordic.cendora.ru&sid=2186a755ed67b034#REALITY|BY🇧🇾
+vless://acbabca-acab-bcaa-abdc-bbccaabaccab@127.0.0.1:8080?security=tls&type=tcp#👨🏻‍💻%20DEVELOPED-BY%20@YEBEKHE
