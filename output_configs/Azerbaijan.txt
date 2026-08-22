@@ -1,2 +1,0 @@
-ss://a8307b5d-2d9e-4d34-912d-5b5dd8340082@azerbaijan.zelnora.ir:64584?security=none&encryption=none&headerType=none&type=tcp#AZ🇦🇿
-vless://a8307b5d-2d9e-4d34-912d-5b5dd8340082@azerbaijan.zelnora.ir:64584?security=none&encryption=none&headerType=none&type=tcp#AZ🇦🇿
