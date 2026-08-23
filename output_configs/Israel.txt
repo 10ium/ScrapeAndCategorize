@@ -1,2 +1,0 @@
-ss://2c368215-ac89-4787-9762-edb2c9947630@185.95.231.156:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=ytnOqGbyUQ3efc25iPD8bJGdXgOi6zdBTP55JIa5OU0&security=reality&sid=964b2a1a&sni=www.apple.com&type=tcp#REALITY|IL🇮🇱
-vless://2c368215-ac89-4787-9762-edb2c9947630@185.95.231.156:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=ytnOqGbyUQ3efc25iPD8bJGdXgOi6zdBTP55JIa5OU0&security=reality&sid=964b2a1a&sni=www.apple.com&type=tcp#REALITY|IL🇮🇱

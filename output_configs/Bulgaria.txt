@@ -1,7 +1,4 @@
-ss://218fd696-e3a2-4c33-b397-a5f13a82969e@94.156.155.27:443?encryption=none&fp=&pbk=bY0-zlTOPCaEWDMw_BTzuzJW513tl6Hc61n4Z-q1cHE&security=reality&sid=8f892fa1&sni=www.telekom.de&type=tcp#REALITY|BG🇧🇬
 ss://33851d53-ede0-45f7-9eb8-9aa961f7d200@195.123.226.21:443?type=ws&path=%2Fvless&fp=edge#BG🇧🇬
-ss://7c860a30-fc08-48cf-94c8-bca5963b7ab0@sof.edgeptr.org:443?security=reality&encryption=none&pbk=EtKRG8sxUJsdy-KwUOtYUNJnSn5VMx2sfKvvdpzg2X0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.lovelive-anime.jp&sid=f0eb800bd980b00b#REALITY|BG🇧🇬
-ss://chacha20ietfpoly1305Og==@146.70.53.62:1080#BG%F0%9F%87%A7%F0%9F%87%AC+%7C+146.70.53.62-1080+%7C+163.02ms
-vless://218fd696-e3a2-4c33-b397-a5f13a82969e@94.156.155.27:443?encryption=none&fp=&pbk=bY0-zlTOPCaEWDMw_BTzuzJW513tl6Hc61n4Z-q1cHE&security=reality&sid=8f892fa1&sni=www.telekom.de&type=tcp#REALITY|BG🇧🇬
+ss://YWVzLTI1Ni1jZmI6VWtYUnNYdlI2YnVETUcyWQ==@213.183.63.221:9001#%F0%9F%87%A7%F0%9F%87%ACBG-213.183.63.221-0307
+ss://chacha20ietfpoly1305Og==@146.70.53.62:1080#BG%F0%9F%87%A7%F0%9F%87%AC+%7C+146.70.53.62-1080+%7C+119.2ms
 vless://33851d53-ede0-45f7-9eb8-9aa961f7d200@195.123.226.21:443?type=ws&path=%2Fvless&fp=edge#BG🇧🇬
-vless://7c860a30-fc08-48cf-94c8-bca5963b7ab0@sof.edgeptr.org:443?security=reality&encryption=none&pbk=EtKRG8sxUJsdy-KwUOtYUNJnSn5VMx2sfKvvdpzg2X0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.lovelive-anime.jp&sid=f0eb800bd980b00b#REALITY|BG🇧🇬
