@@ -1,0 +1,2 @@
+ss://0c6c9627-95fe-418a-bd4c-50df888c44bd@45.131.4.115:80?path=%2FffEt2nn4iTWiXfi8&security=none&encryption=none&host=worker3.bobiv63003.workers.dev&type=ws#🆔soskeynet%20🔓%20VL-WS-N/A%20🇧🇿%20BZ%202ms
+vless://0c6c9627-95fe-418a-bd4c-50df888c44bd@45.131.4.115:80?path=%2FffEt2nn4iTWiXfi8&security=none&encryption=none&host=worker3.bobiv63003.workers.dev&type=ws#🆔soskeynet%20🔓%20VL-WS-N/A%20🇧🇿%20BZ%202ms
