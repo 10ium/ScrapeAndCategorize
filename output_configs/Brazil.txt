@@ -1,0 +1,2 @@
+ss://c396fa08-e07a-459b-b894-389456fd6a82@23.251.55.216:443?security=reality&sni=www.amazon.com&fp=firefox&pbk=m89wjPa2LxODyi8U5pRVI4E1fwVawIaftC3fLY0ZLw4&sid=9ea177c3c147119b&type=tcp&flow=xtls-rprx-vision&encryption=none#REALITY|BR🇧🇷
+vless://c396fa08-e07a-459b-b894-389456fd6a82@23.251.55.216:443?security=reality&sni=www.amazon.com&fp=firefox&pbk=m89wjPa2LxODyi8U5pRVI4E1fwVawIaftC3fLY0ZLw4&sid=9ea177c3c147119b&type=tcp&flow=xtls-rprx-vision&encryption=none#REALITY|BR🇧🇷

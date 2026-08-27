@@ -1,7 +1,5 @@
-ss://710fc22f-06b2-4b6d-bb3e-f57c17b670a6@bc-vn-hn.ray-balance.space:443?security=reality&encryption=none&sni=www.ray-balance.space&fp=chrome&pbk=d1NlaZfnsYjWfxRTqIBk1ldBUmdE-kRTEQ_sWd1JYwI&flow=xtls-rprx-vision#REALITY|VN🇻🇳
-trojan://f033bd38-fe03-4705-883c-e45654eaa082@103.173.255.127:28443?security=tls&sni=www.download.windowsupdate1.com#%F0%9F%87%BB%F0%9F%87%B3VN-103.173.255.127-0084
-trojan://f033bd38-fe03-4705-883c-e45654eaa082@103.173.255.21:28443?security=tls&sni=www.download.windowsupdate1.com#%F0%9F%87%BB%F0%9F%87%B3VN-103.173.255.21-0083
-trojan://f033bd38-fe03-4705-883c-e45654eaa082@103.173.255.228:28443?security=tls&sni=www.download.windowsupdate1.com#%F0%9F%87%BB%F0%9F%87%B3VN-103.173.255.228-0085
-trojan://f033bd38-fe03-4705-883c-e45654eaa082@103.173.255.234:28443?security=tls&sni=www.download.windowsupdate1.com#%F0%9F%87%BB%F0%9F%87%B3VN-103.173.255.234-0086
-trojan://f033bd38-fe03-4705-883c-e45654eaa082@103.195.236.24:28443?security=tls&sni=www.download.windowsupdate1.com#%F0%9F%87%BB%F0%9F%87%B3VN-103.195.236.24-0082
-vless://710fc22f-06b2-4b6d-bb3e-f57c17b670a6@bc-vn-hn.ray-balance.space:443?security=reality&encryption=none&sni=www.ray-balance.space&fp=chrome&pbk=d1NlaZfnsYjWfxRTqIBk1ldBUmdE-kRTEQ_sWd1JYwI&flow=xtls-rprx-vision#REALITY|VN🇻🇳
+trojan://f033bd38-fe03-4705-883c-e45654eaa082@103.173.255.127:28443?security=tls&sni=www.download.windowsupdate1.com#%F0%9F%87%BB%F0%9F%87%B3VN-103.173.255.127-0203
+trojan://f033bd38-fe03-4705-883c-e45654eaa082@103.173.255.21:28443?security=tls&sni=www.download.windowsupdate1.com#%F0%9F%87%BB%F0%9F%87%B3VN-103.173.255.21-0205
+trojan://f033bd38-fe03-4705-883c-e45654eaa082@103.173.255.228:28443?security=tls&sni=www.download.windowsupdate1.com#%F0%9F%87%BB%F0%9F%87%B3VN-103.173.255.228-0202
+trojan://f033bd38-fe03-4705-883c-e45654eaa082@103.173.255.234:28443?security=tls&sni=www.download.windowsupdate1.com#%F0%9F%87%BB%F0%9F%87%B3VN-103.173.255.234-0201
+trojan://f033bd38-fe03-4705-883c-e45654eaa082@103.195.236.24:28443?security=tls&sni=www.download.windowsupdate1.com#%F0%9F%87%BB%F0%9F%87%B3VN-103.195.236.24-0206
