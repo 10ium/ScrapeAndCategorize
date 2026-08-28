@@ -1,2 +1,0 @@
-ss://188c0927-b022-4478-86f7-be53449e2d8b@nono.awextr.ir:2095?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=amp-api-edge.apps.apple.com#🆔soskeynet%20🔓%20VL-TCP-N/A%20🇦🇿%20AZ%20down
-vless://188c0927-b022-4478-86f7-be53449e2d8b@nono.awextr.ir:2095?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=amp-api-edge.apps.apple.com#🆔soskeynet%20🔓%20VL-TCP-N/A%20🇦🇿%20AZ%20down
