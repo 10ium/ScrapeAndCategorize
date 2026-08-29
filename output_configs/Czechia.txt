@@ -1,10 +1,8 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@146.70.222.126:1080#CZ%F0%9F%87%A8%F0%9F%87%BF+%7C+146.70.222.126-1080+%7C+168.07ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@146.70.222.126:1080#CZ%F0%9F%87%A8%F0%9F%87%BF+%7C+146.70.222.126-1080+%7C+127.14ms
 ss://b477bc51-1f68-41b1-9216-6f8350d7c5b7@195.133.35.63:2096?encryption=none&type=xhttp&mode=auto&path=%2Fxh&security=reality&fp=chrome&sni=udemy.com&pbk=e0fJ7c7cOw0IHd6YdCUoQFkjJQwjzL_H0__QfsDLhkE&sid=b6e471856cd7dd20#REALITY|CZ🇨🇿
-ss://chacha20ietfpoly1305Og==@146.70.222.126:1080#CZ%F0%9F%87%A8%F0%9F%87%BF+%7C+146.70.222.126-1080+%7C+163.66ms
+ss://chacha20ietfpoly1305Og==@146.70.222.126:1080#CZ%F0%9F%87%A8%F0%9F%87%BF+%7C+146.70.222.126-1080+%7C+126.16ms
 ss://e0bb3250-1873-4b9d-b9b5-7aa6c863885f@95.85.233.181:443?encryption=none&security=reality&sni=c.primarymaster.online&fp=firefox&pbk=S05RWQUVH-p3uqekd0iRpIeH__NpCt0XEN2xCiQJs3Y&sid=c56c3ba3b9f676c5&allowinsecure=1&type=grpc&mode=gun&authority=&serviceName=#REALITY|CZ🇨🇿
 ss://e0bb3250-1873-4b9d-b9b5-7aa6c863885f@95.85.233.181:443?mode=gun&security=reality&encryption=none&pbk=S05RWQUVH-p3uqekd0iRpIeH__NpCt0XEN2xCiQJs3Y&fp=firefox&type=grpc&sni=c.primarymaster.online&sid=c56c3ba3b9f676c5#REALITY|CZ🇨🇿
-ss://fbb74aa8-b89a-4f20-9504-6b25aadf6681@cz.freeinternat.com:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&security=reality&sid=ff776ff77be48b88&sni=cz.freeinternat.com&type=tcp#REALITY|CZ🇨🇿
 vless://b477bc51-1f68-41b1-9216-6f8350d7c5b7@195.133.35.63:2096?encryption=none&type=xhttp&mode=auto&path=%2Fxh&security=reality&fp=chrome&sni=udemy.com&pbk=e0fJ7c7cOw0IHd6YdCUoQFkjJQwjzL_H0__QfsDLhkE&sid=b6e471856cd7dd20#REALITY|CZ🇨🇿
 vless://e0bb3250-1873-4b9d-b9b5-7aa6c863885f@95.85.233.181:443?encryption=none&security=reality&sni=c.primarymaster.online&fp=firefox&pbk=S05RWQUVH-p3uqekd0iRpIeH__NpCt0XEN2xCiQJs3Y&sid=c56c3ba3b9f676c5&allowinsecure=1&type=grpc&mode=gun&authority=&serviceName=#REALITY|CZ🇨🇿
 vless://e0bb3250-1873-4b9d-b9b5-7aa6c863885f@95.85.233.181:443?mode=gun&security=reality&encryption=none&pbk=S05RWQUVH-p3uqekd0iRpIeH__NpCt0XEN2xCiQJs3Y&fp=firefox&type=grpc&sni=c.primarymaster.online&sid=c56c3ba3b9f676c5#REALITY|CZ🇨🇿
-vless://fbb74aa8-b89a-4f20-9504-6b25aadf6681@cz.freeinternat.com:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&security=reality&sid=ff776ff77be48b88&sni=cz.freeinternat.com&type=tcp#REALITY|CZ🇨🇿

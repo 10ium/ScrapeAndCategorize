@@ -1,10 +1,8 @@
-ss://855d82bc-8cc6-4037-8da5-df0412f3c063@212.227.235.66:2053?fp=firefox&pbk=6huZliKELOkP6l-eOIFe7PKP5MCGK2p5KzUeXRiMi00&security=reality&sid=13e0569248e98a05&sni=www.apple.com&type=tcp#REALITY|ES🇪🇸
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXU3lMNFhUd05zZHY=@108.181.121.226:8388#ES%F0%9F%87%AA%F0%9F%87%B8+%7C+108.181.121.226-8388+%7C+166.46ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxSXRHOFN1ZVlRY1A=@140.174.184.5:8388#ES%F0%9F%87%AA%F0%9F%87%B8+%7C+140.174.184.5-8388+%7C+172.25ms
-ss://a0e48bd2-3360-486b-9042-ee17951d76da@66.163.118.75:11000?security=reality&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&pbk=-SCG3nhoolYHPmSo7rb6STiiuKlyXMlZyf8nF2tKSFE&headerType=none&fp=ios&type=tcp&sni=amp-api-edge.apps.apple.com#REALITY|ES🇪🇸
+ss://7e03eba6-a230-41ea-8eaf-2fa08b7bb779@spi.plasdomain.ir:32855?encryption=none&security=reality&type=tcp&headerType=none&sni=amp-api-edge.apps.apple.com&fp=edge&pbk=fRtTW1zQqje-Yh1DqPAHA8nWOMsX983pZUxy58FaY10&sid=deb7a9e5a6e1d41a#REALITY|ES🇪🇸
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXU3lMNFhUd05zZHY=@108.181.121.226:8388#ES%F0%9F%87%AA%F0%9F%87%B8+%7C+108.181.121.226-8388+%7C+149.45ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxSXRHOFN1ZVlRY1A=@140.174.184.5:8388#ES%F0%9F%87%AA%F0%9F%87%B8+%7C+140.174.184.5-8388+%7C+151.32ms
 ss://eb1c3a3c-c828-404d-bf98-b878c5435600@us.differentok.com:443?mode=gun&security=reality&encryption=none&pbk=Jxwj8rNcJnXop1Xk9Ydst_wFPJsQOtZ74g50saIgokU&fp=firefox&type=grpc&serviceName=media.v2.RelayService&sni=us.differentok.com&sid=a5668d2759baa4ac#REALITY|ES🇪🇸
 ss://fc03a9a8-ef0f-5794-e119-0c3b68b178e8@170.168.97.7:443?mode=auto&security=reality&encryption=none&pbk=jYD82Xg6TRu2lR0XINMWxKb8dNycDwF-H28ZrtiafUo&fp=chrome&type=xhttp&sni=cdn.steamstatic.com#REALITY|ES🇪🇸
-vless://855d82bc-8cc6-4037-8da5-df0412f3c063@212.227.235.66:2053?fp=firefox&pbk=6huZliKELOkP6l-eOIFe7PKP5MCGK2p5KzUeXRiMi00&security=reality&sid=13e0569248e98a05&sni=www.apple.com&type=tcp#REALITY|ES🇪🇸
-vless://a0e48bd2-3360-486b-9042-ee17951d76da@66.163.118.75:11000?security=reality&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&pbk=-SCG3nhoolYHPmSo7rb6STiiuKlyXMlZyf8nF2tKSFE&headerType=none&fp=ios&type=tcp&sni=amp-api-edge.apps.apple.com#REALITY|ES🇪🇸
+vless://7e03eba6-a230-41ea-8eaf-2fa08b7bb779@spi.plasdomain.ir:32855?encryption=none&security=reality&type=tcp&headerType=none&sni=amp-api-edge.apps.apple.com&fp=edge&pbk=fRtTW1zQqje-Yh1DqPAHA8nWOMsX983pZUxy58FaY10&sid=deb7a9e5a6e1d41a#REALITY|ES🇪🇸
 vless://eb1c3a3c-c828-404d-bf98-b878c5435600@us.differentok.com:443?mode=gun&security=reality&encryption=none&pbk=Jxwj8rNcJnXop1Xk9Ydst_wFPJsQOtZ74g50saIgokU&fp=firefox&type=grpc&serviceName=media.v2.RelayService&sni=us.differentok.com&sid=a5668d2759baa4ac#REALITY|ES🇪🇸
 vless://fc03a9a8-ef0f-5794-e119-0c3b68b178e8@170.168.97.7:443?mode=auto&security=reality&encryption=none&pbk=jYD82Xg6TRu2lR0XINMWxKb8dNycDwF-H28ZrtiafUo&fp=chrome&type=xhttp&sni=cdn.steamstatic.com#REALITY|ES🇪🇸

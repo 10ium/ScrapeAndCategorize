@@ -1,0 +1,2 @@
+ss://a704443d-655e-4d9f-8ce6-12eeb17a9a08@sl.alertyagency.com:443?security=reality&encryption=none&pbk=WMO-BNY1BX2nNlOOQgxLP4D3H-OnE2ypbXlbSMjLRVM&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=e764f0ea#REALITY|SK🇸🇰
+vless://a704443d-655e-4d9f-8ce6-12eeb17a9a08@sl.alertyagency.com:443?security=reality&encryption=none&pbk=WMO-BNY1BX2nNlOOQgxLP4D3H-OnE2ypbXlbSMjLRVM&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=e764f0ea#REALITY|SK🇸🇰
