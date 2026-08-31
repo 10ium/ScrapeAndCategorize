@@ -1,5 +1,1 @@
-trojan://f033bd38-fe03-4705-883c-e45654eaa082@103.173.255.127:28443?security=tls&sni=www.download.windowsupdate1.com#%F0%9F%87%BB%F0%9F%87%B3VN-103.173.255.127-0283
-trojan://f033bd38-fe03-4705-883c-e45654eaa082@103.173.255.21:28443?security=tls&sni=www.download.windowsupdate1.com#%F0%9F%87%BB%F0%9F%87%B3VN-103.173.255.21-0284
-trojan://f033bd38-fe03-4705-883c-e45654eaa082@103.173.255.228:28443?security=tls&sni=www.download.windowsupdate1.com#%F0%9F%87%BB%F0%9F%87%B3VN-103.173.255.228-0282
-trojan://f033bd38-fe03-4705-883c-e45654eaa082@103.173.255.234:28443?security=tls&sni=www.download.windowsupdate1.com#%F0%9F%87%BB%F0%9F%87%B3VN-103.173.255.234-0281
-trojan://f033bd38-fe03-4705-883c-e45654eaa082@103.195.236.24:28443?security=tls&sni=www.download.windowsupdate1.com#%F0%9F%87%BB%F0%9F%87%B3VN-103.195.236.24-0285
+trojan://f033bd38-fe03-4705-883c-e45654eaa082@103.173.255.234:28443?security=tls&sni=www.download.windowsupdate1.com#%F0%9F%87%BB%F0%9F%87%B3VN-103.173.255.234-0239
