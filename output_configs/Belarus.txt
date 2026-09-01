@@ -1,4 +1,2 @@
-ss://a817d012-0eeb-4b13-9f8e-0269e939d6f6@by01.botovod.space:443?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=by01.botovod.space#BY🇧🇾
 ss://acbabca-acab-bcaa-abdc-bbccaabaccab@127.0.0.1:8080?security=tls&type=tcp#👨🏻‍💻%20DEVELOPED-BY%20@YEBEKHE
-vless://a817d012-0eeb-4b13-9f8e-0269e939d6f6@by01.botovod.space:443?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=by01.botovod.space#BY🇧🇾
 vless://acbabca-acab-bcaa-abdc-bbccaabaccab@127.0.0.1:8080?security=tls&type=tcp#👨🏻‍💻%20DEVELOPED-BY%20@YEBEKHE

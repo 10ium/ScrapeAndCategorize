@@ -1,1 +1,0 @@
-trojan://f033bd38-fe03-4705-883c-e45654eaa082@103.173.255.234:28443?security=tls&sni=www.download.windowsupdate1.com#%F0%9F%87%BB%F0%9F%87%B3VN-103.173.255.234-0239

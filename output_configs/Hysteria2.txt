@@ -1,2 +1,0 @@
-hy2://qQe1z5kU8kN6SlKnDt9Ru3Qp@16.148.5.63:443?insecure=1&sni=google.com&type=tcp&allowInsecure=1&upmbps=10&downmbps=50#%F0%9F%87%BA%F0%9F%87%B8156760%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FLonUp_M
-hy2://qQe1z5kU8kN6SlKnDt9Ru3Qp@54.254.157.26:443?insecure=1&sni=vk.com&type=tcp&allowInsecure=1&upmbps=10&downmbps=50#%F0%9F%87%B8%F0%9F%87%AC156758%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FLonUp_M

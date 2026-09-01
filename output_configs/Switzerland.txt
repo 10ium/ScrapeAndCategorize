@@ -1,4 +1,6 @@
-ss://423b1d79-08c4-403f-9d5e-c541f791b55f@31.76.4.103:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=b-Cm9hX-3UHsS1L_lnUB6AMjuKhlN1IDdBbZ506itjI&security=reality&sid=00bca5982f82d083&sni=eu-central.cendora.ru&type=tcp#REALITY|CH🇨🇭
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1ZDc5OTA2ZC04OWFiLTQzMGItYWNiYy0zMzI3NTY4YTViZTM=@140.238.175.124:33345#CH%F0%9F%87%A8%F0%9F%87%AD+%7C+140.238.175.124-33345+%7C+152.83ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@146.70.26.156:1080#CH%F0%9F%87%A8%F0%9F%87%AD+%7C+146.70.26.156-1080+%7C+141.11ms
-vless://423b1d79-08c4-403f-9d5e-c541f791b55f@31.76.4.103:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=b-Cm9hX-3UHsS1L_lnUB6AMjuKhlN1IDdBbZ506itjI&security=reality&sid=00bca5982f82d083&sni=eu-central.cendora.ru&type=tcp#REALITY|CH🇨🇭
+ss://1c8fb3f7-c4af-48a5-b886-080a4654b4a6@cdn7-02.cdn-vkvideo.com:443?security=reality&alpn=http%2F1.1&encryption=none&pbk=MpuwI3YH2g3YWHKLuQwwgD_qLo-UmUtZe8L1KXOKxhA&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=cdn7-02.cdn-vkvideo.com&sid=b0d8f964b7ac8ac0#REALITY|CH🇨🇭
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1ZDc5OTA2ZC04OWFiLTQzMGItYWNiYy0zMzI3NTY4YTViZTM=@140.238.175.124:33345#CH%F0%9F%87%A8%F0%9F%87%AD+%7C+140.238.175.124-33345+%7C+157.15ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@146.70.26.156:1080#CH%F0%9F%87%A8%F0%9F%87%AD+%7C+146.70.26.156-1080+%7C+159.55ms
+ss://b4bc10bf-80f9-40c9-b4e5-29817c2f0992@83.228.196.3:8082?mode=gun&security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=grpc&serviceName=vless-grpc-reality&sni=id.vk.com#REALITY|CH🇨🇭
+vless://1c8fb3f7-c4af-48a5-b886-080a4654b4a6@cdn7-02.cdn-vkvideo.com:443?security=reality&alpn=http%2F1.1&encryption=none&pbk=MpuwI3YH2g3YWHKLuQwwgD_qLo-UmUtZe8L1KXOKxhA&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=cdn7-02.cdn-vkvideo.com&sid=b0d8f964b7ac8ac0#REALITY|CH🇨🇭
+vless://b4bc10bf-80f9-40c9-b4e5-29817c2f0992@83.228.196.3:8082?mode=gun&security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=grpc&serviceName=vless-grpc-reality&sni=id.vk.com#REALITY|CH🇨🇭
