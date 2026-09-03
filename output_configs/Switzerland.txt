@@ -1,6 +1,7 @@
-ss://423b1d79-08c4-403f-9d5e-c541f791b55f@31.76.4.103:443?flow=xtls-rprx-vision&pbk=b-Cm9hX-3UHsS1L_lnUB6AMjuKhlN1IDdBbZ506itjI&security=reality&sid=00bca5982f82d083&sni=eu-central.cendora.ru&type=tcp#REALITY|CH🇨🇭
-ss://423b1d79-08c4-403f-9d5e-c541f791b55f@31.76.4.103:443?security=reality&encryption=none&pbk=b-Cm9hX-3UHsS1L_lnUB6AMjuKhlN1IDdBbZ506itjI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=eu-central.cendora.ru&sid=00bca5982f82d083#REALITY|CH🇨🇭
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@146.70.26.156:1080#CH%F0%9F%87%A8%F0%9F%87%AD+%7C+146.70.26.156-1080+%7C+117.63ms
-trojan://kxHw-Dk-e9dffgzYszMlEqLJ92AnY3Pi@tr-latvia1.unlimited-access.ru:443?allowInsecure=0&sni=tr-latvia1.unlimited-access.ru#CH🇨🇭
-vless://423b1d79-08c4-403f-9d5e-c541f791b55f@31.76.4.103:443?flow=xtls-rprx-vision&pbk=b-Cm9hX-3UHsS1L_lnUB6AMjuKhlN1IDdBbZ506itjI&security=reality&sid=00bca5982f82d083&sni=eu-central.cendora.ru&type=tcp#REALITY|CH🇨🇭
-vless://423b1d79-08c4-403f-9d5e-c541f791b55f@31.76.4.103:443?security=reality&encryption=none&pbk=b-Cm9hX-3UHsS1L_lnUB6AMjuKhlN1IDdBbZ506itjI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=eu-central.cendora.ru&sid=00bca5982f82d083#REALITY|CH🇨🇭
+ss://02a96d4d-f2f5-4c0b-ba83-d24aec5defb8@45.59.126.91:8080?encryption=none&security=none&type=tcp#🆔soskeynet%20🔓%20VL-TCP-N/A%20🇨🇭%20CH%20134ms
+ss://5a92a9d2-3067-49cd-bfc5-989bbdfc5d52@31.76.4.128:5001?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fi.aeternavpn.space&fp=qq&pbk=HNjZe5pYUhcuE8sASYVVrVSMW_jFfekgLnrnO4xXIyQ&sid=a1b2c3d4&type=tcp&headerType=none#REALITY|CH🇨🇭
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@146.70.26.156:1080#CH%F0%9F%87%A8%F0%9F%87%AD+%7C+146.70.26.156-1080+%7C+112.7ms
+ss://ef4f4c3d-0b16-48ad-a8d8-2d22512b3b36@api-ch.upd-media.com:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=-1HCWRKZmpJFJxw0PSzx1EzzGB2sM7ojBNbUGia4pj8&sid=b3c1d918e7c4f767&sni=api-ch.upd-media.com#REALITY|CH🇨🇭
+vless://02a96d4d-f2f5-4c0b-ba83-d24aec5defb8@45.59.126.91:8080?encryption=none&security=none&type=tcp#🆔soskeynet%20🔓%20VL-TCP-N/A%20🇨🇭%20CH%20134ms
+vless://5a92a9d2-3067-49cd-bfc5-989bbdfc5d52@31.76.4.128:5001?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fi.aeternavpn.space&fp=qq&pbk=HNjZe5pYUhcuE8sASYVVrVSMW_jFfekgLnrnO4xXIyQ&sid=a1b2c3d4&type=tcp&headerType=none#REALITY|CH🇨🇭
+vless://ef4f4c3d-0b16-48ad-a8d8-2d22512b3b36@api-ch.upd-media.com:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=-1HCWRKZmpJFJxw0PSzx1EzzGB2sM7ojBNbUGia4pj8&sid=b3c1d918e7c4f767&sni=api-ch.upd-media.com#REALITY|CH🇨🇭
