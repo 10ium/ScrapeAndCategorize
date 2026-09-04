@@ -1,0 +1,2 @@
+ss://dabb9a19-03ab-4cdf-8963-d3c45eb0f80d@45.89.60.235:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=wTITbZ7gXSeLOTMLOVC4ePziVIyELIgQeaPihXrbqAk&security=reality&sid=946b7ff3ebdd350c&sni=alblack.vodniki.monster&type=tcp#REALITY|AL🇦🇱
+vless://dabb9a19-03ab-4cdf-8963-d3c45eb0f80d@45.89.60.235:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=wTITbZ7gXSeLOTMLOVC4ePziVIyELIgQeaPihXrbqAk&security=reality&sid=946b7ff3ebdd350c&sni=alblack.vodniki.monster&type=tcp#REALITY|AL🇦🇱
