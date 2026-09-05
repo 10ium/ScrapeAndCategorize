@@ -1,7 +1,7 @@
-ss://a817d012-0eeb-4b13-9f8e-0269e939d6f6@by01.botovod.space:443?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=by01.botovod.space#BY🇧🇾
+ss://49621f3d38004f5faff2f5c7d836564b@134.17.17.236:8443?encryption=none&type=xhttp&path=%2Fx&security=reality&sni=yandex.by&pbk=SZwtfh2ve6sssKjeddg8-4EFuNqZo7rJKqSM9niM1jU&sid=aabbccdd&fp=random#REALITY|BY🇧🇾
 ss://acbabca-acab-bcaa-abdc-bbccaabaccab@127.0.0.1:8080?security=tls&type=tcp#👨🏻‍💻%20DEVELOPED-BY%20@YEBEKHE
 trojan://8qCNZU2XdtefT7uB4uPxgRR839btqMG8@178.172.227.178:500?alpn=h2%2Chttp%2F1.1&fp=chrome&sni=by01.botovod.space&type=grpc#BY🇧🇾
 trojan://8qCNZU2XdtefT7uB4uPxgRR839btqMG8@178.172.227.178:500?mode=gun&security=tls&alpn=h2%2Chttp%2F1.1&insecure=0&fp=chrome&type=grpc&allowInsecure=0&sni=by01.botovod.space#BY🇧🇾
 trojan://8qCNZU2XdtefT7uB4uPxgRR839btqMG8@by01.botovod.space:500?alpn=h2%2Chttp%2F1.1&fp=chrome&type=grpc#BY🇧🇾
-vless://a817d012-0eeb-4b13-9f8e-0269e939d6f6@by01.botovod.space:443?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=by01.botovod.space#BY🇧🇾
+vless://49621f3d38004f5faff2f5c7d836564b@134.17.17.236:8443?encryption=none&type=xhttp&path=%2Fx&security=reality&sni=yandex.by&pbk=SZwtfh2ve6sssKjeddg8-4EFuNqZo7rJKqSM9niM1jU&sid=aabbccdd&fp=random#REALITY|BY🇧🇾
 vless://acbabca-acab-bcaa-abdc-bbccaabaccab@127.0.0.1:8080?security=tls&type=tcp#👨🏻‍💻%20DEVELOPED-BY%20@YEBEKHE
