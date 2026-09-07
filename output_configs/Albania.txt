@@ -1,0 +1,2 @@
+ss://51231507-67c3-4141-ab08-a69eb121c716@45.82.13.150:8443?security=reality&encryption=none&pbk=B0S7A-ceRt0c3aRqbeQG69FVSkK-si6NWLBEM_QuC3U&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=1688#REALITY|AL🇦🇱
+vless://51231507-67c3-4141-ab08-a69eb121c716@45.82.13.150:8443?security=reality&encryption=none&pbk=B0S7A-ceRt0c3aRqbeQG69FVSkK-si6NWLBEM_QuC3U&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=1688#REALITY|AL🇦🇱
