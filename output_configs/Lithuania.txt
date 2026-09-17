@@ -1,2 +1,0 @@
-ss://8e403675-d020-4801-9520-9cba4bbfda0e@181.214.147.216:443?security=reality&encryption=none&pbk=66DIn_CbsE4-fWeWpy3vrRLP-XN8D-axun3jbZzuPmk&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=lith.2clash.ru#🆔soskeynet%20🔒%20VL-TCP-%20🇱🇹%20LT%20down
-vless://8e403675-d020-4801-9520-9cba4bbfda0e@181.214.147.216:443?security=reality&encryption=none&pbk=66DIn_CbsE4-fWeWpy3vrRLP-XN8D-axun3jbZzuPmk&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=lith.2clash.ru#🆔soskeynet%20🔒%20VL-TCP-%20🇱🇹%20LT%20down
