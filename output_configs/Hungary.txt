@@ -1,2 +1,2 @@
-ss://5d4a87fa-16f1-4b65-b217-225a31e36239@45.9.168.17:443?security=reality&encryption=none&pbk=8ZYjmjb0b2QJKCGMrcdhQNV28jZZPCKgIQbIdqChQ0w&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=hu.convert-flow.net&sid=00a61d55a07de885#REALITY|HU🇭🇺
-vless://5d4a87fa-16f1-4b65-b217-225a31e36239@45.9.168.17:443?security=reality&encryption=none&pbk=8ZYjmjb0b2QJKCGMrcdhQNV28jZZPCKgIQbIdqChQ0w&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=hu.convert-flow.net&sid=00a61d55a07de885#REALITY|HU🇭🇺
+ss://a8b746e4-e096-4cd7-b4c9-214096f1dc53@217.13.105.43:443?security=reality&encryption=none&pbk=2C6MqBdf1XxEKmVe_hHfYhov31tM_eEuq_c5ZFMfPAI&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=avito.st#REALITY|HU🇭🇺
+vless://a8b746e4-e096-4cd7-b4c9-214096f1dc53@217.13.105.43:443?security=reality&encryption=none&pbk=2C6MqBdf1XxEKmVe_hHfYhov31tM_eEuq_c5ZFMfPAI&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=avito.st#REALITY|HU🇭🇺

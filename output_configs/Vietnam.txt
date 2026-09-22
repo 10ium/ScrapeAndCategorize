@@ -1,2 +1,0 @@
-ss://2a7d20bf-e65f-49a8-9e60-889776701a7c@ficdn2.nem-osh-rkp.net:443?path=%2Fmedia%2Fws%2F&security=tls&encryption=none&insecure=0&fp=firefox&type=ws&allowInsecure=0&sni=ficdn2.nem-osh-rkp.net#VN🇻🇳
-vless://2a7d20bf-e65f-49a8-9e60-889776701a7c@ficdn2.nem-osh-rkp.net:443?path=%2Fmedia%2Fws%2F&security=tls&encryption=none&insecure=0&fp=firefox&type=ws&allowInsecure=0&sni=ficdn2.nem-osh-rkp.net#VN🇻🇳
