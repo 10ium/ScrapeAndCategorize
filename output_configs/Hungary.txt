@@ -1,2 +1,0 @@
-ss://a8b746e4-e096-4cd7-b4c9-214096f1dc53@217.13.105.43:443?security=reality&encryption=none&pbk=2C6MqBdf1XxEKmVe_hHfYhov31tM_eEuq_c5ZFMfPAI&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=avito.st#REALITY|HU🇭🇺
-vless://a8b746e4-e096-4cd7-b4c9-214096f1dc53@217.13.105.43:443?security=reality&encryption=none&pbk=2C6MqBdf1XxEKmVe_hHfYhov31tM_eEuq_c5ZFMfPAI&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=avito.st#REALITY|HU🇭🇺
