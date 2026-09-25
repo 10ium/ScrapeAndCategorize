@@ -1,9 +1,9 @@
 ss://11aabba0-5fd1-4f15-8068-74c1a466cefc@193.163.203.170:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=GCCZ1ZZjB_nj7yxqFi22bIIWWr_G6rnWUzDcssN_40o&security=reality&sid=b28db60d77c50b4f&sni=yandex.ru&type=tcp#REALITY|LV🇱🇻
-ss://140d54e9-fe85-4c63-8259-5bf9b3e29349@lataeo.gmail.com.admni.ir:51972?security=reality&encryption=mlkem768x25519plus.native.0rtt.N1tPylWXlU5GNRxRTE2v1xTRGG-JaKWkalUvU57LUSI&pbk=QzfL6yDSIj3j2ItnDGhN_x-FDF-2ixg62Dk5LjnTj1A&headerType=none&fp=chrome&type=tcp&sni=www.coingecko.com&sid=00e6e7ec8f972bc4#🆔soskeynet%20🔒%20VL-TCP-%20🇱🇻%20LV%20215ms
-ss://5234b2b7-5e07-422c-8159-d62a676c00c6@138.124.180.137:443?security=reality&encryption=none&pbk=GBdkyDLfr0LIZo_94Xv8ycAKOmkjArYzwJAEMhuXX2c&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=33acba1b#REALITY|LV🇱🇻
-ss://YWVzLTI1Ni1jZmI6SEFWQWRFM25YaHFBNW5IcA==@185.135.86.175:9017#LV%F0%9F%87%B1%F0%9F%87%BB+%7C+185.135.86.175-9017+%7C+113.86ms
-ss://YWVzLTI1Ni1jZmI6a1NQbXZ3ZEZ6R01NVzVwWQ==@185.135.86.175:9007#LV%F0%9F%87%B1%F0%9F%87%BB+%7C+185.135.86.175-9007+%7C+118.84ms
-ss://YWVzLTI1Ni1jZmI6cnBnYk5uVTlyRERVNGFXWg==@185.135.86.175:9094#LV%F0%9F%87%B1%F0%9F%87%BB+%7C+185.135.86.175-9094+%7C+112.39ms
+ss://247a22e1-0795-4852-9bdd-a65ac1078034@188.253.21.106:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yahoo.com&fp=firefox&security=reality&pbk=4JvLKnuuAs4h0cQ1j_S4SAuXQQ579D7Wr1sGBjmH-Ws&sid=73d3fec4#REALITY|LV🇱🇻
+ss://YWVzLTI1Ni1jZmI6SEFWQWRFM25YaHFBNW5IcA==@185.135.86.175:9017#LV%F0%9F%87%B1%F0%9F%87%BB+%7C+185.135.86.175-9017+%7C+162.72ms
+ss://YWVzLTI1Ni1jZmI6a1NQbXZ3ZEZ6R01NVzVwWQ==@185.135.86.175:9007#LV%F0%9F%87%B1%F0%9F%87%BB+%7C+185.135.86.175-9007+%7C+135.26ms
+ss://YWVzLTI1Ni1jZmI6cnBnYk5uVTlyRERVNGFXWg==@185.135.86.175:9094#LV%F0%9F%87%B1%F0%9F%87%BB+%7C+185.135.86.175-9094+%7C+154.44ms
+ss://e10ef2bc-7e28-4505-afce-2d2d443d7bd4@up.caroptions.ir:80?path=%2Fpgcfws-r4&security=none&encryption=none&host=up.caroptions.ir&type=ws#LV🇱🇻
 vless://11aabba0-5fd1-4f15-8068-74c1a466cefc@193.163.203.170:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=GCCZ1ZZjB_nj7yxqFi22bIIWWr_G6rnWUzDcssN_40o&security=reality&sid=b28db60d77c50b4f&sni=yandex.ru&type=tcp#REALITY|LV🇱🇻
-vless://140d54e9-fe85-4c63-8259-5bf9b3e29349@lataeo.gmail.com.admni.ir:51972?security=reality&encryption=mlkem768x25519plus.native.0rtt.N1tPylWXlU5GNRxRTE2v1xTRGG-JaKWkalUvU57LUSI&pbk=QzfL6yDSIj3j2ItnDGhN_x-FDF-2ixg62Dk5LjnTj1A&headerType=none&fp=chrome&type=tcp&sni=www.coingecko.com&sid=00e6e7ec8f972bc4#🆔soskeynet%20🔒%20VL-TCP-%20🇱🇻%20LV%20215ms
-vless://5234b2b7-5e07-422c-8159-d62a676c00c6@138.124.180.137:443?security=reality&encryption=none&pbk=GBdkyDLfr0LIZo_94Xv8ycAKOmkjArYzwJAEMhuXX2c&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=33acba1b#REALITY|LV🇱🇻
+vless://247a22e1-0795-4852-9bdd-a65ac1078034@188.253.21.106:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yahoo.com&fp=firefox&security=reality&pbk=4JvLKnuuAs4h0cQ1j_S4SAuXQQ579D7Wr1sGBjmH-Ws&sid=73d3fec4#REALITY|LV🇱🇻
+vless://e10ef2bc-7e28-4505-afce-2d2d443d7bd4@up.caroptions.ir:80?path=%2Fpgcfws-r4&security=none&encryption=none&host=up.caroptions.ir&type=ws#LV🇱🇻
