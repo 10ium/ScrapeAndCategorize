@@ -1,9 +1,7 @@
-ss://58C828CD-3EBA-46F9-B297-16003D7A6E68@kr2-r.link-t7.com:10047?encryption=none&security=reality&sni=s0.awsstatic.com&fp=chrome&pbk=wOu-BMrXvk9KX23JZrlpUlF4SMjDcejm0vNECdhy5xE&sid=686c0ef0&type=grpc&authority=&serviceName=update&mode=gun#REALITY|KR🇰🇷
-ss://YWVzLTI1Ni1jZmI6MTIzNCFAIyQ=@49.254.204.134:1774#%F0%9F%87%B0%F0%9F%87%B7KR-49.254.204.134-0156
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@211.178.105.134:6123#%F0%9F%87%B0%F0%9F%87%B7KR-211.178.105.134-0129
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@141.164.45.187:7001#%F0%9F%87%B0%F0%9F%87%B7KR-141.164.45.187-0170
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@141.164.45.187:6679#%F0%9F%87%B0%F0%9F%87%B7KR-141.164.45.187-0147
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@211.178.105.134:6123#%F0%9F%87%B0%F0%9F%87%B7KR-211.178.105.134-0150
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@141.164.45.187:7001#%F0%9F%87%B0%F0%9F%87%B7KR-141.164.45.187-0209
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@141.164.45.187:6679#%F0%9F%87%B0%F0%9F%87%B7KR-141.164.45.187-0187
 trojan://600421cf-11d7-429f-a65b-c30397f1bc03@158.247.222.240:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=kr.freeguard.org#KR🇰🇷
 trojan://CF68213490@caring-wallaby.rooster465.autos:443?security=tls#KR🇰🇷
 trojan://FH72359861@63.176.171.181:443?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=engaging-toucan.rooster465.autos#KR🇰🇷
-vless://58C828CD-3EBA-46F9-B297-16003D7A6E68@kr2-r.link-t7.com:10047?encryption=none&security=reality&sni=s0.awsstatic.com&fp=chrome&pbk=wOu-BMrXvk9KX23JZrlpUlF4SMjDcejm0vNECdhy5xE&sid=686c0ef0&type=grpc&authority=&serviceName=update&mode=gun#REALITY|KR🇰🇷
+trojan://NQ26071394@neat-octopus.rooster465.autos:443?security=tls#KR🇰🇷

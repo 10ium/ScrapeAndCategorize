@@ -1,5 +1,5 @@
-ss://YWVzLTI1Ni1jZmI6SEFWQWRFM25YaHFBNW5IcA==@185.135.86.175:9017#LV%F0%9F%87%B1%F0%9F%87%BB+%7C+185.135.86.175-9017+%7C+133.74ms
-ss://YWVzLTI1Ni1jZmI6a1NQbXZ3ZEZ6R01NVzVwWQ==@185.135.86.175:9007#LV%F0%9F%87%B1%F0%9F%87%BB+%7C+185.135.86.175-9007+%7C+127.17ms
-ss://YWVzLTI1Ni1jZmI6cnBnYk5uVTlyRERVNGFXWg==@185.135.86.175:9094#LV%F0%9F%87%B1%F0%9F%87%BB+%7C+185.135.86.175-9094+%7C+130ms
-ss://a4937faa-98da-43f8-a677-2b54dc73cde3@warpe.caroptionz.ir:443?path=%2Fpgcfws-r4&security=tls&alpn=http%2F1.1&encryption=none&host=warpe.caroptionz.ir&fp=chrome&type=ws&sni=warpe.caroptionz.ir#LV🇱🇻
-vless://a4937faa-98da-43f8-a677-2b54dc73cde3@warpe.caroptionz.ir:443?path=%2Fpgcfws-r4&security=tls&alpn=http%2F1.1&encryption=none&host=warpe.caroptionz.ir&fp=chrome&type=ws&sni=warpe.caroptionz.ir#LV🇱🇻
+ss://3f0fee48-1c96-4bee-b224-1a6a2fc5e95b@warpe.caroptionz.ir:443?path=%2Fpgcfws-r4&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=warpe.caroptionz.ir&fp=chrome&type=ws&allowInsecure=0&sni=warpe.caroptionz.ir#LV🇱🇻
+ss://YWVzLTI1Ni1jZmI6SEFWQWRFM25YaHFBNW5IcA==@185.135.86.175:9017#LV%F0%9F%87%B1%F0%9F%87%BB+%7C+185.135.86.175-9017+%7C+165.51ms
+ss://YWVzLTI1Ni1jZmI6a1NQbXZ3ZEZ6R01NVzVwWQ==@185.135.86.175:9007#LV%F0%9F%87%B1%F0%9F%87%BB+%7C+185.135.86.175-9007+%7C+167.21ms
+ss://YWVzLTI1Ni1jZmI6cnBnYk5uVTlyRERVNGFXWg==@185.135.86.175:9094#LV%F0%9F%87%B1%F0%9F%87%BB+%7C+185.135.86.175-9094+%7C+170.68ms
+vless://3f0fee48-1c96-4bee-b224-1a6a2fc5e95b@warpe.caroptionz.ir:443?path=%2Fpgcfws-r4&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=warpe.caroptionz.ir&fp=chrome&type=ws&allowInsecure=0&sni=warpe.caroptionz.ir#LV🇱🇻
