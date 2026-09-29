@@ -1,5 +1,5 @@
-ss://3f0fee48-1c96-4bee-b224-1a6a2fc5e95b@warpe.caroptionz.ir:443?path=%2Fpgcfws-r4&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=warpe.caroptionz.ir&fp=chrome&type=ws&allowInsecure=0&sni=warpe.caroptionz.ir#LV🇱🇻
-ss://YWVzLTI1Ni1jZmI6SEFWQWRFM25YaHFBNW5IcA==@185.135.86.175:9017#LV%F0%9F%87%B1%F0%9F%87%BB+%7C+185.135.86.175-9017+%7C+165.51ms
-ss://YWVzLTI1Ni1jZmI6a1NQbXZ3ZEZ6R01NVzVwWQ==@185.135.86.175:9007#LV%F0%9F%87%B1%F0%9F%87%BB+%7C+185.135.86.175-9007+%7C+167.21ms
-ss://YWVzLTI1Ni1jZmI6cnBnYk5uVTlyRERVNGFXWg==@185.135.86.175:9094#LV%F0%9F%87%B1%F0%9F%87%BB+%7C+185.135.86.175-9094+%7C+170.68ms
-vless://3f0fee48-1c96-4bee-b224-1a6a2fc5e95b@warpe.caroptionz.ir:443?path=%2Fpgcfws-r4&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=warpe.caroptionz.ir&fp=chrome&type=ws&allowInsecure=0&sni=warpe.caroptionz.ir#LV🇱🇻
+ss://247a22e1-0795-4852-9bdd-a65ac1078034@188.253.21.106:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yahoo.com&fp=firefox&security=reality&pbk=4JvLKnuuAs4h0cQ1j_S4SAuXQQ579D7Wr1sGBjmH-Ws&sid=73d3fec4#REALITY|LV🇱🇻
+ss://YWVzLTI1Ni1jZmI6SEFWQWRFM25YaHFBNW5IcA==@185.135.86.175:9017#LV%F0%9F%87%B1%F0%9F%87%BB+%7C+185.135.86.175-9017+%7C+118.23ms
+ss://YWVzLTI1Ni1jZmI6a1NQbXZ3ZEZ6R01NVzVwWQ==@185.135.86.175:9007#LV%F0%9F%87%B1%F0%9F%87%BB+%7C+185.135.86.175-9007+%7C+116.93ms
+ss://YWVzLTI1Ni1jZmI6cnBnYk5uVTlyRERVNGFXWg==@185.135.86.175:9094#LV%F0%9F%87%B1%F0%9F%87%BB+%7C+185.135.86.175-9094+%7C+114.51ms
+vless://247a22e1-0795-4852-9bdd-a65ac1078034@188.253.21.106:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yahoo.com&fp=firefox&security=reality&pbk=4JvLKnuuAs4h0cQ1j_S4SAuXQQ579D7Wr1sGBjmH-Ws&sid=73d3fec4#REALITY|LV🇱🇻

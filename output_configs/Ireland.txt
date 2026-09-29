@@ -1,2 +1,7 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6emlYSERPRlhjNHFSam9q@20.107.184.151:443#IE%F0%9F%87%AE%F0%9F%87%AA+%7C+20.107.184.151-443+%7C+245.69ms
-ss://chacha20ietfpoly1305Og==@20.107.184.151:443#IE%F0%9F%87%AE%F0%9F%87%AA+%7C+20.107.184.151-443+%7C+338.82ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDOFFobUJMSnpoS28ySkhS@20.234.96.89:443#🆔v2ray1_ng%20🔒%20SS-TCP-TLS%20🇮🇪%20IE%20down
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMQjJKOE12VHQyU0JnRDZv@20.238.35.153:443#🆔lrnbymaa%20🔒%20SS-TCP-TLS%20🇮🇪%20IE%20down
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWM1dpR0tOUWlxT0NzVDYw@20.234.96.89:443#🆔vpnserverrr%20🔒%20SS-TCP-TLS%20🇮🇪%20IE%20down
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyNzMyVGxnaldJamZSY29r@20.234.96.89:443#🆔vpnserverrr%20🔒%20SS-TCP-TLS%20🇮🇪%20IE%20down
+ss://chacha20ietfpoly1305Og==@20.107.184.151:443#IE%F0%9F%87%AE%F0%9F%87%AA+%7C+20.107.184.151-443+%7C+274.87ms
+ss://fdc48be3-a615-41ac-8bd1-ed844c931048@45.141.234.138:443?encryption=none&fp=chrome&host=edgetunnel-4uw.pages.dev&path=%2F&security=tls&sni=edgetunnel-4uw.pages.dev&type=ws#🆔ar14n24b%20🔒%20VL-WS-N/A%20🇮🇪%20IE%20121ms
+vless://fdc48be3-a615-41ac-8bd1-ed844c931048@45.141.234.138:443?encryption=none&fp=chrome&host=edgetunnel-4uw.pages.dev&path=%2F&security=tls&sni=edgetunnel-4uw.pages.dev&type=ws#🆔ar14n24b%20🔒%20VL-WS-N/A%20🇮🇪%20IE%20121ms
