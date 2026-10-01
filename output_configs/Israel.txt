@@ -1,4 +1,2 @@
-ss://1ffa8e68-3378-4cf4-b8f6-44bf3d46d106@185.95.231.233:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=r4Dp3mztZaizbDk28rEOkLikk7erR9dzzc-Jrsgraho&security=reality&sid=a1b2c3d4&sni=store.steampowered.com&type=tcp#REALITY|IL🇮🇱
-ss://1ffa8e68-3378-4cf4-b8f6-44bf3d46d106@185.95.231.233:443?security=none&encryption=none&headerType=none&type=tcp#IL🇮🇱
-vless://1ffa8e68-3378-4cf4-b8f6-44bf3d46d106@185.95.231.233:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=r4Dp3mztZaizbDk28rEOkLikk7erR9dzzc-Jrsgraho&security=reality&sid=a1b2c3d4&sni=store.steampowered.com&type=tcp#REALITY|IL🇮🇱
-vless://1ffa8e68-3378-4cf4-b8f6-44bf3d46d106@185.95.231.233:443?security=none&encryption=none&headerType=none&type=tcp#IL🇮🇱
+ss://a34b5e88-cf0d-4c01-8199-2d1002d3c787@oslomeow.nethcloud.top:8443?path=%2F&security=reality&encryption=none&pbk=p9ISfhV0uZpKSgrK_8R6Mm4A01tWdzpKMlFR2TIj81s&fp=chrome&type=xhttp&sni=wikihow.com#REALITY|IL🇮🇱
+vless://a34b5e88-cf0d-4c01-8199-2d1002d3c787@oslomeow.nethcloud.top:8443?path=%2F&security=reality&encryption=none&pbk=p9ISfhV0uZpKSgrK_8R6Mm4A01tWdzpKMlFR2TIj81s&fp=chrome&type=xhttp&sni=wikihow.com#REALITY|IL🇮🇱
