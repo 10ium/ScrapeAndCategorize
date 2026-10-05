@@ -1,3 +1,8 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6emlYSERPRlhjNHFSam9q@20.107.184.151:443#IE%F0%9F%87%AE%F0%9F%87%AA+%7C+20.107.184.151-443+%7C+382.42ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphQmxxZGZEdjFhVGIya2xy@4.210.66.171:443#IE%F0%9F%87%AE%F0%9F%87%AA+%7C+4.210.66.171-443+%7C+70.73ms
+ss://454431fc-71e2-42b1-b375-5b55dd06666a@86.54.83.75:443?pbk=gojmfVDE3y9OZmqSZqkJBTNGPyD5-sjkDYmcD8tsxCQ&type=grpc&encryption=none&sid=cfa818cb27f59905&sni=www.asus.com&fp=firefox&fm=AhmadV2ray&serviceName=shop.api.v1.CatalogService&security=reality&spx=%2FAhmadV2ray#REALITY|IE🇮🇪
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6emlYSERPRlhjNHFSam9q@20.107.184.151:443#IE%F0%9F%87%AE%F0%9F%87%AA+%7C+20.107.184.151-443+%7C+385.68ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphQmxxZGZEdjFhVGIya2xy@4.210.66.171:443#IE%F0%9F%87%AE%F0%9F%87%AA+%7C+4.210.66.171-443+%7C+119.77ms
 trojan://Trojan%4082164024@ie.tronsg.com:443?allowInsecure=1&sni=ie.tronsg.com#IE🇮🇪
+trojan://Trojan@82164024@ie.tronsg.com:443?sni=ie.tronsg.com&allowInsecure=1&type=tcp&fp=chrome#IE🇮🇪
+trojan://UX82473651@loved-shark.rooster465.autos:443?allowInsecure=1&sni=loved-shark.rooster465.autos#IE🇮🇪
+trojan://UX82473651@loved-shark.rooster465.autos:443?security=tls&sni=loved-shark.rooster465.autos#%F0%9F%87%AE%F0%9F%87%AAIE-3.253.106.233-0468
+vless://454431fc-71e2-42b1-b375-5b55dd06666a@86.54.83.75:443?pbk=gojmfVDE3y9OZmqSZqkJBTNGPyD5-sjkDYmcD8tsxCQ&type=grpc&encryption=none&sid=cfa818cb27f59905&sni=www.asus.com&fp=firefox&fm=AhmadV2ray&serviceName=shop.api.v1.CatalogService&security=reality&spx=%2FAhmadV2ray#REALITY|IE🇮🇪
