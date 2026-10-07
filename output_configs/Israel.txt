@@ -1,2 +1,0 @@
-ss://1ffa8e68-3378-4cf4-b8f6-44bf3d46d106@185.95.231.233:443?security=none&encryption=none&headerType=none&type=tcp#IL🇮🇱
-vless://1ffa8e68-3378-4cf4-b8f6-44bf3d46d106@185.95.231.233:443?security=none&encryption=none&headerType=none&type=tcp#IL🇮🇱

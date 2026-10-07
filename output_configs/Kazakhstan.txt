@@ -1,5 +1,6 @@
 ss://392fcc7e-b995-11f1-a6b7-1b2272a86bd5@89.218.15.90:10002?path=%2Fvpnjantit&security=tls&encryption=none&insecure=0&host=kz1.vpnjantit.com&type=ws&allowInsecure=0&sni=kz1.vpnjantit.com#KZ🇰🇿
 ss://4bdeee92-97e8-414d-bef6-ec1d5e2ab73b@kazartip.thewalkingded.life:443?security=reality&encryption=none&pbk=5JhqvTTHIhhA_2Jjc3_y6pwLmKfe4wtwq3vSt43P00I&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=kazartip.thewalkingded.life&sid=7cf408996c82639f#REALITY|KZ🇰🇿
-ss://567f4be512ab42e1b8d9db6fd1fdd31cOg==@38.107.234.57:80#KZ%F0%9F%87%B0%F0%9F%87%BF+%7C+38.107.234.57-80+%7C+220.37ms
+ss://567f4be512ab42e1b8d9db6fd1fdd31cOg==@38.107.234.57:80#KZ%F0%9F%87%B0%F0%9F%87%BF+%7C+38.107.234.57-80+%7C+184.64ms
 vless://392fcc7e-b995-11f1-a6b7-1b2272a86bd5@89.218.15.90:10002?path=%2Fvpnjantit&security=tls&encryption=none&insecure=0&host=kz1.vpnjantit.com&type=ws&allowInsecure=0&sni=kz1.vpnjantit.com#KZ🇰🇿
 vless://4bdeee92-97e8-414d-bef6-ec1d5e2ab73b@kazartip.thewalkingded.life:443?security=reality&encryption=none&pbk=5JhqvTTHIhhA_2Jjc3_y6pwLmKfe4wtwq3vSt43P00I&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=kazartip.thewalkingded.life&sid=7cf408996c82639f#REALITY|KZ🇰🇿
+vmess://eyJhZGQiOiIzOC4xMDcuMjM0LjU3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIzaC1rYXpha2hzdGFuMS4wOXZwbi5jb20iLCJpZCI6IjU2N2Y0YmU1LTEyYWItNDJlMS1iOGQ5LWRiNmZkMWZkZDMxYyIsIm5ldCI6IndzIiwicGF0aCI6Ilwvdm1lc3NcLyIsInBvcnQiOiI4MCIsInBzIjoiS1pcdWQ4M2NcdWRkZjBcdWQ4M2NcdWRkZmYgfCAzaC1rYXpha2hzdGFuMS4wOXZwbi5jb20tODAgfCAyMDEuMjltcyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
