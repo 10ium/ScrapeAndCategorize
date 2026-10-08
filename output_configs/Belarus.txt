@@ -1,2 +1,4 @@
 ss://acbabca-acab-bcaa-abdc-bbccaabaccab@127.0.0.1:8080?security=tls&type=tcp#👨🏻‍💻%20DEVELOPED-BY%20@YEBEKHE
+ss://b94841c3-171f-4bf8-90d5-886f1bafeaea@93.125.18.5:443?security=reality&encryption=none&pbk=wBrkAU53FBJHLCpBlRG6kb8ESR5tgmXg2EnjkzdHxk4&headerType=none&fp=safari&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=belarus.guidedtours.online&sid=992304ad32fb96ee#REALITY|BY🇧🇾
 vless://acbabca-acab-bcaa-abdc-bbccaabaccab@127.0.0.1:8080?security=tls&type=tcp#👨🏻‍💻%20DEVELOPED-BY%20@YEBEKHE
+vless://b94841c3-171f-4bf8-90d5-886f1bafeaea@93.125.18.5:443?security=reality&encryption=none&pbk=wBrkAU53FBJHLCpBlRG6kb8ESR5tgmXg2EnjkzdHxk4&headerType=none&fp=safari&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=belarus.guidedtours.online&sid=992304ad32fb96ee#REALITY|BY🇧🇾

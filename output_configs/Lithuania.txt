@@ -1,4 +1,6 @@
-ss://790910c3-9a97-4375-998a-fcc36b0a2902@88.119.165.131:443?security=reality&encryption=none&pbk=_AIb5QbjYK6iJBx6UpDqVBoFyUA_nkiHrj7gZrASDwc&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=repo1.maven.org&sid=bbfe4bd7d5dd0627#REALITY|LT🇱🇹
+ss://2eceaf2b-a775-5a9c-9990-dad2b3660fb6@62.77.158.1:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=sVhkyiMXvpofflCdSszxQmsqOXV1kg1Ldxq1a9mOPjs&security=reality&sid=6a&sni=online.1c.ru&type=tcp#REALITY|LT🇱🇹
+ss://2eceaf2b-a775-5a9c-9990-dad2b3660fb6@62.77.158.1:443?security=reality&type=tcp&sni=online.1c.ru&fp=chrome&flow=xtls-rprx-vision&sid=6a&pbk=sVhkyiMXvpofflCdSszxQmsqOXV1kg1Ldxq1a9mOPjs&encryption=none#REALITY|LT🇱🇹
 ss://ac9a573b-67ff-4953-9e13-4cf43576f8f0@lithuana.hype-serv.xyz:443?security=none&encryption=none&headerType=none&type=tcp#LT🇱🇹
-vless://790910c3-9a97-4375-998a-fcc36b0a2902@88.119.165.131:443?security=reality&encryption=none&pbk=_AIb5QbjYK6iJBx6UpDqVBoFyUA_nkiHrj7gZrASDwc&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=repo1.maven.org&sid=bbfe4bd7d5dd0627#REALITY|LT🇱🇹
+vless://2eceaf2b-a775-5a9c-9990-dad2b3660fb6@62.77.158.1:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=sVhkyiMXvpofflCdSszxQmsqOXV1kg1Ldxq1a9mOPjs&security=reality&sid=6a&sni=online.1c.ru&type=tcp#REALITY|LT🇱🇹
+vless://2eceaf2b-a775-5a9c-9990-dad2b3660fb6@62.77.158.1:443?security=reality&type=tcp&sni=online.1c.ru&fp=chrome&flow=xtls-rprx-vision&sid=6a&pbk=sVhkyiMXvpofflCdSszxQmsqOXV1kg1Ldxq1a9mOPjs&encryption=none#REALITY|LT🇱🇹
 vless://ac9a573b-67ff-4953-9e13-4cf43576f8f0@lithuana.hype-serv.xyz:443?security=none&encryption=none&headerType=none&type=tcp#LT🇱🇹
