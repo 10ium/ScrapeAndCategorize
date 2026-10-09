@@ -1,0 +1,2 @@
+ss://45ea5597-150e-4e3b-b1f1-bba1d82dac86@157.10.201.93:14789?security=&encryption=none&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&type=tcp#🆔soskeynet%20🔓%20VL-TCP-N/A%20🇻🇳%20VN%20237ms
+vless://45ea5597-150e-4e3b-b1f1-bba1d82dac86@157.10.201.93:14789?security=&encryption=none&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&type=tcp#🆔soskeynet%20🔓%20VL-TCP-N/A%20🇻🇳%20VN%20237ms

@@ -1,6 +1,7 @@
-ss://0d6e70a5-abfd-4766-8ad4-e502173ba82b@95.85.241.203:443?security=reality&encryption=none&pbk=CsHuHGKul9Soue4U9mFoJB6tWItZpHIin2_kPV77xVM&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=se2.virtez.pro&sid=b5ceb348df65795d#REALITY|CZ🇨🇿
+ss://08b6dd4b-08df-4aa2-9580-92a3360cf07c@188.130.208.210:443?security=reality&encryption=none&pbk=x_sc52Wgwr7bsogvKRA5hHHS5PJpdocqZNW_Up1mty8&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=edge-cz1.lovely.ceo&sid=59ab2fc39ec55bc7#REALITY|CZ🇨🇿
 ss://14f4be39-cb89-4f2b-8200-704666b6fa4e@95.85.241.209:443?security=reality&encryption=none&pbk=vZ22ThhkpXUd5-tY-v5TTrouLHjgYYmeQgqeLt7HRz0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com#REALITY|CZ🇨🇿
-ss://chacha20ietfpoly1305Og==@146.70.222.126:1080#CZ%F0%9F%87%A8%F0%9F%87%BF+%7C+146.70.222.126-1080+%7C+149.36ms
-trojan://WFer-5gN21nfHbVB2N8s71Z74EPUfzVj@46.8.100.93:443?security=tls&sni=nl.zhabulik.ru#%F0%9F%87%A8%F0%9F%87%BFCZ-46.8.100.93-0700
-vless://0d6e70a5-abfd-4766-8ad4-e502173ba82b@95.85.241.203:443?security=reality&encryption=none&pbk=CsHuHGKul9Soue4U9mFoJB6tWItZpHIin2_kPV77xVM&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=se2.virtez.pro&sid=b5ceb348df65795d#REALITY|CZ🇨🇿
+ss://chacha20ietfpoly1305Og==@146.70.222.126:1080#CZ%F0%9F%87%A8%F0%9F%87%BF+%7C+146.70.222.126-1080+%7C+135.8ms
+trojan://WFer-5gN21nfHbVB2N8s71Z74EPUfzVj@46.8.100.93:443?allowInsecure=1&security=tls&sni=nl.zhabulik.ru#CZ🇨🇿
+trojan://WFer-5gN21nfHbVB2N8s71Z74EPUfzVj@nl.zhabulik.ru:443?security=tls&sni=nl.zhabulik.ru&fp=firefox&alpn=h2%2Chttp%2F1.1&type=tcp&headerType=none#CZ🇨🇿
+vless://08b6dd4b-08df-4aa2-9580-92a3360cf07c@188.130.208.210:443?security=reality&encryption=none&pbk=x_sc52Wgwr7bsogvKRA5hHHS5PJpdocqZNW_Up1mty8&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=edge-cz1.lovely.ceo&sid=59ab2fc39ec55bc7#REALITY|CZ🇨🇿
 vless://14f4be39-cb89-4f2b-8200-704666b6fa4e@95.85.241.209:443?security=reality&encryption=none&pbk=vZ22ThhkpXUd5-tY-v5TTrouLHjgYYmeQgqeLt7HRz0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com#REALITY|CZ🇨🇿
