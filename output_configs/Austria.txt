@@ -1,11 +1,7 @@
-ss://1933a42528424d2b85899ca2242d7415Og==@94.177.9.66:29825#AT%F0%9F%87%A6%F0%9F%87%B9+%7C+94.177.9.66-29825+%7C+126.16ms
-ss://1933a42528424d2b85899ca2242d7415Og==@94.177.9.66:29825#AT%F0%9F%87%A6%F0%9F%87%B9+%7C+94.177.9.66-29825+%7C+132.19ms
-ss://5b5e4cbf-2366-499a-8327-0cd9918c687d@195.133.88.122:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=music.surfweb.club#AT🇦🇹
+ss://1933a42528424d2b85899ca2242d7415Og==@94.177.9.66:29825#AT%F0%9F%87%A6%F0%9F%87%B9+%7C+94.177.9.66-29825+%7C+100.52ms
+ss://1933a42528424d2b85899ca2242d7415Og==@94.177.9.66:29825#AT%F0%9F%87%A6%F0%9F%87%B9+%7C+94.177.9.66-29825+%7C+104.34ms
+ss://64774bd8-3116-4eaa-a046-5ea4fc230b81@157.173.7.200:443?security=reality&encryption=none&pbk=8C7evg_SSrJbxMTaUqJoylqB9HSNsmBvmUlgs_c5EiU&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=node-fra02.rkitman.ru&sid=88d9dc52ef39c8bd#REALITY|AT🇦🇹
 ss://64774bd8-3116-4eaa-a046-5ea4fc230b81@node-fra01.rkitman.ru:443?security=reality&encryption=none&pbk=8C7evg_SSrJbxMTaUqJoylqB9HSNsmBvmUlgs_c5EiU&headerType=none&type=tcp&flow=xtls-rprx-vision&sid=88d9dc52ef39c8bd#REALITY|AT🇦🇹
-ss://64774bd8-3116-4eaa-a046-5ea4fc230b81@node-fra01.rkitman.ru:443?security=reality&encryption=none&pbk=8C7evg_SSrJbxMTaUqJoylqB9HSNsmBvmUlgs_c5EiU&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=node-fra01.rkitman.ru&sid=88d9dc52ef39c8bd#REALITY|AT🇦🇹
-ss://64774bd8-3116-4eaa-a046-5ea4fc230b81@node-fra02.rkitman.ru:443?security=reality&encryption=none&pbk=8C7evg_SSrJbxMTaUqJoylqB9HSNsmBvmUlgs_c5EiU&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=node-fra02.rkitman.ru&sid=88d9dc52ef39c8bd#REALITY|AT🇦🇹
 trojan://600421cf-11d7-429f-a65b-c30397f1bc03@86.106.119.23:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=gr.freeguard.org#AT🇦🇹
-vless://5b5e4cbf-2366-499a-8327-0cd9918c687d@195.133.88.122:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=music.surfweb.club#AT🇦🇹
+vless://64774bd8-3116-4eaa-a046-5ea4fc230b81@157.173.7.200:443?security=reality&encryption=none&pbk=8C7evg_SSrJbxMTaUqJoylqB9HSNsmBvmUlgs_c5EiU&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=node-fra02.rkitman.ru&sid=88d9dc52ef39c8bd#REALITY|AT🇦🇹
 vless://64774bd8-3116-4eaa-a046-5ea4fc230b81@node-fra01.rkitman.ru:443?security=reality&encryption=none&pbk=8C7evg_SSrJbxMTaUqJoylqB9HSNsmBvmUlgs_c5EiU&headerType=none&type=tcp&flow=xtls-rprx-vision&sid=88d9dc52ef39c8bd#REALITY|AT🇦🇹
-vless://64774bd8-3116-4eaa-a046-5ea4fc230b81@node-fra01.rkitman.ru:443?security=reality&encryption=none&pbk=8C7evg_SSrJbxMTaUqJoylqB9HSNsmBvmUlgs_c5EiU&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=node-fra01.rkitman.ru&sid=88d9dc52ef39c8bd#REALITY|AT🇦🇹
-vless://64774bd8-3116-4eaa-a046-5ea4fc230b81@node-fra02.rkitman.ru:443?security=reality&encryption=none&pbk=8C7evg_SSrJbxMTaUqJoylqB9HSNsmBvmUlgs_c5EiU&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=node-fra02.rkitman.ru&sid=88d9dc52ef39c8bd#REALITY|AT🇦🇹

@@ -1,4 +1,3 @@
-ss://bm9uZTo1OWZjNWY4Yy01Njk3LTRlYjgtYWNmMi04YWUzNjNmMjAzYTI=@47.250.212.59:2053#MY%F0%9F%87%B2%F0%9F%87%BE+%7C+47.250.212.59-2053+%7C+206.93ms
-ss://d342d11e-d224-4463-b982-532309285094@216.173.67.59:443?path=%2F&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&fp=chrome&type=ws&allowInsecure=0&sni=ccc.010304.xyz#🆔ar14n24b%20🔒%20VL-WS-N/A%20🇲🇾%20MY%20235ms
-vless://d342d11e-d224-4463-b982-532309285094@216.173.67.59:443?path=%2F&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&fp=chrome&type=ws&allowInsecure=0&sni=ccc.010304.xyz#🆔ar14n24b%20🔒%20VL-WS-N/A%20🇲🇾%20MY%20235ms
-vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZDk0c3VyZmJvYXJkdjJyYXkgXHVkODNkXHVkZDEzIFZNLVRDUC1OXC9BIFx1ZDgzY1x1ZGRmMlx1ZDgzY1x1ZGRmZSBNWSAyMjdtcyIsImFkZCI6IjQ3LjI1MC4xMzUuMjQ0IiwicG9ydCI6IjEwMDAwIiwiaWQiOiJhZWRjNjZiOC05OWQ3LTRhMjEtODMxMC02MTg3MGU3Zjg3MGQiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIiLCJpbnNlY3VyZSI6IjAiLCJ2Y24iOiIiLCJwY3MiOiIifQ==
+ss://bm9uZTo1OWZjNWY4Yy01Njk3LTRlYjgtYWNmMi04YWUzNjNmMjAzYTI=@47.250.212.59:2053#MY%F0%9F%87%B2%F0%9F%87%BE+%7C+47.250.212.59-2053+%7C+228.58ms
+ss://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform102.golnamakcert.top:80?sni=platform102.golnamakcert.top&type=ws&host=platform102.halalkhor.info&path=%2Fplatform102#MY🇲🇾
+vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform102.golnamakcert.top:80?sni=platform102.golnamakcert.top&type=ws&host=platform102.halalkhor.info&path=%2Fplatform102#MY🇲🇾

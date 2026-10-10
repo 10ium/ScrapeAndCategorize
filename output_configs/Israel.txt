@@ -1,0 +1,2 @@
+ss://a9291268-dee3-44c5-945b-493eb7d9fe48@167.233.45.184:21715?security=none&encryption=mlkem768x25519plus.native.0rtt.clC4f4iCnbleKSPPvJvjuBj2GkqG_xqcYbeZLrI4qSE&host=fastly.com&headerType=http&type=tcp#Israel%20%F0%9F%87%AE%F0%9F%87%B1%20%40xnxv2ray
+vless://a9291268-dee3-44c5-945b-493eb7d9fe48@167.233.45.184:21715?security=none&encryption=mlkem768x25519plus.native.0rtt.clC4f4iCnbleKSPPvJvjuBj2GkqG_xqcYbeZLrI4qSE&host=fastly.com&headerType=http&type=tcp#Israel%20%F0%9F%87%AE%F0%9F%87%B1%20%40xnxv2ray
