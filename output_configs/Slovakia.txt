@@ -1,2 +1,4 @@
-ss://65f6016c-1a49-4f54-88e0-49cc01f81152@80.243.228.98:2085?mode=multi&security=&encryption=none&type=grpc&serviceName=vless#SK🇸🇰
-vless://65f6016c-1a49-4f54-88e0-49cc01f81152@80.243.228.98:2085?mode=multi&security=&encryption=none&type=grpc&serviceName=vless#SK🇸🇰
+ss://41fe1f2f-f981-44a5-939f-9b59d15ca955@80.243.228.73:2085?encryption=none&mode=multi&security=none&serviceName=vless&type=grpc#SK🇸🇰
+ss://84a7add6-dab3-4af4-900b-192e3e338875@80.243.228.84:2085?encryption=none&mode=multi&security=none&serviceName=vless&type=grpc#SK🇸🇰
+vless://41fe1f2f-f981-44a5-939f-9b59d15ca955@80.243.228.73:2085?encryption=none&mode=multi&security=none&serviceName=vless&type=grpc#SK🇸🇰
+vless://84a7add6-dab3-4af4-900b-192e3e338875@80.243.228.84:2085?encryption=none&mode=multi&security=none&serviceName=vless&type=grpc#SK🇸🇰

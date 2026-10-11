@@ -1,0 +1,2 @@
+ss://70bd2936-ed74-482e-a290-be4670e5b8ce@85.234.79.185:443?security=reality&encryption=none&pbk=vUqDEx0U33StHVKNQz11H_FsuwVmfqwUZlRNv0zmvzY&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=profitscheck.com#REALITY|LU🇱🇺
+vless://70bd2936-ed74-482e-a290-be4670e5b8ce@85.234.79.185:443?security=reality&encryption=none&pbk=vUqDEx0U33StHVKNQz11H_FsuwVmfqwUZlRNv0zmvzY&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=profitscheck.com#REALITY|LU🇱🇺
