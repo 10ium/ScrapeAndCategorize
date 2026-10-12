@@ -1,9 +1,6 @@
-ss://1933a42528424d2b85899ca2242d7415Og==@94.177.9.66:29825#AT%F0%9F%87%A6%F0%9F%87%B9+%7C+94.177.9.66-29825+%7C+158.03ms
-ss://1933a42528424d2b85899ca2242d7415Og==@94.177.9.66:29825#AT%F0%9F%87%A6%F0%9F%87%B9+%7C+94.177.9.66-29825+%7C+158.18ms
-ss://1e6fed5b-5edc-4ddb-a268-79d7fae4365c@67.159.17.62:443?security=reality&encryption=none&pbk=U_E3xSI6QY_Mj-3zjkB4esvMj0aVvYH6W6oHOR50XBs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=filesconvert.org&sid=10debbdf94767541#REALITY|AT🇦🇹
 ss://64774bd8-3116-4eaa-a046-5ea4fc230b81@node-fra01.rkitman.ru:443?security=reality&encryption=none&pbk=8C7evg_SSrJbxMTaUqJoylqB9HSNsmBvmUlgs_c5EiU&headerType=none&type=tcp&flow=xtls-rprx-vision&sid=88d9dc52ef39c8bd#REALITY|AT🇦🇹
-ss://e75ad2eb-6c1f-45ce-8023-f5f10875df66@3zot60.anusvovi.stream:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=Dj1TD7Sy_TciG915ffXFpMu_pYHnrpGo_ypyyDw44Uc&security=reality&sid=8fbdc8d37cc76852&sni=zsat.eu-cdn294.com&type=tcp#REALITY|AT🇦🇹
+ss://64774bd8-3116-4eaa-a046-5ea4fc230b81@node-fra01.rkitman.ru:443?security=reality&encryption=none&pbk=8C7evg_SSrJbxMTaUqJoylqB9HSNsmBvmUlgs_c5EiU&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=node-fra01.rkitman.ru&sid=88d9dc52ef39c8bd#REALITY|AT🇦🇹
 trojan://600421cf-11d7-429f-a65b-c30397f1bc03@86.106.119.23:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=gr.freeguard.org#AT🇦🇹
-vless://1e6fed5b-5edc-4ddb-a268-79d7fae4365c@67.159.17.62:443?security=reality&encryption=none&pbk=U_E3xSI6QY_Mj-3zjkB4esvMj0aVvYH6W6oHOR50XBs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=filesconvert.org&sid=10debbdf94767541#REALITY|AT🇦🇹
+trojan://BO7e2KO_KlAjuJY-HYoabQ@172.67.131.41:443?type=tcp&security=tls&sni=n21-at.netzrun.com&allowInsecure=1#AT🇦🇹
 vless://64774bd8-3116-4eaa-a046-5ea4fc230b81@node-fra01.rkitman.ru:443?security=reality&encryption=none&pbk=8C7evg_SSrJbxMTaUqJoylqB9HSNsmBvmUlgs_c5EiU&headerType=none&type=tcp&flow=xtls-rprx-vision&sid=88d9dc52ef39c8bd#REALITY|AT🇦🇹
-vless://e75ad2eb-6c1f-45ce-8023-f5f10875df66@3zot60.anusvovi.stream:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=Dj1TD7Sy_TciG915ffXFpMu_pYHnrpGo_ypyyDw44Uc&security=reality&sid=8fbdc8d37cc76852&sni=zsat.eu-cdn294.com&type=tcp#REALITY|AT🇦🇹
+vless://64774bd8-3116-4eaa-a046-5ea4fc230b81@node-fra01.rkitman.ru:443?security=reality&encryption=none&pbk=8C7evg_SSrJbxMTaUqJoylqB9HSNsmBvmUlgs_c5EiU&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=node-fra01.rkitman.ru&sid=88d9dc52ef39c8bd#REALITY|AT🇦🇹

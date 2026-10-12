@@ -1,6 +1,4 @@
+ss://1ffa8e68-3378-4cf4-b8f6-44bf3d46d106@185.95.231.233:443?security=none&encryption=none&headerType=none&type=tcp#IL🇮🇱
 ss://d977e7ec-ff45-d4a9-5b52-9c1cc5c04c43@83.143.106.7:443?encryption=none&fp=chrome&path=%2F&pbk=4g8R0-Acc1LjppgvUopldH0Wg3JA2tPXvYB96aJnigo&security=reality&sni=res.cdn.office.net&type=xhttp#REALITY|IL🇮🇱
-ss://d977e7ec-ff45-d4a9-5b52-9c1cc5c04c43@83.143.106.7:443?path=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=reality&encryption=none&pbk=4g8R0-Acc1LjppgvUopldH0Wg3JA2tPXvYB96aJnigo&fp=chrome&type=xhttp&sni=res.cdn.office.net#REALITY|IL🇮🇱
-ss://d977e7ec-ff45-d4a9-5b52-9c1cc5c04c43@83.143.106.7:443?path=%2F&security=reality&encryption=none&pbk=4g8R0-Acc1LjppgvUopldH0Wg3JA2tPXvYB96aJnigo&fp=chrome&type=xhttp&sni=res.cdn.office.net#REALITY|IL🇮🇱
+vless://1ffa8e68-3378-4cf4-b8f6-44bf3d46d106@185.95.231.233:443?security=none&encryption=none&headerType=none&type=tcp#IL🇮🇱
 vless://d977e7ec-ff45-d4a9-5b52-9c1cc5c04c43@83.143.106.7:443?encryption=none&fp=chrome&path=%2F&pbk=4g8R0-Acc1LjppgvUopldH0Wg3JA2tPXvYB96aJnigo&security=reality&sni=res.cdn.office.net&type=xhttp#REALITY|IL🇮🇱
-vless://d977e7ec-ff45-d4a9-5b52-9c1cc5c04c43@83.143.106.7:443?path=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=reality&encryption=none&pbk=4g8R0-Acc1LjppgvUopldH0Wg3JA2tPXvYB96aJnigo&fp=chrome&type=xhttp&sni=res.cdn.office.net#REALITY|IL🇮🇱
-vless://d977e7ec-ff45-d4a9-5b52-9c1cc5c04c43@83.143.106.7:443?path=%2F&security=reality&encryption=none&pbk=4g8R0-Acc1LjppgvUopldH0Wg3JA2tPXvYB96aJnigo&fp=chrome&type=xhttp&sni=res.cdn.office.net#REALITY|IL🇮🇱

@@ -1,9 +1,11 @@
 ss://0f4081e7-612b-425f-8def-eebf144aedba@176.65.144.84:443?security=reality&encryption=none&pbk=ITd6cmCxudmTvGcwnAzpd0VRe8jS9KJAQ1tmtVN3mCM&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=indigo.clouderiux.com&sid=9e15546f267baa64#REALITY|CH🇨🇭
+ss://2d0c4aa3-d3a8-484e-ae49-c962035b8d74@p2real5.greewebservices.ir:1350?security=reality&encryption=none&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&headerType=none&fp=ios&type=tcp&sni=play.googleapis.com&sid=9b60d3#REALITY|CH🇨🇭
 ss://6b4a0e0d-35b1-4934-8376-a19cb81fca31@p2real5.greewebservices.ir:1350?encryption=none&security=reality&sni=play.googleapis.com&fp=ios&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&sid=9b60d3&type=tcp&headerType=none#REALITY|CH🇨🇭
 ss://97b236b9-47ba-4c9a-ae0d-3ddfff5acadf@areal5.greewebservices.ir:5455?security=reality&encryption=none&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&headerType=none&fp=edge&type=tcp&sni=amp-api-edge.apps.apple.com&sid=e3085d4fc679ba12#REALITY|CH🇨🇭
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@146.70.26.156:1080#CH%F0%9F%87%A8%F0%9F%87%AD+%7C+146.70.26.156-1080+%7C+152.55ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplOEtnUzhmRDB5RHFZRnBnTjRHNXBpQ090OWFGeXFBMw==@132.243.175.144:8388#%F0%9F%87%A8%F0%9F%87%ADCH-132.243.175.144-0214
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplOEtnUzhmRDB5RHFZRnBnTjRHNXBpQ090OWFGeXFBMw==@132.243.175.144:8388#CH%F0%9F%87%A8%F0%9F%87%AD+%7C+132.243.175.144-8388+%7C+154.49ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@146.70.26.156:1080#CH%F0%9F%87%A8%F0%9F%87%AD+%7C+146.70.26.156-1080+%7C+125.39ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplOEtnUzhmRDB5RHFZRnBnTjRHNXBpQ090OWFGeXFBMw==@132.243.175.144:8388#%F0%9F%87%A8%F0%9F%87%ADCH-132.243.175.144-0232
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplOEtnUzhmRDB5RHFZRnBnTjRHNXBpQ090OWFGeXFBMw==@132.243.175.144:8388#CH%F0%9F%87%A8%F0%9F%87%AD+%7C+132.243.175.144-8388+%7C+154.55ms
 vless://0f4081e7-612b-425f-8def-eebf144aedba@176.65.144.84:443?security=reality&encryption=none&pbk=ITd6cmCxudmTvGcwnAzpd0VRe8jS9KJAQ1tmtVN3mCM&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=indigo.clouderiux.com&sid=9e15546f267baa64#REALITY|CH🇨🇭
+vless://2d0c4aa3-d3a8-484e-ae49-c962035b8d74@p2real5.greewebservices.ir:1350?security=reality&encryption=none&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&headerType=none&fp=ios&type=tcp&sni=play.googleapis.com&sid=9b60d3#REALITY|CH🇨🇭
 vless://6b4a0e0d-35b1-4934-8376-a19cb81fca31@p2real5.greewebservices.ir:1350?encryption=none&security=reality&sni=play.googleapis.com&fp=ios&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&sid=9b60d3&type=tcp&headerType=none#REALITY|CH🇨🇭
 vless://97b236b9-47ba-4c9a-ae0d-3ddfff5acadf@areal5.greewebservices.ir:5455?security=reality&encryption=none&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&headerType=none&fp=edge&type=tcp&sni=amp-api-edge.apps.apple.com&sid=e3085d4fc679ba12#REALITY|CH🇨🇭

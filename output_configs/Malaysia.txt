@@ -1,2 +1,0 @@
-ss://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform102.golnamakcert.top:80?sni=platform102.golnamakcert.top&type=ws&host=platform102.halalkhor.info&path=%2Fplatform102#MY🇲🇾
-vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform102.golnamakcert.top:80?sni=platform102.golnamakcert.top&type=ws&host=platform102.halalkhor.info&path=%2Fplatform102#MY🇲🇾
