@@ -1,4 +1,11 @@
-ss://2a9ed01e-5455-44b4-a66a-76ee8165f0ac@77.73.232.61:19747?security=reality&encryption=none&pbk=ZO9dTeg1slvTXgVsBsaJ1BDvz_YUImTLJjbHs-GdVyM&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=2001#REALITY|KZ🇰🇿
-ss://567f4be512ab42e1b8d9db6fd1fdd31cOg==@38.107.234.57:80#KZ%F0%9F%87%B0%F0%9F%87%BF+%7C+38.107.234.57-80+%7C+213.3ms
-ss://567f4be512ab42e1b8d9db6fd1fdd31cOg==@3h-kazakhstan1.09vpn.com:80#KZ%F0%9F%87%B0%F0%9F%87%BF+%7C+3h-kazakhstan1.09vpn.com-80+%7C+247.63ms
-vless://2a9ed01e-5455-44b4-a66a-76ee8165f0ac@77.73.232.61:19747?security=reality&encryption=none&pbk=ZO9dTeg1slvTXgVsBsaJ1BDvz_YUImTLJjbHs-GdVyM&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=2001#REALITY|KZ🇰🇿
+ss://4bdeee92-97e8-414d-bef6-ec1d5e2ab73b@kazartip.thewalkingded.life:443?security=reality&encryption=none&pbk=5JhqvTTHIhhA_2Jjc3_y6pwLmKfe4wtwq3vSt43P00I&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=kazartip.thewalkingded.life&sid=7cf408996c82639f#REALITY|KZ🇰🇿
+ss://567f4be512ab42e1b8d9db6fd1fdd31cOg==@38.107.234.57:80#KZ%F0%9F%87%B0%F0%9F%87%BF+%7C+38.107.234.57-80+%7C+220.68ms
+ss://567f4be512ab42e1b8d9db6fd1fdd31cOg==@38.107.234.57:80#KZ%F0%9F%87%B0%F0%9F%87%BF+%7C+38.107.234.57-80+%7C+222.36ms
+ss://567f4be512ab42e1b8d9db6fd1fdd31cOg==@3h-kazakhstan1.09vpn.com:80#KZ%F0%9F%87%B0%F0%9F%87%BF+%7C+3h-kazakhstan1.09vpn.com-80+%7C+246.65ms
+ss://9977ba41-b6aa-4033-9492-2f6abfcade31@206.223.249.90:33891?security=reality&encryption=none&pbk=fj5f0rWTOAgd2gqCCWgag3oAGwb6MCef3OFNdnQLWW8&headerType=none&fp=chrome&spx=%2Fapi&type=tcp&flow=xtls-rprx-vision&sni=browser.yandex.com&sid=f5bc6788#REALITY|KZ🇰🇿
+ss://b573cefb-7bc7-4a42-b407-b8b534e66773@109.248.170.119:13447?encryption=none&fp=&pbk=_0wM2ep44eAcrgf5PflKaBivknCWT6kMvQBQUoScCkE&security=reality&sid=83&sni=yahoo.com&type=tcp#REALITY|KZ🇰🇿
+ss://b573cefb-7bc7-4a42-b407-b8b534e66773@109.248.170.119:13447?encryption=none&pbk=_0wM2ep44eAcrgf5PflKaBivknCWT6kMvQBQUoScCkE&security=reality&sid=83&sni=yahoo.com&type=tcp#REALITY|KZ🇰🇿
+vless://4bdeee92-97e8-414d-bef6-ec1d5e2ab73b@kazartip.thewalkingded.life:443?security=reality&encryption=none&pbk=5JhqvTTHIhhA_2Jjc3_y6pwLmKfe4wtwq3vSt43P00I&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=kazartip.thewalkingded.life&sid=7cf408996c82639f#REALITY|KZ🇰🇿
+vless://9977ba41-b6aa-4033-9492-2f6abfcade31@206.223.249.90:33891?security=reality&encryption=none&pbk=fj5f0rWTOAgd2gqCCWgag3oAGwb6MCef3OFNdnQLWW8&headerType=none&fp=chrome&spx=%2Fapi&type=tcp&flow=xtls-rprx-vision&sni=browser.yandex.com&sid=f5bc6788#REALITY|KZ🇰🇿
+vless://b573cefb-7bc7-4a42-b407-b8b534e66773@109.248.170.119:13447?encryption=none&fp=&pbk=_0wM2ep44eAcrgf5PflKaBivknCWT6kMvQBQUoScCkE&security=reality&sid=83&sni=yahoo.com&type=tcp#REALITY|KZ🇰🇿
+vless://b573cefb-7bc7-4a42-b407-b8b534e66773@109.248.170.119:13447?encryption=none&pbk=_0wM2ep44eAcrgf5PflKaBivknCWT6kMvQBQUoScCkE&security=reality&sid=83&sni=yahoo.com&type=tcp#REALITY|KZ🇰🇿
