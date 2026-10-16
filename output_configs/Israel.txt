@@ -1,6 +1,2 @@
-ss://1ffa8e68-3378-4cf4-b8f6-44bf3d46d106@185.95.231.233:443?security=none&encryption=none&headerType=none&type=tcp#IL🇮🇱
-ss://af5eac96-e478-488a-bc8c-45269d7e8847@dorado.yokkastars.com:40443?security=reality&encryption=none&pbk=g77ZJbm18JEotapmVRjaXi133MzkbhkU2lxhVeXx8zw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=68a8#🆔lrnbymaa%20🔒%20VL-TCP-%20🇮🇱%20IL%20396ms
-ss://af5eac96-e478-488a-bc8c-45269d7e8847@dorado.yokkastars.com:40443?security=reality&encryption=none&pbk=g77ZJbm18JEotapmVRjaXi133MzkbhkU2lxhVeXx8zw&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=68a8#🆔ar14n24b%20🔒%20VL-TCP-%20🇮🇱%20IL%20352ms
-vless://1ffa8e68-3378-4cf4-b8f6-44bf3d46d106@185.95.231.233:443?security=none&encryption=none&headerType=none&type=tcp#IL🇮🇱
-vless://af5eac96-e478-488a-bc8c-45269d7e8847@dorado.yokkastars.com:40443?security=reality&encryption=none&pbk=g77ZJbm18JEotapmVRjaXi133MzkbhkU2lxhVeXx8zw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=68a8#🆔lrnbymaa%20🔒%20VL-TCP-%20🇮🇱%20IL%20396ms
-vless://af5eac96-e478-488a-bc8c-45269d7e8847@dorado.yokkastars.com:40443?security=reality&encryption=none&pbk=g77ZJbm18JEotapmVRjaXi133MzkbhkU2lxhVeXx8zw&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=68a8#🆔ar14n24b%20🔒%20VL-TCP-%20🇮🇱%20IL%20352ms
+ss://d977e7ec-ff45-d4a9-5b52-9c1cc5c04c43@83.143.106.7:443?encryption=none&fp=chrome&path=%2F&pbk=4g8R0-Acc1LjppgvUopldH0Wg3JA2tPXvYB96aJnigo&security=reality&sni=res.cdn.office.net&type=xhttp#REALITY|IL🇮🇱
+vless://d977e7ec-ff45-d4a9-5b52-9c1cc5c04c43@83.143.106.7:443?encryption=none&fp=chrome&path=%2F&pbk=4g8R0-Acc1LjppgvUopldH0Wg3JA2tPXvYB96aJnigo&security=reality&sni=res.cdn.office.net&type=xhttp#REALITY|IL🇮🇱

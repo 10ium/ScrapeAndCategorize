@@ -1,6 +1,2 @@
-ss://074b00de-c4d0-11f1-9902-a337233c6cda@at-3.wizard.select:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=at-3.wizard.select&fp=firefox&pbk=S9OR9-SQHGl717N9AV_LoouRgSd-M4Yz7os10Mj8XxI&sid=cee953f6&spx=%2FxK9FUOc178i0I31&type=tcp&headerType=none#REALITY|AT🇦🇹
-ss://64774bd8-3116-4eaa-a046-5ea4fc230b81@node-fra02.rkitman.ru:443?security=reality&encryption=none&pbk=8C7evg_SSrJbxMTaUqJoylqB9HSNsmBvmUlgs_c5EiU&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=node-fra02.rkitman.ru&sid=88d9dc52ef39c8bd#REALITY|AT🇦🇹
 trojan://600421cf-11d7-429f-a65b-c30397f1bc03@86.106.119.23:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=gr.freeguard.org#AT🇦🇹
 trojan://BO7e2KO_KlAjuJY-HYoabQ@172.67.131.41:443?type=tcp&security=tls&sni=n21-at.netzrun.com&allowInsecure=1#AT🇦🇹
-vless://074b00de-c4d0-11f1-9902-a337233c6cda@at-3.wizard.select:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=at-3.wizard.select&fp=firefox&pbk=S9OR9-SQHGl717N9AV_LoouRgSd-M4Yz7os10Mj8XxI&sid=cee953f6&spx=%2FxK9FUOc178i0I31&type=tcp&headerType=none#REALITY|AT🇦🇹
-vless://64774bd8-3116-4eaa-a046-5ea4fc230b81@node-fra02.rkitman.ru:443?security=reality&encryption=none&pbk=8C7evg_SSrJbxMTaUqJoylqB9HSNsmBvmUlgs_c5EiU&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=node-fra02.rkitman.ru&sid=88d9dc52ef39c8bd#REALITY|AT🇦🇹

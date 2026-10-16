@@ -1,14 +1,9 @@
-ss://2387bfbc10a64bd7dc557cba954ce6e8Og==@54.229.151.97:59236#IE%F0%9F%87%AE%F0%9F%87%AA+%7C+54.229.151.97-59236+%7C+98.6ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4cUtKbGMyWjZsbzY0YlVx@4.210.66.165:443#🆔v2ray1_ng%20🔒%20SS-TCP-TLS%20🇮🇪%20IE%20down
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLNXNFdlppS21lbnMxMDRC@20.234.97.18:443#🆔v2ray1_ng%20🔒%20SS-TCP-TLS%20🇮🇪%20IE%20down
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZRjMyOUtOR1ZUVVoxcXJI@20.123.1.55:443#IE%F0%9F%87%AE%F0%9F%87%AA+%7C+20.123.1.55-443+%7C+103.79ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZRjMyOUtOR1ZUVVoxcXJI@20.123.1.55:443#IE%F0%9F%87%AE%F0%9F%87%AA+%7C+20.123.1.55-443+%7C+105.76ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnSmU3dW1TdEljazVNaWVn@20.166.59.119:443#🆔lrnbymaa%20🔒%20SS-TCP-TLS%20🇮🇪%20IE%20down
-ss://chacha20ietfpoly1305Og==@20.107.184.151:443#IE%F0%9F%87%AE%F0%9F%87%AA+%7C+20.107.184.151-443+%7C+462.03ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyNUQ2WU9TclQ2a0M3NnJv@20.123.34.66:443#🆔lrnbymaa%20🔒%20SS-TCP-TLS%20🇮🇪%20IE%20down
+trojan://UX82473651@3.253.106.233:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=loved-shark.rooster465.autos#IE🇮🇪
 trojan://UX82473651@3.253.106.233:443?security=tls&sni=loved-shark.rooster465.autos#%F0%9F%87%AE%F0%9F%87%AAIE-3.253.106.233-0196
 trojan://UX82473651@34.242.77.118:443?fp=chrome&sni=sacred-anemone.rooster465.autos#IE🇮🇪
 trojan://UX82473651@34.242.77.118:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=sacred-anemone.rooster465.autos#IE🇮🇪
-trojan://UX82473651@adapting-basilisk.rooster465.autos:443?allowInsecure=1#IE🇮🇪
+trojan://UX82473651@54.72.130.222:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=adapting-basilisk.rooster465.autos#IE🇮🇪
 trojan://UX82473651@adapting-basilisk.rooster465.autos:443?allowInsecure=1&sni=adapting-basilisk.rooster465.autos#IE🇮🇪
 trojan://UX82473651@adapting-basilisk.rooster465.autos:443?security=tls&sni=adapting-basilisk.rooster465.autos#%F0%9F%87%AE%F0%9F%87%AAIE-54.72.130.222-0183
 trojan://UX82473651@loved-shark.rooster465.autos:443?security=tls&sni=loved-shark.rooster465.autos#%F0%9F%87%AE%F0%9F%87%AAIE-3.253.106.233-0191
