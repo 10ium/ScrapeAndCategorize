@@ -1,0 +1,2 @@
+ss://c7c27192-60a5-4ce1-b613-95270d82309d@5.253.29.254:10443?encryption=none&security=none&type=tcp#🆔ar14n24b%20🔓%20VL-TCP-N/A%20🇲🇽%20MX%20down
+vless://c7c27192-60a5-4ce1-b613-95270d82309d@5.253.29.254:10443?encryption=none&security=none&type=tcp#🆔ar14n24b%20🔓%20VL-TCP-N/A%20🇲🇽%20MX%20down
