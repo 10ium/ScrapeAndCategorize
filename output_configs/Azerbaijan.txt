@@ -1,2 +1,0 @@
-ss://456ecff9-c221-4915-8aa7-2e5745a30935@az.sparxiecn.com:443?security=reality&encryption=none&pbk=6AW8ehYuPtg84kBaGbAN8dumEH3epgwV2rGMPGKyBxI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.oracle.com&sid=af134fdf0bd9f346#REALITY|AZ🇦🇿
-vless://456ecff9-c221-4915-8aa7-2e5745a30935@az.sparxiecn.com:443?security=reality&encryption=none&pbk=6AW8ehYuPtg84kBaGbAN8dumEH3epgwV2rGMPGKyBxI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.oracle.com&sid=af134fdf0bd9f346#REALITY|AZ🇦🇿

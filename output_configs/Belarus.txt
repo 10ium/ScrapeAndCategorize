@@ -1,6 +1,4 @@
-ss://1af36694-b548-4b18-89a0-bc076eab4ed7@178.172.227.124:14430?encryption=none&host=178.172.227.124&path=%2Fvless&security=none&type=ws#BY🇧🇾
-ss://8cef7621-c6f0-486e-b51d-59c30c5b0b25@95.128.71.79:14430?encryption=none&host=95.128.71.79&path=%2Fvless&security=none&type=ws#BY🇧🇾
 ss://acbabca-acab-bcaa-abdc-bbccaabaccab@127.0.0.1:8080?security=tls&type=tcp#👨🏻‍💻%20DEVELOPED-BY%20@YEBEKHE
-vless://1af36694-b548-4b18-89a0-bc076eab4ed7@178.172.227.124:14430?encryption=none&host=178.172.227.124&path=%2Fvless&security=none&type=ws#BY🇧🇾
-vless://8cef7621-c6f0-486e-b51d-59c30c5b0b25@95.128.71.79:14430?encryption=none&host=95.128.71.79&path=%2Fvless&security=none&type=ws#BY🇧🇾
+ss://b94841c3-171f-4bf8-90d5-886f1bafeaea@93.125.18.5:443?security=reality&encryption=none&pbk=wBrkAU53FBJHLCpBlRG6kb8ESR5tgmXg2EnjkzdHxk4&headerType=none&fp=safari&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=belarus.guidedtours.online&sid=992304ad32fb96ee#REALITY|BY🇧🇾
 vless://acbabca-acab-bcaa-abdc-bbccaabaccab@127.0.0.1:8080?security=tls&type=tcp#👨🏻‍💻%20DEVELOPED-BY%20@YEBEKHE
+vless://b94841c3-171f-4bf8-90d5-886f1bafeaea@93.125.18.5:443?security=reality&encryption=none&pbk=wBrkAU53FBJHLCpBlRG6kb8ESR5tgmXg2EnjkzdHxk4&headerType=none&fp=safari&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=belarus.guidedtours.online&sid=992304ad32fb96ee#REALITY|BY🇧🇾
