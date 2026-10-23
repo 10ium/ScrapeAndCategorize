@@ -1,3 +1,1 @@
-ss://074b00de-c4d0-11f1-9902-a337233c6cda@at-3.wizard.select:443?security=reality&encryption=none&pbk=S9OR9-SQHGl717N9AV_LoouRgSd-M4Yz7os10Mj8XxI&headerType=none&fp=firefox&spx=%2FxK9FUOc178i0I31&type=tcp&flow=xtls-rprx-vision&sni=at-3.wizard.select&sid=cee953f6#REALITY|AT🇦🇹
 trojan://600421cf-11d7-429f-a65b-c30397f1bc03@86.106.119.23:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=gr.freeguard.org#AT🇦🇹
-vless://074b00de-c4d0-11f1-9902-a337233c6cda@at-3.wizard.select:443?security=reality&encryption=none&pbk=S9OR9-SQHGl717N9AV_LoouRgSd-M4Yz7os10Mj8XxI&headerType=none&fp=firefox&spx=%2FxK9FUOc178i0I31&type=tcp&flow=xtls-rprx-vision&sni=at-3.wizard.select&sid=cee953f6#REALITY|AT🇦🇹
