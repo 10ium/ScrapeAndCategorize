@@ -1,10 +1,1 @@
-ss://08b6dd4b-08df-4aa2-9580-92a3360cf07c@188.130.208.210:443?security=reality&encryption=none&pbk=x_sc52Wgwr7bsogvKRA5hHHS5PJpdocqZNW_Up1mty8&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=edge-cz1.lovely.ceo&sid=59ab2fc39ec55bc7#REALITY|CZ🇨🇿
-ss://08b6dd4b-08df-4aa2-9580-92a3360cf07c@188.130.208.210:443?security=reality&encryption=none&pbk=x_sc52Wgwr7bsogvKRA5hHHS5PJpdocqZNW_Up1mty8&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=edge-cz1.lovely.ceo&sid=59ab2fc39ec55bc7#REALITY|CZ🇨🇿
-ss://14f4be39-cb89-4f2b-8200-704666b6fa4e@95.85.241.209:443?security=reality&encryption=none&pbk=vZ22ThhkpXUd5-tY-v5TTrouLHjgYYmeQgqeLt7HRz0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com#REALITY|CZ🇨🇿
-ss://YWVzLTI1Ni1nY206STZvOU5uaWFsWUxNRWpWdDI4UkY0ZHBqbXI5d012Tkw=@67.159.18.34:17001#CZ%F0%9F%87%A8%F0%9F%87%BF+%7C+67.159.18.34-17001+%7C+153.27ms
-ss://bfd81b63-a43d-4c27-b71d-2c948cfc4ab2@46.36.44.220:443?security=reality&encryption=none&pbk=D3LM6JIYP6kL--jSCj-BPj-qy-J7rzX0Jp9Z4ygNeV4&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=seznam.cz&sid=7791e189a518d69e#REALITY|CZ🇨🇿
-ss://chacha20ietfpoly1305Og==@146.70.222.126:1080#CZ%F0%9F%87%A8%F0%9F%87%BF+%7C+146.70.222.126-1080+%7C+163.65ms
-vless://08b6dd4b-08df-4aa2-9580-92a3360cf07c@188.130.208.210:443?security=reality&encryption=none&pbk=x_sc52Wgwr7bsogvKRA5hHHS5PJpdocqZNW_Up1mty8&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=edge-cz1.lovely.ceo&sid=59ab2fc39ec55bc7#REALITY|CZ🇨🇿
-vless://08b6dd4b-08df-4aa2-9580-92a3360cf07c@188.130.208.210:443?security=reality&encryption=none&pbk=x_sc52Wgwr7bsogvKRA5hHHS5PJpdocqZNW_Up1mty8&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=edge-cz1.lovely.ceo&sid=59ab2fc39ec55bc7#REALITY|CZ🇨🇿
-vless://14f4be39-cb89-4f2b-8200-704666b6fa4e@95.85.241.209:443?security=reality&encryption=none&pbk=vZ22ThhkpXUd5-tY-v5TTrouLHjgYYmeQgqeLt7HRz0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com#REALITY|CZ🇨🇿
-vless://bfd81b63-a43d-4c27-b71d-2c948cfc4ab2@46.36.44.220:443?security=reality&encryption=none&pbk=D3LM6JIYP6kL--jSCj-BPj-qy-J7rzX0Jp9Z4ygNeV4&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=seznam.cz&sid=7791e189a518d69e#REALITY|CZ🇨🇿
+ss://chacha20ietfpoly1305Og==@146.70.222.126:1080#CZ%F0%9F%87%A8%F0%9F%87%BF+%7C+146.70.222.126-1080+%7C+166.98ms
