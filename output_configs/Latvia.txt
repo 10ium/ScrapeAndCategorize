@@ -1,7 +1,9 @@
 ss://247a22e1-0795-4852-9bdd-a65ac1078034@188.253.21.106:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yahoo.com&fp=firefox&security=reality&pbk=4JvLKnuuAs4h0cQ1j_S4SAuXQQ579D7Wr1sGBjmH-Ws&sid=73d3fec4#REALITY|LV🇱🇻
-ss://e4c3afb4-e14c-4c31-b03d-44755762bdfd@31.56.196.121:443?path=%2F&security=none&encryption=mlkem768x25519plus.native.0rtt.MfpyNpx0sfrCRTxl4y1jA1e3Hc44y9U9wGPcVCrHKzc&type=ws#LV🇱🇻
+ss://40cba749-bca9-4089-9c02-84a357244ce0@104.252.19.114:8443?security=reality&encryption=none&pbk=cD8mVX41lqyVGCuPz0-tQWcNqkMxiPZxU7JJsyyNAEI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=omvpn.info#REALITY|LV🇱🇻
+ss://6338c01a-310e-42c3-bf4f-2a20e161054b@185.220.223.25:443?type=tcp&security=reality&path=%2F&sni=lv.aiage.work&fp=firefox&flow=xtls-rprx-vision&pbk=ds-U8G06uZvV9qFhAeO16dwS9Nkcw_coYr_4puEUGFg&sid=3c6afdc4124d0560#REALITY|LV🇱🇻
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@lv1.dedushka.top:443?allowInsecure=1#LV🇱🇻
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@lv1.dedushka.top:443?allowInsecure=1&sni=lv1.dedushka.top&alpn=http%2F1.1#LV🇱🇻
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@lv1.dedushka.top:443?alpn=http%2F1.1&fp=firefox#LV🇱🇻
 vless://247a22e1-0795-4852-9bdd-a65ac1078034@188.253.21.106:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yahoo.com&fp=firefox&security=reality&pbk=4JvLKnuuAs4h0cQ1j_S4SAuXQQ579D7Wr1sGBjmH-Ws&sid=73d3fec4#REALITY|LV🇱🇻
-vless://e4c3afb4-e14c-4c31-b03d-44755762bdfd@31.56.196.121:443?path=%2F&security=none&encryption=mlkem768x25519plus.native.0rtt.MfpyNpx0sfrCRTxl4y1jA1e3Hc44y9U9wGPcVCrHKzc&type=ws#LV🇱🇻
+vless://40cba749-bca9-4089-9c02-84a357244ce0@104.252.19.114:8443?security=reality&encryption=none&pbk=cD8mVX41lqyVGCuPz0-tQWcNqkMxiPZxU7JJsyyNAEI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=omvpn.info#REALITY|LV🇱🇻
+vless://6338c01a-310e-42c3-bf4f-2a20e161054b@185.220.223.25:443?type=tcp&security=reality&path=%2F&sni=lv.aiage.work&fp=firefox&flow=xtls-rprx-vision&pbk=ds-U8G06uZvV9qFhAeO16dwS9Nkcw_coYr_4puEUGFg&sid=3c6afdc4124d0560#REALITY|LV🇱🇻

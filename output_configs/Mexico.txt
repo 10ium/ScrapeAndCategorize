@@ -1,0 +1,2 @@
+ss://e9a8144e-5237-488a-afb1-9ca3d8d54c80@149.104.90.21:19167?security=tls&encryption=none&headerType=&type=tcp&sni=mx001.zestapp778.com#MX🇲🇽
+vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@149.104.90.21:19167?security=tls&encryption=none&headerType=&type=tcp&sni=mx001.zestapp778.com#MX🇲🇽

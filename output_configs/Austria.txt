@@ -1,5 +1,9 @@
-ss://2b0e5676-fb62-4bf0-9607-6e7818421e8e@au6.pad-sservice.lat:8443?encryption=none&security=tls&sni=au6.pad-sservice.lat&type=ws&host=au6.pad-sservice.lat&path=%2FAU6W#AT🇦🇹
-ss://ef328563-cda1-4530-9b0a-988cc5a74d78@188.137.158.159:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=softice.net&type=tcp#🆔soskeynet%20🔒%20VL-TCP-N/A%20🇦🇹%20AT%20213ms
+ss://2b0e5676-fb62-4bf0-9607-6e7818421e8e@152.53.1.40:8443?encryption=none&fp=firefox&host=au4.pad-service.com&path=%2FA14U&security=tls&sni=au4.pad-sservice.lat&type=ws#AT🇦🇹
+ss://ef328563-cda1-4530-9b0a-988cc5a74d78@188.137.158.159:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=softice.net&type=tcp#AT🇦🇹
+ss://ef328563-cda1-4530-9b0a-988cc5a74d78@188.137.158.169:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=softice.net&type=tcp#AT🇦🇹
+ss://ef328563-cda1-4530-9b0a-988cc5a74d78@188.137.158.199:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=softice.net&type=tcp#AT🇦🇹
 trojan://600421cf-11d7-429f-a65b-c30397f1bc03@86.106.119.23:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=gr.freeguard.org#AT🇦🇹
-vless://2b0e5676-fb62-4bf0-9607-6e7818421e8e@au6.pad-sservice.lat:8443?encryption=none&security=tls&sni=au6.pad-sservice.lat&type=ws&host=au6.pad-sservice.lat&path=%2FAU6W#AT🇦🇹
-vless://ef328563-cda1-4530-9b0a-988cc5a74d78@188.137.158.159:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=softice.net&type=tcp#🆔soskeynet%20🔒%20VL-TCP-N/A%20🇦🇹%20AT%20213ms
+vless://2b0e5676-fb62-4bf0-9607-6e7818421e8e@152.53.1.40:8443?encryption=none&fp=firefox&host=au4.pad-service.com&path=%2FA14U&security=tls&sni=au4.pad-sservice.lat&type=ws#AT🇦🇹
+vless://ef328563-cda1-4530-9b0a-988cc5a74d78@188.137.158.159:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=softice.net&type=tcp#AT🇦🇹
+vless://ef328563-cda1-4530-9b0a-988cc5a74d78@188.137.158.169:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=softice.net&type=tcp#AT🇦🇹
+vless://ef328563-cda1-4530-9b0a-988cc5a74d78@188.137.158.199:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=softice.net&type=tcp#AT🇦🇹
