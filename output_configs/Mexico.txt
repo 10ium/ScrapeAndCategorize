@@ -1,2 +1,1 @@
-ss://e9a8144e-5237-488a-afb1-9ca3d8d54c80@149.104.90.21:19167?security=tls&encryption=none&headerType=&type=tcp&sni=mx001.zestapp778.com#MX🇲🇽
-vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@149.104.90.21:19167?security=tls&encryption=none&headerType=&type=tcp&sni=mx001.zestapp778.com#MX🇲🇽
+ss://YWVzLTI1Ni1nY206Qld5UFBUdXNGS2hHZ3pLaA==@64.177.90.30:8388#MX%F0%9F%87%B2%F0%9F%87%BD+%7C+64.177.90.30-8388+%7C+46.85ms
