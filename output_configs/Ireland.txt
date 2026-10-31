@@ -1,8 +1,8 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6bkV0amdITFhINEZCTGlj@74.234.59.81:443#IE%F0%9F%87%AE%F0%9F%87%AA+%7C+74.234.59.81-443+%7C+126.42ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6bkV0amdITFhINEZCTGlj@74.234.59.81:443#IE%F0%9F%87%AE%F0%9F%87%AA+%7C+74.234.59.81-443+%7C+70.81ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZRjMyOUtOR1ZUVVoxcXJI@20.123.1.55:443#IE%F0%9F%87%AE%F0%9F%87%AA+%7C+20.123.1.55-443+%7C+463.96ms
 ss://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.5.188:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=ir-new-ded.failspace.top&type=tcp#IE🇮🇪
-ss://cd3bb7d9-7df3-4644-ac05-c260990ac277@ir-new-ded.failspace.top:443?alpn=h2&encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=ir-new-ded.failspace.top&type=tcp#IE🇮🇪
+ss://chacha20ietfpoly1305Og==@20.107.184.151:443#IE%F0%9F%87%AE%F0%9F%87%AA+%7C+20.107.184.151-443+%7C+331.27ms
 trojan://UX82473651@3.253.106.233:443?security=tls&sni=loved-shark.rooster465.autos#%F0%9F%87%AE%F0%9F%87%AAIE-3.253.106.233-0196
 trojan://UX82473651@adapting-basilisk.rooster465.autos:443?security=tls&sni=adapting-basilisk.rooster465.autos#%F0%9F%87%AE%F0%9F%87%AAIE-54.72.130.222-0183
 trojan://UX82473651@loved-shark.rooster465.autos:443?security=tls&sni=loved-shark.rooster465.autos#%F0%9F%87%AE%F0%9F%87%AAIE-3.253.106.233-0191
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.5.188:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=ir-new-ded.failspace.top&type=tcp#IE🇮🇪
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@ir-new-ded.failspace.top:443?alpn=h2&encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=ir-new-ded.failspace.top&type=tcp#IE🇮🇪

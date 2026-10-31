@@ -1,4 +1,2 @@
 ss://YWVzLTI1Ni1nY206c3hhakNUd3JsSzB6bCt6bUhwWDBwMGpYSWZhdG56bEx6V2xTUTk1MEwxYz0=@103.107.52.106:52351#%F0%9F%87%B9%F0%9F%87%ADTH-103.107.52.106-0437
 ss://YWVzLTI1Ni1nY206c3hhakNUd3JsSzB6bCt6bUhwWDBwMGpYSWZhdG56bEx6V2xTUTk1MEwxYz0=@pphfree2.mvpnpvpn.de5.net:52351#%F0%9F%87%B9%F0%9F%87%ADTH-103.107.52.106-0164
-ss://b9bfa54d-bc44-4592-a6d6-89a9665d286f@163.245.42.48:443?security=reality&alpn=h2%2Chttp%2F1.1&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mother-earth.fyi#🆔ar14n24b%20🔒%20VL-TCP-%20🇹🇭%20TH%20down
-vless://b9bfa54d-bc44-4592-a6d6-89a9665d286f@163.245.42.48:443?security=reality&alpn=h2%2Chttp%2F1.1&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mother-earth.fyi#🆔ar14n24b%20🔒%20VL-TCP-%20🇹🇭%20TH%20down
