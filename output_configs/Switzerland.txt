@@ -1,11 +1,11 @@
-ss://318c935d-c195-41d3-99ad-9bbcfdab3386@ch.srv.vbuste.ru:444?mode=gun&security=reality&encryption=none&pbk=0-or5ogGhYbBgsVSrSC2Fhxyp2BN97Y9pqIdg61Qd08&fp=firefox&type=grpc&sni=ch.srv.vbuste.ru&sid=4be4110078ebed4a#REALITY|CH🇨🇭
 ss://7c4e57be-ff6f-4ef7-ba17-f839351d9af9@areal5.greewebservices.ir:5455?security=reality&encryption=none&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&headerType=none&fp=edge&type=tcp&sni=amp-api-edge.apps.apple.com&sid=e3085d4fc679ba12#REALITY|CH🇨🇭
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@146.70.26.156:1080#CH%F0%9F%87%A8%F0%9F%87%AD+%7C+146.70.26.156-1080+%7C+93.6ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@146.70.26.156:1080#CH%F0%9F%87%A8%F0%9F%87%AD+%7C+146.70.26.156-1080+%7C+128.11ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplOEtnUzhmRDB5RHFZRnBnTjRHNXBpQ090OWFGeXFBMw==@132.243.175.144:8388#%F0%9F%87%A8%F0%9F%87%ADCH-132.243.175.144-0215
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplOEtnUzhmRDB5RHFZRnBnTjRHNXBpQ090OWFGeXFBMw==@132.243.175.144:8388#CH%F0%9F%87%A8%F0%9F%87%AD+%7C+132.243.175.144-8388+%7C+102.01ms
-ss://c0dd6d59-1573-43af-8b70-1470b2632a6d@208.69.78.217:2053?encryption=none&fp=&pbk=A49ue7zXSusJZdErPAewg3jqGdUFIO1a9xOunEKJfC0&security=reality&sid=ad86e2d52ff40ebd&sni=www.apple.com&type=tcp#REALITY|CH🇨🇭
 ss://f5e70ce3-cfb4-4df1-b25c-d19bfae627c0@45.90.57.119:8443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=L6DeK_a25_ZjPKFOrQLoCPWuXi5KCIH_EcRpARmCwkI&security=reality&sid=16036bbef04d0509&sni=twitch.tv&type=tcp#REALITY|CH🇨🇭
-vless://318c935d-c195-41d3-99ad-9bbcfdab3386@ch.srv.vbuste.ru:444?mode=gun&security=reality&encryption=none&pbk=0-or5ogGhYbBgsVSrSC2Fhxyp2BN97Y9pqIdg61Qd08&fp=firefox&type=grpc&sni=ch.srv.vbuste.ru&sid=4be4110078ebed4a#REALITY|CH🇨🇭
+ss://f5e70ce3-cfb4-4df1-b25c-d19bfae627c0@45.90.57.119:8443?security=reality&encryption=none&pbk=L6DeK_a25_ZjPKFOrQLoCPWuXi5KCIH_EcRpARmCwkI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=twitch.tv&sid=16036bbef04d0509#REALITY|CH🇨🇭
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.19:443?allowInsecure=1&sni=www.yourultimateprofessionalcareerhub.com#CH🇨🇭
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.19:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.yourultimateprofessionalcareerhub.com#CH🇨🇭
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.29:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=learn.yourultimateprofessionalcareerhub.com#CH🇨🇭
 vless://7c4e57be-ff6f-4ef7-ba17-f839351d9af9@areal5.greewebservices.ir:5455?security=reality&encryption=none&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&headerType=none&fp=edge&type=tcp&sni=amp-api-edge.apps.apple.com&sid=e3085d4fc679ba12#REALITY|CH🇨🇭
-vless://c0dd6d59-1573-43af-8b70-1470b2632a6d@208.69.78.217:2053?encryption=none&fp=&pbk=A49ue7zXSusJZdErPAewg3jqGdUFIO1a9xOunEKJfC0&security=reality&sid=ad86e2d52ff40ebd&sni=www.apple.com&type=tcp#REALITY|CH🇨🇭
 vless://f5e70ce3-cfb4-4df1-b25c-d19bfae627c0@45.90.57.119:8443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=L6DeK_a25_ZjPKFOrQLoCPWuXi5KCIH_EcRpARmCwkI&security=reality&sid=16036bbef04d0509&sni=twitch.tv&type=tcp#REALITY|CH🇨🇭
+vless://f5e70ce3-cfb4-4df1-b25c-d19bfae627c0@45.90.57.119:8443?security=reality&encryption=none&pbk=L6DeK_a25_ZjPKFOrQLoCPWuXi5KCIH_EcRpARmCwkI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=twitch.tv&sid=16036bbef04d0509#REALITY|CH🇨🇭

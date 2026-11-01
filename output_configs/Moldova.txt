@@ -1,0 +1,4 @@
+ss://2f35965a-9a9b-45fd-ba32-987296dfb6be@md5.univesalsrv.com:443?mode=gun&security=reality&encryption=none&pbk=99MRki6b93wC-hhDHe9yq3IXE3KtPGw4RkFAnpI-8gg&fp=firefox&type=grpc&serviceName=app.v1.PushService&sid=aa9884f2982b7d3c#REALITY|MD🇲🇩
+ss://76ef5ab3-7075-4e23-b445-f3b1bd05d431@94.103.2.55:443?sni=rus.play-cat.uk&type=grpc&serviceName=assets&fp=edge&security=tls#MD🇲🇩
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@md5.univesalsrv.com:443?mode=gun&security=reality&encryption=none&pbk=99MRki6b93wC-hhDHe9yq3IXE3KtPGw4RkFAnpI-8gg&fp=firefox&type=grpc&serviceName=app.v1.PushService&sid=aa9884f2982b7d3c#REALITY|MD🇲🇩
+vless://76ef5ab3-7075-4e23-b445-f3b1bd05d431@94.103.2.55:443?sni=rus.play-cat.uk&type=grpc&serviceName=assets&fp=edge&security=tls#MD🇲🇩

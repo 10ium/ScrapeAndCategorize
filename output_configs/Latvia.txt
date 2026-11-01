@@ -1,7 +1,5 @@
-ss://40cba749-bca9-4089-9c02-84a357244ce0@104.252.19.114:8443?security=reality&encryption=none&pbk=cD8mVX41lqyVGCuPz0-tQWcNqkMxiPZxU7JJsyyNAEI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=omvpn.info#REALITY|LV🇱🇻
-ss://e4c3afb4-e14c-4c31-b03d-44755762bdfd@31.56.196.121:443?path=%2F&security=none&encryption=mlkem768x25519plus.native.0rtt.MfpyNpx0sfrCRTxl4y1jA1e3Hc44y9U9wGPcVCrHKzc&type=ws#LV🇱🇻
+ss://ee18d188-14cc-417e-beb1-70e4add6d023@216.173.71.43:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=lv.nztvpn.com&fp=chrome&pbk=miDhSALrcCvSfc38VjCDYlzNh5M61NMR5IkUli7IN08&sid=0da7e14db353e7d0&type=tcp&headerType=none&host=%2F%3Ftelegram--AZARANV2RAY--AZARANV2RAY--AZARANV2RAY--AZARANV2RAY#🆔surfboardv2ray%20🔒%20VL-TCP-%20🇱🇻%20LV%20down
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@lv1.dedushka.top:443?allowInsecure=1#LV🇱🇻
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@lv1.dedushka.top:443?allowInsecure=1&sni=lv1.dedushka.top&alpn=http%2F1.1#LV🇱🇻
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@lv1.dedushka.top:443?alpn=http%2F1.1&fp=firefox#LV🇱🇻
-vless://40cba749-bca9-4089-9c02-84a357244ce0@104.252.19.114:8443?security=reality&encryption=none&pbk=cD8mVX41lqyVGCuPz0-tQWcNqkMxiPZxU7JJsyyNAEI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=omvpn.info#REALITY|LV🇱🇻
-vless://e4c3afb4-e14c-4c31-b03d-44755762bdfd@31.56.196.121:443?path=%2F&security=none&encryption=mlkem768x25519plus.native.0rtt.MfpyNpx0sfrCRTxl4y1jA1e3Hc44y9U9wGPcVCrHKzc&type=ws#LV🇱🇻
+vless://ee18d188-14cc-417e-beb1-70e4add6d023@216.173.71.43:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=lv.nztvpn.com&fp=chrome&pbk=miDhSALrcCvSfc38VjCDYlzNh5M61NMR5IkUli7IN08&sid=0da7e14db353e7d0&type=tcp&headerType=none&host=%2F%3Ftelegram--AZARANV2RAY--AZARANV2RAY--AZARANV2RAY--AZARANV2RAY#🆔surfboardv2ray%20🔒%20VL-TCP-%20🇱🇻%20LV%20down
