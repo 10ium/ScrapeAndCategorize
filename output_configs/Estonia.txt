@@ -1,6 +1,4 @@
 ss://4f35274e-006f-43e7-87be-c8cba4882b0c@132.243.65.82:443?encryption=none&fp=&mode=auto&path=%2F&pbk=UZKrOusu0M0i3gnqDanh2yXXkTibNEjj41Hsvah2XlI&security=reality&sni=player.vimeo.com&type=xhttp#REALITY|EE🇪🇪
-ss://87939c49-07d0-4bfb-8612-5a0380eddebe@justnotebook.top:443?security=reality&encryption=none&pbk=A6f20n-9CiJL1Rt0rM_uU-gsMqU7QLVybUT-8BecSGY&fp=firefox&type=grpc&sni=cdnjs.com&sid=e0df9885e8880774#REALITY|EE🇪🇪
-ss://9d785de7-9f8f-4779-8591-f98aab3edd6b@13.143.239.32:443?security=none&encryption=none&headerType=none&type=tcp#EE🇪🇪
+ss://b3a11068-1a7e-4643-85de-7c82cce46943@ee-2e06d85dc0.shamanapp.online:34451?mode=stream-up&path=%2FShamanXHTTP2026&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=ee-2e06d85dc0.shamanapp.online&type=xhttp&allowInsecure=0&sni=ee-2e06d85dc0.shamanapp.online#EE🇪🇪
 vless://4f35274e-006f-43e7-87be-c8cba4882b0c@132.243.65.82:443?encryption=none&fp=&mode=auto&path=%2F&pbk=UZKrOusu0M0i3gnqDanh2yXXkTibNEjj41Hsvah2XlI&security=reality&sni=player.vimeo.com&type=xhttp#REALITY|EE🇪🇪
-vless://87939c49-07d0-4bfb-8612-5a0380eddebe@justnotebook.top:443?security=reality&encryption=none&pbk=A6f20n-9CiJL1Rt0rM_uU-gsMqU7QLVybUT-8BecSGY&fp=firefox&type=grpc&sni=cdnjs.com&sid=e0df9885e8880774#REALITY|EE🇪🇪
-vless://9d785de7-9f8f-4779-8591-f98aab3edd6b@13.143.239.32:443?security=none&encryption=none&headerType=none&type=tcp#EE🇪🇪
+vless://b3a11068-1a7e-4643-85de-7c82cce46943@ee-2e06d85dc0.shamanapp.online:34451?mode=stream-up&path=%2FShamanXHTTP2026&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=ee-2e06d85dc0.shamanapp.online&type=xhttp&allowInsecure=0&sni=ee-2e06d85dc0.shamanapp.online#EE🇪🇪
