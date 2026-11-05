@@ -1,2 +1,0 @@
-ss://76ef5ab3-7075-4e23-b445-f3b1bd05d431@193.233.252.100:443?sni=swe.qik-fin.uk&type=grpc&serviceName=assets&fp=chrome&security=tls#AM🇦🇲
-vless://76ef5ab3-7075-4e23-b445-f3b1bd05d431@193.233.252.100:443?sni=swe.qik-fin.uk&type=grpc&serviceName=assets&fp=chrome&security=tls#AM🇦🇲

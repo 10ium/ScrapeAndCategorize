@@ -1,8 +1,4 @@
-ss://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.188.142:4443?encryption=none&mode=auto&path=%2Fapi%2Fv1%2Fsync%2F&security=tls&sni=bl1.nexfile.net&type=xhttp#🆔ar14n24b%20🔒%20VL-XHTTP-N/A%20🇧🇾%20BY%2099ms
-ss://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.188.143:4443?encryption=none&fp=firefox&mode=auto&path=%2Fapi%2Fv1%2Fsync%2F&security=tls&sni=bl1.nexfile.net&type=xhttp#🆔soskeynet%20🔒%20VL-XHTTP-N/A%20🇧🇾%20BY%2099ms
-ss://a35c508f-4d5d-4531-842e-6e9d43c762c0@bl1.nexfile.net:4443?encryption=none&mode=auto&path=%2Fapi%2Fv1%2Fsync%2F&security=tls&sni=bl1.nexfile.net&type=xhttp#🆔ar14n24b%20🔒%20VL-XHTTP-N/A%20🇧🇾%20BY%20155ms
+ss://1af36694-b548-4b18-89a0-bc076eab4ed7@178.172.227.124:10443?encryption=none&type=tcp&sni=178.172.227.124#BY🇧🇾
 ss://acbabca-acab-bcaa-abdc-bbccaabaccab@127.0.0.1:8080?security=tls&type=tcp#👨🏻‍💻%20DEVELOPED-BY%20@YEBEKHE
-vless://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.188.142:4443?encryption=none&mode=auto&path=%2Fapi%2Fv1%2Fsync%2F&security=tls&sni=bl1.nexfile.net&type=xhttp#🆔ar14n24b%20🔒%20VL-XHTTP-N/A%20🇧🇾%20BY%2099ms
-vless://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.188.143:4443?encryption=none&fp=firefox&mode=auto&path=%2Fapi%2Fv1%2Fsync%2F&security=tls&sni=bl1.nexfile.net&type=xhttp#🆔soskeynet%20🔒%20VL-XHTTP-N/A%20🇧🇾%20BY%2099ms
-vless://a35c508f-4d5d-4531-842e-6e9d43c762c0@bl1.nexfile.net:4443?encryption=none&mode=auto&path=%2Fapi%2Fv1%2Fsync%2F&security=tls&sni=bl1.nexfile.net&type=xhttp#🆔ar14n24b%20🔒%20VL-XHTTP-N/A%20🇧🇾%20BY%20155ms
+vless://1af36694-b548-4b18-89a0-bc076eab4ed7@178.172.227.124:10443?encryption=none&type=tcp&sni=178.172.227.124#BY🇧🇾
 vless://acbabca-acab-bcaa-abdc-bbccaabaccab@127.0.0.1:8080?security=tls&type=tcp#👨🏻‍💻%20DEVELOPED-BY%20@YEBEKHE
