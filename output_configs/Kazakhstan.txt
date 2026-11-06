@@ -1,0 +1,4 @@
+ss://392fcc7e-b995-11f1-a6b7-1b2272a86bd5@89.218.15.90:10002?path=%2Fvpnjantit&security=tls&encryption=none&insecure=0&host=kz1.vpnjantit.com&type=ws&allowInsecure=0&sni=kz1.vpnjantit.com#KZ🇰🇿
+ss://a8b8b21e-1f31-4e4d-a639-efb2de0d577e@45.136.59.28:43000?security=reality&encryption=none&pbk=osqok9aA_NR7WyAxZptD36-_U8BF_9gL8AH84MMzbFs&headerType=none&type=tcp&flow=xtls-rprx-vision&sid=ced96d59#REALITY|KZ🇰🇿
+vless://392fcc7e-b995-11f1-a6b7-1b2272a86bd5@89.218.15.90:10002?path=%2Fvpnjantit&security=tls&encryption=none&insecure=0&host=kz1.vpnjantit.com&type=ws&allowInsecure=0&sni=kz1.vpnjantit.com#KZ🇰🇿
+vless://a8b8b21e-1f31-4e4d-a639-efb2de0d577e@45.136.59.28:43000?security=reality&encryption=none&pbk=osqok9aA_NR7WyAxZptD36-_U8BF_9gL8AH84MMzbFs&headerType=none&type=tcp&flow=xtls-rprx-vision&sid=ced96d59#REALITY|KZ🇰🇿
