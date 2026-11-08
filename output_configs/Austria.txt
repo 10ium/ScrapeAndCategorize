@@ -1,9 +1,5 @@
-ss://69158986-cfae-4567-8391-0f96d9d985bd@av.neuroniko.com:8443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=av.neuroniko.com&fp=firefox&pbk=ud15DX-emDBS7QsLMabJ7CjgIteK61jxwSp1v0Fewxc&sid=10a59b0a94367ac2&type=tcp&headerType=none#REALITY|AT🇦🇹
+ss://5c040f1d45db43bd8d46e4950e433735@154.47.19.225:1270#AT%F0%9F%87%A6%F0%9F%87%B9+%7C+154.47.19.225-1270+%7C+163.52ms
 ss://69158986-cfae-4567-8391-0f96d9d985bd@av.neuroniko.com:8443?security=reality&encryption=none&pbk=ud15DX-emDBS7QsLMabJ7CjgIteK61jxwSp1v0Fewxc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=av.neuroniko.com&sid=10a59b0a94367ac2#REALITY|AT🇦🇹
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBZGF3ZmZGTUh5bWxhc1JiMFZPUDNIRmY3c1RHNXNKeA==@152.53.1.57:8388#AT%F0%9F%87%A6%F0%9F%87%B9+%7C+152.53.1.57-8388+%7C+118.63ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBZGF3ZmZGTUh5bWxhc1JiMFZPUDNIRmY3c1RHNXNKeA==@152.53.1.57:8388#AT%F0%9F%87%A6%F0%9F%87%B9+%7C+152.53.1.57-8388+%7C+118.68ms
-ss://ef328563-cda1-4530-9b0a-988cc5a74d78@188.137.158.159:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=softice.net&type=tcp#AT🇦🇹
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBZGF3ZmZGTUh5bWxhc1JiMFZPUDNIRmY3c1RHNXNKeA==@152.53.1.57:8388#AT%F0%9F%87%A6%F0%9F%87%B9+%7C+152.53.1.57-8388+%7C+161.26ms
 trojan://600421cf-11d7-429f-a65b-c30397f1bc03@86.106.119.23:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=gr.freeguard.org#AT🇦🇹
-vless://69158986-cfae-4567-8391-0f96d9d985bd@av.neuroniko.com:8443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=av.neuroniko.com&fp=firefox&pbk=ud15DX-emDBS7QsLMabJ7CjgIteK61jxwSp1v0Fewxc&sid=10a59b0a94367ac2&type=tcp&headerType=none#REALITY|AT🇦🇹
 vless://69158986-cfae-4567-8391-0f96d9d985bd@av.neuroniko.com:8443?security=reality&encryption=none&pbk=ud15DX-emDBS7QsLMabJ7CjgIteK61jxwSp1v0Fewxc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=av.neuroniko.com&sid=10a59b0a94367ac2#REALITY|AT🇦🇹
-vless://ef328563-cda1-4530-9b0a-988cc5a74d78@188.137.158.159:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=softice.net&type=tcp#AT🇦🇹
