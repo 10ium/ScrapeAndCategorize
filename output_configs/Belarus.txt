@@ -1,6 +1,4 @@
-ss://8cef7621-c6f0-486e-b51d-59c30c5b0b25@95.128.71.79:10444?encryption=none&security=reality&flow=xtls-rprx-vision&type=tcp&sni=ads.x5.ru&fp=firefox&pbk=0oTkcqwLTUNLnSOP-VUWErmy6usAIg-biBE6ioZO-Vo&sid=8debcf36f1cc69ff#REALITY|BY🇧🇾
+ss://1af36694-b548-4b18-89a0-bc076eab4ed7@178.172.227.124:10444?security=reality&encryption=none&pbk=0oTkcqwLTUNLnSOP-VUWErmy6usAIg-biBE6ioZO-Vo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=8debcf36f1cc69ff#🆔soskeynet%20🔒%20VL-TCP-%20🇧🇾%20BY%20143ms
 ss://acbabca-acab-bcaa-abdc-bbccaabaccab@127.0.0.1:8080?security=tls&type=tcp#👨🏻‍💻%20DEVELOPED-BY%20@YEBEKHE
-ss://b6e5dc56-836f-48c1-9163-b0b0b43b647d@178.172.227.228:10444?encryption=none&security=reality&flow=xtls-rprx-vision&type=tcp&sni=ads.x5.ru&fp=firefox&pbk=0oTkcqwLTUNLnSOP-VUWErmy6usAIg-biBE6ioZO-Vo&sid=8debcf36f1cc69ff#REALITY|BY🇧🇾
-vless://8cef7621-c6f0-486e-b51d-59c30c5b0b25@95.128.71.79:10444?encryption=none&security=reality&flow=xtls-rprx-vision&type=tcp&sni=ads.x5.ru&fp=firefox&pbk=0oTkcqwLTUNLnSOP-VUWErmy6usAIg-biBE6ioZO-Vo&sid=8debcf36f1cc69ff#REALITY|BY🇧🇾
+vless://1af36694-b548-4b18-89a0-bc076eab4ed7@178.172.227.124:10444?security=reality&encryption=none&pbk=0oTkcqwLTUNLnSOP-VUWErmy6usAIg-biBE6ioZO-Vo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=8debcf36f1cc69ff#🆔soskeynet%20🔒%20VL-TCP-%20🇧🇾%20BY%20143ms
 vless://acbabca-acab-bcaa-abdc-bbccaabaccab@127.0.0.1:8080?security=tls&type=tcp#👨🏻‍💻%20DEVELOPED-BY%20@YEBEKHE
-vless://b6e5dc56-836f-48c1-9163-b0b0b43b647d@178.172.227.228:10444?encryption=none&security=reality&flow=xtls-rprx-vision&type=tcp&sni=ads.x5.ru&fp=firefox&pbk=0oTkcqwLTUNLnSOP-VUWErmy6usAIg-biBE6ioZO-Vo&sid=8debcf36f1cc69ff#REALITY|BY🇧🇾
