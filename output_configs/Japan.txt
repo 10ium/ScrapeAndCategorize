@@ -1,10 +1,10 @@
+ss://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.18.42.98:443?path=%2Ftyxyws&security=tls&encryption=none&insecure=0&host=jp3.yohototo.top&fp=chrome&type=ws&allowInsecure=0&sni=jp3.yohototo.top#JP🇯🇵
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.204:443#%F0%9F%87%AF%F0%9F%87%B5JP-149.22.87.204-0124
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.240:443#%F0%9F%87%AF%F0%9F%87%B5JP-149.22.87.240-0129
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.241:443#%F0%9F%87%AF%F0%9F%87%B5JP-149.22.87.241-0123
 ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg==@84.247.155.196:443#%F0%9F%87%AF%F0%9F%87%B5JP-84.247.155.196-0181
-ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg==@84.247.155.196:443#JP%F0%9F%87%AF%F0%9F%87%B5+%7C+84.247.155.196-443+%7C+152.33ms
+ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg==@84.247.155.196:443#JP%F0%9F%87%AF%F0%9F%87%B5+%7C+84.247.155.196-443+%7C+324.12ms
 ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg==@84.247.155.196:80#%F0%9F%87%AF%F0%9F%87%B5JP-84.247.155.196-0192
-ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg==@84.247.155.196:80#JP%F0%9F%87%AF%F0%9F%87%B5+%7C+84.247.155.196-80+%7C+162.69ms
 trojan://UX82473651@allowed-poodle.rooster465.autos:443?security=tls&sni=allowed-poodle.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-13.114.99.222-0165
 trojan://UX82473651@amazed-mako.rooster465.autos:443?security=tls&sni=amazed-mako.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-18.183.167.216-0182
 trojan://UX82473651@assuring-skink.rooster465.autos:443?security=tls&sni=assuring-skink.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-176.34.5.100-0157
@@ -20,6 +20,7 @@ trojan://UX82473651@prime-corgi.rooster465.autos:443?security=tls&sni=prime-corg
 trojan://UX82473651@stable-python.rooster465.autos:443?security=tls&sni=stable-python.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-13.193.213.184-0154
 trojan://UX82473651@warm-krill.rooster465.autos:443?security=tls&sni=warm-krill.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-43.206.225.188-0127
 trojan://UX82473651@winning-marten.rooster465.autos:443?security=tls&sni=winning-marten.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-54.65.177.190-0172
+vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.18.42.98:443?path=%2Ftyxyws&security=tls&encryption=none&insecure=0&host=jp3.yohototo.top&fp=chrome&type=ws&allowInsecure=0&sni=jp3.yohototo.top#JP🇯🇵
 vmess://ewogICAgImFkZCI6ICIxNzIuMTA1LjIzOC4xNjQiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICJqcy5hZGJzZS54eXoiLAogICAgImlkIjogIjM3MDYxNjFmLTNlZTMtNDhlNS1iZmNmLTBkODU2Y2M2ZjBhYiIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi9kb3duIiwKICAgICJwb3J0IjogNDQzLAogICAgInBzIjogIvCfh6/wn4e1SlAtMTcyLjEwNS4yMzguMTY0LTAwNjAiLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
 vmess://ewogICAgImFkZCI6ICIxNzIuMTA1LjIzOS4yNDEiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICJqcy5hZGJzZS54eXoiLAogICAgImlkIjogIjM3MDYxNjFmLTNlZTMtNDhlNS1iZmNmLTBkODU2Y2M2ZjBhYiIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi9kb3duIiwKICAgICJwb3J0IjogNDQzLAogICAgInBzIjogIvCfh6/wn4e1SlAtMTcyLjEwNS4yMzkuMjQxLTAwNTkiLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
 vmess://ewogICAgImFkZCI6ICIxNzIuMTExLjE0Ni42NCIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiMDViOGM3ODMtN2Y1OS00N2Y5LTk5MjMtMDZhNDY1Njc5ZjZhIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiLyIsCiAgICAicG9ydCI6IDgwLAogICAgInBzIjogIvCfh6/wn4e1SlAtMTcyLjExMS4xNDYuNjQtMDE1MSIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9

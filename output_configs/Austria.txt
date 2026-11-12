@@ -1,11 +1,7 @@
-ss://5c040f1d45db43bd8d46e4950e433735@154.47.19.225:1270#AT%F0%9F%87%A6%F0%9F%87%B9+%7C+154.47.19.225-1270+%7C+127.43ms
 ss://84a794a5-2420-4ca7-8e08-8d21571f36f3@152.53.64.139:8443?mode=gun&security=reality&encryption=none&pbk=Zvq-k6PMXjmd6YlWcu3T1J63m0IxZcOaedRwSG9O0lI&fp=firefox&type=grpc&sni=avstri.plus-hit.ru&sid=92558baf673ab721#REALITY|AT🇦🇹
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBZGF3ZmZGTUh5bWxhc1JiMFZPUDNIRmY3c1RHNXNKeA3D3A==@152.53.1.57:8388#AT%F0%9F%87%A6%F0%9F%87%B9+%7C+152.53.1.57-8388+%7C+138.15ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBZGF3ZmZGTUh5bWxhc1JiMFZPUDNIRmY3c1RHNXNKeA3D3A==@152.53.1.57:8388#AT%F0%9F%87%A6%F0%9F%87%B9+%7C+152.53.1.57-8388+%7C+165.61ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBZGF3ZmZGTUh5bWxhc1JiMFZPUDNIRmY3c1RHNXNKeA==@152.53.1.57:8388#AT%F0%9F%87%A6%F0%9F%87%B9+%7C+152.53.1.57-8388+%7C+160.57ms
 ss://db80088c-32a1-4cb8-a907-0f3cb7844152@178.22.31.72:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=at1.japancase.site&fp=firefox&pbk=zEntiD6D81wY__YHPvIw78e09CBIgYkyQ5meIo7c_hg&sid=41ae8e266bc3346f&type=tcp&headerType=none#REALITY|AT🇦🇹
-ss://db80088c-32a1-4cb8-a907-0f3cb7844152@at1.japancase.site:443?security=reality&sni=at1.japancase.site&type=tcp&flow=xtls-rprx-vision&fp=edge&pbk=zEntiD6D81wY__YHPvIw78e09CBIgYkyQ5meIo7c_hg&sid=41ae8e266bc3346f#REALITY|AT🇦🇹
-ss://eb733326-d5b1-4e96-a0b5-ba0d61b2f60a@147.45.71.230:8443?pbk=s7pfm2CSaAD1_KTtfMjSzky3MUvHNFLodKwloZ1cEQY&fp=chrome&sni=cdn.coldcrate.pro&sid=ba68eb2bb350c7a2&flow=xtls-rprx-vision&headerType=none&encryption=none&security=reality&type=tcp#🆔ar14n24b%20🔒%20VL-TCP-%20🇦🇹%20AT%20160ms
 trojan://600421cf-11d7-429f-a65b-c30397f1bc03@86.106.119.23:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=gr.freeguard.org#AT🇦🇹
 vless://84a794a5-2420-4ca7-8e08-8d21571f36f3@152.53.64.139:8443?mode=gun&security=reality&encryption=none&pbk=Zvq-k6PMXjmd6YlWcu3T1J63m0IxZcOaedRwSG9O0lI&fp=firefox&type=grpc&sni=avstri.plus-hit.ru&sid=92558baf673ab721#REALITY|AT🇦🇹
 vless://db80088c-32a1-4cb8-a907-0f3cb7844152@178.22.31.72:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=at1.japancase.site&fp=firefox&pbk=zEntiD6D81wY__YHPvIw78e09CBIgYkyQ5meIo7c_hg&sid=41ae8e266bc3346f&type=tcp&headerType=none#REALITY|AT🇦🇹
-vless://db80088c-32a1-4cb8-a907-0f3cb7844152@at1.japancase.site:443?security=reality&sni=at1.japancase.site&type=tcp&flow=xtls-rprx-vision&fp=edge&pbk=zEntiD6D81wY__YHPvIw78e09CBIgYkyQ5meIo7c_hg&sid=41ae8e266bc3346f#REALITY|AT🇦🇹
-vless://eb733326-d5b1-4e96-a0b5-ba0d61b2f60a@147.45.71.230:8443?pbk=s7pfm2CSaAD1_KTtfMjSzky3MUvHNFLodKwloZ1cEQY&fp=chrome&sni=cdn.coldcrate.pro&sid=ba68eb2bb350c7a2&flow=xtls-rprx-vision&headerType=none&encryption=none&security=reality&type=tcp#🆔ar14n24b%20🔒%20VL-TCP-%20🇦🇹%20AT%20160ms
