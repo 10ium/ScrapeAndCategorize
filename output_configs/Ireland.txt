@@ -1,13 +1,7 @@
-ss://2387bfbc10a64bd7dc557cba954ce6e8Og==@54.229.151.97:59236#IE%F0%9F%87%AE%F0%9F%87%AA+%7C+54.229.151.97-59236+%7C+75.44ms
-ss://2387bfbc10a64bd7dc557cba954ce6e8Og==@54.229.151.97:59236#IE%F0%9F%87%AE%F0%9F%87%AA+%7C+54.229.151.97-59236+%7C+76.02ms
-ss://68a67906-5b37-4779-a6cc-58a1655f18b4@api-austria.locallynet.org:6443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=api-austria.locallynet.org&fp=firefox&alpn=h2%2Chttp%2F1.1&type=tcp&headerType=none#IE🇮🇪
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6bkV0amdITFhINEZCTGlj@74.234.59.81:443#IE%F0%9F%87%AE%F0%9F%87%AA+%7C+74.234.59.81-443+%7C+76.88ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6emlYSERPRlhjNHFSam9q@20.107.184.151:443#IE%F0%9F%87%AE%F0%9F%87%AA+%7C+20.107.184.151-443+%7C+228.99ms
-ss://YWVzLTEyOC1nY206ODgxY2YzOWFmZmM1Mjg2Nzk5YTU4NWYxYWNkMjRkMTE=@146.70.90.198:17456#IE%F0%9F%87%AE%F0%9F%87%AA+%7C+146.70.90.198-17456+%7C+71.54ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6bkV0amdITFhINEZCTGlj@74.234.59.81:443#IE%F0%9F%87%AE%F0%9F%87%AA+%7C+74.234.59.81-443+%7C+140.72ms
 ss://ccf4a1ea-6661-4aa5-8652-ab0f0bd44277@smtp.mail-appstatus.net:23356?encryption=none&fp=&pbk=KtHJA0ZiW3VEPTjGQOlT3NlXZWlqAPHKHqki_IGX3Wk&security=reality&serviceName=api&sid=483d116ad48a4091&sni=apple.com&type=grpc#REALITY|IE🇮🇪
-ss://chacha20ietfpoly1305Og==@20.107.184.151:443#IE%F0%9F%87%AE%F0%9F%87%AA+%7C+20.107.184.151-443+%7C+234.86ms
 trojan://UX82473651@3.253.106.233:443?security=tls&sni=loved-shark.rooster465.autos#%F0%9F%87%AE%F0%9F%87%AAIE-3.253.106.233-0196
 trojan://UX82473651@adapting-basilisk.rooster465.autos:443?security=tls&sni=adapting-basilisk.rooster465.autos#%F0%9F%87%AE%F0%9F%87%AAIE-54.72.130.222-0183
 trojan://UX82473651@loved-shark.rooster465.autos:443?security=tls&sni=loved-shark.rooster465.autos#%F0%9F%87%AE%F0%9F%87%AAIE-3.253.106.233-0191
-vless://68a67906-5b37-4779-a6cc-58a1655f18b4@api-austria.locallynet.org:6443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=api-austria.locallynet.org&fp=firefox&alpn=h2%2Chttp%2F1.1&type=tcp&headerType=none#IE🇮🇪
 vless://ccf4a1ea-6661-4aa5-8652-ab0f0bd44277@smtp.mail-appstatus.net:23356?encryption=none&fp=&pbk=KtHJA0ZiW3VEPTjGQOlT3NlXZWlqAPHKHqki_IGX3Wk&security=reality&serviceName=api&sid=483d116ad48a4091&sni=apple.com&type=grpc#REALITY|IE🇮🇪
+vmess://eyJhZGQiOiI1NC4yMjkuMTUxLjk3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImlkIjoiMjM4N2JmYmMtMTBhNi00YmQ3LWRjNTUtN2NiYTk1NGNlNmU4IiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IlwvIiwicGNzIjoiIiwicG9ydCI6IjU5MjM2IiwicHMiOiJJRVx1ZDgzY1x1ZGRlZVx1ZDgzY1x1ZGRlYSB8IDU0LjIyOS4xNTEuOTctNTkyMzYgfCAxMTguNDdtcyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIiwidmNuIjoiIn0=
