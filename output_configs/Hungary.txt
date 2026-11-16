@@ -1,1 +1,0 @@
-trojan://humanity@185.225.68.232:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🆔soskeynet%20🔒%20TR-WS-N/A%20🇭🇺%20HU%20127ms
