@@ -1,3 +1,1 @@
-ss://30e52776-55ac-3cb4-8d36-e2910f07e2c3@www.codex2api.com:443?sni=917ebe12s226.kuback.top&alpn=h2%2Chttp%2F1.1&fp=chrome&security=tls#VN🇻🇳
-vless://30e52776-55ac-3cb4-8d36-e2910f07e2c3@www.codex2api.com:443?sni=917ebe12s226.kuback.top&alpn=h2%2Chttp%2F1.1&fp=chrome&security=tls#VN🇻🇳
 vmess://ewogICAgImFkZCI6ICIxMDMuMTg2LjE0OS4xMzIiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICIxMDMuMTg2LjE0OS4xMzIiLAogICAgImlkIjogIjY3NDY4ZDg5LWNmODctNDQzYy1iYWNhLTQ5ZjFlNzNiNTk5MSIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi9zaG9wdnBuLm5ldCIsCiAgICAicG9ydCI6IDgwLAogICAgInBzIjogIvCfh7vwn4ezVk4tMTAzLjE4Ni4xNDkuMTMyLTAwNTMiLAogICAgInRscyI6ICIiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
