@@ -1,2 +1,4 @@
 ss://d73e3cdc-a80b-4e73-a11b-cc467d7a84f8@45.88.176.223:443?encryption=none&fp=firefox&mode=auto&path=%2Fmedia%2Fe1c76c&security=tls&sni=m.yourvibe.my&type=xhttp#CY🇨🇾
+ss://db80088c-32a1-4cb8-a907-0f3cb7844152@45.86.60.190:443?security=reality&encryption=none&pbk=zEntiD6D81wY__YHPvIw78e09CBIgYkyQ5meIo7c_hg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=ee2.japancase.site&sid=41ae8e266bc3346f#REALITY|CY🇨🇾
 vless://d73e3cdc-a80b-4e73-a11b-cc467d7a84f8@45.88.176.223:443?encryption=none&fp=firefox&mode=auto&path=%2Fmedia%2Fe1c76c&security=tls&sni=m.yourvibe.my&type=xhttp#CY🇨🇾
+vless://db80088c-32a1-4cb8-a907-0f3cb7844152@45.86.60.190:443?security=reality&encryption=none&pbk=zEntiD6D81wY__YHPvIw78e09CBIgYkyQ5meIo7c_hg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=ee2.japancase.site&sid=41ae8e266bc3346f#REALITY|CY🇨🇾

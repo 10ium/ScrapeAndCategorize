@@ -1,0 +1,2 @@
+ss://8197b9b9-8945-460f-99c9-325ef8a8a7c3@45.150.108.180:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=Jw--SSPecJpt9-lke7H9Bdr8F73xxtvC_5ZrxiWRog0&security=reality&sid=dc1bf50b0e0a&sni=il1.gofizzin.com&type=tcp#REALITY|IL🇮🇱
+vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@45.150.108.180:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=Jw--SSPecJpt9-lke7H9Bdr8F73xxtvC_5ZrxiWRog0&security=reality&sid=dc1bf50b0e0a&sni=il1.gofizzin.com&type=tcp#REALITY|IL🇮🇱
