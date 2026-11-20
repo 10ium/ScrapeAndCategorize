@@ -1,4 +1,2 @@
 ss://128ce9ab-63bc-48dc-92ca-1b5426a9eb46@88.218.92.185:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=0L0a22tcISNd3pY2Le6DS9vrW1ughjmzhjj5ec8iBHo&security=reality&sid=a51a6973d7d358d6&sni=sadas.jugoslavija.uk&type=tcp#REALITY|AM🇦🇲
-ss://128ce9ab-63bc-48dc-92ca-1b5426a9eb46@88.218.92.185:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=sadas.jugoslavija.uk&pbk=0L0a22tcISNd3pY2Le6DS9vrW1ughjmzhjj5ec8iBHo&sid=a51a6973d7d358d6&type=tcp&headerType=none#REALITY|AM🇦🇲
 vless://128ce9ab-63bc-48dc-92ca-1b5426a9eb46@88.218.92.185:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=0L0a22tcISNd3pY2Le6DS9vrW1ughjmzhjj5ec8iBHo&security=reality&sid=a51a6973d7d358d6&sni=sadas.jugoslavija.uk&type=tcp#REALITY|AM🇦🇲
-vless://128ce9ab-63bc-48dc-92ca-1b5426a9eb46@88.218.92.185:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=sadas.jugoslavija.uk&pbk=0L0a22tcISNd3pY2Le6DS9vrW1ughjmzhjj5ec8iBHo&sid=a51a6973d7d358d6&type=tcp&headerType=none#REALITY|AM🇦🇲

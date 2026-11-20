@@ -1,3 +1,2 @@
 trojan://X00HagvwL8gQXNDAnsxsN8dv1_VdneEo@38.180.101.235:5443?alpn=h2%2Chttp%2F1.1&fp=firefox&sni=rs.nebulaguard.org#RS🇷🇸
 trojan://X00HagvwL8gQXNDAnsxsN8dv1_VdneEo@38.180.101.235:5443?security=tls&sni=rs.nebulaguard.org&alpn=h2%2Chttp%2F1.1&fp=firefox#RS🇷🇸
-trojan://X00HagvwL8gQXNDAnsxsN8dv1_VdneEo@38.180.101.235:5443?security=tls&sni=rs.nebulaguard.org&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=1&allowInsecure=1&type=tcp&headerType=none#RS🇷🇸

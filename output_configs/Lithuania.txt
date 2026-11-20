@@ -1,4 +1,2 @@
-ss://YWVzLTI1Ni1jZmI6VWtYUnNYdlI2YnVETUcyWQ==@195.238.126.20:9001#LT%F0%9F%87%B1%F0%9F%87%B9+%7C+195.238.126.20-9001+%7C+180.59ms
-ss://YWVzLTI1Ni1jZmI6bXdnUmc5aFJxM2I0UW53Yg==@195.238.126.20:9068#LT%F0%9F%87%B1%F0%9F%87%B9+%7C+195.238.126.20-9068+%7C+180.46ms
 ss://a30903dc-1bf0-4be5-8b1b-603a3a56211c@84.32.83.197:443?encryption=none&fp=&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&security=reality&sid=a7d309e4c16b825f&sni=api-dns-gw.galioncc.com&type=tcp#REALITY|LT🇱🇹
 vless://a30903dc-1bf0-4be5-8b1b-603a3a56211c@84.32.83.197:443?encryption=none&fp=&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&security=reality&sid=a7d309e4c16b825f&sni=api-dns-gw.galioncc.com&type=tcp#REALITY|LT🇱🇹
