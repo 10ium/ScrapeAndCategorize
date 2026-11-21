@@ -1,2 +1,2 @@
-ss://df97ce68-477f-4484-94c7-79eccab7319d@48.103.205.57:443?security=reality&encryption=none&pbk=tXhsg663V1Ia_YWMtQMWQRaZouyONXknQ16OLMAdFXs&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=alb1.angelsleep9.com&sid=28ffd89d510a739b#REALITY|AL🇦🇱
-vless://df97ce68-477f-4484-94c7-79eccab7319d@48.103.205.57:443?security=reality&encryption=none&pbk=tXhsg663V1Ia_YWMtQMWQRaZouyONXknQ16OLMAdFXs&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=alb1.angelsleep9.com&sid=28ffd89d510a739b#REALITY|AL🇦🇱
+ss://64526f52-9f3e-4ae8-b090-2a794f8cc4e0@85.155.228.30:8080?type=ws&security=none&path=%2Freal&encryption=none#AL🇦🇱
+vless://64526f52-9f3e-4ae8-b090-2a794f8cc4e0@85.155.228.30:8080?type=ws&security=none&path=%2Freal&encryption=none#AL🇦🇱

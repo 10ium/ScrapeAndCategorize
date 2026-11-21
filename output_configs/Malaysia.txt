@@ -1,0 +1,2 @@
+ss://8197b9b9-8945-460f-99c9-325ef8a8a7c3@45.249.91.115:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=my1.gofizz.in&fp=firefox&pbk=xE5R41I9u0Ro2Ru4TUDVqA0a1GRyS5K6zh1DJcJLEUw&sid=4af284210d&type=tcp&headerType=none#REALITY|MY🇲🇾
+vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@45.249.91.115:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=my1.gofizz.in&fp=firefox&pbk=xE5R41I9u0Ro2Ru4TUDVqA0a1GRyS5K6zh1DJcJLEUw&sid=4af284210d&type=tcp&headerType=none#REALITY|MY🇲🇾
