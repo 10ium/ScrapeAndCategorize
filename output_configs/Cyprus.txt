@@ -1,8 +1,6 @@
-ss://8197b9b9-8945-460f-99c9-325ef8a8a7c3@194.55.167.133:443?security=reality&encryption=none&pbk=XSh3jB8zXtqpI38glgwN2Bn5imxN8Rkyc39LeBSD8BQ&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=cy1.gofizz.in&sid=24f1fa53275b#REALITY|CY🇨🇾
-ss://d73e3cdc-a80b-4e73-a11b-cc467d7a84f8@45.88.176.223:443?encryption=none&fp=firefox&mode=auto&path=%2Fmedia%2Fe1c76c&security=tls&sni=m.yourvibe.my&type=xhttp#CY🇨🇾
 ss://d73e3cdc-a80b-4e73-a11b-cc467d7a84f8@45.88.176.223:443?mode=auto&path=%2Fmedia%2Fe1c76c&security=tls&encryption=none&insecure=0&fp=firefox&type=xhttp&allowInsecure=0&sni=m.yourvibe.my#CY🇨🇾
 ss://db80088c-32a1-4cb8-a907-0f3cb7844152@45.86.60.190:443?security=reality&encryption=none&pbk=zEntiD6D81wY__YHPvIw78e09CBIgYkyQ5meIo7c_hg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=ee2.japancase.site&sid=41ae8e266bc3346f#REALITY|CY🇨🇾
-vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@194.55.167.133:443?security=reality&encryption=none&pbk=XSh3jB8zXtqpI38glgwN2Bn5imxN8Rkyc39LeBSD8BQ&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=cy1.gofizz.in&sid=24f1fa53275b#REALITY|CY🇨🇾
-vless://d73e3cdc-a80b-4e73-a11b-cc467d7a84f8@45.88.176.223:443?encryption=none&fp=firefox&mode=auto&path=%2Fmedia%2Fe1c76c&security=tls&sni=m.yourvibe.my&type=xhttp#CY🇨🇾
+ss://f8d52ece-fad4-478d-875d-df6eed3befa7@r1.pythonmakemigreat.wiki:8443?encryption=none&security=reality&type=xhttp&sni=assets.study.golangwikito.cfd&fp=firefox&pbk=QrNs0ew7snHqLfpVXS9RAhlRzgAzzGZK9fXmDcx9xHI#REALITY|CY🇨🇾
 vless://d73e3cdc-a80b-4e73-a11b-cc467d7a84f8@45.88.176.223:443?mode=auto&path=%2Fmedia%2Fe1c76c&security=tls&encryption=none&insecure=0&fp=firefox&type=xhttp&allowInsecure=0&sni=m.yourvibe.my#CY🇨🇾
 vless://db80088c-32a1-4cb8-a907-0f3cb7844152@45.86.60.190:443?security=reality&encryption=none&pbk=zEntiD6D81wY__YHPvIw78e09CBIgYkyQ5meIo7c_hg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=ee2.japancase.site&sid=41ae8e266bc3346f#REALITY|CY🇨🇾
+vless://f8d52ece-fad4-478d-875d-df6eed3befa7@r1.pythonmakemigreat.wiki:8443?encryption=none&security=reality&type=xhttp&sni=assets.study.golangwikito.cfd&fp=firefox&pbk=QrNs0ew7snHqLfpVXS9RAhlRzgAzzGZK9fXmDcx9xHI#REALITY|CY🇨🇾

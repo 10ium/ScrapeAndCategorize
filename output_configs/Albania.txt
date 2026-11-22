@@ -1,2 +1,0 @@
-ss://64526f52-9f3e-4ae8-b090-2a794f8cc4e0@85.155.228.30:8080?type=ws&security=none&path=%2Freal&encryption=none#AL🇦🇱
-vless://64526f52-9f3e-4ae8-b090-2a794f8cc4e0@85.155.228.30:8080?type=ws&security=none&path=%2Freal&encryption=none#AL🇦🇱

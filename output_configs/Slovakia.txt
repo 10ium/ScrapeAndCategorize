@@ -1,4 +1,2 @@
 ss://474638a5-dc58-4453-9e40-70bcaa4ef74c@196.245.153.112:443?encryption=none&fp=&pbk=RjoTK5x2_y3hb4nsOUnjii7IAu6gy5GrC-VN-H_AIh0&security=reality&sid=c10f4100fa3a8d47&sni=b998f03d.de-p2.h1clayd.click&type=tcp#REALITY|SK🇸🇰
-ss://cda0862a-0f87-4be9-8ed8-1d0c9e382839@196.245.153.156:443?security=reality&encryption=none&pbk=kkCGiCQCKnkozJR1KKCRNtmdBECmThCgI9VSv7iDcWI&headerType=none&fp=firefox&type=tcp&sni=f0d7aft.nl17.h1clayd.click&sid=8956c57cb4c4f8d2#REALITY|SK🇸🇰
 vless://474638a5-dc58-4453-9e40-70bcaa4ef74c@196.245.153.112:443?encryption=none&fp=&pbk=RjoTK5x2_y3hb4nsOUnjii7IAu6gy5GrC-VN-H_AIh0&security=reality&sid=c10f4100fa3a8d47&sni=b998f03d.de-p2.h1clayd.click&type=tcp#REALITY|SK🇸🇰
-vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@196.245.153.156:443?security=reality&encryption=none&pbk=kkCGiCQCKnkozJR1KKCRNtmdBECmThCgI9VSv7iDcWI&headerType=none&fp=firefox&type=tcp&sni=f0d7aft.nl17.h1clayd.click&sid=8956c57cb4c4f8d2#REALITY|SK🇸🇰
