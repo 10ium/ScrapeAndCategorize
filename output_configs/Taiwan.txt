@@ -1,1 +1,0 @@
-trojan://123456@34.80.15.95:443?type=tcp&security=tls&fp=chrome&sni=tw.ctt25.uk#TW🇹🇼
