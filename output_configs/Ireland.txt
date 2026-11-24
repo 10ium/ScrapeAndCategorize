@@ -1,5 +1,5 @@
-ss://2387bfbc10a64bd7dc557cba954ce6e8Og==@54.229.151.97:59236#IE%F0%9F%87%AE%F0%9F%87%AA+%7C+54.229.151.97-59236+%7C+116.31ms
-ss://2387bfbc10a64bd7dc557cba954ce6e8Og==@54.229.151.97:59236#IE%F0%9F%87%AE%F0%9F%87%AA+%7C+54.229.151.97-59236+%7C+117.5ms
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@3.248.201.197:443#IE%F0%9F%87%AE%F0%9F%87%AA+%7C+3.248.201.197-443+%7C+71.48ms
 trojan://UX82473651@3.253.106.233:443?security=tls&sni=loved-shark.rooster465.autos#%F0%9F%87%AE%F0%9F%87%AAIE-3.253.106.233-0196
 trojan://UX82473651@adapting-basilisk.rooster465.autos:443?security=tls&sni=adapting-basilisk.rooster465.autos#%F0%9F%87%AE%F0%9F%87%AAIE-54.72.130.222-0183
 trojan://UX82473651@loved-shark.rooster465.autos:443?security=tls&sni=loved-shark.rooster465.autos#%F0%9F%87%AE%F0%9F%87%AAIE-3.253.106.233-0191
+vmess://eyJhZGQiOiI1NC4yMjkuMTUxLjk3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJpZCI6IjIzODdiZmJjLTEwYTYtNGJkNy1kYzU1LTdjYmE5NTRjZTZlOCIsIm5ldCI6InRjcCIsInBhdGgiOiJcLyIsInBvcnQiOiI1OTIzNiIsInBzIjoiSUVcdWQ4M2NcdWRkZWVcdWQ4M2NcdWRkZWEgfCA1NC4yMjkuMTUxLjk3LTU5MjM2IHwgNjkuNm1zIiwic2N5IjoiYXV0byIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==
