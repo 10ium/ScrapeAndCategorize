@@ -1,4 +1,2 @@
 ss://740b2630-b42d-425c-bacd-37e7e30d78f1@92.223.84.254:443?encryption=none&fp=firefox&host=subgift.gcorecdn.com&path=%2Ft.me-SubGift&security=tls&sni=subgift.gcorecdn.com&type=ws#LU🇱🇺
-ss://740b2630-b42d-425c-bacd-37e7e30d78f1@subgift.gcorecdn.com:443?path=%2Ft.me-SubGift&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=subgift.gcorecdn.com#LU🇱🇺
 vless://740b2630-b42d-425c-bacd-37e7e30d78f1@92.223.84.254:443?encryption=none&fp=firefox&host=subgift.gcorecdn.com&path=%2Ft.me-SubGift&security=tls&sni=subgift.gcorecdn.com&type=ws#LU🇱🇺
-vless://740b2630-b42d-425c-bacd-37e7e30d78f1@subgift.gcorecdn.com:443?path=%2Ft.me-SubGift&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=subgift.gcorecdn.com#LU🇱🇺
