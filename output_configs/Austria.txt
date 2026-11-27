@@ -1,2 +1,7 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBZGF3ZmZGTUh5bWxhc1JiMFZPUDNIRmY3c1RHNXNKeA3D3A==@152.53.1.57:8388#AT%F0%9F%87%A6%F0%9F%87%B9+%7C+152.53.1.57-8388+%7C+113.42ms
+ss://84a794a5-2420-4ca7-8e08-8d21571f36f3@152.53.64.139:8443?mode=gun&security=reality&encryption=none&pbk=Zvq-k6PMXjmd6YlWcu3T1J63m0IxZcOaedRwSG9O0lI&fp=firefox&type=grpc&sni=avstri.plus-hit.ru&sid=92558baf673ab721#REALITY|AT🇦🇹
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBZGF3ZmZGTUh5bWxhc1JiMFZPUDNIRmY3c1RHNXNKeA3D3A==@152.53.1.57:8388#AT%F0%9F%87%A6%F0%9F%87%B9+%7C+152.53.1.57-8388+%7C+169.69ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBZGF3ZmZGTUh5bWxhc1JiMFZPUDNIRmY3c1RHNXNKeA==@152.53.1.57:8388#AT%F0%9F%87%A6%F0%9F%87%B9+%7C+152.53.1.57-8388+%7C+164.01ms
+ss://beda6bd0-7ce4-477a-91f1-860d018dbfcb@timete.hagrid-connected.com:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=tjGdnzd-VNTx6Rx2CX6XGwvU0OwV5_54uBlq1ltXmR0&security=reality&sid=56de336ad85ea43e&sni=tekulo.hagrid-connected.com&type=tcp#REALITY|AT🇦🇹
 trojan://600421cf-11d7-429f-a65b-c30397f1bc03@86.106.119.23:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=gr.freeguard.org#AT🇦🇹
+vless://84a794a5-2420-4ca7-8e08-8d21571f36f3@152.53.64.139:8443?mode=gun&security=reality&encryption=none&pbk=Zvq-k6PMXjmd6YlWcu3T1J63m0IxZcOaedRwSG9O0lI&fp=firefox&type=grpc&sni=avstri.plus-hit.ru&sid=92558baf673ab721#REALITY|AT🇦🇹
+vless://beda6bd0-7ce4-477a-91f1-860d018dbfcb@timete.hagrid-connected.com:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=tjGdnzd-VNTx6Rx2CX6XGwvU0OwV5_54uBlq1ltXmR0&security=reality&sid=56de336ad85ea43e&sni=tekulo.hagrid-connected.com&type=tcp#REALITY|AT🇦🇹
