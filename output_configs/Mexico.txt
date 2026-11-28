@@ -1,1 +1,2 @@
-ss://YWVzLTEyOC1nY206ZTczOGVlNDE3YTgzM2IwMDA5MjBiYjg2OWNiZGU0MDA3@147.78.1.35:16671#MX%F0%9F%87%B2%F0%9F%87%BD+%7C+147.78.1.35-16671+%7C+70.73ms
+ss://YWVzLTEyOC1nY206ZTczOGVlNDE3YTgzM2IwMDA5MjBiYjg2OWNiZGU0MDA3@147.78.1.35:16671#MX%F0%9F%87%B2%F0%9F%87%BD+%7C+147.78.1.35-16671+%7C+62.05ms
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.238.80.100:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=connectwithtopemployersandfindidealjobs.com#MX🇲🇽
